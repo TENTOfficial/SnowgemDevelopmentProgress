@@ -1404,5 +1404,38 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/c0de4d99c0f0fabddc6cb9dda43099e5c44f3067"
     }
+  },
+  {
+    "author": "BitBucket",
+    "content": "",
+    "created_at": "2020-02-16 19:10:56.686000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5b3f20c931067f2ec7f4c6da/7b3347b6-be2e-4d69-9705-c8fd16dfa206/128",
+        "name": "Txid",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/4-RYDeg8rpu0sudPx_e4qZhyzL-S27gHD5WLqku1iAA/https/avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5b3f20c931067f2ec7f4c6da/7b3347b6-be2e-4d69-9705-c8fd16dfa206/128"
+      },
+      "color": 2473734,
+      "fields": [
+        {
+          "inline": false,
+          "name": "Commit from Command line",
+          "value": "[`86735fb`](https://bitbucket.org/snowgem/coinguard/commits/86735fb828b8d0f3456b7cce9f4d5d7ef8c111a6) support zcash, update child pages"
+        },
+        {
+          "inline": false,
+          "name": "Commit from Command line",
+          "value": "[`2df7276`](https://bitbucket.org/snowgem/coinguard/commits/2df7276b1631260d77ca0b59d7cd0e23eea07359) change back button to dark in change pass 2nd page"
+        },
+        {
+          "inline": false,
+          "name": "Commit from Command line",
+          "value": "[`6cd15f3`](https://bitbucket.org/snowgem/coinguard/commits/6cd15f3806e2c62f6ed4361af133bb91a2932aa0) update change recover password"
+        }
+      ],
+      "title": "[CoinGuard:master] 3 commits",
+      "type": "rich",
+      "url": "https://bitbucket.org/snowgem/coinguard"
+    }
   }
 ]
