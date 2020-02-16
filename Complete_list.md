@@ -5,6 +5,9 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-02-16 21:55:25</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/85dccf759f75353722258a47b26effe052dfcd0e)</sub> | <sub>[85dccf7](https://github.com/ciripel/Heimdall/commit/85dccf759f75353722258a47b26effe052dfcd0e) fixed path - ciripel</sub> |
+| <sub>2020-02-16 21:52:26</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/069e954a1d2ccac2eaa31b6a02f75ce5eba52d61)</sub> | <sub>[069e954](https://github.com/ciripel/Heimdall/commit/069e954a1d2ccac2eaa31b6a02f75ce5eba52d61) using absolute path - ciripel</sub> |
+| <sub>2020-02-16 21:45:29</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/f191f537ba8e880f3756a109557db53a19c00c64)</sub> | <sub>[f191f53](https://github.com/ciripel/Heimdall/commit/f191f537ba8e880f3756a109557db53a19c00c64) removed instant commit - now running a conjob - ciripel</sub> |
 | <sub>2020-02-16 20:59:55</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/7b5f06d18244e14d7f15af5082ca5898cc58c94e)</sub> | <sub>[7b5f06d](https://github.com/ciripel/Heimdall/commit/7b5f06d18244e14d7f15af5082ca5898cc58c94e) test - ciripel</sub> |
 | <sub>2020-02-16 20:57:27</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/8b8b8486694c82e1ff8c650314a4fd218edd9380)</sub> | <sub>[8b8b848](https://github.com/ciripel/Heimdall/commit/8b8b8486694c82e1ff8c650314a4fd218edd9380) using __main__ - ciripel</sub> |
 | <sub>2020-02-16 20:47:15</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/ba24e90af92961434a0863e22986fcf785e33501)</sub> | <sub>[ba24e90](https://github.com/ciripel/Heimdall/commit/ba24e90af92961434a0863e22986fcf785e33501) git exception handling removed - ciripel</sub> |
