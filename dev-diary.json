@@ -1532,5 +1532,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/8b8b8486694c82e1ff8c650314a4fd218edd9380"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-02-16 20:59:55.245000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7b5f06d`](https://github.com/ciripel/Heimdall/commit/7b5f06d18244e14d7f15af5082ca5898cc58c94e) test - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/7b5f06d18244e14d7f15af5082ca5898cc58c94e"
+    }
   }
 ]
