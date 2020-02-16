@@ -1,10 +1,11 @@
 
-### Snowgem Development Progress - Complete history
+### SnowGem Development Progress - Complete history
 
 Here is the complete list of all the commits to the projects we are currently working since 20/01/2020.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-02-16 18:55:07</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/c0de4d99c0f0fabddc6cb9dda43099e5c44f3067)</sub> | <sub>[c0de4d9](https://github.com/ciripel/Heimdall/commit/c0de4d99c0f0fabddc6cb9dda43099e5c44f3067) Updated version to v1.4 - ciripel</sub> |
 | <sub>2020-02-16 18:49:25</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/43a5417e16852c430a3bdf1f26469daeacd93641)</sub> | <sub>[43a5417](https://github.com/ciripel/Heimdall/commit/43a5417e16852c430a3bdf1f26469daeacd93641) fixed last commit updating - ciripel</sub> |
 | <sub>2020-02-16 18:45:47</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/2ffec7f103674fa18903d7b3c6d8733da2fb5252)</sub> | <sub>[2ffec7f](https://github.com/ciripel/Heimdall/commit/2ffec7f103674fa18903d7b3c6d8733da2fb5252) updated typo in translators - ciripel</sub> |
 | <sub>2020-02-16 17:17:08</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/2c5ca37cde37d9dfaf022758ccbd75bb72773d6d)</sub> | <sub>[2c5ca37](https://github.com/ciripel/Heimdall/commit/2c5ca37cde37d9dfaf022758ccbd75bb72773d6d) Implemented dev_updater in Heimdall - ciripel</sub> |
