@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-02-16 18:49:25</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/43a5417e16852c430a3bdf1f26469daeacd93641)</sub> | <sub>[43a5417](https://github.com/ciripel/Heimdall/commit/43a5417e16852c430a3bdf1f26469daeacd93641) fixed last commit updating - ciripel</sub> |
+| <sub>2020-02-16 18:45:47</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/2ffec7f103674fa18903d7b3c6d8733da2fb5252)</sub> | <sub>[2ffec7f](https://github.com/ciripel/Heimdall/commit/2ffec7f103674fa18903d7b3c6d8733da2fb5252) updated typo in translators - ciripel</sub> |
 | <sub>2020-02-16 17:17:08</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/2c5ca37cde37d9dfaf022758ccbd75bb72773d6d)</sub> | <sub>[2c5ca37](https://github.com/ciripel/Heimdall/commit/2c5ca37cde37d9dfaf022758ccbd75bb72773d6d) Implemented dev_updater in Heimdall - ciripel</sub> |
 | <sub>2020-02-16 15:49:28</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/046628d2c5d834a1382d9dbe4d587c8f1c36e01c)</sub> | <sub>[046628d](https://github.com/ciripel/Heimdall/commit/046628d2c5d834a1382d9dbe4d587c8f1c36e01c) made the script a callable function - ciripel</sub> |
 | <sub>2020-02-16 14:44:26</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/a09baa4fa1406c3b4b7840046fbaceeb1494aed1)</sub> | <sub>[a09baa4](https://github.com/ciripel/Heimdall/commit/a09baa4fa1406c3b4b7840046fbaceeb1494aed1) small fixes - ciripel</sub> |
