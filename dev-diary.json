@@ -1627,5 +1627,28 @@
       "type": "rich",
       "url": "https://bitbucket.org/snowgem/snowpay-api"
     }
+  },
+  {
+    "author": "BitBucket",
+    "content": "",
+    "created_at": "2020-02-20 18:43:58.618000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5b3f20c931067f2ec7f4c6da/7b3347b6-be2e-4d69-9705-c8fd16dfa206/128",
+        "name": "Txid",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/4-RYDeg8rpu0sudPx_e4qZhyzL-S27gHD5WLqku1iAA/https/avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5b3f20c931067f2ec7f4c6da/7b3347b6-be2e-4d69-9705-c8fd16dfa206/128"
+      },
+      "color": 2473734,
+      "fields": [
+        {
+          "inline": false,
+          "name": "Commit from Command line",
+          "value": "[`5f8937e`](https://bitbucket.org/snowgem/modernwallet_desktop_angular/commits/5f8937ef81e81287d024ba69ab1595478486b06e) increase version to 1.1.1"
+        }
+      ],
+      "title": "[ModernWallet_Desktop_Angular:master] 1 commit",
+      "type": "rich",
+      "url": "https://bitbucket.org/snowgem/modernwallet_desktop_angular"
+    }
   }
 ]
