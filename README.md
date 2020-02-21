@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 87 commits since 20/01/2020. You can see the complete history in
+There is a total of 88 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-02-21 21:53:38</sub> | <sub>[[snowpay-api:master] 1 commit](https://bitbucket.org/snowgem/snowpay-api)</sub> | <sub>[6aa6d59](https://bitbucket.org/snowgem/snowpay-api/commits/6aa6d597b71192f897fdffd71c568a2e5793f660) integration tests infrastructure</sub> |
 | <sub>2020-02-21 12:49:50</sub> | <sub>[[snowpay-api:master] 1 commit](https://bitbucket.org/snowgem/snowpay-api)</sub> | <sub>[d008ad5](https://bitbucket.org/snowgem/snowpay-api/commits/d008ad5b927a7167ee80f3702f60e844b8b6d2d5) WIP - added coin swap service</sub> |
 | <sub>2020-02-21 11:23:06</sub> | <sub>[[snowpay-api:master] 1 commit](https://bitbucket.org/snowgem/snowpay-api)</sub> | <sub>[0100487](https://bitbucket.org/snowgem/snowpay-api/commits/010048792910e176a4b388f50a87ee4551430d99) WIP - added coin swap service</sub> |
 | <sub>2020-02-21 08:29:52</sub> | <sub>Shmocs pushed to branch [master](https://gitlab.com/shmocs/xsgmndock/commits/master) of [Shmocs / xsgmndock](https://gitlab.com/shmocs/xsgmndock) ([Compare changes](https://gitlab.com/shmocs/xsgmndock/compare/b01e1bf96c84484c1481c2087f01ce6e9efde348...3378c4b6050daf7368d22fee7875f9e191d9a938))</sub> | <sub>[3378c4b6](https://gitlab.com/shmocs/xsgmndock/-/commit/3378c4b6050daf7368d22fee7875f9e191d9a938): - fix wrong IP - Sergiu Costache</sub> |
@@ -17,6 +18,5 @@ There is a total of 87 commits since 20/01/2020. You can see the complete histor
 | <sub>2020-02-16 21:55:25</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/85dccf759f75353722258a47b26effe052dfcd0e)</sub> | <sub>[85dccf7](https://github.com/ciripel/Heimdall/commit/85dccf759f75353722258a47b26effe052dfcd0e) fixed path - ciripel</sub> |
 | <sub>2020-02-16 21:52:26</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/069e954a1d2ccac2eaa31b6a02f75ce5eba52d61)</sub> | <sub>[069e954](https://github.com/ciripel/Heimdall/commit/069e954a1d2ccac2eaa31b6a02f75ce5eba52d61) using absolute path - ciripel</sub> |
 | <sub>2020-02-16 21:45:29</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/f191f537ba8e880f3756a109557db53a19c00c64)</sub> | <sub>[f191f53](https://github.com/ciripel/Heimdall/commit/f191f537ba8e880f3756a109557db53a19c00c64) removed instant commit - now running a conjob - ciripel</sub> |
-| <sub>2020-02-16 20:59:55</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/7b5f06d18244e14d7f15af5082ca5898cc58c94e)</sub> | <sub>[7b5f06d](https://github.com/ciripel/Heimdall/commit/7b5f06d18244e14d7f15af5082ca5898cc58c94e) test - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

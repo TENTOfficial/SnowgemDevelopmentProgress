@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-02-21 21:53:38</sub> | <sub>[[snowpay-api:master] 1 commit](https://bitbucket.org/snowgem/snowpay-api)</sub> | <sub>[6aa6d59](https://bitbucket.org/snowgem/snowpay-api/commits/6aa6d597b71192f897fdffd71c568a2e5793f660) integration tests infrastructure</sub> |
 | <sub>2020-02-21 12:49:50</sub> | <sub>[[snowpay-api:master] 1 commit](https://bitbucket.org/snowgem/snowpay-api)</sub> | <sub>[d008ad5](https://bitbucket.org/snowgem/snowpay-api/commits/d008ad5b927a7167ee80f3702f60e844b8b6d2d5) WIP - added coin swap service</sub> |
 | <sub>2020-02-21 11:23:06</sub> | <sub>[[snowpay-api:master] 1 commit](https://bitbucket.org/snowgem/snowpay-api)</sub> | <sub>[0100487](https://bitbucket.org/snowgem/snowpay-api/commits/010048792910e176a4b388f50a87ee4551430d99) WIP - added coin swap service</sub> |
 | <sub>2020-02-21 08:29:52</sub> | <sub>Shmocs pushed to branch [master](https://gitlab.com/shmocs/xsgmndock/commits/master) of [Shmocs / xsgmndock](https://gitlab.com/shmocs/xsgmndock) ([Compare changes](https://gitlab.com/shmocs/xsgmndock/compare/b01e1bf96c84484c1481c2087f01ce6e9efde348...3378c4b6050daf7368d22fee7875f9e191d9a938))</sub> | <sub>[3378c4b6](https://gitlab.com/shmocs/xsgmndock/-/commit/3378c4b6050daf7368d22fee7875f9e191d9a938): - fix wrong IP - Sergiu Costache</sub> |
