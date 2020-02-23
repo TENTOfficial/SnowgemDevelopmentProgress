@@ -1739,5 +1739,63 @@
       "type": "rich",
       "url": "https://bitbucket.org/snowgem/snowpay-api"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/c3eed76c84bc1ce01ecbb39c36a05f1b237f4f7e...d1e23b823771f1b3acfa09121784b33a3ec6463f))",
+    "created_at": "2020-02-23 18:09:29.491000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d1e23b82](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/d1e23b823771f1b3acfa09121784b33a3ec6463f): Updated Ae\n - ciripel",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/mywallet/commits/master) of [snowgem / mywallet](https://gitlab.com/snowgem/mywallet) ([Compare changes](https://gitlab.com/snowgem/mywallet/compare/44d0e21a4f353e18b48ba649df57d3960dcb6648...753968b3388eb5c0e992e8324b4132e5230e3f75))",
+    "created_at": "2020-02-23 18:29:44.476000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[753968b3](https://gitlab.com/snowgem/mywallet/-/commit/753968b3388eb5c0e992e8324b4132e5230e3f75): update branch id for ALFHEIMR fork\n - SnowGem\n\n[fdc4756a](https://gitlab.com/snowgem/mywallet/-/commit/fdc4756a197720e9afa5ddec835b05236f508c6e): correct branchid\n - SnowGem\n\n[44d0e21a](https://gitlab.com/snowgem/mywallet/-/commit/44d0e21a4f353e18b48ba649df57d3960dcb6648): update nBranchId\n - SnowGem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Shmocs pushed to branch [master](https://gitlab.com/shmocs/xsgmndock/commits/master) of [Shmocs / xsgmndock](https://gitlab.com/shmocs/xsgmndock) ([Compare changes](https://gitlab.com/shmocs/xsgmndock/compare/3d7ee451226d593aa91dccdbb0dfcd9a15762e83...3378c4b6050daf7368d22fee7875f9e191d9a938))",
+    "created_at": "2020-02-23 18:31:54.874000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3378c4b6](https://gitlab.com/shmocs/xsgmndock/-/commit/3378c4b6050daf7368d22fee7875f9e191d9a938): - fix wrong IP\n - Sergiu Costache\n\n[b01e1bf9](https://gitlab.com/shmocs/xsgmndock/-/commit/b01e1bf96c84484c1481c2087f01ce6e9efde348): - new MN on nodes2\n- cleanup configs\n - Sergiu Costache\n\n[3d7ee451](https://gitlab.com/shmocs/xsgmndock/-/commit/3d7ee451226d593aa91dccdbb0dfcd9a15762e83): - new MN on nodes2\n - Sergiu Costache",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Shmocs pushed to branch [master](https://gitlab.com/shmocs/xsgmndock/commits/master) of [Shmocs / xsgmndock](https://gitlab.com/shmocs/xsgmndock) ([Compare changes](https://gitlab.com/shmocs/xsgmndock/compare/3378c4b6050daf7368d22fee7875f9e191d9a938...68033d7284c8438ea02932450aa50e2af8862f40))",
+    "created_at": "2020-02-23 18:33:06.573000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[68033d72](https://gitlab.com/shmocs/xsgmndock/-/commit/68033d7284c8438ea02932450aa50e2af8862f40): Prepare XSG for 5000 sats :-p\n - Sergiu Costache",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-02-23 19:25:46.373000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f10fe76`](https://github.com/ciripel/Heimdall/commit/f10fe76cf957fca540c0ed7003fe5f7f9b9bccd6) Fixed Keyerror, Updated for Gitlab - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/f10fe76cf957fca540c0ed7003fe5f7f9b9bccd6"
+    }
   }
 ]
