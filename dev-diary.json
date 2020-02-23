@@ -1797,5 +1797,41 @@
       "description": "[ca320a58](https://gitlab.com/snowgem/snowcalc/-/commit/ca320a58fc6b31efec0caf82a1072cc31c60a747): Updated miners rewards to 6 and reverted founder's rewards - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-02-23 21:11:00.518000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b63142e`](https://github.com/ciripel/Heimdall/commit/b63142e69cf61b0ae5802cb3dd8e22908abd16db) considered avg_bt always 60s (Cause shmocs inde... - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/b63142e69cf61b0ae5802cb3dd8e22908abd16db"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-02-23 21:13:03.633000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d07a71b`](https://github.com/ciripel/Heimdall/commit/d07a71ba2bb531ac1e7058611bc5a5054735fa15) considered avg_bt always 60s (Cause shmocs inde... - ciripel\n[`1f732cc`](https://github.com/ciripel/Heimdall/commit/1f732cc959c30cd99ee49a8ea141fd9b746f1f7c) Merge branch 'master' of https://github.com/cir... - ciripel",
+      "title": "[Heimdall:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/compare/b63142e69cf6...1f732cc959c3"
+    }
   }
 ]
