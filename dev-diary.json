@@ -1777,5 +1777,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/f10fe76cf957fca540c0ed7003fe5f7f9b9bccd6"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/snowcalc/commits/master) of [snowgem / snowcalc](https://gitlab.com/snowgem/snowcalc) ([Compare changes](https://gitlab.com/snowgem/snowcalc/compare/8817185a2e12b9e7bb78256b21b3557dfc1d39f7...b0cf91bdfb324889408df9eb5989aef95057cc1c))",
+    "created_at": "2020-02-23 20:40:46.683000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b0cf91bd](https://gitlab.com/snowgem/snowcalc/-/commit/b0cf91bdfb324889408df9eb5989aef95057cc1c): Fixed rewards scheme\n - Jakub_Korbel\n\n[17400015](https://gitlab.com/snowgem/snowcalc/-/commit/17400015479b930229ab96208c7376a56884f9bf): Update last changes.\n - Jakub_Korbel\n\n[8817185a](https://gitlab.com/snowgem/snowcalc/-/commit/8817185a2e12b9e7bb78256b21b3557dfc1d39f7): SnowGem mining calc init\n - Jakub Korbel",
+      "type": "rich"
+    }
   }
 ]
