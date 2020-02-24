@@ -1853,5 +1853,25 @@
       "description": "[1c4379f0](https://gitlab.com/snowgem/snowpay-api/-/commit/1c4379f094fc820f2468cdc2addf5d25bd20fc9c): Update README.md - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Kamil Wojciechowski pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1c4379f094fc820f2468cdc2addf5d25bd20fc9c...276b701c2cedea2433dd91b50b14ba6b0346b81a))",
+    "created_at": "2020-02-24 22:25:34.348000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[276b701c](https://gitlab.com/snowgem/snowpay-api/-/commit/276b701c2cedea2433dd91b50b14ba6b0346b81a): cleanup\n - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Kamil Wojciechowski pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/276b701c2cedea2433dd91b50b14ba6b0346b81a...5a144b3aba75539d62c79449171a4521562dc6c3))",
+    "created_at": "2020-02-24 22:26:24.539000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5a144b3a](https://gitlab.com/snowgem/snowpay-api/-/commit/5a144b3aba75539d62c79449171a4521562dc6c3): repository migration\n - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
