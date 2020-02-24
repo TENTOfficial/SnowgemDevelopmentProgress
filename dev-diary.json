@@ -1873,5 +1873,15 @@
       "description": "[5a144b3a](https://gitlab.com/snowgem/snowpay-api/-/commit/5a144b3aba75539d62c79449171a4521562dc6c3): repository migration\n - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5a144b3aba75539d62c79449171a4521562dc6c3...cf6a01cae00f7ba68686c6c4ae2ee616ce71e810))",
+    "created_at": "2020-02-24 22:55:08.474000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cf6a01ca](https://gitlab.com/snowgem/snowpay-api/-/commit/cf6a01cae00f7ba68686c6c4ae2ee616ce71e810): added stex withdrawal listener\n - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
