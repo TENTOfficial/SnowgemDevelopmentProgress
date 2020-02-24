@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 96 commits since 20/01/2020. You can see the complete history in
+There is a total of 97 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-02-24 22:23:43</sub> | <sub>Kamil Wojciechowski pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8bda3d25bf10a203f3e1f210c556064d40a132a5...1c4379f094fc820f2468cdc2addf5d25bd20fc9c))</sub> | <sub>[1c4379f0](https://gitlab.com/snowgem/snowpay-api/-/commit/1c4379f094fc820f2468cdc2addf5d25bd20fc9c): Update README.md - Kamil Wojciechowski</sub> |
 | <sub>2020-02-24 19:46:44</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e7b23ae50fb2d76f01550880f5c6fa1231c4ade3...3b4ec8fa331a53d9ff43c087eb10ecae669728f5))</sub> | <sub>[3b4ec8fa](https://gitlab.com/snowgem/bitfrost/-/commit/3b4ec8fa331a53d9ff43c087eb10ecae669728f5): add bitgreen - SnowGem</sub> |
 | <sub>2020-02-23 21:13:03</sub> | <sub>[[Heimdall:master] 2 new commits](https://github.com/ciripel/Heimdall/compare/b63142e69cf6...1f732cc959c3)</sub> | <sub>[d07a71b](https://github.com/ciripel/Heimdall/commit/d07a71ba2bb531ac1e7058611bc5a5054735fa15) considered avg_bt always 60s (Cause shmocs inde... - ciripel<br>[1f732cc](https://github.com/ciripel/Heimdall/commit/1f732cc959c30cd99ee49a8ea141fd9b746f1f7c) Merge branch 'master' of https://github.com/cir... - ciripel</sub> |
 | <sub>2020-02-23 21:11:00</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/b63142e69cf61b0ae5802cb3dd8e22908abd16db)</sub> | <sub>[b63142e](https://github.com/ciripel/Heimdall/commit/b63142e69cf61b0ae5802cb3dd8e22908abd16db) considered avg_bt always 60s (Cause shmocs inde... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 96 commits since 20/01/2020. You can see the complete histor
 | <sub>2020-02-23 18:33:06</sub> | <sub>Shmocs pushed to branch [master](https://gitlab.com/shmocs/xsgmndock/commits/master) of [Shmocs / xsgmndock](https://gitlab.com/shmocs/xsgmndock) ([Compare changes](https://gitlab.com/shmocs/xsgmndock/compare/3378c4b6050daf7368d22fee7875f9e191d9a938...68033d7284c8438ea02932450aa50e2af8862f40))</sub> | <sub>[68033d72](https://gitlab.com/shmocs/xsgmndock/-/commit/68033d7284c8438ea02932450aa50e2af8862f40): Prepare XSG for 5000 sats :-p - Sergiu Costache</sub> |
 | <sub>2020-02-23 18:09:29</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/c3eed76c84bc1ce01ecbb39c36a05f1b237f4f7e...d1e23b823771f1b3acfa09121784b33a3ec6463f))</sub> | <sub>[d1e23b82](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/d1e23b823771f1b3acfa09121784b33a3ec6463f): Updated Ae - ciripel</sub> |
 | <sub>2020-02-21 21:53:38</sub> | <sub>[[snowpay-api:master] 1 commit](https://bitbucket.org/snowgem/snowpay-api)</sub> | <sub>[6aa6d59](https://bitbucket.org/snowgem/snowpay-api/commits/6aa6d597b71192f897fdffd71c568a2e5793f660) integration tests infrastructure</sub> |
-| <sub>2020-02-21 12:49:50</sub> | <sub>[[snowpay-api:master] 1 commit](https://bitbucket.org/snowgem/snowpay-api)</sub> | <sub>[d008ad5](https://bitbucket.org/snowgem/snowpay-api/commits/d008ad5b927a7167ee80f3702f60e844b8b6d2d5) WIP - added coin swap service</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

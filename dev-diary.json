@@ -1843,5 +1843,15 @@
       "description": "[3b4ec8fa](https://gitlab.com/snowgem/bitfrost/-/commit/3b4ec8fa331a53d9ff43c087eb10ecae669728f5): add bitgreen\n - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Kamil Wojciechowski pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8bda3d25bf10a203f3e1f210c556064d40a132a5...1c4379f094fc820f2468cdc2addf5d25bd20fc9c))",
+    "created_at": "2020-02-24 22:23:43.539000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1c4379f0](https://gitlab.com/snowgem/snowpay-api/-/commit/1c4379f094fc820f2468cdc2addf5d25bd20fc9c): Update README.md - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
