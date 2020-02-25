@@ -1883,5 +1883,15 @@
       "description": "[cf6a01ca](https://gitlab.com/snowgem/snowpay-api/-/commit/cf6a01cae00f7ba68686c6c4ae2ee616ce71e810): added stex withdrawal listener\n - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cf6a01cae00f7ba68686c6c4ae2ee616ce71e810...d711a025641127bf971a64ac57decdc55e7ae556))",
+    "created_at": "2020-02-25 23:00:53.866000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d711a025](https://gitlab.com/snowgem/snowpay-api/-/commit/d711a025641127bf971a64ac57decdc55e7ae556): added order report listener - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
