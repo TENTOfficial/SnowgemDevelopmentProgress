@@ -1893,5 +1893,15 @@
       "description": "[d711a025](https://gitlab.com/snowgem/snowpay-api/-/commit/d711a025641127bf971a64ac57decdc55e7ae556): added order report listener - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d711a025641127bf971a64ac57decdc55e7ae556...2ca520dade37aa1d90d92a11c2d0eb77d010937d))",
+    "created_at": "2020-02-26 23:09:35.284000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2ca520da](https://gitlab.com/snowgem/snowpay-api/-/commit/2ca520dade37aa1d90d92a11c2d0eb77d010937d): added rate limiter, fixed few issues with stex api client - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
