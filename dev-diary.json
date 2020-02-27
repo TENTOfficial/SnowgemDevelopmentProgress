@@ -1903,5 +1903,15 @@
       "description": "[2ca520da](https://gitlab.com/snowgem/snowpay-api/-/commit/2ca520dade37aa1d90d92a11c2d0eb77d010937d): added rate limiter, fixed few issues with stex api client - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3b4ec8fa331a53d9ff43c087eb10ecae669728f5...302ca38fe7e8d65e8ff1e506e2bf8ce9fec704e4))",
+    "created_at": "2020-02-27 10:23:48.548000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[302ca38f](https://gitlab.com/snowgem/bitfrost/-/commit/302ca38fe7e8d65e8ff1e506e2bf8ce9fec704e4): update change wallet logo - SnowGem",
+      "type": "rich"
+    }
   }
 ]
