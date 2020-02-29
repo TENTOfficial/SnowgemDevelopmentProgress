@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-02-29 22:57:45</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9c40758ca69eff97b6d40d4f2f7d95b7f5181ada...e6b3ec7ddfb27721c90ea522e4c339d928f5e249))</sub> | <sub>[e6b3ec7d](https://gitlab.com/snowgem/snowpay-api/-/commit/e6b3ec7ddfb27721c90ea522e4c339d928f5e249): swapping workflow refactoring - Kamil Wojciechowski</sub> |
 | <sub>2020-02-29 22:46:20</sub> | <sub>[[snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)] Issue opened by demzet (aphex5)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-02-29 22:45:51</sub> | <sub>demzet (aphex5) [commented on issue \#1](https://gitlab.com/snowgem/snowpay-api/issues/1#note_296525572) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api): *Use all currency properties in stexexchange service*</sub> | <sub>wont do</sub> |
 | <sub>2020-02-29 22:45:44</sub> | <sub>[[snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)] Issue [\#1 Use all currency properties in stexexchange service](https://gitlab.com/snowgem/snowpay-api/issues/1) closed by demzet (aphex5)</sub> | <sub>_No Commits_</sub> |
