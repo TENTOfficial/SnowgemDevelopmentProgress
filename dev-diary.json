@@ -1954,5 +1954,42 @@
       "description": "[9c40758c](https://gitlab.com/snowgem/snowpay-api/-/commit/9c40758ca69eff97b6d40d4f2f7d95b7f5181ada): wip -  stex exchange swap saga refactoring - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "[[snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)] Issue opened by demzet (aphex5)",
+    "created_at": "2020-02-29 22:45:24.127000",
+    "embed_0": {
+      "color": 13195299,
+      "title": "#2 Add custom message id strategy based on msg type and sagaId",
+      "type": "rich",
+      "url": "https://gitlab.com/snowgem/snowpay-api/issues/2"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "[[snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)] Issue [\\#1 Use all currency properties in stexexchange service](https://gitlab.com/snowgem/snowpay-api/issues/1) closed by demzet (aphex5)",
+    "created_at": "2020-02-29 22:45:44.007000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) [commented on issue \\#1](https://gitlab.com/snowgem/snowpay-api/issues/1#note_296525572) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api): *Use all currency properties in stexexchange service*",
+    "created_at": "2020-02-29 22:45:51.652000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "wont do",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "[[snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)] Issue opened by demzet (aphex5)",
+    "created_at": "2020-02-29 22:46:20.665000",
+    "embed_0": {
+      "color": 13195299,
+      "title": "#3 Migrate from EF to Marten document store",
+      "type": "rich",
+      "url": "https://gitlab.com/snowgem/snowpay-api/issues/3"
+    }
   }
 ]

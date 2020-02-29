@@ -5,6 +5,10 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-02-29 22:46:20</sub> | <sub>[[snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)] Issue opened by demzet (aphex5)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-02-29 22:45:51</sub> | <sub>demzet (aphex5) [commented on issue \#1](https://gitlab.com/snowgem/snowpay-api/issues/1#note_296525572) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api): *Use all currency properties in stexexchange service*</sub> | <sub>wont do</sub> |
+| <sub>2020-02-29 22:45:44</sub> | <sub>[[snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)] Issue [\#1 Use all currency properties in stexexchange service](https://gitlab.com/snowgem/snowpay-api/issues/1) closed by demzet (aphex5)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-02-29 22:45:24</sub> | <sub>[[snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)] Issue opened by demzet (aphex5)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-02-28 23:13:24</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d1d94ba5d3751883f15934afb889b10380c77bba...9c40758ca69eff97b6d40d4f2f7d95b7f5181ada))</sub> | <sub>[9c40758c](https://gitlab.com/snowgem/snowpay-api/-/commit/9c40758ca69eff97b6d40d4f2f7d95b7f5181ada): wip -  stex exchange swap saga refactoring - Kamil Wojciechowski</sub> |
 | <sub>2020-02-28 23:12:20</sub> | <sub>demzet (aphex5) [commented on issue \#1](https://gitlab.com/snowgem/snowpay-api/issues/1#note_296386199) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api): *Use all currency properties in stexexchange service*</sub> | <sub>Introduce numeric and char variables for currencies, pairs etc</sub> |
 | <sub>2020-02-28 23:10:48</sub> | <sub>[[snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)] Issue opened by demzet (aphex5)</sub> | <sub>_No Commits_</sub> |
