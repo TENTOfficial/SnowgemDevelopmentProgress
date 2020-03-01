@@ -1943,5 +1943,15 @@
       "description": "[e6b3ec7d](https://gitlab.com/snowgem/snowpay-api/-/commit/e6b3ec7ddfb27721c90ea522e4c339d928f5e249): swapping workflow refactoring - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e6b3ec7ddfb27721c90ea522e4c339d928f5e249...4b72c9998572cb91daf47ef8d4f624edff1ede91))",
+    "created_at": "2020-03-01 12:02:10",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4b72c999](https://gitlab.com/snowgem/snowpay-api/-/commit/4b72c9998572cb91daf47ef8d4f624edff1ede91): changed message identification strategy - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
