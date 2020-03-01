@@ -2001,5 +2001,55 @@
       "description": "[e6b3ec7d](https://gitlab.com/snowgem/snowpay-api/-/commit/e6b3ec7ddfb27721c90ea522e4c339d928f5e249): swapping workflow refactoring - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e7b23ae50fb2d76f01550880f5c6fa1231c4ade3...302ca38fe7e8d65e8ff1e506e2bf8ce9fec704e4))",
+    "created_at": "2020-03-01 00:26:48.943000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[302ca38f](https://gitlab.com/snowgem/bitfrost/-/commit/302ca38fe7e8d65e8ff1e506e2bf8ce9fec704e4): update change wallet logo - SnowGem\n\n[3b4ec8fa](https://gitlab.com/snowgem/bitfrost/-/commit/3b4ec8fa331a53d9ff43c087eb10ecae669728f5): add bitgreen - SnowGem\n\n[e7b23ae5](https://gitlab.com/snowgem/bitfrost/-/commit/e7b23ae50fb2d76f01550880f5c6fa1231c4ade3): fix add coin advance issue - SnowGem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/coinguard/commits/master) of [snowgem / coinguard](https://gitlab.com/snowgem/coinguard) ([Compare changes](https://gitlab.com/snowgem/coinguard/compare/2df7276b1631260d77ca0b59d7cd0e23eea07359...e7b23ae50fb2d76f01550880f5c6fa1231c4ade3))",
+    "created_at": "2020-03-01 00:27:35.999000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e7b23ae5](https://gitlab.com/snowgem/coinguard/-/commit/e7b23ae50fb2d76f01550880f5c6fa1231c4ade3): fix add coin advance issue - SnowGem\n\n[86735fb8](https://gitlab.com/snowgem/coinguard/-/commit/86735fb828b8d0f3456b7cce9f4d5d7ef8c111a6): support zcash, update child pages - SnowGem\n\n[2df7276b](https://gitlab.com/snowgem/coinguard/-/commit/2df7276b1631260d77ca0b59d7cd0e23eea07359): change back button to dark in change pass 2nd page - SnowGem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/draupnir/commits/master) of [snowgem / draupnir](https://gitlab.com/snowgem/draupnir) ([Compare changes](https://gitlab.com/snowgem/draupnir/compare/9b044246486cbb703163f65eab263a1cf09541bd...211657c22812e651f30d93adb2a453efd4e515ae))",
+    "created_at": "2020-03-01 00:28:17.839000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[211657c2](https://gitlab.com/snowgem/draupnir/-/commit/211657c22812e651f30d93adb2a453efd4e515ae): Improvements to message signing and verification - kamil wojciechowski\n\n[5ab3d234](https://gitlab.com/snowgem/draupnir/-/commit/5ab3d234e676482db549d9f1dc4253cd275e876a): Implemented message signing and verification - kamil wojciechowski\n\n[9b044246](https://gitlab.com/snowgem/draupnir/-/commit/9b044246486cbb703163f65eab263a1cf09541bd): Content Node Insights - initial commit - kamil wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d1d94ba5d3751883f15934afb889b10380c77bba...e6b3ec7ddfb27721c90ea522e4c339d928f5e249))",
+    "created_at": "2020-03-01 00:28:59.262000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e6b3ec7d](https://gitlab.com/snowgem/snowpay-api/-/commit/e6b3ec7ddfb27721c90ea522e4c339d928f5e249): swapping workflow refactoring - Kamil Wojciechowski\n\n[9c40758c](https://gitlab.com/snowgem/snowpay-api/-/commit/9c40758ca69eff97b6d40d4f2f7d95b7f5181ada): wip -  stex exchange swap saga refactoring - Kamil Wojciechowski\n\n[d1d94ba5](https://gitlab.com/snowgem/snowpay-api/-/commit/d1d94ba5d3751883f15934afb889b10380c77bba): stex withdrawal listener refactoring and improvements - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/3c55ad4db72024d72f0306b82bb5cf50bb760142...d1e23b823771f1b3acfa09121784b33a3ec6463f))",
+    "created_at": "2020-03-01 00:29:34.804000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d1e23b82](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/d1e23b823771f1b3acfa09121784b33a3ec6463f): Updated Ae - ciripel\n\n[c3eed76c](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/c3eed76c84bc1ce01ecbb39c36a05f1b237f4f7e): increase version to 111 - SnowGem\n\n[3c55ad4d](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/3c55ad4db72024d72f0306b82bb5cf50bb760142): Updated Es - ciripel",
+      "type": "rich"
+    }
   }
 ]
