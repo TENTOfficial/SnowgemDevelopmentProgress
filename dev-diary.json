@@ -1973,5 +1973,15 @@
       "description": "[b7766d0b](https://gitlab.com/snowgem/snowpay-api/-/commit/b7766d0bfbc9d3a3a9be4f19c3075a2a5e7ffa06): stexexchange listeners completed - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/302ca38fe7e8d65e8ff1e506e2bf8ce9fec704e4...90ff789521167c1d319337924c5e6a9d7827a7fd))",
+    "created_at": "2020-03-01 17:24:08.100000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[90ff7895](https://gitlab.com/snowgem/bitfrost/-/commit/90ff789521167c1d319337924c5e6a9d7827a7fd): add dashboard pie chart - SnowGem",
+      "type": "rich"
+    }
   }
 ]
