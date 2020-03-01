@@ -1963,5 +1963,15 @@
       "description": "[f33143f8](https://gitlab.com/snowgem/snowpay-api/-/commit/f33143f882cff9cf7aa78198dc7f88d1cf092a8e): fixed stex api client, upgraded order listener - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f33143f882cff9cf7aa78198dc7f88d1cf092a8e...b7766d0bfbc9d3a3a9be4f19c3075a2a5e7ffa06))",
+    "created_at": "2020-03-01 14:15:51.482000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b7766d0b](https://gitlab.com/snowgem/snowpay-api/-/commit/b7766d0bfbc9d3a3a9be4f19c3075a2a5e7ffa06): stexexchange listeners completed - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
