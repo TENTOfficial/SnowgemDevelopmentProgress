@@ -1983,5 +1983,15 @@
       "description": "[90ff7895](https://gitlab.com/snowgem/bitfrost/-/commit/90ff789521167c1d319337924c5e6a9d7827a7fd): add dashboard pie chart - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Shmocs pushed to branch [master](https://gitlab.com/shmocs/xsgmndock/commits/master) of [Shmocs / xsgmndock](https://gitlab.com/shmocs/xsgmndock) ([Compare changes](https://gitlab.com/shmocs/xsgmndock/compare/68033d7284c8438ea02932450aa50e2af8862f40...ec97adca618814c244b6e966f3efb0d0b04c3577))",
+    "created_at": "2020-03-01 18:59:25.557000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ec97adca](https://gitlab.com/shmocs/xsgmndock/-/commit/ec97adca618814c244b6e966f3efb0d0b04c3577): - full house nodes1 - Sergiu Costache",
+      "type": "rich"
+    }
   }
 ]
