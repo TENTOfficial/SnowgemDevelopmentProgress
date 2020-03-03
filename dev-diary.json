@@ -2023,5 +2023,15 @@
       "description": "[84b0b382](https://gitlab.com/snowgem/snowpay-api/-/commit/84b0b38267bf1da233d501a509f4b6ac3153e736): added user address provisioning to the api - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/84b0b38267bf1da233d501a509f4b6ac3153e736...ba85ee83da6d625beebbc0337a3fe7b0f4be4504))",
+    "created_at": "2020-03-03 14:42:57.603000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ba85ee83](https://gitlab.com/snowgem/snowpay-api/-/commit/ba85ee83da6d625beebbc0337a3fe7b0f4be4504): XsgBlockExplorer update - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
