@@ -2013,5 +2013,15 @@
       "description": "[bb8f1ba1](https://gitlab.com/snowgem/snowpay-api/-/commit/bb8f1ba1e2720b28919d033dc020e17cf2bb0fb4): changed transport layer - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bb8f1ba1e2720b28919d033dc020e17cf2bb0fb4...84b0b38267bf1da233d501a509f4b6ac3153e736))",
+    "created_at": "2020-03-03 13:20:34.090000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[84b0b382](https://gitlab.com/snowgem/snowpay-api/-/commit/84b0b38267bf1da233d501a509f4b6ac3153e736): added user address provisioning to the api - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
