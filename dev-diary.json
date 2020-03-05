@@ -2063,5 +2063,15 @@
       "description": "[5c41a961](https://gitlab.com/snowgem/snowpay-api/-/commit/5c41a96140bd72ab51424e73b5bf6ad87f535ec0): user address provisioning enhancements - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5c41a96140bd72ab51424e73b5bf6ad87f535ec0...a1f7fe0e2f464b086101e0d9410e2a9cb1084795))",
+    "created_at": "2020-03-05 22:54:51.466000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a1f7fe0e](https://gitlab.com/snowgem/snowpay-api/-/commit/a1f7fe0e2f464b086101e0d9410e2a9cb1084795): added ProvisionInputValidator tests - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
