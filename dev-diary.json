@@ -2053,5 +2053,15 @@
       "description": "[6267ac25](https://gitlab.com/snowgem/snowpay-api/-/commit/6267ac25ca614125a8821cc2f105afbe77de77bc): #4 setup local infrastructure - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6267ac25ca614125a8821cc2f105afbe77de77bc...5c41a96140bd72ab51424e73b5bf6ad87f535ec0))",
+    "created_at": "2020-03-05 22:14:34.615000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5c41a961](https://gitlab.com/snowgem/snowpay-api/-/commit/5c41a96140bd72ab51424e73b5bf6ad87f535ec0): user address provisioning enhancements - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
