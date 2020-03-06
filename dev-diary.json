@@ -2073,5 +2073,15 @@
       "description": "[a1f7fe0e](https://gitlab.com/snowgem/snowpay-api/-/commit/a1f7fe0e2f464b086101e0d9410e2a9cb1084795): added ProvisionInputValidator tests - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a1f7fe0e2f464b086101e0d9410e2a9cb1084795...f84355ca20f4ac281ab52ecb08d414ff88f51cab))",
+    "created_at": "2020-03-06 22:44:38.227000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f84355ca](https://gitlab.com/snowgem/snowpay-api/-/commit/f84355ca20f4ac281ab52ecb08d414ff88f51cab): feature: calculate min and max allowed deposits - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
