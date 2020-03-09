@@ -2093,5 +2093,15 @@
       "description": "[51f8bf63](https://gitlab.com/snowgem/snowpay-api/-/commit/51f8bf63a2ab81b837ada1ea11b2e33211cbc901): added market order listener - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/51f8bf63a2ab81b837ada1ea11b2e33211cbc901...5b04e6bbbe8fc187d02d70ae095fc083d05e7ea0))",
+    "created_at": "2020-03-09 14:22:59.370000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5b04e6bb](https://gitlab.com/snowgem/snowpay-api/-/commit/5b04e6bbbe8fc187d02d70ae095fc083d05e7ea0): added registration endpoint - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
