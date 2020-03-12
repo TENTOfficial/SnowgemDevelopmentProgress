@@ -2123,5 +2123,15 @@
       "description": "[719c6fe4](https://gitlab.com/snowgem/bitfrost/-/commit/719c6fe4ff5b74073efca637738171f7cc9fe0e3): add web3 - SnowGem\n\n[d351de37](https://gitlab.com/snowgem/bitfrost/-/commit/d351de37d19fed0ae4291d0c2953a67ab65aabe9): add some token apis - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d351de37d19fed0ae4291d0c2953a67ab65aabe9...a53e457496cab80a06eee081c203f8d1c612cf1e))",
+    "created_at": "2020-03-12 19:40:18.924000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a53e4574](https://gitlab.com/snowgem/bitfrost/-/commit/a53e457496cab80a06eee081c203f8d1c612cf1e): add more api for eth - SnowGem",
+      "type": "rich"
+    }
   }
 ]
