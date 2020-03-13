@@ -2443,5 +2443,23 @@
       "description": "[3e82b98a](https://gitlab.com/shmocs/xsgmndock/-/commit/3e82b98a6c7aad116a6ba5f2289bc7988ebda8e5): - new MN on nodes2 - Sergiu Costache",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-03-13 21:35:56.962000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`26421ef`](https://github.com/ciripel/Heimdall-telegram/commit/26421ef49e499cb65af87290750189b4078797b7) updated stex api to v3 - ciripel",
+      "title": "[Heimdall-telegram:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall-telegram/commit/26421ef49e499cb65af87290750189b4078797b7"
+    }
   }
 ]
