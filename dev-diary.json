@@ -2293,5 +2293,15 @@
       "description": "[1cc80304](https://gitlab.com/snowgem/snowpay-api/-/commit/1cc803048787224f86fe6a109d127e3d277aec94): Update .gitlab-ci.yml - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1cc803048787224f86fe6a109d127e3d277aec94...ec2d22632aeafb911a9f3cb88d36373cf9f95625))",
+    "created_at": "2020-03-13 11:33:27.407000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f645be2c](https://gitlab.com/snowgem/snowpay-api/-/commit/f645be2c55dc6d40158706376e370dc2ade0b1fc): ci setup - Kamil Wojciechowski\n\n[07837e05](https://gitlab.com/snowgem/snowpay-api/-/commit/07837e056eabf0f63e5577eee9705ba437efd817): Merge branch 'master' of https://gitlab.com/snowgem/snowpay-api - Kamil Wojciechowski\n\n[ec2d2263](https://gitlab.com/snowgem/snowpay-api/-/commit/ec2d22632aeafb911a9f3cb88d36373cf9f95625): setup ci - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
