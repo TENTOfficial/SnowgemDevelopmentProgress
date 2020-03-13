@@ -2313,5 +2313,15 @@
       "description": "[cfd25908](https://gitlab.com/snowgem/snowpay-api/-/commit/cfd259086315470c8c0732d8c8e678eaf41027f8): Update .gitlab-ci.yml - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cfd259086315470c8c0732d8c8e678eaf41027f8...e9341897de90a20b5aa93025d0fa38fa36452cf8))",
+    "created_at": "2020-03-13 11:49:02.050000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e9341897](https://gitlab.com/snowgem/snowpay-api/-/commit/e9341897de90a20b5aa93025d0fa38fa36452cf8): Update .gitlab-ci.yml - demzet",
+      "type": "rich"
+    }
   }
 ]
