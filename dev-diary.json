@@ -2133,5 +2133,15 @@
       "description": "[a53e4574](https://gitlab.com/snowgem/bitfrost/-/commit/a53e457496cab80a06eee081c203f8d1c612cf1e): add more api for eth - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2b9d45ca79ab42c0f1826da874f1d7696536dd15...0b4a62dcf54f97af74a71cd899e5b39b6675a23c))",
+    "created_at": "2020-03-13 09:29:41.663000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0b4a62dc](https://gitlab.com/snowgem/snowpay-api/-/commit/0b4a62dcf54f97af74a71cd899e5b39b6675a23c): build fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
