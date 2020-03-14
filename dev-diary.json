@@ -2499,5 +2499,15 @@
       "description": "[f51c183b](https://gitlab.com/snowgem/snowpay-api/-/commit/f51c183bcaaf27b328b4d458f1e614c7cd78c490): deployment scripts update - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f51c183bcaaf27b328b4d458f1e614c7cd78c490...01d6441b2261a7ed9a8ed6e4f31c27653b80e401))",
+    "created_at": "2020-03-14 23:28:44.947000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[01d6441b](https://gitlab.com/snowgem/snowpay-api/-/commit/01d6441b2261a7ed9a8ed6e4f31c27653b80e401): Update .gitlab-ci.yml - demzet",
+      "type": "rich"
+    }
   }
 ]
