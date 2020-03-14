@@ -2461,5 +2461,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall-telegram/commit/26421ef49e499cb65af87290750189b4078797b7"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-03-14 00:10:49.355000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b5223fe`](https://github.com/ciripel/Heimdall/commit/b5223fec87d503fd59c066fbefaab6b3dc5bf9e7) updated stex api to v3 - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/b5223fec87d503fd59c066fbefaab6b3dc5bf9e7"
+    }
   }
 ]
