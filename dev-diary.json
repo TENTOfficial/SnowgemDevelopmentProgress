@@ -2527,5 +2527,25 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/39043378211869ac26841ba87cbd69e340275dfb"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/01d6441b2261a7ed9a8ed6e4f31c27653b80e401...d3954878a95abbe685b43f019bb5c1f185dae7e6))",
+    "created_at": "2020-03-15 13:52:28.588000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2e0fa13b](https://gitlab.com/snowgem/snowpay-api/-/commit/2e0fa13bc20a221c26012e8f44751f82f428d5e1): deploy scripts - Kamil Wojciechowski\n\n[d3954878](https://gitlab.com/snowgem/snowpay-api/-/commit/d3954878a95abbe685b43f019bb5c1f185dae7e6): Merge branch 'master' of https://gitlab.com/snowgem/snowpay-api - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d3954878a95abbe685b43f019bb5c1f185dae7e6...b2016cb3b1a5a97f8f73a867c670a23b5f7bce63))",
+    "created_at": "2020-03-15 13:52:53.160000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b2016cb3](https://gitlab.com/snowgem/snowpay-api/-/commit/b2016cb3b1a5a97f8f73a867c670a23b5f7bce63): deploy scripts - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
