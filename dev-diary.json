@@ -2757,5 +2757,15 @@
       "description": "[f21ab8ab](https://gitlab.com/snowgem/snowpay-api/-/commit/f21ab8abac70f80cd0d131edcd81c43d8461bcc3): added swap calculations - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f21ab8abac70f80cd0d131edcd81c43d8461bcc3...949a2e3a4db4fad43b759a54ea8524c182538d5f))",
+    "created_at": "2020-03-17 13:25:18.803000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[949a2e3a](https://gitlab.com/snowgem/snowpay-api/-/commit/949a2e3a4db4fad43b759a54ea8524c182538d5f): updated order book listener - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
