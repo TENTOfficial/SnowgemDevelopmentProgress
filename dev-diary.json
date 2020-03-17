@@ -2747,5 +2747,15 @@
       "description": "[e8ffa0d7](https://gitlab.com/snowgem/snowpay-api/-/commit/e8ffa0d765fb09790598de9d0d50a0ffa8d49184): added email service - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e8ffa0d765fb09790598de9d0d50a0ffa8d49184...f21ab8abac70f80cd0d131edcd81c43d8461bcc3))",
+    "created_at": "2020-03-17 11:58:19.283000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f21ab8ab](https://gitlab.com/snowgem/snowpay-api/-/commit/f21ab8abac70f80cd0d131edcd81c43d8461bcc3): added swap calculations - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
