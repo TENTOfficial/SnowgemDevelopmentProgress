@@ -2767,5 +2767,15 @@
       "description": "[949a2e3a](https://gitlab.com/snowgem/snowpay-api/-/commit/949a2e3a4db4fad43b759a54ea8524c182538d5f): updated order book listener - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/949a2e3a4db4fad43b759a54ea8524c182538d5f...8a9712446f01721fb91720561a0650ac80199e3d))",
+    "created_at": "2020-03-17 13:48:10.643000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8a971244](https://gitlab.com/snowgem/snowpay-api/-/commit/8a9712446f01721fb91720561a0650ac80199e3d): order listener fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
