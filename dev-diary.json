@@ -2777,5 +2777,15 @@
       "description": "[8a971244](https://gitlab.com/snowgem/snowpay-api/-/commit/8a9712446f01721fb91720561a0650ac80199e3d): order listener fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8a9712446f01721fb91720561a0650ac80199e3d...ade0106112a71e00f6a5ea689acec83759605c0a))",
+    "created_at": "2020-03-17 22:01:14.492000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ade01061](https://gitlab.com/snowgem/snowpay-api/-/commit/ade0106112a71e00f6a5ea689acec83759605c0a): SwapController refactoring - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
