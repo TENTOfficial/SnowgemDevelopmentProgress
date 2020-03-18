@@ -2807,5 +2807,15 @@
       "description": "[a8820bf9](https://gitlab.com/snowgem/bitfrost/-/commit/a8820bf98a1776a50056a0dc4ee724e9fb19c1f2): add eth logo - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a8820bf98a1776a50056a0dc4ee724e9fb19c1f2...56528abbd335145da35f9b774bef25fde1f202a3))",
+    "created_at": "2020-03-18 18:57:25.317000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[56528abb](https://gitlab.com/snowgem/bitfrost/-/commit/56528abbd335145da35f9b774bef25fde1f202a3): check coin type when getting transactions - SnowGem",
+      "type": "rich"
+    }
   }
 ]
