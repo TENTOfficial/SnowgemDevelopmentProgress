@@ -2787,5 +2787,15 @@
       "description": "[ade01061](https://gitlab.com/snowgem/snowpay-api/-/commit/ade0106112a71e00f6a5ea689acec83759605c0a): SwapController refactoring - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ade0106112a71e00f6a5ea689acec83759605c0a...a59fb03e392439dbb0c8b82a256c0a3ae38cbb88))",
+    "created_at": "2020-03-18 12:21:42.263000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a59fb03e](https://gitlab.com/snowgem/snowpay-api/-/commit/a59fb03e392439dbb0c8b82a256c0a3ae38cbb88): bug fixes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
