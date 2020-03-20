@@ -2837,5 +2837,15 @@
       "description": "[ee6b66f6](https://gitlab.com/snowgem/bitfrost/-/commit/ee6b66f6afb7d988baa1f2bc2d500a8151eff0b8): add eth get balance api - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/79ab6bed1159538767a7e87853b7e22be1ca90dd...67c3c3ca9fc4b6eff79e50790cd99210cdad217f))",
+    "created_at": "2020-03-20 14:18:14.872000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[67c3c3ca](https://gitlab.com/snowgem/snowpay-api/-/commit/67c3c3ca9fc4b6eff79e50790cd99210cdad217f): checkpoint: market orders - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
