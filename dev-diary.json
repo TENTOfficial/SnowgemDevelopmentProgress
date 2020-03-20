@@ -2827,5 +2827,15 @@
       "description": "[79ab6bed](https://gitlab.com/snowgem/snowpay-api/-/commit/79ab6bed1159538767a7e87853b7e22be1ca90dd): updated stex order handler - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/56528abbd335145da35f9b774bef25fde1f202a3...ee6b66f6afb7d988baa1f2bc2d500a8151eff0b8))",
+    "created_at": "2020-03-20 13:39:58.292000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ee6b66f6](https://gitlab.com/snowgem/bitfrost/-/commit/ee6b66f6afb7d988baa1f2bc2d500a8151eff0b8): add eth get balance api - SnowGem",
+      "type": "rich"
+    }
   }
 ]
