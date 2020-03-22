@@ -2852,5 +2852,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature/stex\\_market\\_order\\_saga](https://gitlab.com/snowgem/snowpay-api/commits/feature/stex_market_order_saga) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-03-21 22:41:21.109000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature/stex\\_market\\_order\\_saga](https://gitlab.com/snowgem/snowpay-api/commits/feature/stex_market_order_saga) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/84837c88815ce848c65ac069ef87a0c96a9dae39...edb3171e8132a49dd8045d2627d3976237c6a77b))",
+    "created_at": "2020-03-22 16:47:33.763000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[edb3171e](https://gitlab.com/snowgem/snowpay-api/-/commit/edb3171e8132a49dd8045d2627d3976237c6a77b): added unit tests - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
