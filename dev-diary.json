@@ -2877,5 +2877,15 @@
     "author": "GitLab",
     "content": "demzet (aphex5) opened [\\!1 \\*Feature/stex market order saga\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/1) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-03-22 23:03:00.285000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature/stex\\_market\\_order\\_saga](https://gitlab.com/snowgem/snowpay-api/commits/feature/stex_market_order_saga) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d803c62fcb8aa000ee3e9dad2c524995cf89f319...929cab019fc22d29ed2759ca72d083a8735892ef))",
+    "created_at": "2020-03-23 12:51:16.631000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[929cab01](https://gitlab.com/snowgem/snowpay-api/-/commit/929cab019fc22d29ed2759ca72d083a8735892ef): added saga timeouts, fixed tests - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
