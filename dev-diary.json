@@ -2924,5 +2924,15 @@
       "type": "link",
       "url": "https://gitlab.com/snowgem/snowpay-api)"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Shmocs pushed to branch [master](https://gitlab.com/shmocs/xsgmndock/commits/master) of [Shmocs / xsgmndock](https://gitlab.com/shmocs/xsgmndock) ([Compare changes](https://gitlab.com/shmocs/xsgmndock/compare/3e82b98a6c7aad116a6ba5f2289bc7988ebda8e5...d7cd2fc3212ce0922e8c99728c04b9acd55b3069))",
+    "created_at": "2020-03-24 20:59:34.217000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d7cd2fc3](https://gitlab.com/shmocs/xsgmndock/-/commit/d7cd2fc3212ce0922e8c99728c04b9acd55b3069): - masternodes health stats update - Sergiu Costache",
+      "type": "rich"
+    }
   }
 ]
