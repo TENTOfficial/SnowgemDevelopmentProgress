@@ -2954,5 +2954,15 @@
       "description": "[1dc505ce](https://gitlab.com/shmocs/xsgmndock/-/commit/1dc505cedccaf2fe3434713ca3690ec016613d73): - health check improvements - Sergiu Costache",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/97ce7a96ee37078e0fd9f10cac795b91016ef34b...8ab23f8e45a5f4cbfbf0d6f2815631f09d9bbc11))",
+    "created_at": "2020-03-25 12:08:17.290000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8ab23f8e](https://gitlab.com/snowgem/snowpay-api/-/commit/8ab23f8e45a5f4cbfbf0d6f2815631f09d9bbc11): added certs configuration - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
