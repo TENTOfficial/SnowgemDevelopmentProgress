@@ -2974,5 +2974,23 @@
       "description": "[b7e00c3b](https://gitlab.com/snowgem/snowpay-api/-/commit/b7e00c3bc966d12fc64233faeac67889e7cf790c): clustering setup - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-03-25 19:39:33.634000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`9151d00`](https://github.com/ciripel/Heimdall/commit/9151d00850e9bfc194806d59390c1c8c6e2378e7) implemented `!ban [substring]` command - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/9151d00850e9bfc194806d59390c1c8c6e2378e7"
+    }
   }
 ]
