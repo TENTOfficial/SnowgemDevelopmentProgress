@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 204 commits since 20/01/2020. You can see the complete history in
+There is a total of 205 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-03-25 11:58:15</sub> | <sub>Shmocs pushed to branch [master](https://gitlab.com/shmocs/xsgmndock/commits/master) of [Shmocs / xsgmndock](https://gitlab.com/shmocs/xsgmndock) ([Compare changes](https://gitlab.com/shmocs/xsgmndock/compare/d7cd2fc3212ce0922e8c99728c04b9acd55b3069...1dc505cedccaf2fe3434713ca3690ec016613d73))</sub> | <sub>[1dc505ce](https://gitlab.com/shmocs/xsgmndock/-/commit/1dc505cedccaf2fe3434713ca3690ec016613d73): - health check improvements - Sergiu Costache</sub> |
 | <sub>2020-03-25 11:46:24</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/293188a20adf59d2c15345005668a17f28ec1192...97ce7a96ee37078e0fd9f10cac795b91016ef34b))</sub> | <sub>[97ce7a96](https://gitlab.com/snowgem/snowpay-api/-/commit/97ce7a96ee37078e0fd9f10cac795b91016ef34b): infrastructure setup - Kamil Wojciechowski</sub> |
 | <sub>2020-03-24 20:59:34</sub> | <sub>Shmocs pushed to branch [master](https://gitlab.com/shmocs/xsgmndock/commits/master) of [Shmocs / xsgmndock](https://gitlab.com/shmocs/xsgmndock) ([Compare changes](https://gitlab.com/shmocs/xsgmndock/compare/3e82b98a6c7aad116a6ba5f2289bc7988ebda8e5...d7cd2fc3212ce0922e8c99728c04b9acd55b3069))</sub> | <sub>[d7cd2fc3](https://gitlab.com/shmocs/xsgmndock/-/commit/d7cd2fc3212ce0922e8c99728c04b9acd55b3069): - masternodes health stats update - Sergiu Costache</sub> |
 | <sub>2020-03-23 12:55:49</sub> | <sub>demzet removed branch feature/stex_market_order_saga from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>GitLab.com</sub> |
@@ -17,6 +18,5 @@ There is a total of 204 commits since 20/01/2020. You can see the complete histo
 | <sub>2020-03-22 23:03:00</sub> | <sub>demzet (aphex5) opened [\!1 \*Feature/stex market order saga\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/1) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-03-22 23:02:36</sub> | <sub>demzet pushed to branch [feature/stex\_market\_order\_saga](https://gitlab.com/snowgem/snowpay-api/commits/feature/stex_market_order_saga) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/edb3171e8132a49dd8045d2627d3976237c6a77b...d803c62fcb8aa000ee3e9dad2c524995cf89f319))</sub> | <sub>[d803c62f](https://gitlab.com/snowgem/snowpay-api/-/commit/d803c62fcb8aa000ee3e9dad2c524995cf89f319): fixed tests - Kamil Wojciechowski</sub> |
 | <sub>2020-03-22 16:47:33</sub> | <sub>demzet pushed to branch [feature/stex\_market\_order\_saga](https://gitlab.com/snowgem/snowpay-api/commits/feature/stex_market_order_saga) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/84837c88815ce848c65ac069ef87a0c96a9dae39...edb3171e8132a49dd8045d2627d3976237c6a77b))</sub> | <sub>[edb3171e](https://gitlab.com/snowgem/snowpay-api/-/commit/edb3171e8132a49dd8045d2627d3976237c6a77b): added unit tests - Kamil Wojciechowski</sub> |
-| <sub>2020-03-21 22:41:21</sub> | <sub>demzet pushed new branch [feature/stex\_market\_order\_saga](https://gitlab.com/snowgem/snowpay-api/commits/feature/stex_market_order_saga) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
