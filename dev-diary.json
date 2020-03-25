@@ -2934,5 +2934,15 @@
       "description": "[d7cd2fc3](https://gitlab.com/shmocs/xsgmndock/-/commit/d7cd2fc3212ce0922e8c99728c04b9acd55b3069): - masternodes health stats update - Sergiu Costache",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/293188a20adf59d2c15345005668a17f28ec1192...97ce7a96ee37078e0fd9f10cac795b91016ef34b))",
+    "created_at": "2020-03-25 11:46:24.700000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[97ce7a96](https://gitlab.com/snowgem/snowpay-api/-/commit/97ce7a96ee37078e0fd9f10cac795b91016ef34b): infrastructure setup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
