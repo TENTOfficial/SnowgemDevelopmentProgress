@@ -3002,5 +3002,15 @@
       "description": "[802ea4ec](https://gitlab.com/shmocs/xsgmndock/-/commit/802ea4ec1f1efa2cee3a74fa93a522f5682357bc): - new MNs on nodes2 - Sergiu Costache",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/b7e00c3bc966d12fc64233faeac67889e7cf790c...8294ec68e04ba9799a87d0c02bfc72ee795983c3))",
+    "created_at": "2020-03-26 22:14:12.439000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8294ec68](https://gitlab.com/snowgem/snowpay-api/-/commit/8294ec68e04ba9799a87d0c02bfc72ee795983c3): added reverse proxy image - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
