@@ -3032,5 +3032,15 @@
       "description": "[eded562a](https://gitlab.com/snowgem/snowpay-api/-/commit/eded562a68f2900c9026c211fe427cd8185834d5): fixed docker file - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/eded562a68f2900c9026c211fe427cd8185834d5...7fc30ed95ef7151e4d3f1f91cb19afcb7625b9a4))",
+    "created_at": "2020-03-27 09:28:30.972000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7fc30ed9](https://gitlab.com/snowgem/snowpay-api/-/commit/7fc30ed95ef7151e4d3f1f91cb19afcb7625b9a4): gitlab build update - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
