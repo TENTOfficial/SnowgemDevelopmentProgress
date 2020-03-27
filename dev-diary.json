@@ -3042,5 +3042,15 @@
       "description": "[7fc30ed9](https://gitlab.com/snowgem/snowpay-api/-/commit/7fc30ed95ef7151e4d3f1f91cb19afcb7625b9a4): gitlab build update - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7fc30ed95ef7151e4d3f1f91cb19afcb7625b9a4...ed11b4a486a0662cdd22d95a7842a1cc8430353d))",
+    "created_at": "2020-03-27 10:08:16.267000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ed11b4a4](https://gitlab.com/snowgem/snowpay-api/-/commit/ed11b4a486a0662cdd22d95a7842a1cc8430353d): Update ReverseProxy.dockerfile - demzet",
+      "type": "rich"
+    }
   }
 ]
