@@ -3102,5 +3102,15 @@
       "description": "[61d54f2e](https://gitlab.com/snowgem/snowpay-api/-/commit/61d54f2eba4b2f3405a6a171eaec702d76b246e9): config update - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/61d54f2eba4b2f3405a6a171eaec702d76b246e9...2ee689999deb7790b6b8c6451d0a54bde405db49))",
+    "created_at": "2020-03-27 22:27:42.271000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2ee68999](https://gitlab.com/snowgem/snowpay-api/-/commit/2ee689999deb7790b6b8c6451d0a54bde405db49): config update - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
