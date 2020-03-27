@@ -3082,5 +3082,15 @@
       "description": "[e7c8e1c0](https://gitlab.com/shmocs/xsgmndock/-/commit/e7c8e1c0cb6b3d260124428d92fe6be035377536): - new MN on nodes2 - Sergiu Costache",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/efd5da91b5819b4685d90aff3bfd6f7b978573c2...ec5ad4f50384e6788a6ce5b941e01f228606ea5c))",
+    "created_at": "2020-03-27 21:31:37.679000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ec5ad4f5](https://gitlab.com/snowgem/snowpay-api/-/commit/ec5ad4f50384e6788a6ce5b941e01f228606ea5c): added deployment scripts - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
