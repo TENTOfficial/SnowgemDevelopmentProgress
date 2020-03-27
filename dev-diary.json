@@ -3022,5 +3022,15 @@
       "description": "[d45a2dab](https://gitlab.com/snowgem/snowpay-api/-/commit/d45a2dabe2a2d52e12045584edf362d99aa65887): added diagnostics - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d45a2dabe2a2d52e12045584edf362d99aa65887...eded562a68f2900c9026c211fe427cd8185834d5))",
+    "created_at": "2020-03-27 09:21:51.868000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eded562a](https://gitlab.com/snowgem/snowpay-api/-/commit/eded562a68f2900c9026c211fe427cd8185834d5): fixed docker file - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
