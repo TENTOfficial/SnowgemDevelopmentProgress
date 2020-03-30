@@ -3182,5 +3182,15 @@
       "description": "[eb5a6043](https://gitlab.com/snowgem/snowpay-api/-/commit/eb5a6043a72743413434e7fd8f61e9c84212eca8): docker images improvements - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/eb5a6043a72743413434e7fd8f61e9c84212eca8...368e83dba6d1e5add09f08dc6becbb0e0a47837a))",
+    "created_at": "2020-03-30 12:33:16.672000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[368e83db](https://gitlab.com/snowgem/snowpay-api/-/commit/368e83dba6d1e5add09f08dc6becbb0e0a47837a): docker network fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
