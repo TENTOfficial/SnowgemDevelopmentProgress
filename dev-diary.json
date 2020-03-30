@@ -3172,5 +3172,15 @@
       "description": "[4664dd03](https://gitlab.com/snowgem/snowpay-api/-/commit/4664dd0396a320b0f97bacc307b11fb9302d3766): configuration fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4664dd0396a320b0f97bacc307b11fb9302d3766...eb5a6043a72743413434e7fd8f61e9c84212eca8))",
+    "created_at": "2020-03-30 12:20:59.728000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eb5a6043](https://gitlab.com/snowgem/snowpay-api/-/commit/eb5a6043a72743413434e7fd8f61e9c84212eca8): docker images improvements - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
