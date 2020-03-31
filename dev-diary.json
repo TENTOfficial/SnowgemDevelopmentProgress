@@ -3202,5 +3202,15 @@
       "description": "[fa26abe0](https://gitlab.com/snowgem/snowpay-api/-/commit/fa26abe047512f0053c4f421bcc495b2522fc9e9): fixed audience; - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/fa26abe047512f0053c4f421bcc495b2522fc9e9...bce55455f69231355a07616fc1332f76e90bc55c))",
+    "created_at": "2020-03-31 08:28:10.799000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bce55455](https://gitlab.com/snowgem/snowpay-api/-/commit/bce55455f69231355a07616fc1332f76e90bc55c): added shitcoin for testing - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
