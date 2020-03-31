@@ -3282,5 +3282,15 @@
       "description": "[fa1f1ce0](https://gitlab.com/snowgem/bitfrost/-/commit/fa1f1ce01ef73e675442ea299be9eb2142f6cf4c): add bitcoinz - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/00df2bfd34093cb15815ae4cb2fdc2cce2be1bbd...ced52638e359d7a971fd50adfd781f856e6a855a))",
+    "created_at": "2020-03-31 20:31:11.453000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ced52638](https://gitlab.com/snowgem/snowpay-api/-/commit/ced52638e359d7a971fd50adfd781f856e6a855a): added btcz support - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
