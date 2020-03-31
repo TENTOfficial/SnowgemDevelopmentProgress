@@ -3192,5 +3192,15 @@
       "description": "[368e83db](https://gitlab.com/snowgem/snowpay-api/-/commit/368e83dba6d1e5add09f08dc6becbb0e0a47837a): docker network fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/368e83dba6d1e5add09f08dc6becbb0e0a47837a...fa26abe047512f0053c4f421bcc495b2522fc9e9))",
+    "created_at": "2020-03-31 07:37:32.694000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fa26abe0](https://gitlab.com/snowgem/snowpay-api/-/commit/fa26abe047512f0053c4f421bcc495b2522fc9e9): fixed audience; - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
