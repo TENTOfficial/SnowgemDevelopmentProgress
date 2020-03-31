@@ -3232,5 +3232,15 @@
       "description": "[db398ecc](https://gitlab.com/snowgem/snowpay-api/-/commit/db398ecc80fe459110f632d7cb8608e0654d75e6): added remaining MarketOrdersListener for shitcoin pair - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/db398ecc80fe459110f632d7cb8608e0654d75e6...dcea93e9f62a863a4f88e9333a42931230f3f1e0))",
+    "created_at": "2020-03-31 10:39:56.387000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[dcea93e9](https://gitlab.com/snowgem/snowpay-api/-/commit/dcea93e9f62a863a4f88e9333a42931230f3f1e0): fixed LTC block explorer - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
