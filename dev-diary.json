@@ -3262,5 +3262,15 @@
       "description": "[4129956f](https://gitlab.com/snowgem/snowpay-api/-/commit/4129956f784c64d67a5e75aa39ccbc5993569c92): added remaining saga mappings - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4129956f784c64d67a5e75aa39ccbc5993569c92...00df2bfd34093cb15815ae4cb2fdc2cce2be1bbd))",
+    "created_at": "2020-03-31 13:10:23.037000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[00df2bfd](https://gitlab.com/snowgem/snowpay-api/-/commit/00df2bfd34093cb15815ae4cb2fdc2cce2be1bbd): fixed event and command types for swap saga - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
