@@ -3212,5 +3212,15 @@
       "description": "[bce55455](https://gitlab.com/snowgem/snowpay-api/-/commit/bce55455f69231355a07616fc1332f76e90bc55c): added shitcoin for testing - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bce55455f69231355a07616fc1332f76e90bc55c...7b274005dfff2ae4240bf8dc83d3752d456c19b6))",
+    "created_at": "2020-03-31 08:49:04.982000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7b274005](https://gitlab.com/snowgem/snowpay-api/-/commit/7b274005dfff2ae4240bf8dc83d3752d456c19b6): added LTC support - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
