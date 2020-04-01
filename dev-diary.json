@@ -3302,5 +3302,15 @@
       "description": "[c2c8dce6](https://gitlab.com/snowgem/snowpay-api/-/commit/c2c8dce6c54b211588f7f43eeb609ee953653447): extended saga model - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c2c8dce6c54b211588f7f43eeb609ee953653447...a3f2b3d4e5b988c6d0b994c25f6ed3152e20c7a5))",
+    "created_at": "2020-04-01 11:40:10.192000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a3f2b3d4](https://gitlab.com/snowgem/snowpay-api/-/commit/a3f2b3d4e5b988c6d0b994c25f6ed3152e20c7a5): fixed data persistence - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
