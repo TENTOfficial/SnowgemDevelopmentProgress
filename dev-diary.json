@@ -3312,5 +3312,15 @@
       "description": "[a3f2b3d4](https://gitlab.com/snowgem/snowpay-api/-/commit/a3f2b3d4e5b988c6d0b994c25f6ed3152e20c7a5): fixed data persistence - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a3f2b3d4e5b988c6d0b994c25f6ed3152e20c7a5...f4e8902a4dff6801221e6eba9cbb00ae1c4c365e))",
+    "created_at": "2020-04-01 13:11:21.538000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f4e8902a](https://gitlab.com/snowgem/snowpay-api/-/commit/f4e8902a4dff6801221e6eba9cbb00ae1c4c365e): test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
