@@ -3382,5 +3382,25 @@
       "description": "[98f717de](https://gitlab.com/snowgem/snowpay-api/-/commit/98f717de5dd56f2f9772cf287d26b796109fc85c): contracts refactoring - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/98f717de5dd56f2f9772cf287d26b796109fc85c...4961a69cd887679b44181c64dade6302d6871235))",
+    "created_at": "2020-04-02 13:20:51.272000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4961a69c](https://gitlab.com/snowgem/snowpay-api/-/commit/4961a69cd887679b44181c64dade6302d6871235): build fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4961a69cd887679b44181c64dade6302d6871235...832d73fe6cfed28ca15f2a339c194d224de6e7ef))",
+    "created_at": "2020-04-02 13:24:18.182000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[832d73fe](https://gitlab.com/snowgem/snowpay-api/-/commit/832d73fe6cfed28ca15f2a339c194d224de6e7ef): fixed reporting handlers - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
