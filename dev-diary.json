@@ -3487,5 +3487,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature/saga\\_refactoring](https://gitlab.com/snowgem/snowpay-api/commits/feature/saga_refactoring) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-04-03 19:45:58.644000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature/saga\\_refactoring](https://gitlab.com/snowgem/snowpay-api/commits/feature/saga_refactoring) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/55dc9c332189b7dac6bc647befe0bf7fb791ce7a...a7379416cdadef83dcc03832449682d09edefad0))",
+    "created_at": "2020-04-03 22:10:24.480000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a7379416](https://gitlab.com/snowgem/snowpay-api/-/commit/a7379416cdadef83dcc03832449682d09edefad0): saga refactorings - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
