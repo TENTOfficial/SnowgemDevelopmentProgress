@@ -3462,5 +3462,25 @@
       "description": "[c415174d](https://gitlab.com/snowgem/snowpay-api/-/commit/c415174d577801ffe46acace46ee354d525ae314): WIP - Kamil Wojciechowski\n\n[500bccc0](https://gitlab.com/snowgem/snowpay-api/-/commit/500bccc0fd79fa77de7e3e1d64073a30fef0c551): added unit tests, more saga logging - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/500bccc0fd79fa77de7e3e1d64073a30fef0c551...bc3610a9b4441256286e8601c5384785364bd530))",
+    "created_at": "2020-04-03 13:10:10.694000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bc3610a9](https://gitlab.com/snowgem/snowpay-api/-/commit/bc3610a9b4441256286e8601c5384785364bd530): order handler fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bc3610a9b4441256286e8601c5384785364bd530...55dc9c332189b7dac6bc647befe0bf7fb791ce7a))",
+    "created_at": "2020-04-03 13:12:08.875000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[55dc9c33](https://gitlab.com/snowgem/snowpay-api/-/commit/55dc9c332189b7dac6bc647befe0bf7fb791ce7a): test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
