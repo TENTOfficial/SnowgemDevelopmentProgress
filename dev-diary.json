@@ -3452,5 +3452,15 @@
       "description": "[2dd97b39](https://gitlab.com/snowgem/snowpay-api/-/commit/2dd97b39acda2db3137eed75c82c31725ed77d7f): removed retries - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2dd97b39acda2db3137eed75c82c31725ed77d7f...500bccc0fd79fa77de7e3e1d64073a30fef0c551))",
+    "created_at": "2020-04-03 12:53:51.251000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c415174d](https://gitlab.com/snowgem/snowpay-api/-/commit/c415174d577801ffe46acace46ee354d525ae314): WIP - Kamil Wojciechowski\n\n[500bccc0](https://gitlab.com/snowgem/snowpay-api/-/commit/500bccc0fd79fa77de7e3e1d64073a30fef0c551): added unit tests, more saga logging - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
