@@ -3543,5 +3543,15 @@
       "description": "[a596b854](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/a596b854158ef81c1e78bd603e43aab7164ac672): started translation errors in send.js - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/a596b854158ef81c1e78bd603e43aab7164ac672...8adef049da041ef5a5e8cb2e50fffb068d8cc1d1))",
+    "created_at": "2020-04-05 16:13:38.645000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8adef049](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/8adef049da041ef5a5e8cb2e50fffb068d8cc1d1): implementerd translations for 2 more errors (1. Insufficient transparent funds... - ciripel",
+      "type": "rich"
+    }
   }
 ]
