@@ -3497,5 +3497,41 @@
       "description": "[a7379416](https://gitlab.com/snowgem/snowpay-api/-/commit/a7379416cdadef83dcc03832449682d09edefad0): saga refactorings - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-04-05 09:21:20.226000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b5a3da5`](https://github.com/Snowgem/Snowgem/commit/b5a3da55d2a11b4e3f2dc6c7749bb78e1f95b339) Updated obfuscation message - ciripel",
+      "title": "[Snowgem:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/Snowgem/commit/b5a3da55d2a11b4e3f2dc6c7749bb78e1f95b339"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-04-05 09:22:40.708000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`38ea9d2`](https://github.com/Snowgem/Snowgem/commit/38ea9d2c2bf7311424bfaa4a508e626e8d26c831) corrected help of getpoolinfo - ciripel",
+      "title": "[Snowgem:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/Snowgem/commit/38ea9d2c2bf7311424bfaa4a508e626e8d26c831"
+    }
   }
 ]
