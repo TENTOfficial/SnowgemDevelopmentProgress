@@ -3533,5 +3533,15 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/Snowgem/commit/38ea9d2c2bf7311424bfaa4a508e626e8d26c831"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/d1e23b823771f1b3acfa09121784b33a3ec6463f...a596b854158ef81c1e78bd603e43aab7164ac672))",
+    "created_at": "2020-04-05 12:09:44.402000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a596b854](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/a596b854158ef81c1e78bd603e43aab7164ac672): started translation errors in send.js - ciripel",
+      "type": "rich"
+    }
   }
 ]
