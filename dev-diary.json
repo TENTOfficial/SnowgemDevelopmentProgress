@@ -3573,5 +3573,115 @@
       "description": "[7225b2e7](https://gitlab.com/snowgem/snowpay-api/-/commit/7225b2e79ca351699d4b80b74fa73dbaa979a293): db migrations - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened [\\!2 \\*Feature/saga refactoring\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/2) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-04-06 11:18:31.571000",
+    "embed_0": {
+      "color": 4672855,
+      "description": "GitLab.com",
+      "provider": {
+        "name": "GitLab",
+        "url": null
+      },
+      "thumbnail": {
+        "height": 64,
+        "proxy_url": "https://images-ext-2.discordapp.net/external/DkF5MVjV3dgiqhgp8J0ROWrKTz-fABDy9o5LuOXgYiQ/https/assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "url": "https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "width": 64
+      },
+      "title": "Sign in",
+      "type": "link",
+      "url": "https://gitlab.com/snowgem/snowpay-api/-/merge_requests/2)"
+    },
+    "embed_1": {
+      "color": 4672855,
+      "description": "GitLab.com",
+      "provider": {
+        "name": "GitLab",
+        "url": null
+      },
+      "thumbnail": {
+        "height": 64,
+        "proxy_url": "https://images-ext-2.discordapp.net/external/DkF5MVjV3dgiqhgp8J0ROWrKTz-fABDy9o5LuOXgYiQ/https/assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "url": "https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "width": 64
+      },
+      "title": "Sign in",
+      "type": "link",
+      "url": "https://gitlab.com/snowgem/snowpay-api)"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged [\\!2 \\*Feature/saga refactoring\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/2) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-04-06 11:18:40.350000",
+    "embed_0": {
+      "color": 4672855,
+      "description": "GitLab.com",
+      "provider": {
+        "name": "GitLab",
+        "url": null
+      },
+      "thumbnail": {
+        "height": 64,
+        "proxy_url": "https://images-ext-2.discordapp.net/external/DkF5MVjV3dgiqhgp8J0ROWrKTz-fABDy9o5LuOXgYiQ/https/assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "url": "https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "width": 64
+      },
+      "title": "Sign in",
+      "type": "link",
+      "url": "https://gitlab.com/snowgem/snowpay-api/-/merge_requests/2)"
+    },
+    "embed_1": {
+      "color": 4672855,
+      "description": "GitLab.com",
+      "provider": {
+        "name": "GitLab",
+        "url": null
+      },
+      "thumbnail": {
+        "height": 64,
+        "proxy_url": "https://images-ext-2.discordapp.net/external/DkF5MVjV3dgiqhgp8J0ROWrKTz-fABDy9o5LuOXgYiQ/https/assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "url": "https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "width": 64
+      },
+      "title": "Sign in",
+      "type": "link",
+      "url": "https://gitlab.com/snowgem/snowpay-api)"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/55dc9c332189b7dac6bc647befe0bf7fb791ce7a...5e4e355cc92c8f91720dd241589554ab23c8befd))",
+    "created_at": "2020-04-06 11:18:40.500000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fd0ff1c9](https://gitlab.com/snowgem/snowpay-api/-/commit/fd0ff1c94a5968a030c8363b88ef919183695c9f): Feature/saga refactoring - demzet\n\n[5e4e355c](https://gitlab.com/snowgem/snowpay-api/-/commit/5e4e355cc92c8f91720dd241589554ab23c8befd): Merge branch 'feature/saga_refactoring' into 'master' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature/saga_refactoring from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-04-06 11:18:41.519000",
+    "embed_0": {
+      "color": 4672855,
+      "description": "GitLab.com",
+      "provider": {
+        "name": "GitLab",
+        "url": null
+      },
+      "thumbnail": {
+        "height": 64,
+        "proxy_url": "https://images-ext-2.discordapp.net/external/DkF5MVjV3dgiqhgp8J0ROWrKTz-fABDy9o5LuOXgYiQ/https/assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "url": "https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "width": 64
+      },
+      "title": "Sign in",
+      "type": "link",
+      "url": "https://gitlab.com/snowgem/snowpay-api)"
+    }
   }
 ]
