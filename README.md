@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 269 commits since 20/01/2020. You can see the complete history in
+There is a total of 270 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-04-06 13:15:39</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5e4e355cc92c8f91720dd241589554ab23c8befd...6cf25e3e7b72e15c07f0340f45fd4d88691e5632))</sub> | <sub>[6cf25e3e](https://gitlab.com/snowgem/snowpay-api/-/commit/6cf25e3e7b72e15c07f0340f45fd4d88691e5632): bug fix - Kamil Wojciechowski</sub> |
 | <sub>2020-04-06 11:18:41</sub> | <sub>demzet removed branch feature/saga_refactoring from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>GitLab.com</sub> |
 | <sub>2020-04-06 11:18:40</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/55dc9c332189b7dac6bc647befe0bf7fb791ce7a...5e4e355cc92c8f91720dd241589554ab23c8befd))</sub> | <sub>[fd0ff1c9](https://gitlab.com/snowgem/snowpay-api/-/commit/fd0ff1c94a5968a030c8363b88ef919183695c9f): Feature/saga refactoring - demzet<br>[5e4e355c](https://gitlab.com/snowgem/snowpay-api/-/commit/5e4e355cc92c8f91720dd241589554ab23c8befd): Merge branch 'feature/saga_refactoring' into 'master' - demzet</sub> |
 | <sub>2020-04-06 11:18:40</sub> | <sub>demzet (aphex5) merged [\!2 \*Feature/saga refactoring\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/2) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>GitLab.com</sub> |
@@ -17,6 +18,5 @@ There is a total of 269 commits since 20/01/2020. You can see the complete histo
 | <sub>2020-04-05 16:13:38</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/a596b854158ef81c1e78bd603e43aab7164ac672...8adef049da041ef5a5e8cb2e50fffb068d8cc1d1))</sub> | <sub>[8adef049](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/8adef049da041ef5a5e8cb2e50fffb068d8cc1d1): implementerd translations for 2 more errors (1. Insufficient transparent funds... - ciripel</sub> |
 | <sub>2020-04-05 12:09:44</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/d1e23b823771f1b3acfa09121784b33a3ec6463f...a596b854158ef81c1e78bd603e43aab7164ac672))</sub> | <sub>[a596b854](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/a596b854158ef81c1e78bd603e43aab7164ac672): started translation errors in send.js - ciripel</sub> |
 | <sub>2020-04-05 09:22:40</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/38ea9d2c2bf7311424bfaa4a508e626e8d26c831)</sub> | <sub>[38ea9d2](https://github.com/Snowgem/Snowgem/commit/38ea9d2c2bf7311424bfaa4a508e626e8d26c831) corrected help of getpoolinfo - ciripel</sub> |
-| <sub>2020-04-05 09:21:20</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/b5a3da55d2a11b4e3f2dc6c7749bb78e1f95b339)</sub> | <sub>[b5a3da5](https://github.com/Snowgem/Snowgem/commit/b5a3da55d2a11b4e3f2dc6c7749bb78e1f95b339) Updated obfuscation message - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
