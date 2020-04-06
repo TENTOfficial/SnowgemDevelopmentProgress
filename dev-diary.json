@@ -3553,5 +3553,15 @@
       "description": "[8adef049](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/8adef049da041ef5a5e8cb2e50fffb068d8cc1d1): implementerd translations for 2 more errors (1. Insufficient transparent funds... - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature/saga\\_refactoring](https://gitlab.com/snowgem/snowpay-api/commits/feature/saga_refactoring) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a7379416cdadef83dcc03832449682d09edefad0...a1062e945d52d824ae7a691feaea493bdb345007))",
+    "created_at": "2020-04-06 11:03:48.554000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a1062e94](https://gitlab.com/snowgem/snowpay-api/-/commit/a1062e945d52d824ae7a691feaea493bdb345007): saga refactoring - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
