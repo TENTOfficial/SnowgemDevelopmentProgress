@@ -3723,5 +3723,15 @@
       "description": "[cd678b12](https://gitlab.com/snowgem/snowpay-api/-/commit/cd678b123abbb1b04d080ec84f2c07e7bf42cd29): added migrations and initial swaproute data script - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cd678b123abbb1b04d080ec84f2c07e7bf42cd29...f6ed78aafd4652934dd6b6d0c5e4c06d52a75bda))",
+    "created_at": "2020-04-07 11:27:49.532000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f6ed78aa](https://gitlab.com/snowgem/snowpay-api/-/commit/f6ed78aafd4652934dd6b6d0c5e4c06d52a75bda): gateway settings fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
