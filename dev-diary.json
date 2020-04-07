@@ -3703,5 +3703,15 @@
       "description": "[116e2a57](https://gitlab.com/snowgem/snowpay-api/-/commit/116e2a57d18640a2bb169a4dc5bb0415160feabd): logging added - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/116e2a57d18640a2bb169a4dc5bb0415160feabd...f9bd6772d65186148122923b1800a5029a73347c))",
+    "created_at": "2020-04-07 10:15:32.148000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f9bd6772](https://gitlab.com/snowgem/snowpay-api/-/commit/f9bd6772d65186148122923b1800a5029a73347c): refactoring - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
