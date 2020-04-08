@@ -3833,5 +3833,15 @@
       "description": "[af1567f0](https://gitlab.com/snowgem/snowpay-api/-/commit/af1567f001ce82a323b7fd0e137172428fd0a946): withdrawal listener bug fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/af1567f001ce82a323b7fd0e137172428fd0a946...9ffcdb545d0d1ee5058483bd88da38f0355397e8))",
+    "created_at": "2020-04-08 20:45:44.900000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9ffcdb54](https://gitlab.com/snowgem/snowpay-api/-/commit/9ffcdb545d0d1ee5058483bd88da38f0355397e8): withdrawal listener fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
