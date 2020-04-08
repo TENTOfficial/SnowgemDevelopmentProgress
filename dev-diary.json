@@ -3813,5 +3813,15 @@
       "description": "[109973b7](https://gitlab.com/snowgem/snowpay-api/-/commit/109973b70085a9198a53fe7a8770806907a77aa3): added swap list endpoint + validation - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/109973b70085a9198a53fe7a8770806907a77aa3...5457affe9f022338c4f68f745df6c633084965b2))",
+    "created_at": "2020-04-08 12:23:46.271000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5457affe](https://gitlab.com/snowgem/snowpay-api/-/commit/5457affe9f022338c4f68f745df6c633084965b2): test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
