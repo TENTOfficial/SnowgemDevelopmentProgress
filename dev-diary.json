@@ -3861,5 +3861,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/blockbook/commit/5aaceb4dbb5bf52c6ac94c2d0b2e0bd1d7dabf29"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-04-09 18:25:43.546000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`054ae16`](https://github.com/ciripel/blockbook/commit/054ae16c1715a047eab647a34bfce71106614ef4) Fixed testdata tx hex - ciripel",
+      "title": "[blockbook:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/blockbook/commit/054ae16c1715a047eab647a34bfce71106614ef4"
+    }
   }
 ]
