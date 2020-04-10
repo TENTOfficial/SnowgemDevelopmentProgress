@@ -3909,5 +3909,15 @@
       "description": "[4a1c0c72](https://gitlab.com/snowgem/snowpay-api/-/commit/4a1c0c72387c66eb60772de490655db6b71f189c): validation fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4a1c0c72387c66eb60772de490655db6b71f189c...7822004dc3fdfcbb3f3fe930eebfa8af634dc8b4))",
+    "created_at": "2020-04-10 21:47:29.237000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7822004d](https://gitlab.com/snowgem/snowpay-api/-/commit/7822004dc3fdfcbb3f3fe930eebfa8af634dc8b4): nginx fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
