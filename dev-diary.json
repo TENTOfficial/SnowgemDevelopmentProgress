@@ -3879,5 +3879,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/blockbook/commit/054ae16c1715a047eab647a34bfce71106614ef4"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fa1f1ce01ef73e675442ea299be9eb2142f6cf4c...1fd178fa5198377e4b37eb9bea3ae4b93d147c6d))",
+    "created_at": "2020-04-10 18:49:01.165000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1fd178fa](https://gitlab.com/snowgem/bitfrost/-/commit/1fd178fa5198377e4b37eb9bea3ae4b93d147c6d): add swap apis - SnowGem",
+      "type": "rich"
+    }
   }
 ]
