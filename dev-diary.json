@@ -3957,5 +3957,15 @@
       "description": "[9d6d49ea](https://gitlab.com/snowgem/snowpay-api/-/commit/9d6d49eaf5c5caeda95feab1e088d61eee9c85f8): fix GET user metadata when not set - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9d6d49eaf5c5caeda95feab1e088d61eee9c85f8...942fe32751f9f56781f531c84f39bd7299736517))",
+    "created_at": "2020-04-11 21:27:18.506000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[942fe327](https://gitlab.com/snowgem/snowpay-api/-/commit/942fe32751f9f56781f531c84f39bd7299736517): cors fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
