@@ -3947,5 +3947,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/blockbook/commit/e3e61ad7053dd670f20703a3a48b4f7ac19d32d0"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7822004dc3fdfcbb3f3fe930eebfa8af634dc8b4...9d6d49eaf5c5caeda95feab1e088d61eee9c85f8))",
+    "created_at": "2020-04-11 20:36:03.987000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9d6d49ea](https://gitlab.com/snowgem/snowpay-api/-/commit/9d6d49eaf5c5caeda95feab1e088d61eee9c85f8): fix GET user metadata when not set - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]

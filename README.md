@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 293 commits since 20/01/2020. You can see the complete history in
+There is a total of 294 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-04-11 20:36:03</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7822004dc3fdfcbb3f3fe930eebfa8af634dc8b4...9d6d49eaf5c5caeda95feab1e088d61eee9c85f8))</sub> | <sub>[9d6d49ea](https://gitlab.com/snowgem/snowpay-api/-/commit/9d6d49eaf5c5caeda95feab1e088d61eee9c85f8): fix GET user metadata when not set - Kamil Wojciechowski</sub> |
 | <sub>2020-04-11 19:57:23</sub> | <sub>[[blockbook:master] 1 new commit](https://github.com/ciripel/blockbook/commit/e3e61ad7053dd670f20703a3a48b4f7ac19d32d0)</sub> | <sub>[e3e61ad](https://github.com/ciripel/blockbook/commit/e3e61ad7053dd670f20703a3a48b4f7ac19d32d0) Fixed folder containing spaces issue in path of... - ciripel</sub> |
 | <sub>2020-04-11 17:17:26</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1fd178fa5198377e4b37eb9bea3ae4b93d147c6d...748ea04b9ec834789bf310bb7bde0502fa3f5d50))</sub> | <sub>[748ea04b](https://gitlab.com/snowgem/bitfrost/-/commit/748ea04b9ec834789bf310bb7bde0502fa3f5d50): fix register url - SnowGem</sub> |
 | <sub>2020-04-10 21:47:29</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4a1c0c72387c66eb60772de490655db6b71f189c...7822004dc3fdfcbb3f3fe930eebfa8af634dc8b4))</sub> | <sub>[7822004d](https://gitlab.com/snowgem/snowpay-api/-/commit/7822004dc3fdfcbb3f3fe930eebfa8af634dc8b4): nginx fix - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 293 commits since 20/01/2020. You can see the complete histo
 | <sub>2020-04-09 18:25:43</sub> | <sub>[[blockbook:master] 1 new commit](https://github.com/ciripel/blockbook/commit/054ae16c1715a047eab647a34bfce71106614ef4)</sub> | <sub>[054ae16](https://github.com/ciripel/blockbook/commit/054ae16c1715a047eab647a34bfce71106614ef4) Fixed testdata tx hex - ciripel</sub> |
 | <sub>2020-04-09 17:15:29</sub> | <sub>[[blockbook:master] 1 new commit](https://github.com/ciripel/blockbook/commit/5aaceb4dbb5bf52c6ac94c2d0b2e0bd1d7dabf29)</sub> | <sub>[5aaceb4](https://github.com/ciripel/blockbook/commit/5aaceb4dbb5bf52c6ac94c2d0b2e0bd1d7dabf29) fixed paxkedTx - ciripel</sub> |
 | <sub>2020-04-08 20:45:44</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/af1567f001ce82a323b7fd0e137172428fd0a946...9ffcdb545d0d1ee5058483bd88da38f0355397e8))</sub> | <sub>[9ffcdb54](https://gitlab.com/snowgem/snowpay-api/-/commit/9ffcdb545d0d1ee5058483bd88da38f0355397e8): withdrawal listener fix - Kamil Wojciechowski</sub> |
-| <sub>2020-04-08 20:19:49</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5457affe9f022338c4f68f745df6c633084965b2...af1567f001ce82a323b7fd0e137172428fd0a946))</sub> | <sub>[af1567f0](https://gitlab.com/snowgem/snowpay-api/-/commit/af1567f001ce82a323b7fd0e137172428fd0a946): withdrawal listener bug fix - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
