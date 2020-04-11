@@ -3929,5 +3929,23 @@
       "description": "[748ea04b](https://gitlab.com/snowgem/bitfrost/-/commit/748ea04b9ec834789bf310bb7bde0502fa3f5d50): fix register url - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-04-11 19:57:23.822000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e3e61ad`](https://github.com/ciripel/blockbook/commit/e3e61ad7053dd670f20703a3a48b4f7ac19d32d0) Fixed folder containing spaces issue in path of... - ciripel",
+      "title": "[blockbook:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/blockbook/commit/e3e61ad7053dd670f20703a3a48b4f7ac19d32d0"
+    }
   }
 ]
