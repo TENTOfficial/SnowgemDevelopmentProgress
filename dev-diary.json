@@ -3919,5 +3919,15 @@
       "description": "[7822004d](https://gitlab.com/snowgem/snowpay-api/-/commit/7822004dc3fdfcbb3f3fe930eebfa8af634dc8b4): nginx fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1fd178fa5198377e4b37eb9bea3ae4b93d147c6d...748ea04b9ec834789bf310bb7bde0502fa3f5d50))",
+    "created_at": "2020-04-11 17:17:26.550000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[748ea04b](https://gitlab.com/snowgem/bitfrost/-/commit/748ea04b9ec834789bf310bb7bde0502fa3f5d50): fix register url - SnowGem",
+      "type": "rich"
+    }
   }
 ]
