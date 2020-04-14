@@ -3967,5 +3967,15 @@
       "description": "[942fe327](https://gitlab.com/snowgem/snowpay-api/-/commit/942fe32751f9f56781f531c84f39bd7299736517): cors fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/942fe32751f9f56781f531c84f39bd7299736517...8032e42fc87d94ae6695a9e3da54b0ca3daa43e0))",
+    "created_at": "2020-04-14 08:01:31.030000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8032e42f](https://gitlab.com/snowgem/snowpay-api/-/commit/8032e42fc87d94ae6695a9e3da54b0ca3daa43e0): web server configs - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
