@@ -4077,5 +4077,15 @@
       "description": "[88df474c](https://gitlab.com/snowgem/snowpay-api/-/commit/88df474c539a21910220b5c40f3ff8d6f01e0791): added orderbook deletion fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/88df474c539a21910220b5c40f3ff8d6f01e0791...5c621330e99de0498320df6169bd090c2d2acdaf))",
+    "created_at": "2020-04-14 13:14:58.694000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5c621330](https://gitlab.com/snowgem/snowpay-api/-/commit/5c621330e99de0498320df6169bd090c2d2acdaf): gateway swap route improvement - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
