@@ -4007,5 +4007,15 @@
       "description": "[43c62681](https://gitlab.com/snowgem/snowpay-api/-/commit/43c62681a4e5b6be1db3340223e55858e400f626): config fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/43c62681a4e5b6be1db3340223e55858e400f626...41593e2c40a24293717e52465aee954e6406154f))",
+    "created_at": "2020-04-14 09:27:09.307000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[41593e2c](https://gitlab.com/snowgem/snowpay-api/-/commit/41593e2c40a24293717e52465aee954e6406154f): updated stex socketio client, - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
