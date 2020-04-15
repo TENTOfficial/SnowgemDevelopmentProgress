@@ -4137,5 +4137,15 @@
       "description": "[a692822b](https://gitlab.com/snowgem/snowpay-api/-/commit/a692822b87b6ac0991b4cd267c4821007ad9a413): logging refactoring - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a692822b87b6ac0991b4cd267c4821007ad9a413...dcb928c86adbc95132b323d17f7b403cee4c4dfc))",
+    "created_at": "2020-04-15 13:36:25.364000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[dcb928c8](https://gitlab.com/snowgem/snowpay-api/-/commit/dcb928c86adbc95132b323d17f7b403cee4c4dfc): fixed notifications - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
