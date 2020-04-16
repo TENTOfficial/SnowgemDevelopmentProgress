@@ -4217,5 +4217,15 @@
       "description": "[bbf0e5fb](https://gitlab.com/snowgem/snowpay-api/-/commit/bbf0e5fb559aba7c467efe853d184e41af42fb72): added doge coin support - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bbf0e5fb559aba7c467efe853d184e41af42fb72...e136ae0cd2b7fac1898f363b0fd1ef3fc85ea54f))",
+    "created_at": "2020-04-16 14:02:29.878000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e136ae0c](https://gitlab.com/snowgem/snowpay-api/-/commit/e136ae0cd2b7fac1898f363b0fd1ef3fc85ea54f): empty order book fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
