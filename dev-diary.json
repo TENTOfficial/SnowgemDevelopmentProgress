@@ -4197,5 +4197,15 @@
       "description": "[d70e9fb3](https://gitlab.com/snowgem/snowpay-api/-/commit/d70e9fb3fbc49d5ecca053c6fef90809906e24ee): fixed swingle swap complete message - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d70e9fb3fbc49d5ecca053c6fef90809906e24ee...85e69568df0ad3d8e3b74ba5f34a53b4ba281373))",
+    "created_at": "2020-04-16 11:34:40.713000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[85e69568](https://gitlab.com/snowgem/snowpay-api/-/commit/85e69568df0ad3d8e3b74ba5f34a53b4ba281373): added saga monitoring plugin - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
