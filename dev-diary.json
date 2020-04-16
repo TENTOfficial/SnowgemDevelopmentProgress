@@ -4187,5 +4187,15 @@
       "description": "[9c23002c](https://gitlab.com/snowgem/bitfrost/-/commit/9c23002c31788bf4301557cdef770f121807ee08): fix wallet apis - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/11a34da4873e7bfe740d3fd1487f8ae1db9f4df5...d70e9fb3fbc49d5ecca053c6fef90809906e24ee))",
+    "created_at": "2020-04-16 09:37:29.726000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d70e9fb3](https://gitlab.com/snowgem/snowpay-api/-/commit/d70e9fb3fbc49d5ecca053c6fef90809906e24ee): fixed swingle swap complete message - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
