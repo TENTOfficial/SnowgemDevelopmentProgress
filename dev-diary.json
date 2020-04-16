@@ -4207,5 +4207,15 @@
       "description": "[85e69568](https://gitlab.com/snowgem/snowpay-api/-/commit/85e69568df0ad3d8e3b74ba5f34a53b4ba281373): added saga monitoring plugin - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/85e69568df0ad3d8e3b74ba5f34a53b4ba281373...bbf0e5fb559aba7c467efe853d184e41af42fb72))",
+    "created_at": "2020-04-16 13:27:51.936000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bbf0e5fb](https://gitlab.com/snowgem/snowpay-api/-/commit/bbf0e5fb559aba7c467efe853d184e41af42fb72): added doge coin support - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
