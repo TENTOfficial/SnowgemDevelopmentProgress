@@ -4247,5 +4247,15 @@
       "description": "[fcbcd2ca](https://gitlab.com/snowgem/snowpay-api/-/commit/fcbcd2cad892496552d1e9c453e4ee7bf63d35d7): swap params endpoint refactoring - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/fcbcd2cad892496552d1e9c453e4ee7bf63d35d7...e60f9186bcd401b2d4bfbce5abb6013c66db66b1))",
+    "created_at": "2020-04-17 13:50:43.972000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e60f9186](https://gitlab.com/snowgem/snowpay-api/-/commit/e60f9186bcd401b2d4bfbce5abb6013c66db66b1): added swap report endpoint - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
