@@ -4227,5 +4227,15 @@
       "description": "[e136ae0c](https://gitlab.com/snowgem/snowpay-api/-/commit/e136ae0cd2b7fac1898f363b0fd1ef3fc85ea54f): empty order book fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e136ae0cd2b7fac1898f363b0fd1ef3fc85ea54f...7cc683da95ce4e912828ece3114398c6b7da52f6))",
+    "created_at": "2020-04-17 11:21:23.966000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7cc683da](https://gitlab.com/snowgem/snowpay-api/-/commit/7cc683da95ce4e912828ece3114398c6b7da52f6): added dynamic market listeners - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
