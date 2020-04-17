@@ -4267,5 +4267,15 @@
       "description": "[eef35d33](https://gitlab.com/snowgem/snowpay-api/-/commit/eef35d33788fd2f9302d55c1e3b921ed700404cf): withdrawal handler fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/eef35d33788fd2f9302d55c1e3b921ed700404cf...0b2fe288d6c1f1af0dbed48ed5128b47a93bf39e))",
+    "created_at": "2020-04-17 22:09:04.151000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0b2fe288](https://gitlab.com/snowgem/snowpay-api/-/commit/0b2fe288d6c1f1af0dbed48ed5128b47a93bf39e): added doge BlockExplorer - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
