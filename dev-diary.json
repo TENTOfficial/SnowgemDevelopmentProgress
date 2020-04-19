@@ -4317,5 +4317,15 @@
       "description": "[068d1140](https://gitlab.com/snowgem/bitfrost/-/commit/068d1140a7b4c5ad00b45c1d45892f09865547b2): fix login routing - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/068d1140a7b4c5ad00b45c1d45892f09865547b2...13463847c693271f7a78027ecb23dfb196d06629))",
+    "created_at": "2020-04-19 19:01:25.135000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[13463847](https://gitlab.com/snowgem/bitfrost/-/commit/13463847c693271f7a78027ecb23dfb196d06629): Added forgot pass button. - DaX",
+      "type": "rich"
+    }
   }
 ]
