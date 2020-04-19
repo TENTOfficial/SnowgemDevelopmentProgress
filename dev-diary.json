@@ -4287,5 +4287,15 @@
       "description": "[94ea14d9](https://gitlab.com/snowgem/bitfrost/-/commit/94ea14d94359af564d350e2497174d375c685410): Tons of changes to UI. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/94ea14d94359af564d350e2497174d375c685410...4427e73fe019690c2c88e8cbc0a2a3fc83c2a448))",
+    "created_at": "2020-04-19 17:35:55.077000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4427e73f](https://gitlab.com/snowgem/bitfrost/-/commit/4427e73fe019690c2c88e8cbc0a2a3fc83c2a448): Added FontAwesome. Animation added to register page. - DaX",
+      "type": "rich"
+    }
   }
 ]
