@@ -4297,5 +4297,15 @@
       "description": "[4427e73f](https://gitlab.com/snowgem/bitfrost/-/commit/4427e73fe019690c2c88e8cbc0a2a3fc83c2a448): Added FontAwesome. Animation added to register page. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4427e73fe019690c2c88e8cbc0a2a3fc83c2a448...0a4ba87323df95b13cc6947ab93a03747405e99d))",
+    "created_at": "2020-04-19 17:46:12.024000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5ae21d0e](https://gitlab.com/snowgem/bitfrost/-/commit/5ae21d0e74b6506e5e2f55ae3539339272800ccb): add wallet address api - SnowGem\n\n[0a4ba873](https://gitlab.com/snowgem/bitfrost/-/commit/0a4ba87323df95b13cc6947ab93a03747405e99d): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
+      "type": "rich"
+    }
   }
 ]
