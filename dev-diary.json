@@ -4347,5 +4347,15 @@
       "description": "[76a2a55c](https://gitlab.com/snowgem/bitfrost/-/commit/76a2a55c1d2f97eac7c99e041a35cd056684977e): Login page flow corrected. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/76a2a55c1d2f97eac7c99e041a35cd056684977e...189668eb6cd0f443aad34953ea5fd03906c64c77))",
+    "created_at": "2020-04-19 21:57:26.088000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[189668eb](https://gitlab.com/snowgem/bitfrost/-/commit/189668eb6cd0f443aad34953ea5fd03906c64c77): Changed lost password UI. - DaX",
+      "type": "rich"
+    }
   }
 ]
