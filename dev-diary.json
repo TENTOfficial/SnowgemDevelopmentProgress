@@ -4357,5 +4357,15 @@
       "description": "[189668eb](https://gitlab.com/snowgem/bitfrost/-/commit/189668eb6cd0f443aad34953ea5fd03906c64c77): Changed lost password UI. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0b2fe288d6c1f1af0dbed48ed5128b47a93bf39e...ec80d7d3c602c81c47d15a7fd0d36fe8f4147cce))",
+    "created_at": "2020-04-20 13:05:06.457000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ec80d7d3](https://gitlab.com/snowgem/snowpay-api/-/commit/ec80d7d3c602c81c47d15a7fd0d36fe8f4147cce): added inmemory db for querying market orders - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
