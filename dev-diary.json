@@ -4377,5 +4377,15 @@
       "description": "[98ac703e](https://gitlab.com/snowgem/snowpay-api/-/commit/98ac703efc7fabfc187d6972f610fe5fcc688982): remastered swap routes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/98ac703efc7fabfc187d6972f610fe5fcc688982...46ddae4b2dd62c8d1f73c1cb0680b09dfe5393c5))",
+    "created_at": "2020-04-20 15:05:30.645000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[46ddae4b](https://gitlab.com/snowgem/snowpay-api/-/commit/46ddae4b2dd62c8d1f73c1cb0680b09dfe5393c5): remastered swap routes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
