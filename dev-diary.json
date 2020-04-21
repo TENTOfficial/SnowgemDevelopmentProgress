@@ -4397,5 +4397,15 @@
       "description": "[8e036a5c](https://gitlab.com/snowgem/bitfrost/-/commit/8e036a5c6772f61c246ee3213e7d3130051f9baa): forgot password working - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/46ddae4b2dd62c8d1f73c1cb0680b09dfe5393c5...a8da986d29e5f2076999dd85753ae2656d03cc32))",
+    "created_at": "2020-04-21 10:01:37.957000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a8da986d](https://gitlab.com/snowgem/snowpay-api/-/commit/a8da986d29e5f2076999dd85753ae2656d03cc32): added ws notification basic support - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
