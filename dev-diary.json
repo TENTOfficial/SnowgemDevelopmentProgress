@@ -4532,5 +4532,15 @@
       "description": "[62e1e2ec](https://gitlab.com/snowgem/snowpay-api/-/commit/62e1e2ec1cb8ae8c6a79ec5f6520e71858ab1bd9): added source min trade amount column - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/62e1e2ec1cb8ae8c6a79ec5f6520e71858ab1bd9...7b3a37ac4409f1551099d01fe46d8f8cbb425a23))",
+    "created_at": "2020-04-23 12:01:59.950000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7b3a37ac](https://gitlab.com/snowgem/snowpay-api/-/commit/7b3a37ac4409f1551099d01fe46d8f8cbb425a23): unit test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
