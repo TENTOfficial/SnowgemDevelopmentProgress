@@ -4492,5 +4492,15 @@
       "description": "[d7feefa9](https://gitlab.com/snowgem/snowpay-api/-/commit/d7feefa92c08fadc940191c03649da5549101bd0): updated build definition - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d7feefa92c08fadc940191c03649da5549101bd0...71abe004c38699fc1ec33d2d677d9bd554435273))",
+    "created_at": "2020-04-23 08:31:46.318000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[71abe004](https://gitlab.com/snowgem/snowpay-api/-/commit/71abe004c38699fc1ec33d2d677d9bd554435273): enabled swapping pairs - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
