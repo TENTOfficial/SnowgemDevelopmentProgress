@@ -4562,5 +4562,15 @@
       "description": "[8c98d7a0](https://gitlab.com/snowgem/snowpay-api/-/commit/8c98d7a09b77f99ea601952432819d6b49991f5d): migrations cleanup - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a47f4587ac8e0581d28bb54b8ab70c852f1445ba...de3fa99a21f8bc826fe1f0348e433c12761afa4d))",
+    "created_at": "2020-04-23 17:51:05.553000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[de3fa99a](https://gitlab.com/snowgem/bitfrost/-/commit/de3fa99a21f8bc826fe1f0348e433c12761afa4d): add send ethereum page - SnowGem",
+      "type": "rich"
+    }
   }
 ]
