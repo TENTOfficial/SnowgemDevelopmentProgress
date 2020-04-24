@@ -4592,5 +4592,15 @@
       "description": "[2254d5a1](https://gitlab.com/snowgem/snowpay-api/-/commit/2254d5a1a0c28f2fdb5a5734c2025a6e9e879485): unit tests fixes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/de3fa99a21f8bc826fe1f0348e433c12761afa4d...a98470afcef2596cc89c0d3467384ee89e1713cb))",
+    "created_at": "2020-04-24 14:31:20.982000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a98470af](https://gitlab.com/snowgem/bitfrost/-/commit/a98470afcef2596cc89c0d3467384ee89e1713cb): AddCoin page styling. - DaX",
+      "type": "rich"
+    }
   }
 ]
