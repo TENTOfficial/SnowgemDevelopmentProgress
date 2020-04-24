@@ -4602,5 +4602,15 @@
       "description": "[a98470af](https://gitlab.com/snowgem/bitfrost/-/commit/a98470afcef2596cc89c0d3467384ee89e1713cb): AddCoin page styling. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a98470afcef2596cc89c0d3467384ee89e1713cb...4ff8082c61845d963591dfb560cac44e452bb7bb))",
+    "created_at": "2020-04-24 14:43:33.058000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a3f7a1b0](https://gitlab.com/snowgem/bitfrost/-/commit/a3f7a1b0c658d023ed0ba60e1d83277488e86fb2): add ng2-charts - SnowGem\n\n[bd6bac7b](https://gitlab.com/snowgem/bitfrost/-/commit/bd6bac7bad7c0ad007055718563eb185ece2e47d): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[4ff8082c](https://gitlab.com/snowgem/bitfrost/-/commit/4ff8082c61845d963591dfb560cac44e452bb7bb): background transparent add coin item - SnowGem",
+      "type": "rich"
+    }
   }
 ]
