@@ -4612,5 +4612,15 @@
       "description": "[a3f7a1b0](https://gitlab.com/snowgem/bitfrost/-/commit/a3f7a1b0c658d023ed0ba60e1d83277488e86fb2): add ng2-charts - SnowGem\n\n[bd6bac7b](https://gitlab.com/snowgem/bitfrost/-/commit/bd6bac7bad7c0ad007055718563eb185ece2e47d): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[4ff8082c](https://gitlab.com/snowgem/bitfrost/-/commit/4ff8082c61845d963591dfb560cac44e452bb7bb): background transparent add coin item - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4ff8082c61845d963591dfb560cac44e452bb7bb...b3a6e17bd9fc5448f8433007ca1626957b17dba8))",
+    "created_at": "2020-04-24 18:38:33.777000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b3a6e17b](https://gitlab.com/snowgem/bitfrost/-/commit/b3a6e17bd9fc5448f8433007ca1626957b17dba8): save eth transaction successfully - SnowGem",
+      "type": "rich"
+    }
   }
 ]
