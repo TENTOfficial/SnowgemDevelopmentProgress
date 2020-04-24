@@ -4572,5 +4572,15 @@
       "description": "[de3fa99a](https://gitlab.com/snowgem/bitfrost/-/commit/de3fa99a21f8bc826fe1f0348e433c12761afa4d): add send ethereum page - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8c98d7a09b77f99ea601952432819d6b49991f5d...59eea5ed27707481b2d98b21864163dd1fca5497))",
+    "created_at": "2020-04-24 12:25:56.643000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[59eea5ed](https://gitlab.com/snowgem/snowpay-api/-/commit/59eea5ed27707481b2d98b21864163dd1fca5497): trading and withdrawal fees fixes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
