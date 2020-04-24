@@ -4582,5 +4582,15 @@
       "description": "[59eea5ed](https://gitlab.com/snowgem/snowpay-api/-/commit/59eea5ed27707481b2d98b21864163dd1fca5497): trading and withdrawal fees fixes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/59eea5ed27707481b2d98b21864163dd1fca5497...2254d5a1a0c28f2fdb5a5734c2025a6e9e879485))",
+    "created_at": "2020-04-24 13:04:55.545000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2254d5a1](https://gitlab.com/snowgem/snowpay-api/-/commit/2254d5a1a0c28f2fdb5a5734c2025a6e9e879485): unit tests fixes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
