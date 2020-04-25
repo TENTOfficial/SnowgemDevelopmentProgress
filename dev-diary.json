@@ -4622,5 +4622,15 @@
       "description": "[b3a6e17b](https://gitlab.com/snowgem/bitfrost/-/commit/b3a6e17bd9fc5448f8433007ca1626957b17dba8): save eth transaction successfully - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b3a6e17bd9fc5448f8433007ca1626957b17dba8...cdfb40f360905a884bc3149c3ad5ebc559750727))",
+    "created_at": "2020-04-25 08:19:33.261000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cdfb40f3](https://gitlab.com/snowgem/bitfrost/-/commit/cdfb40f360905a884bc3149c3ad5ebc559750727): Coins edit. - DaX",
+      "type": "rich"
+    }
   }
 ]
