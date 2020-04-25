@@ -4632,5 +4632,15 @@
       "description": "[cdfb40f3](https://gitlab.com/snowgem/bitfrost/-/commit/cdfb40f360905a884bc3149c3ad5ebc559750727): Coins edit. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cdfb40f360905a884bc3149c3ad5ebc559750727...59b2bc106010ae93c271efd2390a5bb41d73b80b))",
+    "created_at": "2020-04-25 09:11:19.560000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[59b2bc10](https://gitlab.com/snowgem/bitfrost/-/commit/59b2bc106010ae93c271efd2390a5bb41d73b80b): Change pass page edit. - DaX",
+      "type": "rich"
+    }
   }
 ]
