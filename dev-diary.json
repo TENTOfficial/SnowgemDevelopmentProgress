@@ -4730,5 +4730,15 @@
       "description": "[e8e18f29](https://gitlab.com/snowgem/bitfrost/-/commit/e8e18f29c3385fcd25ba7fe833dfa40b52b0bcfb): ExportPage edit. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e8e18f29c3385fcd25ba7fe833dfa40b52b0bcfb...f00a0476780bca329e17f890b2c3935af86b09af))",
+    "created_at": "2020-04-26 14:54:27.184000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f00a0476](https://gitlab.com/snowgem/bitfrost/-/commit/f00a0476780bca329e17f890b2c3935af86b09af): fix api call isue - SnowGem",
+      "type": "rich"
+    }
   }
 ]
