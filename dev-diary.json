@@ -4810,5 +4810,15 @@
       "description": "[3028b398](https://gitlab.com/snowgem/bitfrost/-/commit/3028b398688f5913833f0ad92610f513fabc7109): validate address before estimating gas limit - SnowGem\n\n[76f78a99](https://gitlab.com/snowgem/bitfrost/-/commit/76f78a99f41b92b28a3b3168accfa4e04b767e57): auto get nonce for eth transaction - SnowGem\n\n[6412053a](https://gitlab.com/snowgem/bitfrost/-/commit/6412053ab6a2e9069ec8535b6170a14f22343928): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6412053ab6a2e9069ec8535b6170a14f22343928...1029445a9e0b4b4e1a1a8800e3213ecba75682c1))",
+    "created_at": "2020-04-27 22:11:31.751000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1029445a](https://gitlab.com/snowgem/bitfrost/-/commit/1029445a9e0b4b4e1a1a8800e3213ecba75682c1): Wallet Tools pages edit. Addresses, API, Backup, Rename. - DaX",
+      "type": "rich"
+    }
   }
 ]
