@@ -4770,5 +4770,15 @@
       "description": "[9d746868](https://gitlab.com/snowgem/bitfrost/-/commit/9d746868aae6a7c5487fbb1a48ebbd8e47fa2879): first eth transaction - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2254d5a1a0c28f2fdb5a5734c2025a6e9e879485...c0dac61c9e04c6bbc5c5a788bac7d6d7faa6cd2e))",
+    "created_at": "2020-04-27 12:34:30.284000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c0dac61c](https://gitlab.com/snowgem/snowpay-api/-/commit/c0dac61c9e04c6bbc5c5a788bac7d6d7faa6cd2e): production deployment setting adjustments - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
