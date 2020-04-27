@@ -4780,5 +4780,15 @@
       "description": "[c0dac61c](https://gitlab.com/snowgem/snowpay-api/-/commit/c0dac61c9e04c6bbc5c5a788bac7d6d7faa6cd2e): production deployment setting adjustments - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c0dac61c9e04c6bbc5c5a788bac7d6d7faa6cd2e...a07a64a7a815d9f94be68dbd4308697070e634d6))",
+    "created_at": "2020-04-27 13:34:28.649000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a07a64a7](https://gitlab.com/snowgem/snowpay-api/-/commit/a07a64a7a815d9f94be68dbd4308697070e634d6): build fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
