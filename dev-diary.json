@@ -4750,5 +4750,15 @@
       "description": "[4db3499c](https://gitlab.com/snowgem/bitfrost/-/commit/4db3499cb24151a4dd4c7d66684e371b5c99bf22): NewWallet new flow section. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4db3499cb24151a4dd4c7d66684e371b5c99bf22...a9aaffd2b3250466515ee9d6a893400cfbaeef4a))",
+    "created_at": "2020-04-27 09:17:34.527000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[26843dd9](https://gitlab.com/snowgem/bitfrost/-/commit/26843dd9156ce71d0fd7a038c2257304fb8c3945): name wallet flow - SnowGem\n\n[a9aaffd2](https://gitlab.com/snowgem/bitfrost/-/commit/a9aaffd2b3250466515ee9d6a893400cfbaeef4a): support add coin new flow - SnowGem",
+      "type": "rich"
+    }
   }
 ]
