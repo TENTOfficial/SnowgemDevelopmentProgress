@@ -4860,5 +4860,25 @@
       "description": "[23f9e256](https://gitlab.com/snowgem/snowpay-api/-/commit/23f9e256b064e6587ade120ab0ffeb67be9d5efd): debugging - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/23f9e256b064e6587ade120ab0ffeb67be9d5efd...e69ec43537c23ad833ff9b240f8db8e3d73df486))",
+    "created_at": "2020-04-28 13:36:35.563000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e69ec435](https://gitlab.com/snowgem/snowpay-api/-/commit/e69ec43537c23ad833ff9b240f8db8e3d73df486): adjusted logging - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e69ec43537c23ad833ff9b240f8db8e3d73df486...4bc9cf353d2b5c0ef1c5189eb2346aba47c7ded5))",
+    "created_at": "2020-04-28 13:39:55.268000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4bc9cf35](https://gitlab.com/snowgem/snowpay-api/-/commit/4bc9cf353d2b5c0ef1c5189eb2346aba47c7ded5): added request logging - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
