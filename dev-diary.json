@@ -4995,5 +4995,15 @@
       "description": "[891ae519](https://gitlab.com/snowgem/snowpay-api/-/commit/891ae5195e0e1282acfd85e75a0e0dbc7fe94c4c): cors fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1ab91730181cee469af075880ac7d8db56ad5f23...85083e06b05c272d83ff4ee0cbf63f6de0048acb))",
+    "created_at": "2020-04-28 21:30:39.854000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[85083e06](https://gitlab.com/snowgem/bitfrost/-/commit/85083e06b05c272d83ff4ee0cbf63f6de0048acb): Customizations. - DaX",
+      "type": "rich"
+    }
   }
 ]
