@@ -4985,5 +4985,15 @@
       "description": "[1ab91730](https://gitlab.com/snowgem/bitfrost/-/commit/1ab91730181cee469af075880ac7d8db56ad5f23): wallet item component - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4bc9cf353d2b5c0ef1c5189eb2346aba47c7ded5...891ae5195e0e1282acfd85e75a0e0dbc7fe94c4c))",
+    "created_at": "2020-04-28 21:19:44.574000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[891ae519](https://gitlab.com/snowgem/snowpay-api/-/commit/891ae5195e0e1282acfd85e75a0e0dbc7fe94c4c): cors fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
