@@ -4920,5 +4920,15 @@
       "description": "[631ba12d](https://gitlab.com/snowgem/bitfrost/-/commit/631ba12d6eb6a8069801930f3f6786223262b959): update refresh interval page - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/631ba12d6eb6a8069801930f3f6786223262b959...ee361405abd06c851637bae89aeba90123eada40))",
+    "created_at": "2020-04-28 15:04:48.588000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ee361405](https://gitlab.com/snowgem/bitfrost/-/commit/ee361405abd06c851637bae89aeba90123eada40): RefreshInterval page edit. - DaX",
+      "type": "rich"
+    }
   }
 ]
