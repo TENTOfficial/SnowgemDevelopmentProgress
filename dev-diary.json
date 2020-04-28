@@ -4890,5 +4890,15 @@
     "author": "GitLab",
     "content": "Filip Storkan (filipstrkn) opened [!1 *[WIP] chart component structure*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/1) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-04-28 14:08:37.696000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/64abd31d5ad8e3d33c1b9823fbbd87b8d864ce85...c11bf202d1189a315a68bd89596c6f914497e277))",
+    "created_at": "2020-04-28 14:23:17.054000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2f701f80](https://gitlab.com/snowgem/bitfrost/-/commit/2f701f80696da95323928ff513939f5a4e64cf6f): change backup btn color, split panel, request eth transaction to server - SnowGem\n\n[c11bf202](https://gitlab.com/snowgem/bitfrost/-/commit/c11bf202d1189a315a68bd89596c6f914497e277): fix backup background color - SnowGem",
+      "type": "rich"
+    }
   }
 ]
