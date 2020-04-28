@@ -4930,5 +4930,15 @@
       "description": "[ee361405](https://gitlab.com/snowgem/bitfrost/-/commit/ee361405abd06c851637bae89aeba90123eada40): RefreshInterval page edit. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ee361405abd06c851637bae89aeba90123eada40...7a083ad3e84e9da29f04cfe54146b19f81211e6d))",
+    "created_at": "2020-04-28 15:08:25.730000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a61432a2](https://gitlab.com/snowgem/bitfrost/-/commit/a61432a2039188f19f676ae625c70faa1e86a39a): update currency page - SnowGem\n\n[488d0221](https://gitlab.com/snowgem/bitfrost/-/commit/488d02212c9d512378d44fde430d08c38894720a): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[7a083ad3](https://gitlab.com/snowgem/bitfrost/-/commit/7a083ad3e84e9da29f04cfe54146b19f81211e6d): fix eye click on change pass page - SnowGem",
+      "type": "rich"
+    }
   }
 ]
