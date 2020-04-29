@@ -5035,5 +5035,15 @@
       "description": "[fa0da25e](https://gitlab.com/snowgem/bitfrost/-/commit/fa0da25ebc70e29714e7ab14e69d31449ad4ef90): WalletPage works. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fa0da25ebc70e29714e7ab14e69d31449ad4ef90...98d9c698371ac904e2cf9e1ffc736d26783cb83a))",
+    "created_at": "2020-04-29 15:53:59.748000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c41ab8d4](https://gitlab.com/snowgem/bitfrost/-/commit/c41ab8d4ce98be3f689da840f947f652b06665e4): navigate back for tools page - SnowGem\n\n[98d9c698](https://gitlab.com/snowgem/bitfrost/-/commit/98d9c698371ac904e2cf9e1ffc736d26783cb83a): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
+      "type": "rich"
+    }
   }
 ]
