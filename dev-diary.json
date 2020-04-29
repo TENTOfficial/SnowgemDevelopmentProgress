@@ -5045,5 +5045,15 @@
       "description": "[c41ab8d4](https://gitlab.com/snowgem/bitfrost/-/commit/c41ab8d4ce98be3f689da840f947f652b06665e4): navigate back for tools page - SnowGem\n\n[98d9c698](https://gitlab.com/snowgem/bitfrost/-/commit/98d9c698371ac904e2cf9e1ffc736d26783cb83a): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/98d9c698371ac904e2cf9e1ffc736d26783cb83a...32519ad6016a779cde3a2b154dafce81d6b5e959))",
+    "created_at": "2020-04-29 16:12:15.925000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[66fc0851](https://gitlab.com/snowgem/bitfrost/-/commit/66fc0851b36ad603169544de8159c920d32735ee): dynamic thumnail icons - Filip Storkan\n\n[32519ad6](https://gitlab.com/snowgem/bitfrost/-/commit/32519ad6016a779cde3a2b154dafce81d6b5e959): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
