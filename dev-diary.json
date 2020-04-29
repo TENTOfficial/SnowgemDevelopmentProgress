@@ -5025,5 +5025,15 @@
       "description": "[6090f78d](https://gitlab.com/snowgem/bitfrost/-/commit/6090f78d4b56d4b061cfbb87347e79e5742bcdfd): fix navigate in add coin page - SnowGem\n\n[6bd79b7c](https://gitlab.com/snowgem/bitfrost/-/commit/6bd79b7c1f229c1011cb73ce25dd6edaffe04916): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[a3561728](https://gitlab.com/snowgem/bitfrost/-/commit/a3561728a50b68b07ae9d5e234c1813f79f16d7b): overview tools btn - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a3561728a50b68b07ae9d5e234c1813f79f16d7b...fa0da25ebc70e29714e7ab14e69d31449ad4ef90))",
+    "created_at": "2020-04-29 15:45:49.578000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fa0da25e](https://gitlab.com/snowgem/bitfrost/-/commit/fa0da25ebc70e29714e7ab14e69d31449ad4ef90): WalletPage works. - DaX",
+      "type": "rich"
+    }
   }
 ]
