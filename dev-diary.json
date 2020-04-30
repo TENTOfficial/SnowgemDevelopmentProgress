@@ -5095,5 +5095,15 @@
       "description": "[478f78a9](https://gitlab.com/snowgem/bitfrost/-/commit/478f78a9aebe48daa46fd8a4a253f33fe2a8c7c0): adding balance pipe - Filip Storkan\n\n[89014637](https://gitlab.com/snowgem/bitfrost/-/commit/89014637030e165321a9927c156f6bd210cde8ed): reordering wallet item on HP - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/89014637030e165321a9927c156f6bd210cde8ed...e2ee0114b8ea3c186e1704acb796b72ff6ac5c93))",
+    "created_at": "2020-04-30 14:30:50.739000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cd1bf845](https://gitlab.com/snowgem/bitfrost/-/commit/cd1bf845c236a61a57dd691be9ec2198155ec8a6): fixed reorder by content projection - Filip Storkan\n\n[7ed7f47e](https://gitlab.com/snowgem/bitfrost/-/commit/7ed7f47e24f03b8c89012e9fb956b48932db07e2): searchbar basic structure - Filip Storkan\n\n[e2ee0114](https://gitlab.com/snowgem/bitfrost/-/commit/e2ee0114b8ea3c186e1704acb796b72ff6ac5c93): improved spacing of chart elements - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
