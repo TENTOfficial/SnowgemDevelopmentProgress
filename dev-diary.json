@@ -5085,5 +5085,15 @@
       "description": "[01d74c96](https://gitlab.com/snowgem/snowpay-api/-/commit/01d74c96eaa689add0ce0597078fcf6abebf02a1): nginx cfg fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c921838cdc03750cc346012394e49c208657bf7b...89014637030e165321a9927c156f6bd210cde8ed))",
+    "created_at": "2020-04-30 08:42:57.260000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[478f78a9](https://gitlab.com/snowgem/bitfrost/-/commit/478f78a9aebe48daa46fd8a4a253f33fe2a8c7c0): adding balance pipe - Filip Storkan\n\n[89014637](https://gitlab.com/snowgem/bitfrost/-/commit/89014637030e165321a9927c156f6bd210cde8ed): reordering wallet item on HP - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
