@@ -5105,5 +5105,15 @@
       "description": "[cd1bf845](https://gitlab.com/snowgem/bitfrost/-/commit/cd1bf845c236a61a57dd691be9ec2198155ec8a6): fixed reorder by content projection - Filip Storkan\n\n[7ed7f47e](https://gitlab.com/snowgem/bitfrost/-/commit/7ed7f47e24f03b8c89012e9fb956b48932db07e2): searchbar basic structure - Filip Storkan\n\n[e2ee0114](https://gitlab.com/snowgem/bitfrost/-/commit/e2ee0114b8ea3c186e1704acb796b72ff6ac5c93): improved spacing of chart elements - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Shmocs pushed to branch [master](https://gitlab.com/shmocs/xsgmndock/commits/master) of [Shmocs / xsgmndock](https://gitlab.com/shmocs/xsgmndock) ([Compare changes](https://gitlab.com/shmocs/xsgmndock/compare/e7c8e1c0cb6b3d260124428d92fe6be035377536...52711d4204fa021cf65e448d2c7bd9dba72faa27))",
+    "created_at": "2020-04-30 16:54:18.379000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[52711d42](https://gitlab.com/shmocs/xsgmndock/-/commit/52711d4204fa021cf65e448d2c7bd9dba72faa27): new MN on nodes2 - Sergiu Costache",
+      "type": "rich"
+    }
   }
 ]
