@@ -5075,5 +5075,15 @@
       "description": "[c921838c](https://gitlab.com/snowgem/bitfrost/-/commit/c921838cdc03750cc346012394e49c208657bf7b): ionic lab script - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/891ae5195e0e1282acfd85e75a0e0dbc7fe94c4c...01d74c96eaa689add0ce0597078fcf6abebf02a1))",
+    "created_at": "2020-04-30 08:17:43.674000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[01d74c96](https://gitlab.com/snowgem/snowpay-api/-/commit/01d74c96eaa689add0ce0597078fcf6abebf02a1): nginx cfg fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
