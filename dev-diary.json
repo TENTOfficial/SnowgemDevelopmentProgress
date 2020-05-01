@@ -5125,5 +5125,15 @@
       "description": "[a3e4440e](https://gitlab.com/shmocs/xsgmndock/-/commit/a3e4440e9711026570b8bb4187cd86aa2f7aaccc): fixed duplicate txid in config - Sergiu Costache",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/01d74c96eaa689add0ce0597078fcf6abebf02a1...52d2201139e15eb7a548d7b0c63ea32b6a448661))",
+    "created_at": "2020-05-01 07:58:22.922000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[52d22011](https://gitlab.com/snowgem/snowpay-api/-/commit/52d2201139e15eb7a548d7b0c63ea32b6a448661): production fixes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
