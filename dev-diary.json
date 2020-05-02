@@ -5175,5 +5175,15 @@
       "description": "[47e34319](https://gitlab.com/snowgem/bitfrost/-/commit/47e34319664759e3f4c3f13cd8ef7147e3d4803e): move subscription to oninit wallet - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/47e34319664759e3f4c3f13cd8ef7147e3d4803e...c583a105ed3d70db0aee574d332593ba79654fb7))",
+    "created_at": "2020-05-02 20:00:45.404000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c583a105](https://gitlab.com/snowgem/bitfrost/-/commit/c583a105ed3d70db0aee574d332593ba79654fb7): Keypad works. - DaX",
+      "type": "rich"
+    }
   }
 ]
