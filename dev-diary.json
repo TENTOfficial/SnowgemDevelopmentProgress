@@ -5165,5 +5165,15 @@
       "description": "[0f9a36d0](https://gitlab.com/snowgem/bitfrost/-/commit/0f9a36d0594b90be4dd0aafa1e23865db83a72d3): add rate service - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0f9a36d0594b90be4dd0aafa1e23865db83a72d3...47e34319664759e3f4c3f13cd8ef7147e3d4803e))",
+    "created_at": "2020-05-02 17:23:17.110000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[47e34319](https://gitlab.com/snowgem/bitfrost/-/commit/47e34319664759e3f4c3f13cd8ef7147e3d4803e): move subscription to oninit wallet - SnowGem",
+      "type": "rich"
+    }
   }
 ]
