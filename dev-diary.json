@@ -5275,5 +5275,15 @@
       "description": "[7aae679b](https://gitlab.com/snowgem/snowpay-api/-/commit/7aae679b1b7f31e3620634120cdb662cc82046e2): renamed gateway to api - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7aae679b1b7f31e3620634120cdb662cc82046e2...cff85afa4d626f57d8545948b07d3934ac162066))",
+    "created_at": "2020-05-04 13:29:15.686000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cff85afa](https://gitlab.com/snowgem/snowpay-api/-/commit/cff85afa4d626f57d8545948b07d3934ac162066): renamed gateway to api - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
