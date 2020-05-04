@@ -5345,5 +5345,15 @@
       "description": "[e5d9f410](https://gitlab.com/snowgem/bitfrost/-/commit/e5d9f410f438a0668d28b89729d1b1493d7427c8): chart buttons work - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e5d9f410f438a0668d28b89729d1b1493d7427c8...ec3a69d93f18feea8d2cc74e118fbd5aa89ad336))",
+    "created_at": "2020-05-04 20:52:00.815000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ec3a69d9](https://gitlab.com/snowgem/bitfrost/-/commit/ec3a69d93f18feea8d2cc74e118fbd5aa89ad336): Send coins flow. - DaX",
+      "type": "rich"
+    }
   }
 ]
