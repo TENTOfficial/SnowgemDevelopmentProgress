@@ -5285,5 +5285,15 @@
       "description": "[cff85afa](https://gitlab.com/snowgem/snowpay-api/-/commit/cff85afa4d626f57d8545948b07d3934ac162066): renamed gateway to api - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0e8373139f8ca1651aec4856932d741f5424a5e2...534d943eab7f6159147aab120c72d5246c04df2c))",
+    "created_at": "2020-05-04 13:47:49.382000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[534d943e](https://gitlab.com/snowgem/bitfrost/-/commit/534d943eab7f6159147aab120c72d5246c04df2c): SendToAddress page. - DaX",
+      "type": "rich"
+    }
   }
 ]
