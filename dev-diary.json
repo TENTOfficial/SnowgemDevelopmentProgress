@@ -5235,5 +5235,15 @@
       "description": "[9fd139d5](https://gitlab.com/snowgem/bitfrost/-/commit/9fd139d5a2cf4e9fd0d9de6404b52f738aeef04d): ReceivePage edit. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/52d2201139e15eb7a548d7b0c63ea32b6a448661...aed597e515170a1bbbc128084b6a54458cff53cf))",
+    "created_at": "2020-05-04 11:51:22.818000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[aed597e5](https://gitlab.com/snowgem/snowpay-api/-/commit/aed597e515170a1bbbc128084b6a54458cff53cf): updated address information and validation - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
