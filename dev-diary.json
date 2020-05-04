@@ -5255,5 +5255,15 @@
       "description": "[cd1905a6](https://gitlab.com/snowgem/snowpay-api/-/commit/cd1905a671ac44d9c08c4b5cb313538dab813df1): added SnowGem Bitfrost - Card Delivery Manager - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9fd139d5a2cf4e9fd0d9de6404b52f738aeef04d...0e8373139f8ca1651aec4856932d741f5424a5e2))",
+    "created_at": "2020-05-04 12:39:55.119000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[75e30268](https://gitlab.com/snowgem/bitfrost/-/commit/75e30268581f9ceb56cc04ab9496e7b46a009d82): button component - Filip Storkan\n\n[4a34a070](https://gitlab.com/snowgem/bitfrost/-/commit/4a34a070921c679a01dc0dbe308298d2a5f102c5): dash component - Filip Storkan\n\n[471eeb78](https://gitlab.com/snowgem/bitfrost/-/commit/471eeb7899e04c914cb4af660ed99cc06a55a5b5): search component - Filip Storkan\n\n[7946d2dc](https://gitlab.com/snowgem/bitfrost/-/commit/7946d2dc9a15d6820dbf050d8b8fd62e00cc719d): sticker component - Filip Storkan\n\n[9afd2b88](https://gitlab.com/snowgem/bitfrost/-/commit/9afd2b88e26b24b8fae46f7ef678f061973d63b8): sizing, colors - Filip Storkan\n\n[9968835c](https://gitlab.com/snowgem/bitfrost/-/commit/9968835ccf56d538b4d2d4baa05cb94d9591f477): applying sticker, search, button - Filip Storkan\n\n[0e837313](https://gitlab.com/snowgem/bitfrost/-/commit/0e8373139f8ca1651aec4856932d741f5424a5e2): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
