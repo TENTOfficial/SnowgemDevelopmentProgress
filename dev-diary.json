@@ -5305,5 +5305,15 @@
       "description": "[2048b771](https://gitlab.com/snowgem/bitfrost/-/commit/2048b77121836a22a3d77856e5cb48df880e33df): remove tab bar - SnowGem\n\n[b52cd49b](https://gitlab.com/snowgem/bitfrost/-/commit/b52cd49b826ae1fbaf58e20ee39b03c0447bcd18): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[1a648fbd](https://gitlab.com/snowgem/bitfrost/-/commit/1a648fbdf2222ab552a72abb23cd297151772ff3): update tools page url - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1a648fbdf2222ab552a72abb23cd297151772ff3...ebda664dbdc14f379b6ad53257d0b6a174c8f481))",
+    "created_at": "2020-05-04 16:08:34.615000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ebda664d](https://gitlab.com/snowgem/bitfrost/-/commit/ebda664dbdc14f379b6ad53257d0b6a174c8f481): disable coin api if not is a coin - SnowGem",
+      "type": "rich"
+    }
   }
 ]
