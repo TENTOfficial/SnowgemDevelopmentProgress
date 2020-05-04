@@ -5315,5 +5315,15 @@
       "description": "[ebda664d](https://gitlab.com/snowgem/bitfrost/-/commit/ebda664dbdc14f379b6ad53257d0b6a174c8f481): disable coin api if not is a coin - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ebda664dbdc14f379b6ad53257d0b6a174c8f481...560aa3ffef2ee1a6fd5544f29c4a3f9646578c17))",
+    "created_at": "2020-05-04 17:00:17.057000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fda1ee81](https://gitlab.com/snowgem/bitfrost/-/commit/fda1ee816fe9283e34221c2d4f90003b950abde1): tapbar basic structure - Filip Storkan\n\n[560aa3ff](https://gitlab.com/snowgem/bitfrost/-/commit/560aa3ffef2ee1a6fd5544f29c4a3f9646578c17): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
