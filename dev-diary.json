@@ -5225,5 +5225,15 @@
       "description": "[05eab440](https://gitlab.com/snowgem/bitfrost/-/commit/05eab440e0c9d435ee396d5ce39c5e1048da6490): SendPage works. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/05eab440e0c9d435ee396d5ce39c5e1048da6490...9fd139d5a2cf4e9fd0d9de6404b52f738aeef04d))",
+    "created_at": "2020-05-04 11:34:13.998000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9fd139d5](https://gitlab.com/snowgem/bitfrost/-/commit/9fd139d5a2cf4e9fd0d9de6404b52f738aeef04d): ReceivePage edit. - DaX",
+      "type": "rich"
+    }
   }
 ]
