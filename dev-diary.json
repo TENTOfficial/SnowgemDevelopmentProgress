@@ -5355,5 +5355,15 @@
       "description": "[ec3a69d9](https://gitlab.com/snowgem/bitfrost/-/commit/ec3a69d93f18feea8d2cc74e118fbd5aa89ad336): Send coins flow. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec3a69d93f18feea8d2cc74e118fbd5aa89ad336...103c90a48047d5cb4f0b21f702ba8c2287a663b8))",
+    "created_at": "2020-05-05 08:13:47.496000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2572f468](https://gitlab.com/snowgem/bitfrost/-/commit/2572f468148bcf35703eeb05344c9b7bfe348465): action modal - Filip Storkan\n\n[103c90a4](https://gitlab.com/snowgem/bitfrost/-/commit/103c90a48047d5cb4f0b21f702ba8c2287a663b8): tapbar icon - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
