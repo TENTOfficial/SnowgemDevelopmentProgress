@@ -5565,5 +5565,15 @@
       "description": "[fd90b23d](https://gitlab.com/snowgem/bitfrost/-/commit/fd90b23dbbc3c59a8bd6ad72fbf5cfdc79984478): add send-wallets page - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fd90b23dbbc3c59a8bd6ad72fbf5cfdc79984478...f2c6599aadca03837a3fb6b3b394faa095ee67fe))",
+    "created_at": "2020-05-05 15:06:48.531000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d7bc7e78](https://gitlab.com/snowgem/bitfrost/-/commit/d7bc7e7890471bf0ce2eaefc3022848121fb6855): wall - Filip Storkan\n\n[fd9b4940](https://gitlab.com/snowgem/bitfrost/-/commit/fd9b49401a065a7479eb91c05f9a1fa91846f19c): transaction item - Filip Storkan\n\n[c98fac50](https://gitlab.com/snowgem/bitfrost/-/commit/c98fac50ed219ade09ef7a1f071de4122d965ded): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan\n\n[eef7fee8](https://gitlab.com/snowgem/bitfrost/-/commit/eef7fee83ed0aed2a40e584fe7328c73de3af959): transaction colors - Filip Storkan\n\n[f2c6599a](https://gitlab.com/snowgem/bitfrost/-/commit/f2c6599aadca03837a3fb6b3b394faa095ee67fe): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
