@@ -5405,5 +5405,15 @@
       "description": "[a91ceded](https://gitlab.com/snowgem/snowpay-api/-/commit/a91ceded806ee41f2cadcdf997244fbf16274a54): added target address validation - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a233e8e81f48604d3ef9b7abe7721a1a92f17d94...fcf2e1ee09e2636677ad6042f06d4935ab742c3a))",
+    "created_at": "2020-05-05 10:33:07.755000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fcf2e1ee](https://gitlab.com/snowgem/bitfrost/-/commit/fcf2e1ee09e2636677ad6042f06d4935ab742c3a): action modal config update - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
