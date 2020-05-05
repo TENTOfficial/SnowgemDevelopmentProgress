@@ -5425,5 +5425,15 @@
       "description": "[a27fdf71](https://gitlab.com/snowgem/bitfrost/-/commit/a27fdf71c41c6db864a4ea38dd00813a26cde7a9): send routing - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a27fdf71c41c6db864a4ea38dd00813a26cde7a9...d69c2d8ca471aacee84d785053a825283fc49134))",
+    "created_at": "2020-05-05 11:10:33.137000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d69c2d8c](https://gitlab.com/snowgem/bitfrost/-/commit/d69c2d8ca471aacee84d785053a825283fc49134): correct send flow - SnowGem",
+      "type": "rich"
+    }
   }
 ]
