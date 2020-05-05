@@ -5555,5 +5555,15 @@
       "description": "[97f6a393](https://gitlab.com/snowgem/bitfrost/-/commit/97f6a3936df9de41e2996965abbfc9138e7468f6): change font size dynamically - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/97f6a3936df9de41e2996965abbfc9138e7468f6...fd90b23dbbc3c59a8bd6ad72fbf5cfdc79984478))",
+    "created_at": "2020-05-05 14:50:28.237000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fd90b23d](https://gitlab.com/snowgem/bitfrost/-/commit/fd90b23dbbc3c59a8bd6ad72fbf5cfdc79984478): add send-wallets page - SnowGem",
+      "type": "rich"
+    }
   }
 ]
