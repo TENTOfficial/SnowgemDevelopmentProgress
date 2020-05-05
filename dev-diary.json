@@ -5575,5 +5575,15 @@
       "description": "[d7bc7e78](https://gitlab.com/snowgem/bitfrost/-/commit/d7bc7e7890471bf0ce2eaefc3022848121fb6855): wall - Filip Storkan\n\n[fd9b4940](https://gitlab.com/snowgem/bitfrost/-/commit/fd9b49401a065a7479eb91c05f9a1fa91846f19c): transaction item - Filip Storkan\n\n[c98fac50](https://gitlab.com/snowgem/bitfrost/-/commit/c98fac50ed219ade09ef7a1f071de4122d965ded): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan\n\n[eef7fee8](https://gitlab.com/snowgem/bitfrost/-/commit/eef7fee83ed0aed2a40e584fe7328c73de3af959): transaction colors - Filip Storkan\n\n[f2c6599a](https://gitlab.com/snowgem/bitfrost/-/commit/f2c6599aadca03837a3fb6b3b394faa095ee67fe): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f2c6599aadca03837a3fb6b3b394faa095ee67fe...64adce75df4f96224505f6765afc9a3e55e08ee2))",
+    "created_at": "2020-05-05 17:09:10.446000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[33a1384c](https://gitlab.com/snowgem/bitfrost/-/commit/33a1384c493f3e3eb0e523732d1b4afd9208eb89): send page max/next buttons behavior - SnowGem\n\n[1af27c17](https://gitlab.com/snowgem/bitfrost/-/commit/1af27c174f23e999c62191caa582ba601de147d3): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[37a4ea40](https://gitlab.com/snowgem/bitfrost/-/commit/37a4ea405e844a6e6acaadc1665a8f4eb3312bbb): create raw tx successfully - SnowGem\n\n[64adce75](https://gitlab.com/snowgem/bitfrost/-/commit/64adce75df4f96224505f6765afc9a3e55e08ee2): finished send flow - SnowGem",
+      "type": "rich"
+    }
   }
 ]
