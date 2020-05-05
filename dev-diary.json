@@ -5485,5 +5485,15 @@
       "description": "[757cbf3a](https://gitlab.com/snowgem/bitfrost/-/commit/757cbf3a2a745eaf0998826fd76e2c31f3366741): Added avatar on wallets page. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/757cbf3a2a745eaf0998826fd76e2c31f3366741...88bbb37ebe2a32fe088250a463fa33d47f26dde1))",
+    "created_at": "2020-05-05 13:03:42.818000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3ac914e9](https://gitlab.com/snowgem/bitfrost/-/commit/3ac914e979f73c89e1b25db5676b44b32c264713): add primary wallet - SnowGem\n\n[88bbb37e](https://gitlab.com/snowgem/bitfrost/-/commit/88bbb37ebe2a32fe088250a463fa33d47f26dde1): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
+      "type": "rich"
+    }
   }
 ]
