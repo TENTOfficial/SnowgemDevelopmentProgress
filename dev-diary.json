@@ -5615,5 +5615,15 @@
       "description": "[9b729dff](https://gitlab.com/snowgem/bitfrost/-/commit/9b729dff62e94cbd3169f0a84040fd7276c27111): fix backup in overview page - SnowGem\n\n[b16c55f9](https://gitlab.com/snowgem/bitfrost/-/commit/b16c55f909677162e5950bccfe920b0b4fb1d8f8): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b16c55f909677162e5950bccfe920b0b4fb1d8f8...e606792ef7019ad1043b895996288bee254f3de7))",
+    "created_at": "2020-05-05 18:10:39.218000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f3c4840c](https://gitlab.com/snowgem/bitfrost/-/commit/f3c4840c261d236b6a044421f0bde92765e45115): wallet icon inside overview page - Filip Storkan\n\n[e606792e](https://gitlab.com/snowgem/bitfrost/-/commit/e606792ef7019ad1043b895996288bee254f3de7): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
