@@ -5595,5 +5595,15 @@
       "description": "[26aecc73](https://gitlab.com/snowgem/bitfrost/-/commit/26aecc73c6461cec3907cb02e9eec4afb884c9e4): correct coin logo - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/26aecc73c6461cec3907cb02e9eec4afb884c9e4...ac03d645170e8d9517d7e556c5d81479eb648601))",
+    "created_at": "2020-05-05 17:48:55.245000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f98352c1](https://gitlab.com/snowgem/bitfrost/-/commit/f98352c19f2c9e36ae3624ba09e04a42a2698927): Moving xsg pipes to shared module - Filip Storkan\n\n[4d69da55](https://gitlab.com/snowgem/bitfrost/-/commit/4d69da557f91da3bca90494381d9751d1a02c90e): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan\n\n[30524e36](https://gitlab.com/snowgem/bitfrost/-/commit/30524e367ab1019de038a1d50c70b2ce8a751169): wallet page inside home page route - Filip Storkan\n\n[3d687eb6](https://gitlab.com/snowgem/bitfrost/-/commit/3d687eb6c08ad7ae2a699c61b44466b5ad173e1a): disabling light mode via css - Filip Storkan\n\n[2f914481](https://gitlab.com/snowgem/bitfrost/-/commit/2f9144819ecfd5069579852ce4a5c3b61a53fa34): avatar inside header - Filip Storkan\n\n[ac03d645](https://gitlab.com/snowgem/bitfrost/-/commit/ac03d645170e8d9517d7e556c5d81479eb648601): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
