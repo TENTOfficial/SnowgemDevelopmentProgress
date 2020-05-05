@@ -5645,5 +5645,15 @@
       "description": "[19193291](https://gitlab.com/snowgem/bitfrost/-/commit/191932917b9a0658fc96e0fa401639a43cb86a16): Send wallets page. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/191932917b9a0658fc96e0fa401639a43cb86a16...201d7d3aa9b8ae6d6a490ee64309d266cdec6181))",
+    "created_at": "2020-05-05 19:47:25.591000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e8f14262](https://gitlab.com/snowgem/bitfrost/-/commit/e8f142627a664e3a1d12c4e87758fef81283f06c): remove send_backup, send behavior when in overview page - SnowGem\n\n[a29367bb](https://gitlab.com/snowgem/bitfrost/-/commit/a29367bb0ade77170171c6cf1dd5a677d26a2b8d): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[3ad0eb4c](https://gitlab.com/snowgem/bitfrost/-/commit/3ad0eb4cb6688baa6ae1d5c4dde1f236bba00e20): add custom logo - SnowGem\n\n[201d7d3a](https://gitlab.com/snowgem/bitfrost/-/commit/201d7d3aa9b8ae6d6a490ee64309d266cdec6181): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
+      "type": "rich"
+    }
   }
 ]
