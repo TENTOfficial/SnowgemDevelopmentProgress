@@ -5525,5 +5525,15 @@
       "description": "[d118f68a](https://gitlab.com/snowgem/bitfrost/-/commit/d118f68a3b708e15e4cc7901207d788cb8ff2636): add primary wallet page - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d118f68a3b708e15e4cc7901207d788cb8ff2636...4763736a0ddc281225f565fd6e938fdf6a265729))",
+    "created_at": "2020-05-05 13:56:51.143000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4763736a](https://gitlab.com/snowgem/bitfrost/-/commit/4763736a0ddc281225f565fd6e938fdf6a265729): Primary Wallet page. Settings page. Menu. Send page buttons. - DaX",
+      "type": "rich"
+    }
   }
 ]
