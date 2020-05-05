@@ -5665,5 +5665,15 @@
       "description": "[8050b298](https://gitlab.com/snowgem/bitfrost/-/commit/8050b29807683453846cd003ad3d443a83bb292e): change max button behavior - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8050b29807683453846cd003ad3d443a83bb292e...bbf76c50128ff7d0528b28f7e7f45bee5e7a8b8b))",
+    "created_at": "2020-05-05 19:59:26.499000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bbf76c50](https://gitlab.com/snowgem/bitfrost/-/commit/bbf76c50128ff7d0528b28f7e7f45bee5e7a8b8b): Fixed upload button - custom logo. - DaX",
+      "type": "rich"
+    }
   }
 ]
