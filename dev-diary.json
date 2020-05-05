@@ -5505,5 +5505,15 @@
       "description": "[1d39783e](https://gitlab.com/snowgem/bitfrost/-/commit/1d39783e75689dd79070caa5eddd1c13b861c19b): clicking on avatar action - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1d39783e75689dd79070caa5eddd1c13b861c19b...3f89d2f2239e567dee1fba6d76c231e7fa22b552))",
+    "created_at": "2020-05-05 13:38:24.401000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3f89d2f2](https://gitlab.com/snowgem/bitfrost/-/commit/3f89d2f2239e567dee1fba6d76c231e7fa22b552): add back button in settings/masternode page - SnowGem",
+      "type": "rich"
+    }
   }
 ]
