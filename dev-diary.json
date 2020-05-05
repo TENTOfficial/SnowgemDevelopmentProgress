@@ -5585,5 +5585,15 @@
       "description": "[33a1384c](https://gitlab.com/snowgem/bitfrost/-/commit/33a1384c493f3e3eb0e523732d1b4afd9208eb89): send page max/next buttons behavior - SnowGem\n\n[1af27c17](https://gitlab.com/snowgem/bitfrost/-/commit/1af27c174f23e999c62191caa582ba601de147d3): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[37a4ea40](https://gitlab.com/snowgem/bitfrost/-/commit/37a4ea405e844a6e6acaadc1665a8f4eb3312bbb): create raw tx successfully - SnowGem\n\n[64adce75](https://gitlab.com/snowgem/bitfrost/-/commit/64adce75df4f96224505f6765afc9a3e55e08ee2): finished send flow - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/64adce75df4f96224505f6765afc9a3e55e08ee2...26aecc73c6461cec3907cb02e9eec4afb884c9e4))",
+    "created_at": "2020-05-05 17:35:11.735000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[26aecc73](https://gitlab.com/snowgem/bitfrost/-/commit/26aecc73c6461cec3907cb02e9eec4afb884c9e4): correct coin logo - SnowGem",
+      "type": "rich"
+    }
   }
 ]
