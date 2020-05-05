@@ -5375,5 +5375,25 @@
       "description": "[1f61306d](https://gitlab.com/snowgem/snowpay-api/-/commit/1f61306dc8b0f3b5f3461c261ed78931d9c11e2e): references cleanup - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/103c90a48047d5cb4f0b21f702ba8c2287a663b8...6661d086016bd5df79eeb26b1128b94469e16a22))",
+    "created_at": "2020-05-05 09:37:04.688000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6661d086](https://gitlab.com/snowgem/bitfrost/-/commit/6661d086016bd5df79eeb26b1128b94469e16a22): tapbar beta ready - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6661d086016bd5df79eeb26b1128b94469e16a22...a233e8e81f48604d3ef9b7abe7721a1a92f17d94))",
+    "created_at": "2020-05-05 09:38:59.033000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[928ddef2](https://gitlab.com/snowgem/bitfrost/-/commit/928ddef2ee9abdcf3b0a1ff642e4438d5ae998c2): fix routing issue - SnowGem\n\n[5833c1cc](https://gitlab.com/snowgem/bitfrost/-/commit/5833c1cc7466bf9b1803ce8a88209b24295addf7): move functions from menu to home - SnowGem\n\n[a233e8e8](https://gitlab.com/snowgem/bitfrost/-/commit/a233e8e81f48604d3ef9b7abe7721a1a92f17d94): merge and fix conflict - SnowGem",
+      "type": "rich"
+    }
   }
 ]
