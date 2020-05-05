@@ -5435,5 +5435,15 @@
       "description": "[d69c2d8c](https://gitlab.com/snowgem/bitfrost/-/commit/d69c2d8ca471aacee84d785053a825283fc49134): correct send flow - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d69c2d8ca471aacee84d785053a825283fc49134...68d7e45026d2f145038def6aa0bbf383594610aa))",
+    "created_at": "2020-05-05 11:19:05.834000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[68d7e450](https://gitlab.com/snowgem/bitfrost/-/commit/68d7e45026d2f145038def6aa0bbf383594610aa): remove wallet-detail page, move overview/tools to wallet page - SnowGem",
+      "type": "rich"
+    }
   }
 ]
