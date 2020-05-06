@@ -5715,5 +5715,15 @@
       "description": "[efed5e2d](https://gitlab.com/snowgem/bitfrost/-/commit/efed5e2dfdb019c6b3fe818d33fccae0c5d2bb07): add receive-wallets page - SnowGem\n\n[080533e4](https://gitlab.com/snowgem/bitfrost/-/commit/080533e4dcf1641a7c3fc1ee9fe8d08b1c3392e8): fix conflict - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/080533e4dcf1641a7c3fc1ee9fe8d08b1c3392e8...cfc194023a72e9a4981c1f4f9bb5e07ce77d5b1f))",
+    "created_at": "2020-05-06 08:24:00.202000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cfc19402](https://gitlab.com/snowgem/bitfrost/-/commit/cfc194023a72e9a4981c1f4f9bb5e07ce77d5b1f): update routing - SnowGem",
+      "type": "rich"
+    }
   }
 ]
