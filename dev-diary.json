@@ -5755,5 +5755,15 @@
       "description": "[1fa5b25d](https://gitlab.com/snowgem/bitfrost/-/commit/1fa5b25dd15a1639652e3b3dec3cc27148a9f9c9): fix receiving page wallet selection - SnowGem\n\n[74c6ca34](https://gitlab.com/snowgem/bitfrost/-/commit/74c6ca34d49297104848bf9cec763d2c37fe1021): update package name - SnowGem\n\n[ebff2012](https://gitlab.com/snowgem/bitfrost/-/commit/ebff2012754fe47d24b84b447a1d13a8c22e28ee): resolve conflice in config.xml - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ebff2012754fe47d24b84b447a1d13a8c22e28ee...4fccdf7b7c71617a322ba5070337f5c8302bc50e))",
+    "created_at": "2020-05-06 09:51:39.832000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4fccdf7b](https://gitlab.com/snowgem/bitfrost/-/commit/4fccdf7b7c71617a322ba5070337f5c8302bc50e): copy address to clipboard in addresses page - SnowGem",
+      "type": "rich"
+    }
   }
 ]
