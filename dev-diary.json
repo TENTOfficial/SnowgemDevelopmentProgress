@@ -5875,5 +5875,15 @@
       "description": "[6d0e52bf](https://gitlab.com/snowgem/bitfrost/-/commit/6d0e52bfd101c507568b0eeff01c43df2cb03384): fix add coin logo - SnowGem\n\n[86473056](https://gitlab.com/snowgem/bitfrost/-/commit/864730569c3b5496ecf48b58387a3507ae05e370): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[d584d729](https://gitlab.com/snowgem/bitfrost/-/commit/d584d72975a92e6c854f02a18876411373ee1b27): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[d556ca7e](https://gitlab.com/snowgem/bitfrost/-/commit/d556ca7e8ab12787f38c1fdb61bb0db5d38c1f37): add keystore - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d556ca7e8ab12787f38c1fdb61bb0db5d38c1f37...b04883e75934385d5ff20713b53d25e155c1932b))",
+    "created_at": "2020-05-06 14:32:41.335000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3610189b](https://gitlab.com/snowgem/bitfrost/-/commit/3610189b7001776d3502b60e21e6e2c01a44d427): splashscreen timing - Filip Storkan\n\n[b04883e7](https://gitlab.com/snowgem/bitfrost/-/commit/b04883e75934385d5ff20713b53d25e155c1932b): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
