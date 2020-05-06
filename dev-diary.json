@@ -5935,5 +5935,15 @@
       "description": "[09a72242](https://gitlab.com/shmocs/xsgmndock/-/commit/09a72242b578e603ffcf87eeaaa323cf3375b3f7): fixed some masternode configs - Sergiu Costache",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a1e275cc1249d9871e10a64f49e881c57dc221d0...04075a440bb9fb5722d8fc8d7fc216f691c67577))",
+    "created_at": "2020-05-06 18:50:15.424000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3d4ecab8](https://gitlab.com/snowgem/bitfrost/-/commit/3d4ecab884b2331b33c375bf574bcaab784ce663): change ng-qrcode module - SnowGem\n\n[04075a44](https://gitlab.com/snowgem/bitfrost/-/commit/04075a440bb9fb5722d8fc8d7fc216f691c67577): update packages version - SnowGem",
+      "type": "rich"
+    }
   }
 ]
