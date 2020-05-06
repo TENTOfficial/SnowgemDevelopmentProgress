@@ -5895,5 +5895,15 @@
       "description": "[e64b2962](https://gitlab.com/snowgem/bitfrost/-/commit/e64b2962de231ba50e83b41b37f86a7668e1815e): removing duplicity - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e64b2962de231ba50e83b41b37f86a7668e1815e...bd7275b7f104e622f07ff81665d3aa158ae1d188))",
+    "created_at": "2020-05-06 15:47:45.606000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bd7275b7](https://gitlab.com/snowgem/bitfrost/-/commit/bd7275b7f104e622f07ff81665d3aa158ae1d188): adding contact thumbnail to a module - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
