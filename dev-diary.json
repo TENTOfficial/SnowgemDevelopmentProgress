@@ -5955,5 +5955,15 @@
       "description": "[c9ebc2a3](https://gitlab.com/snowgem/bitfrost/-/commit/c9ebc2a399f6ecf6d79f4c105e09ac72773d70f2): update sign config - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c9ebc2a399f6ecf6d79f4c105e09ac72773d70f2...76f3f399f2a8f245e44d9756a6ab2569979778f3))",
+    "created_at": "2020-05-06 20:16:27.391000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[76f3f399](https://gitlab.com/snowgem/bitfrost/-/commit/76f3f399f2a8f245e44d9756a6ab2569979778f3): add gulp files - SnowGem",
+      "type": "rich"
+    }
   }
 ]
