@@ -5815,5 +5815,15 @@
       "description": "[f78fe8b0](https://gitlab.com/snowgem/bitfrost/-/commit/f78fe8b041179689d4f4ecac1412abdc102f40fe): GUI fixes. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f78fe8b041179689d4f4ecac1412abdc102f40fe...e0d6da5385e9f3a6f4cb46381f71d6fba7d60854))",
+    "created_at": "2020-05-06 11:15:10.117000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[891ecd51](https://gitlab.com/snowgem/bitfrost/-/commit/891ecd510f1f4985b62957ea8eae7d3ab721187f): update currency - SnowGem\n\n[e0d6da53](https://gitlab.com/snowgem/bitfrost/-/commit/e0d6da5385e9f3a6f4cb46381f71d6fba7d60854): help button click - SnowGem",
+      "type": "rich"
+    }
   }
 ]
