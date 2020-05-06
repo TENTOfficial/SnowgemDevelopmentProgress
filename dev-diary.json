@@ -5825,5 +5825,15 @@
       "description": "[891ecd51](https://gitlab.com/snowgem/bitfrost/-/commit/891ecd510f1f4985b62957ea8eae7d3ab721187f): update currency - SnowGem\n\n[e0d6da53](https://gitlab.com/snowgem/bitfrost/-/commit/e0d6da5385e9f3a6f4cb46381f71d6fba7d60854): help button click - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e0d6da5385e9f3a6f4cb46381f71d6fba7d60854...790ba73d896146267f2538f2e2bc4167f308c919))",
+    "created_at": "2020-05-06 11:22:10.288000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[790ba73d](https://gitlab.com/snowgem/bitfrost/-/commit/790ba73d896146267f2538f2e2bc4167f308c919): add fiat icon for home page - SnowGem",
+      "type": "rich"
+    }
   }
 ]
