@@ -5905,5 +5905,15 @@
       "description": "[bd7275b7](https://gitlab.com/snowgem/bitfrost/-/commit/bd7275b7f104e622f07ff81665d3aa158ae1d188): adding contact thumbnail to a module - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bd7275b7f104e622f07ff81665d3aa158ae1d188...c7d6ad5daaa161c45133eb9e4d45bac1bd899651))",
+    "created_at": "2020-05-06 16:03:51.058000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c7d6ad5d](https://gitlab.com/snowgem/bitfrost/-/commit/c7d6ad5daaa161c45133eb9e4d45bac1bd899651): removing duplicated thumbnails - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
