@@ -5725,5 +5725,15 @@
       "description": "[cfc19402](https://gitlab.com/snowgem/bitfrost/-/commit/cfc194023a72e9a4981c1f4f9bb5e07ce77d5b1f): update routing - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cfc194023a72e9a4981c1f4f9bb5e07ce77d5b1f...a7f1b71422208cc4795571bfb3b9f209efb917b9))",
+    "created_at": "2020-05-06 08:31:30.263000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a7f1b714](https://gitlab.com/snowgem/bitfrost/-/commit/a7f1b71422208cc4795571bfb3b9f209efb917b9): Receive page wallets. - DaX",
+      "type": "rich"
+    }
   }
 ]
