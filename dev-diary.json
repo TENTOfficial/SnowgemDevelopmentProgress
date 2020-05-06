@@ -5775,5 +5775,15 @@
       "description": "[46e197f1](https://gitlab.com/snowgem/bitfrost/-/commit/46e197f1636170638a04a27cb4c7dbe6d9e4c54b): copy address - DaX\n\n[8e5b287c](https://gitlab.com/snowgem/bitfrost/-/commit/8e5b287c52abef8e125c1872cbe340e43a701108): image - DaX\n\n[829d2ecf](https://gitlab.com/snowgem/bitfrost/-/commit/829d2ecf38aab69cb8fc9eb12bab8c70372dddec): Merge https://gitlab.com/snowgem/bitfrost - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/829d2ecf38aab69cb8fc9eb12bab8c70372dddec...eb9d27b576432e4a77b631020cfc6c1db9266885))",
+    "created_at": "2020-05-06 10:12:23.584000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eb9d27b5](https://gitlab.com/snowgem/bitfrost/-/commit/eb9d27b576432e4a77b631020cfc6c1db9266885): fix copy changed address - SnowGem",
+      "type": "rich"
+    }
   }
 ]
