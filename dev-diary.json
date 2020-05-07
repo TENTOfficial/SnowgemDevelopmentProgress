@@ -6070,5 +6070,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/dedb5f6248ed5ca4e5c28c5c92e1bdef408e8bd5"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3db35ef856c8e77d4f097a2a4e422cd1cede1dee...26544d3486c5dd35ead651cd8c258ec915ddf138))",
+    "created_at": "2020-05-07 19:19:33.930000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[625f637f](https://gitlab.com/snowgem/bitfrost/-/commit/625f637f063b659bd9d0f8473c85875c8b182ad7): from ionic 4 to ionic 5 + fixes - Filip Storkan\n\n[4ed52b3b](https://gitlab.com/snowgem/bitfrost/-/commit/4ed52b3b87e19eb1e7e95aef2454ff681416acf7): update ignore file - SnowGem\n\n[8856f248](https://gitlab.com/snowgem/bitfrost/-/commit/8856f248ebb69dd46221b03cf294984394b89c3c): update to angular 9 - SnowGem\n\n[26544d34](https://gitlab.com/snowgem/bitfrost/-/commit/26544d3486c5dd35ead651cd8c258ec915ddf138): Merge branch 'infrastructure/ionic-5' - SnowGem",
+      "type": "rich"
+    }
   }
 ]
