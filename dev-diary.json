@@ -6005,5 +6005,15 @@
       "description": "[c0d72f1d](https://gitlab.com/snowgem/snowpay-api/-/commit/c0d72f1df05d1ab81c3a4747f11909fb9bad7bb1): minor fixes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cdab1e4700e3262c3a4448208e5f018af64662a5...b5d3e55a0f759818a02c1091c07ce5026961211e))",
+    "created_at": "2020-05-07 17:58:07.598000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b5d3e55a](https://gitlab.com/snowgem/bitfrost/-/commit/b5d3e55a0f759818a02c1091c07ce5026961211e): fix #4 - SnowGem",
+      "type": "rich"
+    }
   }
 ]
