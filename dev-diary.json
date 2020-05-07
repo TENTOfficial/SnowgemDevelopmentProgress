@@ -6025,5 +6025,32 @@
       "description": "[3db35ef8](https://gitlab.com/snowgem/bitfrost/-/commit/3db35ef856c8e77d4f097a2a4e422cd1cede1dee): fix #5 - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [infrastructure/ionic\\-5](https://gitlab.com/snowgem/bitfrost/commits/infrastructure/ionic-5) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-05-07 18:11:46.394000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch feature/dashboard-chart from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-05-07 18:13:04.089000",
+    "embed_0": {
+      "color": 4672855,
+      "description": "GitLab.com",
+      "provider": {
+        "name": "GitLab",
+        "url": null
+      },
+      "thumbnail": {
+        "height": 64,
+        "proxy_url": "https://images-ext-2.discordapp.net/external/DkF5MVjV3dgiqhgp8J0ROWrKTz-fABDy9o5LuOXgYiQ/https/assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "url": "https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "width": 64
+      },
+      "title": "Sign in",
+      "type": "link",
+      "url": "https://gitlab.com/snowgem/bitfrost)"
+    }
   }
 ]
