@@ -6080,5 +6080,23 @@
       "description": "[625f637f](https://gitlab.com/snowgem/bitfrost/-/commit/625f637f063b659bd9d0f8473c85875c8b182ad7): from ionic 4 to ionic 5 + fixes - Filip Storkan\n\n[4ed52b3b](https://gitlab.com/snowgem/bitfrost/-/commit/4ed52b3b87e19eb1e7e95aef2454ff681416acf7): update ignore file - SnowGem\n\n[8856f248](https://gitlab.com/snowgem/bitfrost/-/commit/8856f248ebb69dd46221b03cf294984394b89c3c): update to angular 9 - SnowGem\n\n[26544d34](https://gitlab.com/snowgem/bitfrost/-/commit/26544d3486c5dd35ead651cd8c258ec915ddf138): Merge branch 'infrastructure/ionic-5' - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-05-07 20:20:47.663000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`76df840`](https://github.com/ciripel/Heimdall/commit/76df8403952b215709dad0a10b7f0174511f4c64) defined repo writer - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/76df8403952b215709dad0a10b7f0174511f4c64"
+    }
   }
 ]
