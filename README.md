@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 517 commits since 20/01/2020. You can see the complete history in
+There is a total of 518 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-05-08 10:57:26</sub> | <sub>demzet pushed to branch [release\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/b23ea980744ecb155bd8fc34d96e14eadb0ccd8f...ead8a3e59d574444290a2786f22dd54066b4b6fd))</sub> | <sub>[ead8a3e5](https://gitlab.com/snowgem/snowpay-api/-/commit/ead8a3e59d574444290a2786f22dd54066b4b6fd): added missing file - Kamil Wojciechowski</sub> |
 | <sub>2020-05-08 10:49:04</sub> | <sub>demzet pushed to branch [release\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a9c1a58d92223754a9847bfb55d24374e8a4a517...b23ea980744ecb155bd8fc34d96e14eadb0ccd8f))</sub> | <sub>[b23ea980](https://gitlab.com/snowgem/snowpay-api/-/commit/b23ea980744ecb155bd8fc34d96e14eadb0ccd8f): test fix - Kamil Wojciechowski</sub> |
 | <sub>2020-05-08 10:43:21</sub> | <sub>demzet pushed to branch [release\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c32f59e5e1799bc86e58bb5b5c81426536b3b92b...a9c1a58d92223754a9847bfb55d24374e8a4a517))</sub> | <sub>[a9c1a58d](https://gitlab.com/snowgem/snowpay-api/-/commit/a9c1a58d92223754a9847bfb55d24374e8a4a517): test ignore - Kamil Wojciechowski</sub> |
 | <sub>2020-05-08 10:36:29</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6678d7cf2697c831310b600c671883a2049298a8...de344393c75190164f6e84f2ce3430f346bdf69f))</sub> | <sub>[de344393](https://gitlab.com/snowgem/bitfrost/-/commit/de344393c75190164f6e84f2ce3430f346bdf69f): fix #11 - SnowGem</sub> |
@@ -17,6 +18,5 @@ There is a total of 517 commits since 20/01/2020. You can see the complete histo
 | <sub>2020-05-07 20:47:12</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/25a56d27e1f01bc76fa75ca2ea82e60925d4ca2b)</sub> | <sub>[25a56d2](https://github.com/ciripel/Heimdall/commit/25a56d27e1f01bc76fa75ca2ea82e60925d4ca2b) back to Snowgem last test - ciripel</sub> |
 | <sub>2020-05-07 20:40:01</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/01fbb2b4a2966ae8674d874f59cbffa7af342039)</sub> | <sub>[01fbb2b](https://github.com/ciripel/Heimdall/commit/01fbb2b4a2966ae8674d874f59cbffa7af342039) corrected ciripel - ciripel</sub> |
 | <sub>2020-05-07 20:38:45</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/65e95745677456b9e7b7d4d57b44829114d9f546)</sub> | <sub>[65e9574](https://github.com/ciripel/Heimdall/commit/65e95745677456b9e7b7d4d57b44829114d9f546) back to ciripel - ciripel</sub> |
-| <sub>2020-05-07 20:33:45</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/bb64fb3482cf34174352131f077b962ab23cb671)</sub> | <sub>[bb64fb3](https://github.com/ciripel/Heimdall/commit/bb64fb3482cf34174352131f077b962ab23cb671) changed writer to Snowgem - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
