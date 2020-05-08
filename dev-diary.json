@@ -6300,5 +6300,25 @@
       "description": "[97fc14b9](https://gitlab.com/snowgem/snowpay-api/-/commit/97fc14b91e5210d068d219bd2c2546505f47702e): test fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/de344393c75190164f6e84f2ce3430f346bdf69f...076ce93f12b152ba4b948578e69fa5875f8881ff))",
+    "created_at": "2020-05-08 12:41:56.133000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[076ce93f](https://gitlab.com/snowgem/bitfrost/-/commit/076ce93f12b152ba4b948578e69fa5875f8881ff): fix #13 - SnowGem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/076ce93f12b152ba4b948578e69fa5875f8881ff...4bf3dbfaa412cf967d16dbc4fed21cc5d6a0035e))",
+    "created_at": "2020-05-08 12:43:29.541000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4bf3dbfa](https://gitlab.com/snowgem/bitfrost/-/commit/4bf3dbfaa412cf967d16dbc4fed21cc5d6a0035e): update fee level text in send page - SnowGem",
+      "type": "rich"
+    }
   }
 ]
