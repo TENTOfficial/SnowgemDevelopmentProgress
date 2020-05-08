@@ -6360,5 +6360,15 @@
       "description": "[2a93f1cd](https://gitlab.com/snowgem/bitfrost/-/commit/2a93f1cd64a606264b0c206fee003cfa7d91876d): fix rescan forever issue - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7002fa3509f98804675a5ebc99ffa9c0a8d3edd3...9292dcec175fb0757b1cb77739cb428cf25a10b5))",
+    "created_at": "2020-05-08 20:19:26.004000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9292dcec](https://gitlab.com/snowgem/snowpay-api/-/commit/9292dcec175fb0757b1cb77739cb428cf25a10b5): test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
