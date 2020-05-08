@@ -6240,5 +6240,15 @@
       "description": "[ead8a3e5](https://gitlab.com/snowgem/snowpay-api/-/commit/ead8a3e59d574444290a2786f22dd54066b4b6fd): added missing file - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ead8a3e59d574444290a2786f22dd54066b4b6fd...d2f585cb8659a2e2494620c45947fa21bea3096b))",
+    "created_at": "2020-05-08 11:01:00.016000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d2f585cb](https://gitlab.com/snowgem/snowpay-api/-/commit/d2f585cb8659a2e2494620c45947fa21bea3096b): temp - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
