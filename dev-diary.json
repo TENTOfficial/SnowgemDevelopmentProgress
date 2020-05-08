@@ -6270,5 +6270,15 @@
       "description": "[239986ff](https://gitlab.com/snowgem/snowpay-api/-/commit/239986ffedee2c50cb98a25abd3bda32d5cea962): config fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/239986ffedee2c50cb98a25abd3bda32d5cea962...07c008c7b8f5f208f00c38a874749f9bdd19e12e))",
+    "created_at": "2020-05-08 11:25:22.724000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[07c008c7](https://gitlab.com/snowgem/snowpay-api/-/commit/07c008c7b8f5f208f00c38a874749f9bdd19e12e): ci fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
