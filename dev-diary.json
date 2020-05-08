@@ -6190,5 +6190,25 @@
       "description": "[2e6f8c33](https://gitlab.com/snowgem/bitfrost/-/commit/2e6f8c33b8e4f0be79906dc208dd1b0cc746b137): fix #8 - SnowGem\n\n[6678d7cf](https://gitlab.com/snowgem/bitfrost/-/commit/6678d7cf2697c831310b600c671883a2049298a8): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c0d72f1df05d1ab81c3a4747f11909fb9bad7bb1...c32f59e5e1799bc86e58bb5b5c81426536b3b92b))",
+    "created_at": "2020-05-08 10:35:17.778000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c32f59e5](https://gitlab.com/snowgem/snowpay-api/-/commit/c32f59e5e1799bc86e58bb5b5c81426536b3b92b): updated docker registries - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6678d7cf2697c831310b600c671883a2049298a8...de344393c75190164f6e84f2ce3430f346bdf69f))",
+    "created_at": "2020-05-08 10:36:29.709000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[de344393](https://gitlab.com/snowgem/bitfrost/-/commit/de344393c75190164f6e84f2ce3430f346bdf69f): fix #11 - SnowGem",
+      "type": "rich"
+    }
   }
 ]
