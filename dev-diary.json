@@ -6472,5 +6472,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/a5c44fef5d665144f050b2a65f004c639fc71176"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0f5cd35e4c6c33104587b30b2dc026c4e95c9deb...c98114197919f3b1b6890dae7b6c82c9f0b7f100))",
+    "created_at": "2020-05-10 19:31:50.197000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c9811419](https://gitlab.com/snowgem/bitfrost/-/commit/c98114197919f3b1b6890dae7b6c82c9f0b7f100): fix #27 - SnowGem",
+      "type": "rich"
+    }
   }
 ]

@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-05-10 19:31:50</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0f5cd35e4c6c33104587b30b2dc026c4e95c9deb...c98114197919f3b1b6890dae7b6c82c9f0b7f100))</sub> | <sub>[c9811419](https://gitlab.com/snowgem/bitfrost/-/commit/c98114197919f3b1b6890dae7b6c82c9f0b7f100): fix #27 - SnowGem</sub> |
 | <sub>2020-05-10 18:23:52</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/a5c44fef5d665144f050b2a65f004c639fc71176)</sub> | <sub>[a5c44fe](https://github.com/ciripel/Heimdall/commit/a5c44fef5d665144f050b2a65f004c639fc71176) removed Roadmap and Proof of review - ciripel</sub> |
 | <sub>2020-05-10 18:07:28</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/9b1d67758ed28d72236e475d161021a21907db51)</sub> | <sub>[9b1d677](https://github.com/ciripel/Heimdall/commit/9b1d67758ed28d72236e475d161021a21907db51) Fixed Mn classic install guide link - ciripel</sub> |
 | <sub>2020-05-10 18:03:10</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/88fca7cbc9f7c15477efafbd73af418be7cc13f0)</sub> | <sub>[88fca7c](https://github.com/ciripel/Heimdall/commit/88fca7cbc9f7c15477efafbd73af418be7cc13f0) Little fix - ciripel</sub> |
