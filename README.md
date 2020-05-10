@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 537 commits since 20/01/2020. You can see the complete history in
+There is a total of 538 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-05-10 18:23:52</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/a5c44fef5d665144f050b2a65f004c639fc71176)</sub> | <sub>[a5c44fe](https://github.com/ciripel/Heimdall/commit/a5c44fef5d665144f050b2a65f004c639fc71176) removed Roadmap and Proof of review - ciripel</sub> |
 | <sub>2020-05-10 18:07:28</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/9b1d67758ed28d72236e475d161021a21907db51)</sub> | <sub>[9b1d677](https://github.com/ciripel/Heimdall/commit/9b1d67758ed28d72236e475d161021a21907db51) Fixed Mn classic install guide link - ciripel</sub> |
 | <sub>2020-05-10 18:03:10</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/88fca7cbc9f7c15477efafbd73af418be7cc13f0)</sub> | <sub>[88fca7c](https://github.com/ciripel/Heimdall/commit/88fca7cbc9f7c15477efafbd73af418be7cc13f0) Little fix - ciripel</sub> |
 | <sub>2020-05-10 18:02:27</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/1aa7b62bac8f25f599da92617899a7545f86eb10)</sub> | <sub>[1aa7b62](https://github.com/ciripel/Heimdall/commit/1aa7b62bac8f25f599da92617899a7545f86eb10) Added @Bbkoopsta#5676, @BlackHitama#9128, @Mist... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 537 commits since 20/01/2020. You can see the complete histo
 | <sub>2020-05-08 20:19:26</sub> | <sub>demzet pushed to branch [release\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7002fa3509f98804675a5ebc99ffa9c0a8d3edd3...9292dcec175fb0757b1cb77739cb428cf25a10b5))</sub> | <sub>[9292dcec](https://gitlab.com/snowgem/snowpay-api/-/commit/9292dcec175fb0757b1cb77739cb428cf25a10b5): test fix - Kamil Wojciechowski</sub> |
 | <sub>2020-05-08 14:29:41</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f02c3eaf8b574cca3b0b94ac1fad0367a5fd6ac0...2a93f1cd64a606264b0c206fee003cfa7d91876d))</sub> | <sub>[2a93f1cd](https://gitlab.com/snowgem/bitfrost/-/commit/2a93f1cd64a606264b0c206fee003cfa7d91876d): fix rescan forever issue - SnowGem</sub> |
 | <sub>2020-05-08 14:09:33</sub> | <sub>demzet pushed to branch [release\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/97fc14b91e5210d068d219bd2c2546505f47702e...7002fa3509f98804675a5ebc99ffa9c0a8d3edd3))</sub> | <sub>[7002fa35](https://gitlab.com/snowgem/snowpay-api/-/commit/7002fa3509f98804675a5ebc99ffa9c0a8d3edd3): added new logger - Kamil Wojciechowski</sub> |
-| <sub>2020-05-08 14:08:36</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/90083f08380ba634c0698f27baf1c0dca3c807ed...f02c3eaf8b574cca3b0b94ac1fad0367a5fd6ac0))</sub> | <sub>[f02c3eaf](https://gitlab.com/snowgem/bitfrost/-/commit/f02c3eaf8b574cca3b0b94ac1fad0367a5fd6ac0): fix #19 - SnowGem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

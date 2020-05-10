@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-05-10 18:23:52</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/a5c44fef5d665144f050b2a65f004c639fc71176)</sub> | <sub>[a5c44fe](https://github.com/ciripel/Heimdall/commit/a5c44fef5d665144f050b2a65f004c639fc71176) removed Roadmap and Proof of review - ciripel</sub> |
 | <sub>2020-05-10 18:07:28</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/9b1d67758ed28d72236e475d161021a21907db51)</sub> | <sub>[9b1d677](https://github.com/ciripel/Heimdall/commit/9b1d67758ed28d72236e475d161021a21907db51) Fixed Mn classic install guide link - ciripel</sub> |
 | <sub>2020-05-10 18:03:10</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/88fca7cbc9f7c15477efafbd73af418be7cc13f0)</sub> | <sub>[88fca7c](https://github.com/ciripel/Heimdall/commit/88fca7cbc9f7c15477efafbd73af418be7cc13f0) Little fix - ciripel</sub> |
 | <sub>2020-05-10 18:02:27</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/1aa7b62bac8f25f599da92617899a7545f86eb10)</sub> | <sub>[1aa7b62](https://github.com/ciripel/Heimdall/commit/1aa7b62bac8f25f599da92617899a7545f86eb10) Added @Bbkoopsta#5676, @BlackHitama#9128, @Mist... - ciripel</sub> |
