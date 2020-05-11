@@ -6492,5 +6492,10 @@
       "description": "[92e50efd](https://gitlab.com/snowgem/snowpay-api/-/commit/92e50efdfa5b028adde53abcd5371206e7ef3490): Configuration changes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-05-11 06:49:29.482000"
   }
 ]
