@@ -6627,5 +6627,15 @@
       "description": "[7c52a9f3](https://gitlab.com/snowgem/bitfrost/-/commit/7c52a9f3143922ff299d991d05aa339f969c55b0): Icons fix. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7c52a9f3143922ff299d991d05aa339f969c55b0...2fdafcd8b6f50ef46adbf6577eda1e2e33632df5))",
+    "created_at": "2020-05-11 20:08:45.134000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2fdafcd8](https://gitlab.com/snowgem/bitfrost/-/commit/2fdafcd8b6f50ef46adbf6577eda1e2e33632df5): Address page fix. - DaX",
+      "type": "rich"
+    }
   }
 ]
