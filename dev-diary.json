@@ -6527,5 +6527,25 @@
       "description": "[e841e4f8](https://gitlab.com/snowgem/snowpay-api/-/commit/e841e4f8440c2921499e55fdbde05dfa47428022): unit test fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4c26f7ebfb90ddc75457160ad564d4f0bb405236...9697cb28b088932f54a3248cdf10035c803ad8b6))",
+    "created_at": "2020-05-11 09:47:21.671000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9697cb28](https://gitlab.com/snowgem/bitfrost/-/commit/9697cb28b088932f54a3248cdf10035c803ad8b6): fix overview tool icon - SnowGem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e841e4f8440c2921499e55fdbde05dfa47428022...60276acc3fba61ff1a6308b65e3a1a9a5b69ce30))",
+    "created_at": "2020-05-11 09:47:55.924000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[60276acc](https://gitlab.com/snowgem/snowpay-api/-/commit/60276acc3fba61ff1a6308b65e3a1a9a5b69ce30): cleanup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
