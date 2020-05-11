@@ -6507,5 +6507,15 @@
       "description": "[38e95b17](https://gitlab.com/snowgem/bitfrost/-/commit/38e95b170f7b856fe262a89c9b8d0c581386b4b8): fix - missing icon on tapbar - Filip Storkan\n\n[1dd7150d](https://gitlab.com/snowgem/bitfrost/-/commit/1dd7150dd909d69b683c80e1e8c57f21fdfad370): minor css styles -> smaller font size and buttons - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1dd7150dd909d69b683c80e1e8c57f21fdfad370...4c26f7ebfb90ddc75457160ad564d4f0bb405236))",
+    "created_at": "2020-05-11 07:34:59.952000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b0d21aa2](https://gitlab.com/snowgem/bitfrost/-/commit/b0d21aa2aa7cc27f91038c07493ded8a0f8bbdc1): updated border color - Filip Storkan\n\n[b75fa765](https://gitlab.com/snowgem/bitfrost/-/commit/b75fa765c79dd7bf04cb3d06db727b6af65fe919): updated tapbar bg color - Filip Storkan\n\n[4c26f7eb](https://gitlab.com/snowgem/bitfrost/-/commit/4c26f7ebfb90ddc75457160ad564d4f0bb405236): updated search behaviour - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
