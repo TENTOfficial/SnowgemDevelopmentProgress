@@ -6657,5 +6657,25 @@
       "description": "[b37439d1](https://gitlab.com/snowgem/bitfrost/-/commit/b37439d1b6402b93cff7432274c9b419ba06f1e6): correct routing, fix back btn issue - SnowGem\n\n[315086aa](https://gitlab.com/snowgem/bitfrost/-/commit/315086aafeebdb0303c683dde3a2d462d8b87845): fix send issue - SnowGem\n\n[2354e0bc](https://gitlab.com/snowgem/bitfrost/-/commit/2354e0bc83b641f914ac8fb5f5fec2212864b56a): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2354e0bc83b641f914ac8fb5f5fec2212864b56a...e2730a830bc3aadb43a209d214172be65f5e1fd6))",
+    "created_at": "2020-05-11 21:23:11.564000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e2730a83](https://gitlab.com/snowgem/bitfrost/-/commit/e2730a830bc3aadb43a209d214172be65f5e1fd6): fix navigation after adding coin - SnowGem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/16f1f9e38f0814940828df6155bb77392f2ab920...ca46ce441f8375f59d9908da1d605716072329de))",
+    "created_at": "2020-05-11 21:24:50.916000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ca46ce44](https://gitlab.com/snowgem/snowpay-api/-/commit/ca46ce441f8375f59d9908da1d605716072329de): configs - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
