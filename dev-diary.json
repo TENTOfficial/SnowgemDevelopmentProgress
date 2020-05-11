@@ -6547,5 +6547,15 @@
       "description": "[60276acc](https://gitlab.com/snowgem/snowpay-api/-/commit/60276acc3fba61ff1a6308b65e3a1a9a5b69ce30): cleanup - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9697cb28b088932f54a3248cdf10035c803ad8b6...781d982af1954b1cf4294ab026dffdaa421d27a0))",
+    "created_at": "2020-05-11 09:50:56.399000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[781d982a](https://gitlab.com/snowgem/bitfrost/-/commit/781d982af1954b1cf4294ab026dffdaa421d27a0): change tool icon to sharp - SnowGem",
+      "type": "rich"
+    }
   }
 ]
