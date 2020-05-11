@@ -6557,5 +6557,15 @@
       "description": "[781d982a](https://gitlab.com/snowgem/bitfrost/-/commit/781d982af1954b1cf4294ab026dffdaa421d27a0): change tool icon to sharp - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/60276acc3fba61ff1a6308b65e3a1a9a5b69ce30...eabd5e842416e928db410e6c87f60623d47985fe))",
+    "created_at": "2020-05-11 09:56:09.672000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eabd5e84](https://gitlab.com/snowgem/snowpay-api/-/commit/eabd5e842416e928db410e6c87f60623d47985fe): cleanup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
