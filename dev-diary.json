@@ -6597,5 +6597,15 @@
       "description": "[25cf3c40](https://gitlab.com/snowgem/snowpay-api/-/commit/25cf3c4060c97e663d45ebba7b566b217334fceb): nsb license update - Kamil Wojciechowski\n\n[16f1f9e3](https://gitlab.com/snowgem/snowpay-api/-/commit/16f1f9e38f0814940828df6155bb77392f2ab920): configs - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/781d982af1954b1cf4294ab026dffdaa421d27a0...e278a6fe1dbd25fe9da75622d154170290bf8298))",
+    "created_at": "2020-05-11 14:11:40.180000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eb0ff90a](https://gitlab.com/snowgem/bitfrost/-/commit/eb0ff90a07df21fca2e6768cf01b764d33e7191c): Options page white space fix. - DaX\n\n[e278a6fe](https://gitlab.com/snowgem/bitfrost/-/commit/e278a6fe1dbd25fe9da75622d154170290bf8298): White bg fix - DaX",
+      "type": "rich"
+    }
   }
 ]
