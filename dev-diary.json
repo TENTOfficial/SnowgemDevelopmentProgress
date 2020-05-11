@@ -6617,5 +6617,15 @@
       "description": "[850b9f1f](https://gitlab.com/snowgem/bitfrost/-/commit/850b9f1f6721a674672af92eaf332d5d4060532e): delete wallet - SnowGem\n\n[61334626](https://gitlab.com/snowgem/bitfrost/-/commit/61334626b17e9548d6fc2cce7e1c72e4eabdf61c): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[5e7ed4d7](https://gitlab.com/snowgem/bitfrost/-/commit/5e7ed4d75960e09f1e1f8db514435639f7cbfb8a): fix #26 - SnowGem\n\n[6ee6d721](https://gitlab.com/snowgem/bitfrost/-/commit/6ee6d721297f34df7fda7f373c8362d037cc0db1): disable DGB - SnowGem\n\n[6cdd8ea1](https://gitlab.com/snowgem/bitfrost/-/commit/6cdd8ea107aa420c06cf6a9bcdbbe297f269dcbf): increase version to 0.0.2 - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6cdd8ea107aa420c06cf6a9bcdbbe297f269dcbf...7c52a9f3143922ff299d991d05aa339f969c55b0))",
+    "created_at": "2020-05-11 19:29:26.519000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7c52a9f3](https://gitlab.com/snowgem/bitfrost/-/commit/7c52a9f3143922ff299d991d05aa339f969c55b0): Icons fix. - DaX",
+      "type": "rich"
+    }
   }
 ]
