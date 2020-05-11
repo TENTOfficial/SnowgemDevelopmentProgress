@@ -6577,5 +6577,15 @@
       "description": "[298426e4](https://gitlab.com/snowgem/snowpay-api/-/commit/298426e4ce0991348bfda3bfe95165e52fe3a881): coinswapping cleanup - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/298426e4ce0991348bfda3bfe95165e52fe3a881...00941b34c0052ec1e974b6d6c956a26488a3cba4))",
+    "created_at": "2020-05-11 12:22:35.831000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[00941b34](https://gitlab.com/snowgem/snowpay-api/-/commit/00941b34c0052ec1e974b6d6c956a26488a3cba4): kv fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
