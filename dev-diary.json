@@ -6587,5 +6587,15 @@
       "description": "[00941b34](https://gitlab.com/snowgem/snowpay-api/-/commit/00941b34c0052ec1e974b6d6c956a26488a3cba4): kv fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/00941b34c0052ec1e974b6d6c956a26488a3cba4...16f1f9e38f0814940828df6155bb77392f2ab920))",
+    "created_at": "2020-05-11 13:37:45.427000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[25cf3c40](https://gitlab.com/snowgem/snowpay-api/-/commit/25cf3c4060c97e663d45ebba7b566b217334fceb): nsb license update - Kamil Wojciechowski\n\n[16f1f9e3](https://gitlab.com/snowgem/snowpay-api/-/commit/16f1f9e38f0814940828df6155bb77392f2ab920): configs - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
