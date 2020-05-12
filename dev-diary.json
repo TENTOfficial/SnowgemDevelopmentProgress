@@ -6867,5 +6867,15 @@
       "description": "[ed3e5d34](https://gitlab.com/snowgem/bitfrost/-/commit/ed3e5d34018ec6651331d2e131ac863e874a4c20): check Insufficient amount - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ed3e5d34018ec6651331d2e131ac863e874a4c20...3c8d3e358cd96460c01924e909047806d682198e))",
+    "created_at": "2020-05-12 15:10:58.548000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3c8d3e35](https://gitlab.com/snowgem/bitfrost/-/commit/3c8d3e358cd96460c01924e909047806d682198e): fix max sending - SnowGem",
+      "type": "rich"
+    }
   }
 ]
