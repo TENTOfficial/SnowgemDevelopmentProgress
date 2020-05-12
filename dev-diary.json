@@ -6817,5 +6817,15 @@
       "description": "[749b65a7](https://gitlab.com/snowgem/bitfrost/-/commit/749b65a7d0c6c75a14f08a7821c7a4d2ccd514ba): increase version to 0.0.3 - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c452745d44ce3ecc282c7b5a320fb0ca4e2bbebd...e5274c5c7a41b9fed1fe80a30c91d92544d8e426))",
+    "created_at": "2020-05-12 10:45:37.594000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e5274c5c](https://gitlab.com/snowgem/snowpay-api/-/commit/e5274c5c7a41b9fed1fe80a30c91d92544d8e426): docker files update - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
