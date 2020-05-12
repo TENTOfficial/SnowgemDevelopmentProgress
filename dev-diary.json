@@ -6707,5 +6707,15 @@
       "description": "[ec10c747](https://gitlab.com/snowgem/bitfrost/-/commit/ec10c747a338c9b08491e4586de344aeda2edb40): Added tooltips for passwords. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec10c747a338c9b08491e4586de344aeda2edb40...3f5854af2470eefb40e2c3a435025afaa4287094))",
+    "created_at": "2020-05-12 08:35:18.587000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3f5854af](https://gitlab.com/snowgem/bitfrost/-/commit/3f5854af2470eefb40e2c3a435025afaa4287094): Edit messages. - DaX",
+      "type": "rich"
+    }
   }
 ]
