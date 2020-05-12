@@ -6837,5 +6837,15 @@
       "description": "[78d228aa](https://gitlab.com/snowgem/snowpay-api/-/commit/78d228aa8fd2c1f22bf5390dfa271d51a60b17f1): license fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/78d228aa8fd2c1f22bf5390dfa271d51a60b17f1...63e73f1bf61f6950fd318473e0c0ec07af481857))",
+    "created_at": "2020-05-12 12:23:18.315000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[63e73f1b](https://gitlab.com/snowgem/snowpay-api/-/commit/63e73f1bf61f6950fd318473e0c0ec07af481857): removed local exchange file - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
