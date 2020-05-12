@@ -6917,5 +6917,15 @@
       "description": "[54d2258b](https://gitlab.com/snowgem/bitfrost/-/commit/54d2258b66ef4c13c502882608bb22420bcf57c9): fix cannot scroll home page - SnowGem\n\n[e62798cc](https://gitlab.com/snowgem/bitfrost/-/commit/e62798cca43ee28ed08d29bce99628b15e03e670): merge with xsg-item content - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e62798cca43ee28ed08d29bce99628b15e03e670...0eda80051106d73eb90801a430887c697e930835))",
+    "created_at": "2020-05-12 16:50:21.946000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0eda8005](https://gitlab.com/snowgem/bitfrost/-/commit/0eda80051106d73eb90801a430887c697e930835): css class for toggeling tapbar on pages - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
