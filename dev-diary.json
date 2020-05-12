@@ -6697,5 +6697,15 @@
       "description": "[3ff71d69](https://gitlab.com/snowgem/bitfrost/-/commit/3ff71d69a094b6891e9cb392c5e37e8713c3289e): enable qr code again - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3ff71d69a094b6891e9cb392c5e37e8713c3289e...ec10c747a338c9b08491e4586de344aeda2edb40))",
+    "created_at": "2020-05-12 08:22:52.830000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ec10c747](https://gitlab.com/snowgem/bitfrost/-/commit/ec10c747a338c9b08491e4586de344aeda2edb40): Added tooltips for passwords. - DaX",
+      "type": "rich"
+    }
   }
 ]
