@@ -6897,5 +6897,15 @@
       "description": "[e537dcd5](https://gitlab.com/snowgem/bitfrost/-/commit/e537dcd599a3b8bb507146b6fc994af8730f216b): dragging event using animation and gesture api - Filip Storkan\n\n[54ce99d3](https://gitlab.com/snowgem/bitfrost/-/commit/54ce99d363a9bfc2fd1ccc1f6b309a9e60a1bbf3): loading an avatar icon - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7f7e0a9d325ddfb3713271ab7d562eb914b2963d...b6a32d2d97956d682161860c9817fdb03e62f519))",
+    "created_at": "2020-05-12 15:39:56.613000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b6a32d2d](https://gitlab.com/snowgem/bitfrost/-/commit/b6a32d2d97956d682161860c9817fdb03e62f519): tapbar overflow fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
