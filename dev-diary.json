@@ -6717,5 +6717,25 @@
       "description": "[3f5854af](https://gitlab.com/snowgem/bitfrost/-/commit/3f5854af2470eefb40e2c3a435025afaa4287094): Edit messages. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ca46ce441f8375f59d9908da1d605716072329de...27e30c45de0f6a514e0eca015cad0143c11afc02))",
+    "created_at": "2020-05-12 09:22:00.589000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[27e30c45](https://gitlab.com/snowgem/snowpay-api/-/commit/27e30c45de0f6a514e0eca015cad0143c11afc02): updated nsb license - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/80ada05d55dec3ab4766175f6cdf54604687baee...2eef6c404c848f434f754913d19b4f56375d9ad9))",
+    "created_at": "2020-05-12 09:22:43.551000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2eef6c40](https://gitlab.com/snowgem/snowpay-api/-/commit/2eef6c404c848f434f754913d19b4f56375d9ad9): Update License.xml - demzet",
+      "type": "rich"
+    }
   }
 ]
