@@ -6767,5 +6767,25 @@
       "description": "[512a7a8c](https://gitlab.com/snowgem/snowpay-api/-/commit/512a7a8c6e834cb0f7cb9662cd683d0b1ebcc3c1): unit test improvement - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/512a7a8c6e834cb0f7cb9662cd683d0b1ebcc3c1...43be25ae3d48cd1bb2a4a9f429535d8388183d96))",
+    "created_at": "2020-05-12 10:01:55.076000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[43be25ae](https://gitlab.com/snowgem/snowpay-api/-/commit/43be25ae3d48cd1bb2a4a9f429535d8388183d96): added missing file - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3f5854af2470eefb40e2c3a435025afaa4287094...89ac288c88c7cc0689fa18cf3cd8d263783652f4))",
+    "created_at": "2020-05-12 10:04:08.303000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[89ac288c](https://gitlab.com/snowgem/bitfrost/-/commit/89ac288c88c7cc0689fa18cf3cd8d263783652f4): Fix issue #7. Fee level hard to see. - DaX",
+      "type": "rich"
+    }
   }
 ]
