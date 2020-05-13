@@ -7215,5 +7215,15 @@
       "description": "[02105c48](https://gitlab.com/snowgem/bitfrost/-/commit/02105c48e59a67789a8715b768f8bdfd73f29927): fix login behavior - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/77c031bd8126916e768a4e41a9e10036d37ae400...8512f0b1e2d962f5117471626a42173f26011a1b))",
+    "created_at": "2020-05-13 22:17:21.127000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ee49325e](https://gitlab.com/snowgem/bitfrost/-/commit/ee49325e12521fd996714741434870a4db97140f): chart improvments - Filip Storkan\n\n[8512f0b1](https://gitlab.com/snowgem/bitfrost/-/commit/8512f0b1e2d962f5117471626a42173f26011a1b): chart interaction - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
