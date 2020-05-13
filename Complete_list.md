@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-05-13 09:59:49</sub> | <sub>demzet (aphex5) opened [\!4 \*Release 1\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/4) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-05-13 08:19:11</sub> | <sub>demzet (aphex5) closed [\!3 \*Release 1\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/3) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-05-13 08:18:03</sub> | <sub>demzet (aphex5) opened [\!3 \*Release 1\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/3) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-05-13 07:52:56</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fdcbd1bbb42052f018ea47ccbc6d7e47f713b74a...6dad3e71cbc4572f61fd943c4f8cfe4644606d2d))</sub> | <sub>[6dad3e71](https://gitlab.com/snowgem/bitfrost/-/commit/6dad3e71cbc4572f61fd943c4f8cfe4644606d2d): update build release iod command - SnowGem</sub> |
