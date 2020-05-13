@@ -7185,5 +7185,15 @@
       "description": "[030ecf9a](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/030ecf9acb0b77e26157490774c750ce1d156d70): logged all errors - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/239eaf32b4e650850b9c31a13d07f53fe684715e...4a0db0ae7a6cde32b93593544369b533d9b33468))",
+    "created_at": "2020-05-13 20:06:15.033000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4a0db0ae](https://gitlab.com/snowgem/bitfrost/-/commit/4a0db0ae7a6cde32b93593544369b533d9b33468): update resource - SnowGem",
+      "type": "rich"
+    }
   }
 ]
