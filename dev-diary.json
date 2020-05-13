@@ -7085,5 +7085,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-05-13 11:10:53.854000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0308468cd1b4249e01a22a33abe97cf03d63dcd7...758cb7bcf2908ce4fb01dc4863c8152db61fa22d))",
+    "created_at": "2020-05-13 14:15:56.452000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5c11b18f](https://gitlab.com/snowgem/bitfrost/-/commit/5c11b18fd4d53c249c717e3b8ea5361411377716): fix bottom bar ios - Snowgem\n\n[758cb7bc](https://gitlab.com/snowgem/bitfrost/-/commit/758cb7bcf2908ce4fb01dc4863c8152db61fa22d): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
+      "type": "rich"
+    }
   }
 ]
