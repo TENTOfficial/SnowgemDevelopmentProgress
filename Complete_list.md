@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-05-13 10:04:02</sub> | <sub>demzet (aphex5) merged [\!4 \*Release 1\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/4) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-05-13 09:59:49</sub> | <sub>demzet (aphex5) opened [\!4 \*Release 1\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/4) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-05-13 08:19:11</sub> | <sub>demzet (aphex5) closed [\!3 \*Release 1\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/3) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-05-13 08:18:03</sub> | <sub>demzet (aphex5) opened [\!3 \*Release 1\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/3) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
