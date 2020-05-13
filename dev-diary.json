@@ -7135,5 +7135,15 @@
       "description": "[2196e62b](https://gitlab.com/snowgem/bitfrost/-/commit/2196e62bfc3fb4d47e061e42b9ce4b1d5e703625): fix tools/settings page - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2196e62bfc3fb4d47e061e42b9ce4b1d5e703625...a09e237485be4a37664707f2d38f5fad980d97a8))",
+    "created_at": "2020-05-13 16:13:31.642000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a09e2374](https://gitlab.com/snowgem/bitfrost/-/commit/a09e237485be4a37664707f2d38f5fad980d97a8): fix reloading issue for ETH on ios - SnowGem",
+      "type": "rich"
+    }
   }
 ]
