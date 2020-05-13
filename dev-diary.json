@@ -7080,5 +7080,10 @@
       "description": "[0308468c](https://gitlab.com/snowgem/bitfrost/-/commit/0308468cd1b4249e01a22a33abe97cf03d63dcd7): hide splash screen in login page - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-05-13 11:10:53.854000"
   }
 ]
