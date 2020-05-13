@@ -7225,5 +7225,15 @@
       "description": "[ee49325e](https://gitlab.com/snowgem/bitfrost/-/commit/ee49325e12521fd996714741434870a4db97140f): chart improvments - Filip Storkan\n\n[8512f0b1](https://gitlab.com/snowgem/bitfrost/-/commit/8512f0b1e2d962f5117471626a42173f26011a1b): chart interaction - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/02105c48e59a67789a8715b768f8bdfd73f29927...cb9395a0b979623c7e39d186499f67d2948a3761))",
+    "created_at": "2020-05-13 22:31:39.631000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cb9395a0](https://gitlab.com/snowgem/bitfrost/-/commit/cb9395a0b979623c7e39d186499f67d2948a3761): move all public pages to public url - SnowGem",
+      "type": "rich"
+    }
   }
 ]
