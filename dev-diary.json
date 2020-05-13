@@ -6972,5 +6972,15 @@
     "author": "GitLab",
     "content": "Txid pushed new tag [0\\.0\\.3](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.3) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-05-12 17:51:11.161000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fdcbd1bbb42052f018ea47ccbc6d7e47f713b74a...6dad3e71cbc4572f61fd943c4f8cfe4644606d2d))",
+    "created_at": "2020-05-13 07:52:56.477000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6dad3e71](https://gitlab.com/snowgem/bitfrost/-/commit/6dad3e71cbc4572f61fd943c4f8cfe4644606d2d): update build release iod command - SnowGem",
+      "type": "rich"
+    }
   }
 ]
