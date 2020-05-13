@@ -7165,5 +7165,15 @@
       "description": "[239eaf32](https://gitlab.com/snowgem/bitfrost/-/commit/239eaf32b4e650850b9c31a13d07f53fe684715e): Splashscreen v2 :rocket: - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/013949cca5e78e8cfa5a74d12086ae7dc141273f...5491d7e93d02755c95ec8968ffaa9ce6e29ff99c))",
+    "created_at": "2020-05-13 19:26:38.295000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5491d7e9](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/5491d7e93d02755c95ec8968ffaa9ce6e29ff99c): Implemented translation for `bad-txns-oversize` error - ciripel",
+      "type": "rich"
+    }
   }
 ]
