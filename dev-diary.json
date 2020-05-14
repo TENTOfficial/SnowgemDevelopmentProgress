@@ -7325,5 +7325,15 @@
       "description": "[dc1ab867](https://gitlab.com/snowgem/bitfrost/-/commit/dc1ab867269a27670824bd722f28855fa3214c28): remove native page transition - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cecac53fa92b71de09974d9c408eed502ab28184...d3923fd07736b9d59dd76cc3de48acedfc3a2478))",
+    "created_at": "2020-05-14 20:30:15.078000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d3923fd0](https://gitlab.com/snowgem/snowpay-api/-/commit/d3923fd07736b9d59dd76cc3de48acedfc3a2478): fixed estimation calculation - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
