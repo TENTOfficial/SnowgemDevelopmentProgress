@@ -7295,5 +7295,15 @@
       "description": "[b666e56c](https://gitlab.com/snowgem/bitfrost/-/commit/b666e56c05fddabcc77c3032a3819985d2083df5): check tabbar status before updating - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8512f0b1e2d962f5117471626a42173f26011a1b...54a83824e0bae6ec74e0240e156df3e4aeb552ce))",
+    "created_at": "2020-05-14 15:26:50.214000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[54a83824](https://gitlab.com/snowgem/bitfrost/-/commit/54a83824e0bae6ec74e0240e156df3e4aeb552ce): responsive chart - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
