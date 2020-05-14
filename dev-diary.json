@@ -7345,5 +7345,15 @@
       "description": "[cdca435b](https://gitlab.com/snowgem/bitfrost/-/commit/cdca435bef13fe1cc970e9ca2df5762fb12ab14b): fix css footer - Snowgem\n\n[810172a2](https://gitlab.com/snowgem/bitfrost/-/commit/810172a2f17304172a522b7d4ac0fb4008368f3c): ios signing - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d3923fd07736b9d59dd76cc3de48acedfc3a2478...59985d89c7edf283fa8ddc6d9aca31d421503686))",
+    "created_at": "2020-05-14 20:48:23.564000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[59985d89](https://gitlab.com/snowgem/snowpay-api/-/commit/59985d89c7edf283fa8ddc6d9aca31d421503686): configuration files lookup improvement - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
