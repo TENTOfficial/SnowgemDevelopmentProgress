@@ -7315,5 +7315,15 @@
       "description": "[90921241](https://gitlab.com/snowgem/bitfrost/-/commit/909212412816727fc79baa0e1fdb736741af1e8a): change animation to up/down - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/909212412816727fc79baa0e1fdb736741af1e8a...dc1ab867269a27670824bd722f28855fa3214c28))",
+    "created_at": "2020-05-14 18:08:13.017000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[dc1ab867](https://gitlab.com/snowgem/bitfrost/-/commit/dc1ab867269a27670824bd722f28855fa3214c28): remove native page transition - SnowGem",
+      "type": "rich"
+    }
   }
 ]
