@@ -7235,5 +7235,15 @@
       "description": "[cb9395a0](https://gitlab.com/snowgem/bitfrost/-/commit/cb9395a0b979623c7e39d186499f67d2948a3761): move all public pages to public url - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/3ce1be713dabf2e23f64855d9eb9a05f88f2b6f5...c685b23bbd68bbb10dbe4dacb71d520de5819e48))",
+    "created_at": "2020-05-14 11:25:32.242000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c685b23b](https://gitlab.com/snowgem/snowpay-api/-/commit/c685b23bbd68bbb10dbe4dacb71d520de5819e48): adding swap refunds - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
