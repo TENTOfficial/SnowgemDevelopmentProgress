@@ -7275,5 +7275,15 @@
       "description": "[cecac53f](https://gitlab.com/snowgem/snowpay-api/-/commit/cecac53fa92b71de09974d9c408eed502ab28184): swap refunds - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/51eb566eff516e0ec497a40833e2c67ca999fd10...2bcf5451f9d6282af92e0be2b453b85f741c07f8))",
+    "created_at": "2020-05-14 12:45:32.035000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2bcf5451](https://gitlab.com/snowgem/bitfrost/-/commit/2bcf5451f9d6282af92e0be2b453b85f741c07f8): remove public page - SnowGem",
+      "type": "rich"
+    }
   }
 ]
