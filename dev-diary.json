@@ -7335,5 +7335,15 @@
       "description": "[d3923fd0](https://gitlab.com/snowgem/snowpay-api/-/commit/d3923fd07736b9d59dd76cc3de48acedfc3a2478): fixed estimation calculation - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dc1ab867269a27670824bd722f28855fa3214c28...810172a2f17304172a522b7d4ac0fb4008368f3c))",
+    "created_at": "2020-05-14 20:41:54.557000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cdca435b](https://gitlab.com/snowgem/bitfrost/-/commit/cdca435bef13fe1cc970e9ca2df5762fb12ab14b): fix css footer - Snowgem\n\n[810172a2](https://gitlab.com/snowgem/bitfrost/-/commit/810172a2f17304172a522b7d4ac0fb4008368f3c): ios signing - Snowgem",
+      "type": "rich"
+    }
   }
 ]
