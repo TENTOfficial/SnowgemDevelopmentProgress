@@ -7385,5 +7385,15 @@
       "description": "[e526e1e2](https://gitlab.com/snowgem/bitfrost/-/commit/e526e1e23f6129034d268c9922779cacda476325): remove custom footer class - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e526e1e23f6129034d268c9922779cacda476325...a41ff25034e4b279cb45c5a4c6ead1356b9e0d92))",
+    "created_at": "2020-05-15 10:42:52.271000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6859175b](https://gitlab.com/snowgem/bitfrost/-/commit/6859175b5a98f334fc4db99ad6f3847c17ed0be8): fix #40, #37, #36, #35 - SnowGem\n\n[a41ff250](https://gitlab.com/snowgem/bitfrost/-/commit/a41ff25034e4b279cb45c5a4c6ead1356b9e0d92): remove storage permission - SnowGem",
+      "type": "rich"
+    }
   }
 ]
