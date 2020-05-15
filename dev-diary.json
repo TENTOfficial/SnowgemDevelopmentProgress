@@ -7375,5 +7375,15 @@
       "description": "[239f3aba](https://gitlab.com/snowgem/bitfrost/-/commit/239f3aba26c60fe1820d5cf977d136ce30ac6e64): adding shadow to chart button - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/31581cc493e3fe6d94d3e6cd03b038edfe7d3419...e526e1e23f6129034d268c9922779cacda476325))",
+    "created_at": "2020-05-15 09:13:04.356000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e526e1e2](https://gitlab.com/snowgem/bitfrost/-/commit/e526e1e23f6129034d268c9922779cacda476325): remove custom footer class - SnowGem",
+      "type": "rich"
+    }
   }
 ]
