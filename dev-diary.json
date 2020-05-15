@@ -7445,5 +7445,15 @@
       "description": "[7d6c3e09](https://gitlab.com/snowgem/bitfrost/-/commit/7d6c3e0930b6d0cb840f1c9899cd49eb66849923): wkwebview only ios - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Shmocs pushed to branch [master](https://gitlab.com/snowgem/asgard/commits/master) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/19650fc495cab1dc862058975f339a0b14d1a510...1da9d0ea560237c156587ac473d6ce742eccba0f))",
+    "created_at": "2020-05-15 20:24:09.375000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1da9d0ea](https://gitlab.com/snowgem/asgard/-/commit/1da9d0ea560237c156587ac473d6ce742eccba0f): Asgard V2 dashboard layout remastered - Sergiu Costache",
+      "type": "rich"
+    }
   }
 ]
