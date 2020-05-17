@@ -7485,5 +7485,15 @@
       "description": "[d799f276](https://gitlab.com/snowgem/snowpay-api/-/commit/d799f276eb21cb15063554313afe1b544d8795a0): added swap cancellation - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5eacc89d777aa59011ce35a328d16f036976a454...7518af643d78b03968a2d5298931dffc0e473a19))",
+    "created_at": "2020-05-17 18:06:21.329000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cdce889c](https://gitlab.com/snowgem/bitfrost/-/commit/cdce889c0e4c5963d263a8484227aeaa543cd91e): fix register success page, add test account - SnowGem\n\n[5d0664a8](https://gitlab.com/snowgem/bitfrost/-/commit/5d0664a8de0a585728c2bca98d14d770dd9c7849): fix conflict - SnowGem\n\n[7518af64](https://gitlab.com/snowgem/bitfrost/-/commit/7518af643d78b03968a2d5298931dffc0e473a19): correct actionsheet color - SnowGem",
+      "type": "rich"
+    }
   }
 ]
