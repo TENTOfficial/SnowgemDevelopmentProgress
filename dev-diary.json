@@ -7505,5 +7505,15 @@
       "description": "[923051f1](https://gitlab.com/snowgem/bitfrost/-/commit/923051f18f093d32b9a3574ce35cf17583b492a6): fix create account - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/923051f18f093d32b9a3574ce35cf17583b492a6...505ecc5d49099fa2c247618604bb92180233e513))",
+    "created_at": "2020-05-18 15:43:16.017000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d6aeb61f](https://gitlab.com/snowgem/bitfrost/-/commit/d6aeb61fe00f893ebaf7ecc1d327995066561ca2): add about page - SnowGem\n\n[505ecc5d](https://gitlab.com/snowgem/bitfrost/-/commit/505ecc5d49099fa2c247618604bb92180233e513): fix ion-reorder color - SnowGem",
+      "type": "rich"
+    }
   }
 ]
