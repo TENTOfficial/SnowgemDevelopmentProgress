@@ -7515,5 +7515,15 @@
       "description": "[d6aeb61f](https://gitlab.com/snowgem/bitfrost/-/commit/d6aeb61fe00f893ebaf7ecc1d327995066561ca2): add about page - SnowGem\n\n[505ecc5d](https://gitlab.com/snowgem/bitfrost/-/commit/505ecc5d49099fa2c247618604bb92180233e513): fix ion-reorder color - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d799f276eb21cb15063554313afe1b544d8795a0...99552b23492fe790fa384f656b97bc972e817213))",
+    "created_at": "2020-05-19 08:36:06.626000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cc2467d2](https://gitlab.com/snowgem/snowpay-api/-/commit/cc2467d27afd901e589062898680369ce710b9b4): wip - Kamil Wojciechowski\n\n[d8236a4e](https://gitlab.com/snowgem/snowpay-api/-/commit/d8236a4e340e78f0aa0acd94d77fb0bce1536037): added swap progress notifications - Kamil Wojciechowski\n\n[99552b23](https://gitlab.com/snowgem/snowpay-api/-/commit/99552b23492fe790fa384f656b97bc972e817213): added swap cancelation, swap price update, order progress reporting - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
