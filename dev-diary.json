@@ -7585,5 +7585,15 @@
       "description": "[b9b98c7d](https://gitlab.com/snowgem/bitfrost/-/commit/b9b98c7ddfa764fb011eb0286f96e0acd5e62100): do not clear data - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a6a78f81e6bed269007120d8cfa9860bc6e86f46...984bdf26ced70368b5c386de6043af7f6c6b2510))",
+    "created_at": "2020-05-20 16:11:53.928000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[984bdf26](https://gitlab.com/snowgem/bitfrost/-/commit/984bdf26ced70368b5c386de6043af7f6c6b2510): fixing duplicates - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
