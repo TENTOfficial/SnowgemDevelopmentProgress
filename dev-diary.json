@@ -7575,5 +7575,15 @@
       "description": "[a6e097b3](https://gitlab.com/snowgem/bitfrost/-/commit/a6e097b3ad36218368447a30ca233bc05e0912e2): fix eth checking error - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a6e097b3ad36218368447a30ca233bc05e0912e2...b9b98c7ddfa764fb011eb0286f96e0acd5e62100))",
+    "created_at": "2020-05-20 15:05:00.224000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b9b98c7d](https://gitlab.com/snowgem/bitfrost/-/commit/b9b98c7ddfa764fb011eb0286f96e0acd5e62100): do not clear data - SnowGem",
+      "type": "rich"
+    }
   }
 ]
