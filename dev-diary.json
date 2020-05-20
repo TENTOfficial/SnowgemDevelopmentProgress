@@ -7545,5 +7545,15 @@
       "description": "[06ada5b5](https://gitlab.com/snowgem/bitfrost/-/commit/06ada5b5760699d9adf18b16b06c24f7a83761cd): gestures update - Filip Storkan\n\n[53d06675](https://gitlab.com/snowgem/bitfrost/-/commit/53d066751e3b1583c6cd6011ad40c5e338bb3d94): balnce date switched - Filip Storkan\n\n[cf62f014](https://gitlab.com/snowgem/bitfrost/-/commit/cf62f0146d3e93b8b3c2276a9886817e7e5a7224): gestures, animations, chart, minor changes - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d79d97a4f0dd96f015e674295dcb006cd5190cfa...a9fdb68b377d90847e25c180df352515d084705f))",
+    "created_at": "2020-05-20 09:03:39.694000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[087fd755](https://gitlab.com/snowgem/bitfrost/-/commit/087fd755a6b44b57c09ff14fb0e740e74ff73da2): fix wrong color in some location - SnowGem\n\n[a9fdb68b](https://gitlab.com/snowgem/bitfrost/-/commit/a9fdb68b377d90847e25c180df352515d084705f): fix checking eth transaction - SnowGem",
+      "type": "rich"
+    }
   }
 ]
