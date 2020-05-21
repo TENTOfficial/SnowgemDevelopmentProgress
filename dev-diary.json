@@ -7631,5 +7631,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/33d4c65d8b29cc444b5a3ae4b9a532068a52c5dc"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/984bdf26ced70368b5c386de6043af7f6c6b2510...dcac1b657db5df85fbb5071559becd649343d0b3))",
+    "created_at": "2020-05-21 07:46:43.012000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a65953f6](https://gitlab.com/snowgem/bitfrost/-/commit/a65953f61600db9ec377d4177b1e79fffd847e56): updating libs - Filip Storkan\n\n[861469eb](https://gitlab.com/snowgem/bitfrost/-/commit/861469eb87907244815bc3c13b826e2bba2a9860): skipping libs in ts - Filip Storkan\n\n[dcac1b65](https://gitlab.com/snowgem/bitfrost/-/commit/dcac1b657db5df85fbb5071559becd649343d0b3): fixing compile fixes in send token file - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
