@@ -7701,5 +7701,15 @@
       "description": "[559aff57](https://gitlab.com/snowgem/bitfrost/-/commit/559aff579fc05602c38578328ef63df95dc22c17): margin top for ios - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/559aff579fc05602c38578328ef63df95dc22c17...198463a3a6b2fcbdbc90fac488b6a12e77230837))",
+    "created_at": "2020-05-21 13:45:00.668000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[198463a3](https://gitlab.com/snowgem/bitfrost/-/commit/198463a3a6b2fcbdbc90fac488b6a12e77230837): fix pull down to refresh - SnowGem",
+      "type": "rich"
+    }
   }
 ]
