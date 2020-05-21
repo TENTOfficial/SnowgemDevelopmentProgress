@@ -7721,5 +7721,15 @@
       "description": "[7762091a](https://gitlab.com/snowgem/bitfrost/-/commit/7762091ab8619ffe8fd0b02b0a726ebc7261fbc1): fix history in home page - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b9b98c7ddfa764fb011eb0286f96e0acd5e62100...29680672f30986501b9ebc29e415b12b2ba35c51))",
+    "created_at": "2020-05-21 15:50:35.240000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bbe917b9](https://gitlab.com/snowgem/bitfrost/-/commit/bbe917b9358216592881bf2f03260c1b4fd672a6): check empty name - SnowGem\n\n[29680672](https://gitlab.com/snowgem/bitfrost/-/commit/29680672f30986501b9ebc29e415b12b2ba35c51): check wallet name, enable DGB - SnowGem",
+      "type": "rich"
+    }
   }
 ]
