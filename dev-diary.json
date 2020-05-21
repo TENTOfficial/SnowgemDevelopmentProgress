@@ -7711,5 +7711,15 @@
       "description": "[198463a3](https://gitlab.com/snowgem/bitfrost/-/commit/198463a3a6b2fcbdbc90fac488b6a12e77230837): fix pull down to refresh - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/198463a3a6b2fcbdbc90fac488b6a12e77230837...7762091ab8619ffe8fd0b02b0a726ebc7261fbc1))",
+    "created_at": "2020-05-21 15:46:34.258000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7762091a](https://gitlab.com/snowgem/bitfrost/-/commit/7762091ab8619ffe8fd0b02b0a726ebc7261fbc1): fix history in home page - SnowGem",
+      "type": "rich"
+    }
   }
 ]
