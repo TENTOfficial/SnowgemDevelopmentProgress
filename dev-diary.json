@@ -7741,5 +7741,15 @@
       "description": "[381846d7](https://gitlab.com/snowgem/bitfrost/-/commit/381846d75e5e4b4b113d7023ee9b17061367cd2a): fix transaction pipe in overview - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/381846d75e5e4b4b113d7023ee9b17061367cd2a...646a0ff29a8387bd113ac45d5b1212d56dbbdf43))",
+    "created_at": "2020-05-21 19:53:15.085000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[646a0ff2](https://gitlab.com/snowgem/bitfrost/-/commit/646a0ff29a8387bd113ac45d5b1212d56dbbdf43): pipe date medium - SnowGem",
+      "type": "rich"
+    }
   }
 ]
