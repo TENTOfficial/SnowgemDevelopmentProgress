@@ -7641,5 +7641,25 @@
       "description": "[a65953f6](https://gitlab.com/snowgem/bitfrost/-/commit/a65953f61600db9ec377d4177b1e79fffd847e56): updating libs - Filip Storkan\n\n[861469eb](https://gitlab.com/snowgem/bitfrost/-/commit/861469eb87907244815bc3c13b826e2bba2a9860): skipping libs in ts - Filip Storkan\n\n[dcac1b65](https://gitlab.com/snowgem/bitfrost/-/commit/dcac1b657db5df85fbb5071559becd649343d0b3): fixing compile fixes in send token file - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/99552b23492fe790fa384f656b97bc972e817213...e9d30e1df48d5db58f47bb91f5513f7d538b3be7))",
+    "created_at": "2020-05-21 09:46:09.410000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e9d30e1d](https://gitlab.com/snowgem/snowpay-api/-/commit/e9d30e1df48d5db58f47bb91f5513f7d538b3be7): improved swap routing tables - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e9d30e1df48d5db58f47bb91f5513f7d538b3be7...67c39a761d8085661709b6ef762a18141f3aaad7))",
+    "created_at": "2020-05-21 09:47:31.449000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[67c39a76](https://gitlab.com/snowgem/snowpay-api/-/commit/67c39a761d8085661709b6ef762a18141f3aaad7): cleanup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
