@@ -7691,5 +7691,15 @@
       "description": "[21714c81](https://gitlab.com/snowgem/snowpay-api/-/commit/21714c8128e8edddea261d559edc10a8f1b9dcd1): added notifications service - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dcac1b657db5df85fbb5071559becd649343d0b3...559aff579fc05602c38578328ef63df95dc22c17))",
+    "created_at": "2020-05-21 13:33:30.369000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[559aff57](https://gitlab.com/snowgem/bitfrost/-/commit/559aff579fc05602c38578328ef63df95dc22c17): margin top for ios - SnowGem",
+      "type": "rich"
+    }
   }
 ]
