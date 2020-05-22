@@ -7751,5 +7751,15 @@
       "description": "[646a0ff2](https://gitlab.com/snowgem/bitfrost/-/commit/646a0ff29a8387bd113ac45d5b1212d56dbbdf43): pipe date medium - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/21714c8128e8edddea261d559edc10a8f1b9dcd1...e142444b5e966c3609da132158cbe1628178bdfb))",
+    "created_at": "2020-05-22 13:28:41.141000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e142444b](https://gitlab.com/snowgem/snowpay-api/-/commit/e142444b5e966c3609da132158cbe1628178bdfb): added websocket support for RT swap notifications - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
