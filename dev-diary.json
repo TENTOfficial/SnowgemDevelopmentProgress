@@ -7821,5 +7821,15 @@
       "description": "[52260190](https://gitlab.com/snowgem/bitfrost/-/commit/52260190a818ffc9a7837e9dfa554b5356235fdd): fix transaction issue - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9c95708c974426a067146a8a1aae5872795cffcb...9a8f58705078ef01c7c83513eddf26fefa028703))",
+    "created_at": "2020-05-23 15:19:06.954000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9a8f5870](https://gitlab.com/snowgem/bitfrost/-/commit/9a8f58705078ef01c7c83513eddf26fefa028703): Added about page. - DaX",
+      "type": "rich"
+    }
   }
 ]
