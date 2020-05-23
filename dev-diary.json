@@ -7771,5 +7771,15 @@
       "description": "[9057d5a2](https://gitlab.com/snowgem/bitfrost/-/commit/9057d5a2833b285ffd4e10291f21f145f4508ac9): safearea - Filip Storkan\n\n[ab243b97](https://gitlab.com/snowgem/bitfrost/-/commit/ab243b97fc88a69f3b20031da6cae3af7906b01c): button icons - Filip Storkan\n\n[323faf00](https://gitlab.com/snowgem/bitfrost/-/commit/323faf003c801d07bcb0babcb4c091821da9ab2e): Merge branch 'feature/main-page' of gitlab.com:snowgem/bitfrost into feature/main-page - Filip Storkan\n\n[57af5100](https://gitlab.com/snowgem/bitfrost/-/commit/57af51007219e2c6ff2d35e49441ff08ce2d46aa): Merge branch 'feature/main-page' of gitlab.com:snowgem/bitfrost into feature/main-page - Filip Storkan\n\n[1f77ba23](https://gitlab.com/snowgem/bitfrost/-/commit/1f77ba23dea588228b6a4ba1b8faf9895cd05215): gesture improvment - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Shmocs pushed to branch [master](https://gitlab.com/snowgem/asgard-api/commits/master) of [snowgem / asgard\\-api](https://gitlab.com/snowgem/asgard-api) ([Compare changes](https://gitlab.com/snowgem/asgard-api/compare/0368c08ca50db9cd00d7701abf97e79a29012167...f2f0785edf5d3f49addea8cbe370904a05882de2))",
+    "created_at": "2020-05-23 07:25:47.275000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e22054e6](https://gitlab.com/snowgem/asgard-api/-/commit/e22054e667a79db630e27152384427f2890411e7): ignored storm files - Sergiu Costache\n\n[f2f0785e](https://gitlab.com/snowgem/asgard-api/-/commit/f2f0785edf5d3f49addea8cbe370904a05882de2): added example env - Sergiu Costache",
+      "type": "rich"
+    }
   }
 ]
