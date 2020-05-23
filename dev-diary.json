@@ -7801,5 +7801,15 @@
       "description": "[a69d0ce8](https://gitlab.com/snowgem/bitfrost/-/commit/a69d0ce8dfd992a689f604ea610d5d8f165ff05e): fix reordering when graph is showing - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6119ff9a1cf5e33aedd3c6e389074b2258c28903...9c95708c974426a067146a8a1aae5872795cffcb))",
+    "created_at": "2020-05-23 14:29:50.177000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9c95708c](https://gitlab.com/snowgem/bitfrost/-/commit/9c95708c974426a067146a8a1aae5872795cffcb): Edit fonts. - DaX",
+      "type": "rich"
+    }
   }
 ]
