@@ -7841,5 +7841,15 @@
       "description": "[9cbb17da](https://gitlab.com/snowgem/bitfrost/-/commit/9cbb17da30623b7ac5921bd2ca68a0da09cc4a5e): save history by name - SnowGem\n\n[7a633ec9](https://gitlab.com/snowgem/bitfrost/-/commit/7a633ec9eaa9665bd32423a51f668b61c221d5f1): fix send page conflict - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7a633ec9eaa9665bd32423a51f668b61c221d5f1...289f814ceef00a12e8b5c73c70c516e914b8d4bc))",
+    "created_at": "2020-05-23 19:03:53.751000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[289f814c](https://gitlab.com/snowgem/bitfrost/-/commit/289f814ceef00a12e8b5c73c70c516e914b8d4bc): fix fiat decimal - SnowGem",
+      "type": "rich"
+    }
   }
 ]
