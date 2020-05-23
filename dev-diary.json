@@ -7861,5 +7861,15 @@
       "description": "[4780981d](https://gitlab.com/snowgem/bitfrost/-/commit/4780981d85ebbbe0606a942b60122e7f5f4a34d9): Bugfixes. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4780981d85ebbbe0606a942b60122e7f5f4a34d9...26afca9bffe906a8d5fe8a7b62852509a3591ac8))",
+    "created_at": "2020-05-23 20:29:39.711000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[26afca9b](https://gitlab.com/snowgem/bitfrost/-/commit/26afca9bffe906a8d5fe8a7b62852509a3591ac8): Fix send page ticker and fiat amount position on tablet view. - DaX",
+      "type": "rich"
+    }
   }
 ]
