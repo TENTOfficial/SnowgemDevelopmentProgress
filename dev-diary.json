@@ -7831,5 +7831,15 @@
       "description": "[9a8f5870](https://gitlab.com/snowgem/bitfrost/-/commit/9a8f58705078ef01c7c83513eddf26fefa028703): Added about page. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1b13c765e3574d3c723512bb4db7c83524dd4335...7a633ec9eaa9665bd32423a51f668b61c221d5f1))",
+    "created_at": "2020-05-23 18:44:40.991000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9cbb17da](https://gitlab.com/snowgem/bitfrost/-/commit/9cbb17da30623b7ac5921bd2ca68a0da09cc4a5e): save history by name - SnowGem\n\n[7a633ec9](https://gitlab.com/snowgem/bitfrost/-/commit/7a633ec9eaa9665bd32423a51f668b61c221d5f1): fix send page conflict - SnowGem",
+      "type": "rich"
+    }
   }
 ]
