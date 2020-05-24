@@ -7976,5 +7976,15 @@
       "description": "[71893091](https://gitlab.com/snowgem/bitfrost/-/commit/71893091b547f47535fc3ceefae3832380eb646a): verify register data - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/71893091b547f47535fc3ceefae3832380eb646a...eedb8ca42a43688e0b10faf5b5a09ebfac53d1c3))",
+    "created_at": "2020-05-24 20:17:51.961000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eedb8ca4](https://gitlab.com/snowgem/bitfrost/-/commit/eedb8ca42a43688e0b10faf5b5a09ebfac53d1c3): Fixed margin on inputs. - DaX",
+      "type": "rich"
+    }
   }
 ]
