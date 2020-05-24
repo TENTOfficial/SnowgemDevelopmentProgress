@@ -7901,5 +7901,15 @@
       "description": "[adebd1fc](https://gitlab.com/snowgem/asgard-api/-/commit/adebd1fcf062a03c5e7fc16fdd23159806eb89ca): clenaup ignored files - Sergiu Costache",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/60cf41b589e6b7b0c5e1867f673de19cd583ed3a...f02b81c364acdd760c091f442e5bdbd32fce7cbc))",
+    "created_at": "2020-05-24 10:24:53.725000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[34e3c62b](https://gitlab.com/snowgem/bitfrost/-/commit/34e3c62b23e15ca52ea006dca2d1ca3c27fb5713): coin sticker in fee - SnowGem\n\n[6dd1c0e9](https://gitlab.com/snowgem/bitfrost/-/commit/6dd1c0e90bf8181acc8623555eee72a023ad9a0f): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[987be298](https://gitlab.com/snowgem/bitfrost/-/commit/987be29843be154b80fd76ade92b61e72ec58c30): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[f02b81c3](https://gitlab.com/snowgem/bitfrost/-/commit/f02b81c364acdd760c091f442e5bdbd32fce7cbc): synchronize bottom buttons size - SnowGem",
+      "type": "rich"
+    }
   }
 ]
