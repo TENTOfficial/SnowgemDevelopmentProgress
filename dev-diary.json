@@ -7986,5 +7986,15 @@
       "description": "[eedb8ca4](https://gitlab.com/snowgem/bitfrost/-/commit/eedb8ca42a43688e0b10faf5b5a09ebfac53d1c3): Fixed margin on inputs. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/eedb8ca42a43688e0b10faf5b5a09ebfac53d1c3...b3211fb8a2f34f9411b4fb591a7f138ffccd93d9))",
+    "created_at": "2020-05-24 20:38:15.013000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b3211fb8](https://gitlab.com/snowgem/bitfrost/-/commit/b3211fb8a2f34f9411b4fb591a7f138ffccd93d9): Loginpage slide fix + autoplay. - DaX",
+      "type": "rich"
+    }
   }
 ]
