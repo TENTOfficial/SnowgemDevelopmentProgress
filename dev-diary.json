@@ -7931,5 +7931,10 @@
       "description": "[9b61766b](https://gitlab.com/snowgem/bitfrost/-/commit/9b61766bccc373c7ef730a0828f5a5ec84346982): fix tabbar for ios - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Shmocs pushed new branch [feature/login](https://gitlab.com/snowgem/asgard/commits/feature/login) to [snowgem / asgard](https://gitlab.com/snowgem/asgard)",
+    "created_at": "2020-05-24 15:47:03.464000"
   }
 ]
