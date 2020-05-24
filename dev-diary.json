@@ -8016,5 +8016,15 @@
       "description": "[42c5b432](https://gitlab.com/shmocs/xsgmndock/-/commit/42c5b43242559f7dd4e8f56d84c255d400581eb8): MNs collateral txids update - Sergiu Costache",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/001dce15991922fc3730000a8a6f5893df29f43d...62ae27dc75981be6bd45f183534950abc22e4a72))",
+    "created_at": "2020-05-24 21:17:53.254000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[62ae27dc](https://gitlab.com/snowgem/bitfrost/-/commit/62ae27dc75981be6bd45f183534950abc22e4a72): add iab module - SnowGem",
+      "type": "rich"
+    }
   }
 ]
