@@ -7956,5 +7956,15 @@
       "description": "[b061183d](https://gitlab.com/snowgem/bitfrost/-/commit/b061183d93f1dd4691803ca8edc03d6563152cfa): fix undefine history, history save - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b061183d93f1dd4691803ca8edc03d6563152cfa...21162b0852d9ec07b4f8a416087b036239be6d7a))",
+    "created_at": "2020-05-24 18:01:52.616000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[333002af](https://gitlab.com/snowgem/bitfrost/-/commit/333002af16ff82d8c7b9527b8426346f21ee1b94): fix button bottom - SnowGem\n\n[21162b08](https://gitlab.com/snowgem/bitfrost/-/commit/21162b0852d9ec07b4f8a416087b036239be6d7a): show no wallet text in home screen - SnowGem",
+      "type": "rich"
+    }
   }
 ]
