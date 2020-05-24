@@ -8006,5 +8006,15 @@
       "description": "[001dce15](https://gitlab.com/snowgem/bitfrost/-/commit/001dce15991922fc3730000a8a6f5893df29f43d): auto slider - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Shmocs pushed to branch [master](https://gitlab.com/shmocs/xsgmndock/commits/master) of [Shmocs / xsgmndock](https://gitlab.com/shmocs/xsgmndock) ([Compare changes](https://gitlab.com/shmocs/xsgmndock/compare/4581c983c830b00617510c24374d9973742a48d8...42c5b43242559f7dd4e8f56d84c255d400581eb8))",
+    "created_at": "2020-05-24 20:52:56.001000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[42c5b432](https://gitlab.com/shmocs/xsgmndock/-/commit/42c5b43242559f7dd4e8f56d84c255d400581eb8): MNs collateral txids update - Sergiu Costache",
+      "type": "rich"
+    }
   }
 ]
