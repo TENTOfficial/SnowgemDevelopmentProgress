@@ -7996,5 +7996,15 @@
       "description": "[b3211fb8](https://gitlab.com/snowgem/bitfrost/-/commit/b3211fb8a2f34f9411b4fb591a7f138ffccd93d9): Loginpage slide fix + autoplay. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b3211fb8a2f34f9411b4fb591a7f138ffccd93d9...001dce15991922fc3730000a8a6f5893df29f43d))",
+    "created_at": "2020-05-24 20:46:04.789000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[001dce15](https://gitlab.com/snowgem/bitfrost/-/commit/001dce15991922fc3730000a8a6f5893df29f43d): auto slider - SnowGem",
+      "type": "rich"
+    }
   }
 ]
