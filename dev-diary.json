@@ -8191,5 +8191,15 @@
       "description": "[7bd038e5](https://gitlab.com/snowgem/snowpay-api/-/commit/7bd038e56739354f88240f00d2b30a4612c7ff37): Adding Bittrex and Binance exchange support - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/902b30187c56369d520304d2c7f29080788e4f8d...c4537d0248c04ae5ccd43e8278fca663603e7977))",
+    "created_at": "2020-05-25 21:52:03.496000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c4537d02](https://gitlab.com/snowgem/bitfrost/-/commit/c4537d0248c04ae5ccd43e8278fca663603e7977): add default chart period back - SnowGem",
+      "type": "rich"
+    }
   }
 ]
