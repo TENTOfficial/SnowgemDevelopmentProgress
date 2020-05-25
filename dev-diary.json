@@ -8171,5 +8171,25 @@
       "description": "[43992439](https://gitlab.com/snowgem/bitfrost/-/commit/439924395750e80eb7ee68d33e81439cde6e3208): fix graph when creating new account - SnowGem\n\n[8476ee7a](https://gitlab.com/snowgem/bitfrost/-/commit/8476ee7af8ddfb88a691654ef9e47ebfa8eaba9b): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8476ee7af8ddfb88a691654ef9e47ebfa8eaba9b...902b30187c56369d520304d2c7f29080788e4f8d))",
+    "created_at": "2020-05-25 21:40:13.537000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e6e87d16](https://gitlab.com/snowgem/bitfrost/-/commit/e6e87d167570ef1226de2178d312192cee0121cc): only show graph if has wallet - SnowGem\n\n[902b3018](https://gitlab.com/snowgem/bitfrost/-/commit/902b30187c56369d520304d2c7f29080788e4f8d): version info in ios/android - SnowGem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0cd88dc84d529c66e0a694e11537fe1695c97a4b...7bd038e56739354f88240f00d2b30a4612c7ff37))",
+    "created_at": "2020-05-25 21:42:27",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7bd038e5](https://gitlab.com/snowgem/snowpay-api/-/commit/7bd038e56739354f88240f00d2b30a4612c7ff37): Adding Bittrex and Binance exchange support - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
