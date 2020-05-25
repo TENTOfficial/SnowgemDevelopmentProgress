@@ -8046,5 +8046,15 @@
       "description": "[5e95eab5](https://gitlab.com/snowgem/asgard/-/commit/5e95eab509fd740561a64cca7ce8db480ad4d1c3): Register layout - Sergiu Costache",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e142444b5e966c3609da132158cbe1628178bdfb...51e8da8e683905563268b39ab507184bf95f6304))",
+    "created_at": "2020-05-25 09:12:30.132000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[51e8da8e](https://gitlab.com/snowgem/snowpay-api/-/commit/51e8da8e683905563268b39ab507184bf95f6304): improved authorization security, improved roles, added separate service for notifications - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
