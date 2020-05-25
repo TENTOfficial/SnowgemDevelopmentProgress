@@ -8151,5 +8151,15 @@
       "description": "[a13d4c1d](https://gitlab.com/snowgem/bitfrost/-/commit/a13d4c1daa9638a70fbae5807f08fea98c4def0a): fix enable/disable value by default - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a13d4c1daa9638a70fbae5807f08fea98c4def0a...5944afab5e82bbf9884bd295c0644d1c3c04a6a4))",
+    "created_at": "2020-05-25 20:43:07.392000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1b3c353e](https://gitlab.com/snowgem/bitfrost/-/commit/1b3c353e927abb935e2577447fcda5c986bde34a): Edit chart settings. - DaX\n\n[87c8a47f](https://gitlab.com/snowgem/bitfrost/-/commit/87c8a47f7ec9e1b274e73bd4dac2b7f98cb60648): Chart height edit. - DaX\n\n[22354a5e](https://gitlab.com/snowgem/bitfrost/-/commit/22354a5eb09b34db8a313cd46e4d1ad07da76caf): Deleted too much !!!!!!!! in alerts!!!! - DaX\n\n[5944afab](https://gitlab.com/snowgem/bitfrost/-/commit/5944afab5e82bbf9884bd295c0644d1c3c04a6a4): Merge https://gitlab.com/snowgem/bitfrost - DaX",
+      "type": "rich"
+    }
   }
 ]
