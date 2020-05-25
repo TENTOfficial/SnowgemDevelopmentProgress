@@ -8131,5 +8131,15 @@
       "description": "[0cd88dc8](https://gitlab.com/snowgem/snowpay-api/-/commit/0cd88dc84d529c66e0a694e11537fe1695c97a4b): cleanup - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7745e12d4ad2b202e6ccb6739cb3719b1df008b9...1b365da9b24c87124d4bc11b6c006b96ca58a513))",
+    "created_at": "2020-05-25 20:11:19.392000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f4a8d583](https://gitlab.com/snowgem/bitfrost/-/commit/f4a8d58363bed6d6bf51a3ab7b2b7fe0600e6cf7): disable pass log - SnowGem\n\n[2c47d1ef](https://gitlab.com/snowgem/bitfrost/-/commit/2c47d1effb61cb1d351c35e8c95893e67c836c8c): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[1b365da9](https://gitlab.com/snowgem/bitfrost/-/commit/1b365da9b24c87124d4bc11b6c006b96ca58a513): add chart label back - SnowGem",
+      "type": "rich"
+    }
   }
 ]
