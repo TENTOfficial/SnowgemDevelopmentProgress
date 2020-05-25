@@ -8036,5 +8036,15 @@
       "description": "[77acf5f3](https://gitlab.com/snowgem/bitfrost/-/commit/77acf5f378fd06ca6f1461c7f3ff36cd1bb36565): Slider. - DaX\n\n[18b26e40](https://gitlab.com/snowgem/bitfrost/-/commit/18b26e40f2db23adcfe932d2f8176cadbe318006): Merge https://gitlab.com/snowgem/bitfrost - DaX\n\n[0263a76f](https://gitlab.com/snowgem/bitfrost/-/commit/0263a76fe6b65e058d350f67f1ab3f9f7ef34027): New slide images. - DaX\n\n[206b2cd7](https://gitlab.com/snowgem/bitfrost/-/commit/206b2cd7e9f220295686b69e97e26daf33b826fc): Sliders update on small screens. - DaX\n\n[f754aaa7](https://gitlab.com/snowgem/bitfrost/-/commit/f754aaa7f9a3750786783e2e3e01377c00714bf6): Merge https://gitlab.com/snowgem/bitfrost - DaX\n\n[dfb43217](https://gitlab.com/snowgem/bitfrost/-/commit/dfb43217841cd28cd5d5ab7e2066ab41a4bff36e): Customized transaction detail. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Shmocs pushed to branch [feature/login](https://gitlab.com/snowgem/asgard/commits/feature/login) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/0f0526d0cdf67d9fd686124866fd3c627815b6fc...5e95eab509fd740561a64cca7ce8db480ad4d1c3))",
+    "created_at": "2020-05-24 23:57:10.160000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5e95eab5](https://gitlab.com/snowgem/asgard/-/commit/5e95eab509fd740561a64cca7ce8db480ad4d1c3): Register layout - Sergiu Costache",
+      "type": "rich"
+    }
   }
 ]
