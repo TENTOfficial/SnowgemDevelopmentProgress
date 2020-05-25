@@ -8111,5 +8111,15 @@
       "description": "[a457ce5c](https://gitlab.com/snowgem/bitfrost/-/commit/a457ce5cee7ac5682db15a81d252814fbf24eb1b): fix - chart background - Filip Storkan\n\n[ef5c16b7](https://gitlab.com/snowgem/bitfrost/-/commit/ef5c16b7360c6333d718b6e2119eaf3c117c9c81): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ef5c16b7360c6333d718b6e2119eaf3c117c9c81...7745e12d4ad2b202e6ccb6739cb3719b1df008b9))",
+    "created_at": "2020-05-25 19:57:34.246000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[adaab219](https://gitlab.com/snowgem/bitfrost/-/commit/adaab219501e84029aa59c3d1f34250220e7bb0a): correct toggle function in graph setting - Snowgem\n\n[7745e12d](https://gitlab.com/snowgem/bitfrost/-/commit/7745e12d4ad2b202e6ccb6739cb3719b1df008b9): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
+      "type": "rich"
+    }
   }
 ]
