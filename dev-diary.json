@@ -8121,5 +8121,15 @@
       "description": "[adaab219](https://gitlab.com/snowgem/bitfrost/-/commit/adaab219501e84029aa59c3d1f34250220e7bb0a): correct toggle function in graph setting - Snowgem\n\n[7745e12d](https://gitlab.com/snowgem/bitfrost/-/commit/7745e12d4ad2b202e6ccb6739cb3719b1df008b9): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/119b923aa3f0da97efca8436b5a44a9cfd5dbfca...0cd88dc84d529c66e0a694e11537fe1695c97a4b))",
+    "created_at": "2020-05-25 20:03:44.783000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0cd88dc8](https://gitlab.com/snowgem/snowpay-api/-/commit/0cd88dc84d529c66e0a694e11537fe1695c97a4b): cleanup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
