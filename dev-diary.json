@@ -8161,5 +8161,15 @@
       "description": "[1b3c353e](https://gitlab.com/snowgem/bitfrost/-/commit/1b3c353e927abb935e2577447fcda5c986bde34a): Edit chart settings. - DaX\n\n[87c8a47f](https://gitlab.com/snowgem/bitfrost/-/commit/87c8a47f7ec9e1b274e73bd4dac2b7f98cb60648): Chart height edit. - DaX\n\n[22354a5e](https://gitlab.com/snowgem/bitfrost/-/commit/22354a5eb09b34db8a313cd46e4d1ad07da76caf): Deleted too much !!!!!!!! in alerts!!!! - DaX\n\n[5944afab](https://gitlab.com/snowgem/bitfrost/-/commit/5944afab5e82bbf9884bd295c0644d1c3c04a6a4): Merge https://gitlab.com/snowgem/bitfrost - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5944afab5e82bbf9884bd295c0644d1c3c04a6a4...8476ee7af8ddfb88a691654ef9e47ebfa8eaba9b))",
+    "created_at": "2020-05-25 21:35:22.712000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[43992439](https://gitlab.com/snowgem/bitfrost/-/commit/439924395750e80eb7ee68d33e81439cde6e3208): fix graph when creating new account - SnowGem\n\n[8476ee7a](https://gitlab.com/snowgem/bitfrost/-/commit/8476ee7af8ddfb88a691654ef9e47ebfa8eaba9b): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
+      "type": "rich"
+    }
   }
 ]
