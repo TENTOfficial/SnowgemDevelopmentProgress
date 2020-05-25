@@ -8076,5 +8076,15 @@
       "description": "[119b923a](https://gitlab.com/snowgem/snowpay-api/-/commit/119b923aa3f0da97efca8436b5a44a9cfd5dbfca): code refactoring - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a9c2e345c72ab688fbd04deeef99b40c59f9bfc2...8c386b51017d9bde285623e579098499d54ca924))",
+    "created_at": "2020-05-25 19:04:19.494000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5ff3f22d](https://gitlab.com/snowgem/bitfrost/-/commit/5ff3f22d4eedda7df91131efe5222ef22e6f7b60): update graph settings - SnowGem\n\n[8c386b51](https://gitlab.com/snowgem/bitfrost/-/commit/8c386b51017d9bde285623e579098499d54ca924): update chart based on settings - SnowGem",
+      "type": "rich"
+    }
   }
 ]
