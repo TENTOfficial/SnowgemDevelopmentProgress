@@ -8066,5 +8066,15 @@
       "description": "[4bf66c77](https://gitlab.com/snowgem/bitfrost/-/commit/4bf66c772c48c0b693a514577847a4a502467dda): fix time history - SnowGem\n\n[7a9e281f](https://gitlab.com/snowgem/bitfrost/-/commit/7a9e281f0eb0f91a34d13f15c157344673348ea1): show chart when having wallet only - SnowGem\n\n[9d9707c5](https://gitlab.com/snowgem/bitfrost/-/commit/9d9707c56415d724160f1a3efe8436dd56ee92dc): fix undefine history - SnowGem\n\n[ae2a076c](https://gitlab.com/snowgem/bitfrost/-/commit/ae2a076cfa0593f591514aafe0f61502197d7ec7): add no transaction text - SnowGem\n\n[a9c2e345](https://gitlab.com/snowgem/bitfrost/-/commit/a9c2e345c72ab688fbd04deeef99b40c59f9bfc2): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/51e8da8e683905563268b39ab507184bf95f6304...119b923aa3f0da97efca8436b5a44a9cfd5dbfca))",
+    "created_at": "2020-05-25 13:36:23.169000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[119b923a](https://gitlab.com/snowgem/snowpay-api/-/commit/119b923aa3f0da97efca8436b5a44a9cfd5dbfca): code refactoring - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
