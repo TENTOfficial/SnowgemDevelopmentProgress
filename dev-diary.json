@@ -8250,5 +8250,20 @@
       "description": "[b186a15b](https://gitlab.com/snowgem/bitfrost/-/commit/b186a15b841af036f7b32728a85dd463ac1dcef6): update version only in prod build - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b186a15b841af036f7b32728a85dd463ac1dcef6...6ea5a38b2e64460fdb4175fabc751b01a4cedb7c))",
+    "created_at": "2020-05-26 09:33:33.448000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6ea5a38b](https://gitlab.com/snowgem/bitfrost/-/commit/6ea5a38b2e64460fdb4175fabc751b01a4cedb7c): fix #9 - SnowGem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new tag [0\\.0\\.4](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.4) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-05-26 09:33:52.355000"
   }
 ]
