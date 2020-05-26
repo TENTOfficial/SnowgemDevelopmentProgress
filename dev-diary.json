@@ -8221,5 +8221,14 @@
       "description": "[649b0866](https://gitlab.com/snowgem/bitfrost/-/commit/649b0866314db7d89b2bb4bed362d30660916a72): Edit chart settings. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2](https://gitlab.com/snowgem/snowpay-api/commits/release_2) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7bd038e56739354f88240f00d2b30a4612c7ff37...0cd88dc84d529c66e0a694e11537fe1695c97a4b))",
+    "created_at": "2020-05-26 08:14:19.957000",
+    "embed_0": {
+      "color": 3359829,
+      "type": "rich"
+    }
   }
 ]
