@@ -8230,5 +8230,25 @@
       "color": 3359829,
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/649b0866314db7d89b2bb4bed362d30660916a72...359fa11b6528d38dd4489ba7034e1ec585bd1578))",
+    "created_at": "2020-05-26 08:20:39.970000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[359fa11b](https://gitlab.com/snowgem/bitfrost/-/commit/359fa11b6528d38dd4489ba7034e1ec585bd1578): increase version to 0.0.4 - SnowGem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/359fa11b6528d38dd4489ba7034e1ec585bd1578...b186a15b841af036f7b32728a85dd463ac1dcef6))",
+    "created_at": "2020-05-26 08:22:07.115000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b186a15b](https://gitlab.com/snowgem/bitfrost/-/commit/b186a15b841af036f7b32728a85dd463ac1dcef6): update version only in prod build - SnowGem",
+      "type": "rich"
+    }
   }
 ]
