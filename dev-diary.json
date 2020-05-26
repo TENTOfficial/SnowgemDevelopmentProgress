@@ -8211,5 +8211,15 @@
       "description": "[9d916659](https://gitlab.com/snowgem/bitfrost/-/commit/9d916659de7a0a6bfdd2a039949bf17beb9cf4b9): Fixed refresher. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9d916659de7a0a6bfdd2a039949bf17beb9cf4b9...649b0866314db7d89b2bb4bed362d30660916a72))",
+    "created_at": "2020-05-26 07:13:25.122000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[649b0866](https://gitlab.com/snowgem/bitfrost/-/commit/649b0866314db7d89b2bb4bed362d30660916a72): Edit chart settings. - DaX",
+      "type": "rich"
+    }
   }
 ]
