@@ -8201,5 +8201,15 @@
       "description": "[c4537d02](https://gitlab.com/snowgem/bitfrost/-/commit/c4537d0248c04ae5ccd43e8278fca663603e7977): add default chart period back - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c4537d0248c04ae5ccd43e8278fca663603e7977...9d916659de7a0a6bfdd2a039949bf17beb9cf4b9))",
+    "created_at": "2020-05-26 06:45:47.781000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9d916659](https://gitlab.com/snowgem/bitfrost/-/commit/9d916659de7a0a6bfdd2a039949bf17beb9cf4b9): Fixed refresher. - DaX",
+      "type": "rich"
+    }
   }
 ]
