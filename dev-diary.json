@@ -8344,5 +8344,10 @@
       "description": "[f4083532](https://gitlab.com/snowgem/bitfrost/-/commit/f4083532c4f841b449f0612a70d014a6f6943b7e): merge with v1 - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [bittrex\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_integration) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-05-27 11:24:53.983000"
   }
 ]
