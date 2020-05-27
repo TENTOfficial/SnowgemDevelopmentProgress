@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-05-27 08:53:52</sub> | <sub>Txid pushed new branch [feature/newgesture2](https://gitlab.com/snowgem/bitfrost/commits/feature/newgesture2) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-05-26 10:13:52</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/23d207a7d152abb5ae7fb51f5d0212934b1536fb...2e93d30972522ae007317fedcb3510b8d7dd2001))</sub> | <sub>[dad5385a](https://gitlab.com/snowgem/snowpay-api/-/commit/dad5385aeebd7ff19e52969315ef3ce827086733): Release 2 - demzet<br>[2e93d309](https://gitlab.com/snowgem/snowpay-api/-/commit/2e93d30972522ae007317fedcb3510b8d7dd2001): Merge branch 'release_2' into 'master' - demzet</sub> |
 | <sub>2020-05-26 10:13:52</sub> | <sub>demzet (aphex5) merged [\!5 \*Release 2\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/5) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-05-26 10:13:44</sub> | <sub>demzet (aphex5) opened [\!5 \*Release 2\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/5) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |

@@ -8329,5 +8329,10 @@
       "description": "[dad5385a](https://gitlab.com/snowgem/snowpay-api/-/commit/dad5385aeebd7ff19e52969315ef3ce827086733): Release 2 - demzet\n\n[2e93d309](https://gitlab.com/snowgem/snowpay-api/-/commit/2e93d30972522ae007317fedcb3510b8d7dd2001): Merge branch 'release_2' into 'master' - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [feature/newgesture2](https://gitlab.com/snowgem/bitfrost/commits/feature/newgesture2) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-05-27 08:53:52.678000"
   }
 ]
