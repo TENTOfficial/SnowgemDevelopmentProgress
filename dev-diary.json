@@ -8419,5 +8419,15 @@
       "description": "[43459393](https://gitlab.com/snowgem/bitfrost/-/commit/434593938a597a5d5dadfc7266db8efc45deeb0d): update gesture - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/newgesture2](https://gitlab.com/snowgem/bitfrost/commits/feature/newgesture2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/434593938a597a5d5dadfc7266db8efc45deeb0d...30014ee937ea511dca0cbe4a7bc8b21033c3a51c))",
+    "created_at": "2020-05-28 18:09:32.509000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[30014ee9](https://gitlab.com/snowgem/bitfrost/-/commit/30014ee937ea511dca0cbe4a7bc8b21033c3a51c): stop long press interval when scrolling - SnowGem",
+      "type": "rich"
+    }
   }
 ]
