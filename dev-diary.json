@@ -8409,5 +8409,15 @@
       "description": "[962fce74](https://gitlab.com/snowgem/snowpay-api/-/commit/962fce747f05b114431049622f5fe5324ec63edf): bittrex order listener - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/newgesture2](https://gitlab.com/snowgem/bitfrost/commits/feature/newgesture2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6e01a31fb478274a699f81d9416ffa3c1dba24d7...434593938a597a5d5dadfc7266db8efc45deeb0d))",
+    "created_at": "2020-05-28 16:53:11.806000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[43459393](https://gitlab.com/snowgem/bitfrost/-/commit/434593938a597a5d5dadfc7266db8efc45deeb0d): update gesture - SnowGem",
+      "type": "rich"
+    }
   }
 ]
