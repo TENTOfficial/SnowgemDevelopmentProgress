@@ -8439,5 +8439,15 @@
       "description": "[9b66e521](https://gitlab.com/snowgem/bitfrost/-/commit/9b66e521a0f3b796376e5419f4283388b9f04eb7): send page update - Filip Storkan\n\n[57356b01](https://gitlab.com/snowgem/bitfrost/-/commit/57356b016f468786106498157c93d14faed56245): transaction options modal - Filip Storkan\n\n[49361957](https://gitlab.com/snowgem/bitfrost/-/commit/4936195779aab9a3ec102d3977d59dc2cc9300f5): send options - Filip Storkan\n\n[e33d2e8d](https://gitlab.com/snowgem/bitfrost/-/commit/e33d2e8dcf91a82d412270f847b9f6eac8806071): wallet prep - Filip Storkan\n\n[1f89588d](https://gitlab.com/snowgem/bitfrost/-/commit/1f89588d50dfb5155f3d32347e31947a8a64482b): address, overview comform pages - Filip Storkan\n\n[4a0d5448](https://gitlab.com/snowgem/bitfrost/-/commit/4a0d5448dc538f2941c7a63fa5047095b6189414): Merge branch 'feature/main-page' of gitlab.com:snowgem/bitfrost into feature/main-page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4a0d5448dc538f2941c7a63fa5047095b6189414...4022e6843ed02a554f8e5cf5a531a4da05dff34a))",
+    "created_at": "2020-05-28 20:42:53.903000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4022e684](https://gitlab.com/snowgem/bitfrost/-/commit/4022e6843ed02a554f8e5cf5a531a4da05dff34a): smaller items and thumbnails - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
