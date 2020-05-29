@@ -8479,5 +8479,15 @@
       "description": "[82835f42](https://gitlab.com/snowgem/bitfrost/-/commit/82835f423a56cbc52692ce81759856f8d4bd6730): max scroll height - SnowGem\n\n[f317cf0a](https://gitlab.com/snowgem/bitfrost/-/commit/f317cf0a13f0a7fbc07f6b7ba356d76b62c14342): add more logs to data - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/newgesture2](https://gitlab.com/snowgem/bitfrost/commits/feature/newgesture2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f317cf0a13f0a7fbc07f6b7ba356d76b62c14342...a844c349aecf6c9da9cca4f98eab1d4e44e8766d))",
+    "created_at": "2020-05-29 16:24:35.739000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a844c349](https://gitlab.com/snowgem/bitfrost/-/commit/a844c349aecf6c9da9cca4f98eab1d4e44e8766d): fix scrolling issue for ios - SnowGem",
+      "type": "rich"
+    }
   }
 ]
