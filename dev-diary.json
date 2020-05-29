@@ -8449,5 +8449,15 @@
       "description": "[4022e684](https://gitlab.com/snowgem/bitfrost/-/commit/4022e6843ed02a554f8e5cf5a531a4da05dff34a): smaller items and thumbnails - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/newgesture2](https://gitlab.com/snowgem/bitfrost/commits/feature/newgesture2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/30014ee937ea511dca0cbe4a7bc8b21033c3a51c...fa8abf2259ba8995a23eb020eae0f9f233d63cde))",
+    "created_at": "2020-05-29 09:39:43.908000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fa8abf22](https://gitlab.com/snowgem/bitfrost/-/commit/fa8abf2259ba8995a23eb020eae0f9f233d63cde): hide chart if no wallet - SnowGem",
+      "type": "rich"
+    }
   }
 ]
