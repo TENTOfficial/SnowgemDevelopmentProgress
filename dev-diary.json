@@ -8469,5 +8469,15 @@
       "description": "[630c2cc8](https://gitlab.com/snowgem/snowpay-api/-/commit/630c2cc8b19c79b35df6184b6c80dca9db3b0c59): exchanges refactoring and reorganization - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/newgesture2](https://gitlab.com/snowgem/bitfrost/commits/feature/newgesture2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fa8abf2259ba8995a23eb020eae0f9f233d63cde...f317cf0a13f0a7fbc07f6b7ba356d76b62c14342))",
+    "created_at": "2020-05-29 14:30:33.933000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[82835f42](https://gitlab.com/snowgem/bitfrost/-/commit/82835f423a56cbc52692ce81759856f8d4bd6730): max scroll height - SnowGem\n\n[f317cf0a](https://gitlab.com/snowgem/bitfrost/-/commit/f317cf0a13f0a7fbc07f6b7ba356d76b62c14342): add more logs to data - SnowGem",
+      "type": "rich"
+    }
   }
 ]
