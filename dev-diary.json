@@ -8499,5 +8499,15 @@
       "description": "[cf07a711](https://gitlab.com/snowgem/bitfrost/-/commit/cf07a711264dbca41aa8b207a93cf14ed17dd7ac): fix scrolling issue for ios - SnowGem\n\n[38f8af20](https://gitlab.com/snowgem/bitfrost/-/commit/38f8af203f06c3e1829d96f05ad03cd0a50a7b42): fix encrypt/decrypt data issue - SnowGem\n\n[97903e1b](https://gitlab.com/snowgem/bitfrost/-/commit/97903e1bc502cde09b34be87322bfd19b3807f28): fix conflict - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/newgesture2](https://gitlab.com/snowgem/bitfrost/commits/feature/newgesture2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/97903e1bc502cde09b34be87322bfd19b3807f28...4101feda0ce26b5808e4743486722534c0965362))",
+    "created_at": "2020-05-29 17:19:19.385000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4101feda](https://gitlab.com/snowgem/bitfrost/-/commit/4101feda0ce26b5808e4743486722534c0965362): do not clear get account data - SnowGem",
+      "type": "rich"
+    }
   }
 ]
