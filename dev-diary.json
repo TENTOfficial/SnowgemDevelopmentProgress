@@ -8489,5 +8489,15 @@
       "description": "[a844c349](https://gitlab.com/snowgem/bitfrost/-/commit/a844c349aecf6c9da9cca4f98eab1d4e44e8766d): fix scrolling issue for ios - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/newgesture2](https://gitlab.com/snowgem/bitfrost/commits/feature/newgesture2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a844c349aecf6c9da9cca4f98eab1d4e44e8766d...97903e1bc502cde09b34be87322bfd19b3807f28))",
+    "created_at": "2020-05-29 17:03:57.675000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cf07a711](https://gitlab.com/snowgem/bitfrost/-/commit/cf07a711264dbca41aa8b207a93cf14ed17dd7ac): fix scrolling issue for ios - SnowGem\n\n[38f8af20](https://gitlab.com/snowgem/bitfrost/-/commit/38f8af203f06c3e1829d96f05ad03cd0a50a7b42): fix encrypt/decrypt data issue - SnowGem\n\n[97903e1b](https://gitlab.com/snowgem/bitfrost/-/commit/97903e1bc502cde09b34be87322bfd19b3807f28): fix conflict - SnowGem",
+      "type": "rich"
+    }
   }
 ]
