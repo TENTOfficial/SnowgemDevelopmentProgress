@@ -8529,5 +8529,15 @@
       "description": "[4c56826f](https://gitlab.com/snowgem/snowpay-api/-/commit/4c56826f00d013f62e9d851462cd05850f5807e4): data layer refactoring - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/08dd223b5827672e7ff8f10d1a5f95c6b423aa2e...0c8e786398b0b4f8d3b9a7dfa0958ad8979c249b))",
+    "created_at": "2020-05-30 12:46:45.060000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0c8e7863](https://gitlab.com/snowgem/bitfrost/-/commit/0c8e786398b0b4f8d3b9a7dfa0958ad8979c249b): add new coin page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
