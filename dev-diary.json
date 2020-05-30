@@ -8519,5 +8519,15 @@
       "description": "[d82fc8bd](https://gitlab.com/snowgem/bitfrost/-/commit/d82fc8bdd2e078723d58b0ef73a10544102f6445): flexible numpad - Filip Storkan\n\n[08dd223b](https://gitlab.com/snowgem/bitfrost/-/commit/08dd223b5827672e7ff8f10d1a5f95c6b423aa2e): send page and glass look - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [bittrex\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/630c2cc8b19c79b35df6184b6c80dca9db3b0c59...4c56826f00d013f62e9d851462cd05850f5807e4))",
+    "created_at": "2020-05-30 10:38:04.023000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4c56826f](https://gitlab.com/snowgem/snowpay-api/-/commit/4c56826f00d013f62e9d851462cd05850f5807e4): data layer refactoring - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
