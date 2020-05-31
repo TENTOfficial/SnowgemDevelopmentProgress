@@ -8579,5 +8579,15 @@
       "description": "[79c4e3cf](https://gitlab.com/snowgem/bitfrost/-/commit/79c4e3cf8ac5d1f0db6fb3e81529f20a1be53c7f): singleton ioservice - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/newgesture2](https://gitlab.com/snowgem/bitfrost/commits/feature/newgesture2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/79c4e3cf8ac5d1f0db6fb3e81529f20a1be53c7f...7346fe21cf0f6b6d6270531a0e3ca80fb2750881))",
+    "created_at": "2020-05-31 05:20:09.313000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7346fe21](https://gitlab.com/snowgem/bitfrost/-/commit/7346fe21cf0f6b6d6270531a0e3ca80fb2750881): add if/else ioservice - Snowgem",
+      "type": "rich"
+    }
   }
 ]
