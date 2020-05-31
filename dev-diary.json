@@ -8569,5 +8569,15 @@
       "description": "[06e56cb3](https://gitlab.com/snowgem/bitfrost/-/commit/06e56cb3aa36856be6e06c28eb93490849af1b3f): fix saving issue on ios - Snowgem\n\n[d0a0d3f5](https://gitlab.com/snowgem/bitfrost/-/commit/d0a0d3f5e368dba6295ee9ab1d7a700bc6a7d2e0): Merge branch 'feature/newgesture2' of https://gitlab.com/snowgem/bitfrost into feature/newgesture2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/newgesture2](https://gitlab.com/snowgem/bitfrost/commits/feature/newgesture2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d0a0d3f5e368dba6295ee9ab1d7a700bc6a7d2e0...79c4e3cf8ac5d1f0db6fb3e81529f20a1be53c7f))",
+    "created_at": "2020-05-31 02:52:27.116000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[79c4e3cf](https://gitlab.com/snowgem/bitfrost/-/commit/79c4e3cf8ac5d1f0db6fb3e81529f20a1be53c7f): singleton ioservice - SnowGem",
+      "type": "rich"
+    }
   }
 ]
