@@ -8599,5 +8599,15 @@
       "description": "[54de33a4](https://gitlab.com/snowgem/bitfrost/-/commit/54de33a415cd03ea736dc7fc0bb3e47ce60e1582): router home/wallet fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [bittrex\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4c56826f00d013f62e9d851462cd05850f5807e4...40233fefd73f317dfec5376a24bd66e6eed577d3))",
+    "created_at": "2020-05-31 09:44:13.582000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[40233fef](https://gitlab.com/snowgem/snowpay-api/-/commit/40233fefd73f317dfec5376a24bd66e6eed577d3): improved swap routing - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
