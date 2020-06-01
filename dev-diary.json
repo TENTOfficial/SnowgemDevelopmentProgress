@@ -8649,5 +8649,15 @@
       "description": "[deffdcc8](https://gitlab.com/snowgem/bitfrost/-/commit/deffdcc8005188d20ead916a031c88f153497324): hiding unwanted padding on chart - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/main\\-page](https://gitlab.com/snowgem/bitfrost/commits/feature/main-page) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/deffdcc8005188d20ead916a031c88f153497324...ba66ae56a21f7eebc83361af2c30da8c81e9b4cc))",
+    "created_at": "2020-06-01 09:44:54.062000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a69e457a](https://gitlab.com/snowgem/bitfrost/-/commit/a69e457af8180a5a6bfd78fe4e78d7f6a1f4bcc3): font face poppins remove from app - Filip Storkan\n\n[ba66ae56](https://gitlab.com/snowgem/bitfrost/-/commit/ba66ae56a21f7eebc83361af2c30da8c81e9b4cc): color palette update - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
