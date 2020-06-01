@@ -8659,5 +8659,15 @@
       "description": "[a69e457a](https://gitlab.com/snowgem/bitfrost/-/commit/a69e457af8180a5a6bfd78fe4e78d7f6a1f4bcc3): font face poppins remove from app - Filip Storkan\n\n[ba66ae56](https://gitlab.com/snowgem/bitfrost/-/commit/ba66ae56a21f7eebc83361af2c30da8c81e9b4cc): color palette update - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [bittrex\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/3ed5164bef48c9df18766f312f14ca54d7c71170...e392fe3d79205c25849b261fb004befd1ca9f829))",
+    "created_at": "2020-06-01 09:48:33.419000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e392fe3d](https://gitlab.com/snowgem/snowpay-api/-/commit/e392fe3d79205c25849b261fb004befd1ca9f829): added min trade amount provider - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
