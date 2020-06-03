@@ -8689,5 +8689,15 @@
       "description": "[02868ea3](https://gitlab.com/snowgem/snowpay-api/-/commit/02868ea3701bb3f165bd5df6bac6567be6d69fb8): added dynamic swap route calculation - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9f1a9d49b2f78c942e753bfc1136eda8ce16d975...b7d1ef458b22cb1030315eb9176c29ec531ac951))",
+    "created_at": "2020-06-03 20:54:01.363000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e43b4c12](https://gitlab.com/snowgem/bitfrost/-/commit/e43b4c12594258dd4b756d7cdc671d36a5f34a43): update date pipe - SnowGem\n\n[8182af59](https://gitlab.com/snowgem/bitfrost/-/commit/8182af59cb5fc71388a7ebb7acca5b462de33615): Fix not confirm text in transaction - SnowGem\n\n[b7d1ef45](https://gitlab.com/snowgem/bitfrost/-/commit/b7d1ef458b22cb1030315eb9176c29ec531ac951): Display error if request fails multiple times - SnowGem",
+      "type": "rich"
+    }
   }
 ]
