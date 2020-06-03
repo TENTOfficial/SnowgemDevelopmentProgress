@@ -8679,5 +8679,15 @@
       "description": "[70bc2b9f](https://gitlab.com/snowgem/bitfrost/-/commit/70bc2b9f111c84f97ea425f44919bd0bcaac2c52): drag gesture in main page - Filip Storkan\n\n[d4a3810c](https://gitlab.com/snowgem/bitfrost/-/commit/d4a3810c73bad9c14125583fdbe422e4acb18bee): title conflict fix - Filip Storkan\n\n[a39f3805](https://gitlab.com/snowgem/bitfrost/-/commit/a39f38050200950dd6c6a3b5509f4e0ad5f970bf): title tag switch to p and span - Filip Storkan\n\n[33400738](https://gitlab.com/snowgem/bitfrost/-/commit/33400738c6574f06f91228db71030854ad3fa2d2): removing tapbar marhin - Filip Storkan\n\n[0820a7c0](https://gitlab.com/snowgem/bitfrost/-/commit/0820a7c00f3d56be2d7e923696014592638379eb): add coin list top padding - Filip Storkan\n\n[02c09039](https://gitlab.com/snowgem/bitfrost/-/commit/02c090390318c22e330d32f5ccd41e393fad7b28): clear history fn - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [bittrex\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e392fe3d79205c25849b261fb004befd1ca9f829...02868ea3701bb3f165bd5df6bac6567be6d69fb8))",
+    "created_at": "2020-06-03 11:19:29.353000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[02868ea3](https://gitlab.com/snowgem/snowpay-api/-/commit/02868ea3701bb3f165bd5df6bac6567be6d69fb8): added dynamic swap route calculation - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
