@@ -8709,5 +8709,10 @@
       "description": "[e20a6b08](https://gitlab.com/snowgem/snowpay-api/-/commit/e20a6b08977893bea3ae9579977d90fd4f9e760b): swap routes improvements - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [release/0\\.0\\.6](https://gitlab.com/snowgem/bitfrost/commits/release/0.0.6) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-06-04 11:33:11.993000"
   }
 ]
