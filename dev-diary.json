@@ -8754,5 +8754,15 @@
       "description": "[ede9b3aa](https://gitlab.com/snowgem/snowpay-api/-/commit/ede9b3aadff3680eedd8db8904cae0f6dcda54f2): updated  block explorers cfg - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [bittrex\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ede9b3aadff3680eedd8db8904cae0f6dcda54f2...fe4c8a628a084b5b3374592c89810860b592f0f3))",
+    "created_at": "2020-06-05 21:52:24.352000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fe4c8a62](https://gitlab.com/snowgem/snowpay-api/-/commit/fe4c8a628a084b5b3374592c89810860b592f0f3): test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
