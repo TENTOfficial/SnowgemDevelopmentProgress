@@ -8744,5 +8744,15 @@
       "description": "[5bfb74e7](https://gitlab.com/snowgem/snowpay-api/-/commit/5bfb74e714b6cce1743db1b4d33939885fa28a9b): added eth - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [bittrex\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5bfb74e714b6cce1743db1b4d33939885fa28a9b...ede9b3aadff3680eedd8db8904cae0f6dcda54f2))",
+    "created_at": "2020-06-05 21:48:23.669000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ede9b3aa](https://gitlab.com/snowgem/snowpay-api/-/commit/ede9b3aadff3680eedd8db8904cae0f6dcda54f2): updated  block explorers cfg - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
