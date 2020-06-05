@@ -8714,5 +8714,15 @@
     "author": "GitLab",
     "content": "Filip Storkan pushed new branch [release/0\\.0\\.6](https://gitlab.com/snowgem/bitfrost/commits/release/0.0.6) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-06-04 11:33:11.993000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [bittrex\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e20a6b08977893bea3ae9579977d90fd4f9e760b...c2e2e4c598ddea73b1d21e9a2072bb6392cbe831))",
+    "created_at": "2020-06-05 10:14:21.905000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c2e2e4c5](https://gitlab.com/snowgem/snowpay-api/-/commit/c2e2e4c598ddea73b1d21e9a2072bb6392cbe831): unit tests - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
