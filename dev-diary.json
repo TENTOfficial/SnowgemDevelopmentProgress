@@ -8784,5 +8784,15 @@
       "description": "[c7af9979](https://gitlab.com/snowgem/bitfrost/-/commit/c7af9979fdff0d956de60b65410b6dd6a8c647a9): check wallet before getting transaction - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c7af9979fdff0d956de60b65410b6dd6a8c647a9...04d32482a93de0a8d03d0732beb4eb084c95ef0d))",
+    "created_at": "2020-06-07 11:16:23.440000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a2a97150](https://gitlab.com/snowgem/bitfrost/-/commit/a2a97150549bfade73b437f133dbc1e4aaff95f1): fix copy address issue - SnowGem\n\n[d7aad5f9](https://gitlab.com/snowgem/bitfrost/-/commit/d7aad5f943ff2f09a194230a516fbaac592187c4): donot create too many record for history - SnowGem\n\n[cbae5a70](https://gitlab.com/snowgem/bitfrost/-/commit/cbae5a702becd9f50f577e9144317ddf16232a28): fix max button - SnowGem\n\n[04d32482](https://gitlab.com/snowgem/bitfrost/-/commit/04d32482a93de0a8d03d0732beb4eb084c95ef0d): fix eth transaction - SnowGem",
+      "type": "rich"
+    }
   }
 ]
