@@ -8794,5 +8794,15 @@
       "description": "[a2a97150](https://gitlab.com/snowgem/bitfrost/-/commit/a2a97150549bfade73b437f133dbc1e4aaff95f1): fix copy address issue - SnowGem\n\n[d7aad5f9](https://gitlab.com/snowgem/bitfrost/-/commit/d7aad5f943ff2f09a194230a516fbaac592187c4): donot create too many record for history - SnowGem\n\n[cbae5a70](https://gitlab.com/snowgem/bitfrost/-/commit/cbae5a702becd9f50f577e9144317ddf16232a28): fix max button - SnowGem\n\n[04d32482](https://gitlab.com/snowgem/bitfrost/-/commit/04d32482a93de0a8d03d0732beb4eb084c95ef0d): fix eth transaction - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/04d32482a93de0a8d03d0732beb4eb084c95ef0d...eae7f5858aea9fdbae6dbc98c09c2a66eb8283f1))",
+    "created_at": "2020-06-07 14:35:36.388000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eae7f585](https://gitlab.com/snowgem/bitfrost/-/commit/eae7f5858aea9fdbae6dbc98c09c2a66eb8283f1): auto fee level ETH - SnowGem",
+      "type": "rich"
+    }
   }
 ]
