@@ -8854,5 +8854,15 @@
       "description": "[179d0549](https://gitlab.com/snowgem/bitfrost/-/commit/179d0549ff07aefc474e830e0d04d149d507ab78): fix fiat display value - SnowGem\n\n[1874052a](https://gitlab.com/snowgem/bitfrost/-/commit/1874052a31023cd955b6cde496dce876e17c727a): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1874052a31023cd955b6cde496dce876e17c727a...8d85354ae00bfb6ede617fb85c290a5e146d49bf))",
+    "created_at": "2020-06-07 18:44:22.335000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8d85354a](https://gitlab.com/snowgem/bitfrost/-/commit/8d85354ae00bfb6ede617fb85c290a5e146d49bf): correct check wallet length - SnowGem",
+      "type": "rich"
+    }
   }
 ]
