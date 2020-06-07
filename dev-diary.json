@@ -8834,5 +8834,15 @@
       "description": "[82e9b66d](https://gitlab.com/snowgem/bitfrost/-/commit/82e9b66d2ac12e57c3678edefb8db7c4be8fee43): acrive scroll event - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/82e9b66d2ac12e57c3678edefb8db7c4be8fee43...b23663fc62f9379ba84dc1fa9d3efd0499f2bba6))",
+    "created_at": "2020-06-07 18:11:30.550000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b23663fc](https://gitlab.com/snowgem/bitfrost/-/commit/b23663fc62f9379ba84dc1fa9d3efd0499f2bba6): fix saving issue on ios - Snowgem",
+      "type": "rich"
+    }
   }
 ]
