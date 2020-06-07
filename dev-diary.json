@@ -8874,5 +8874,15 @@
       "description": "[ef3341e9](https://gitlab.com/snowgem/bitfrost/-/commit/ef3341e9f5d79f6accbbeb386faa5ef800ec6091): onscroll when showing chart - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ef3341e9f5d79f6accbbeb386faa5ef800ec6091...1c9d3352f3ca0b13a3a2f9a21121e187d4531ac1))",
+    "created_at": "2020-06-07 19:09:14.369000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b7a59f52](https://gitlab.com/snowgem/bitfrost/-/commit/b7a59f52712893c5d09cad35e8c849faa432c8f5): united button size - Filip Storkan\n\n[1c9d3352](https://gitlab.com/snowgem/bitfrost/-/commit/1c9d3352f3ca0b13a3a2f9a21121e187d4531ac1): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
