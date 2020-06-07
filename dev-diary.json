@@ -8884,5 +8884,15 @@
       "description": "[b7a59f52](https://gitlab.com/snowgem/bitfrost/-/commit/b7a59f52712893c5d09cad35e8c849faa432c8f5): united button size - Filip Storkan\n\n[1c9d3352](https://gitlab.com/snowgem/bitfrost/-/commit/1c9d3352f3ca0b13a3a2f9a21121e187d4531ac1): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1c9d3352f3ca0b13a3a2f9a21121e187d4531ac1...a3436846c1f38e2ff26f865089b87c3af463e0e9))",
+    "created_at": "2020-06-07 19:32:14.247000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a3436846](https://gitlab.com/snowgem/bitfrost/-/commit/a3436846c1f38e2ff26f865089b87c3af463e0e9): fix double margin - Snowgem",
+      "type": "rich"
+    }
   }
 ]
