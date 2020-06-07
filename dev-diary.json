@@ -8864,5 +8864,15 @@
       "description": "[8d85354a](https://gitlab.com/snowgem/bitfrost/-/commit/8d85354ae00bfb6ede617fb85c290a5e146d49bf): correct check wallet length - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8d85354ae00bfb6ede617fb85c290a5e146d49bf...ef3341e9f5d79f6accbbeb386faa5ef800ec6091))",
+    "created_at": "2020-06-07 18:49:43.290000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ef3341e9](https://gitlab.com/snowgem/bitfrost/-/commit/ef3341e9f5d79f6accbbeb386faa5ef800ec6091): onscroll when showing chart - SnowGem",
+      "type": "rich"
+    }
   }
 ]
