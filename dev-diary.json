@@ -8978,5 +8978,15 @@
       "description": "[a7bfa3bc](https://gitlab.com/snowgem/bitfrost/-/commit/a7bfa3bc1d5b812569d2d356329f108b94ee63d5): check duplicate wallet name - SnowGem\n\n[e369b780](https://gitlab.com/snowgem/bitfrost/-/commit/e369b78023b51c361fd0b2c3f60d5c2ca70e1e3b): try to fix ios data issue - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e369b78023b51c361fd0b2c3f60d5c2ca70e1e3b...cedd9d19984f2f1dd05ea5ec3ba4ca2efdb9e2d1))",
+    "created_at": "2020-06-08 14:36:58.311000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cedd9d19](https://gitlab.com/snowgem/bitfrost/-/commit/cedd9d19984f2f1dd05ea5ec3ba4ca2efdb9e2d1): read database - SnowGem",
+      "type": "rich"
+    }
   }
 ]
