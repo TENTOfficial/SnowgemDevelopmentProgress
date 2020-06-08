@@ -9008,5 +9008,15 @@
       "description": "[f8908c6f](https://gitlab.com/snowgem/bitfrost/-/commit/f8908c6fa0a22a1764a616735d753287ebc0cba9): encrypt buffer - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f8908c6fa0a22a1764a616735d753287ebc0cba9...a7f2e46598d4a6382af5c5948009e97ddc34a073))",
+    "created_at": "2020-06-08 18:59:17.077000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ef277130](https://gitlab.com/snowgem/bitfrost/-/commit/ef2771307340ec9765a3f38af1a488a947720254): Remove async/await ioservice - SnowGem\n\n[a7f2e465](https://gitlab.com/snowgem/bitfrost/-/commit/a7f2e46598d4a6382af5c5948009e97ddc34a073): padding footer custom page - SnowGem",
+      "type": "rich"
+    }
   }
 ]
