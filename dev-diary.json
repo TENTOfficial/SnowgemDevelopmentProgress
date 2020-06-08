@@ -8988,5 +8988,15 @@
       "description": "[cedd9d19](https://gitlab.com/snowgem/bitfrost/-/commit/cedd9d19984f2f1dd05ea5ec3ba4ca2efdb9e2d1): read database - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [release/0\\.0\\.6](https://gitlab.com/snowgem/bitfrost/commits/release/0.0.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f465ad0dec9716c26547e09832b509335c6cb93a...bc9593b63337742fcf8f76925e605b0a591a5ce4))",
+    "created_at": "2020-06-08 15:36:22.766000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bc9593b6](https://gitlab.com/snowgem/bitfrost/-/commit/bc9593b63337742fcf8f76925e605b0a591a5ce4): autologing issue fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
