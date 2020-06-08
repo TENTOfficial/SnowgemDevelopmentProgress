@@ -8914,5 +8914,10 @@
       "description": "[f715750d](https://gitlab.com/snowgem/bitfrost/-/commit/f715750d691106c62c452049efde2f451aa96374): fix build issue - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!6 \\*Bittrex integration\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/6) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-06-08 07:35:18.819000"
   }
 ]
