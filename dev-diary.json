@@ -8998,5 +8998,15 @@
       "description": "[bc9593b6](https://gitlab.com/snowgem/bitfrost/-/commit/bc9593b63337742fcf8f76925e605b0a591a5ce4): autologing issue fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cedd9d19984f2f1dd05ea5ec3ba4ca2efdb9e2d1...f8908c6fa0a22a1764a616735d753287ebc0cba9))",
+    "created_at": "2020-06-08 15:48:35.367000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f8908c6f](https://gitlab.com/snowgem/bitfrost/-/commit/f8908c6fa0a22a1764a616735d753287ebc0cba9): encrypt buffer - SnowGem",
+      "type": "rich"
+    }
   }
 ]
