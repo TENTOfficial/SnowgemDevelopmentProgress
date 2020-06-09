@@ -9038,5 +9038,15 @@
       "description": "[05d4bd40](https://gitlab.com/snowgem/bitfrost/-/commit/05d4bd40af34a9b1746d34f0f8a0c8cd4130e7f8): Fix send/receive amount on wallet page. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/05d4bd40af34a9b1746d34f0f8a0c8cd4130e7f8...8eb6a47bbf699021d19e940ef6a84e9eaa859b40))",
+    "created_at": "2020-06-09 06:45:19.836000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8eb6a47b](https://gitlab.com/snowgem/bitfrost/-/commit/8eb6a47bbf699021d19e940ef6a84e9eaa859b40): Fixed coin ticker position. - DaX",
+      "type": "rich"
+    }
   }
 ]
