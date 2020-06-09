@@ -9028,5 +9028,15 @@
       "description": "[8eeca78e](https://gitlab.com/snowgem/bitfrost/-/commit/8eeca78e3da3c9fdaf44088648e33eddcb323f5a): password input with strength check - Filip Storkan\n\n[86ea7d29](https://gitlab.com/snowgem/bitfrost/-/commit/86ea7d294c881106595ded9c69606c311817dde5): using js native Promise obj in auth service - Filip Storkan\n\n[ed1ba10e](https://gitlab.com/snowgem/bitfrost/-/commit/ed1ba10eae688bc15534d265ca1d23a9feb7e339): updated register flow with validation - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a7f2e46598d4a6382af5c5948009e97ddc34a073...05d4bd40af34a9b1746d34f0f8a0c8cd4130e7f8))",
+    "created_at": "2020-06-09 06:21:54.902000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[05d4bd40](https://gitlab.com/snowgem/bitfrost/-/commit/05d4bd40af34a9b1746d34f0f8a0c8cd4130e7f8): Fix send/receive amount on wallet page. - DaX",
+      "type": "rich"
+    }
   }
 ]
