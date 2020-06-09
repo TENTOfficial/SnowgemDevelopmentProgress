@@ -9048,5 +9048,15 @@
       "description": "[8eb6a47b](https://gitlab.com/snowgem/bitfrost/-/commit/8eb6a47bbf699021d19e940ef6a84e9eaa859b40): Fixed coin ticker position. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8eb6a47bbf699021d19e940ef6a84e9eaa859b40...02242f1e5d865c2dee95f667651f904e6b1fd077))",
+    "created_at": "2020-06-09 07:27:55.092000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[dc2e447e](https://gitlab.com/snowgem/bitfrost/-/commit/dc2e447e37e1f075e86fb7d78e4ac0779bcc0466): get eth transactions for mobile - SnowGem\n\n[02242f1e](https://gitlab.com/snowgem/bitfrost/-/commit/02242f1e5d865c2dee95f667651f904e6b1fd077): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
+      "type": "rich"
+    }
   }
 ]
