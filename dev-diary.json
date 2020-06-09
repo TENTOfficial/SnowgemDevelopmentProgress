@@ -9058,5 +9058,20 @@
       "description": "[dc2e447e](https://gitlab.com/snowgem/bitfrost/-/commit/dc2e447e37e1f075e86fb7d78e4ac0779bcc0466): get eth transactions for mobile - SnowGem\n\n[02242f1e](https://gitlab.com/snowgem/bitfrost/-/commit/02242f1e5d865c2dee95f667651f904e6b1fd077): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [bittrex\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/fe4c8a628a084b5b3374592c89810860b592f0f3...159160f36d4e2ec43b7a3da8307d13763e5fb0bd))",
+    "created_at": "2020-06-09 09:07:13.601000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[159160f3](https://gitlab.com/snowgem/snowpay-api/-/commit/159160f36d4e2ec43b7a3da8307d13763e5fb0bd): added initial binance support - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!7 \\*Bittrex integration\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/7) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-06-09 09:08:37.032000"
   }
 ]
