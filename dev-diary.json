@@ -9073,5 +9073,64 @@
     "author": "GitLab",
     "content": "demzet (aphex5) opened merge request [\\!7 \\*Bittrex integration\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/7) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-06-09 09:08:37.032000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [bittrex\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/159160f36d4e2ec43b7a3da8307d13763e5fb0bd...f0d1e62805d0a6dce3c13b090cdf5acb192d9334))",
+    "created_at": "2020-06-09 09:15:49.725000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7d525f48](https://gitlab.com/snowgem/snowpay-api/-/commit/7d525f487f7ae1210b0d6fa0a19a7a604a2f6aab): Bittrex integration - demzet\n\n[08920f53](https://gitlab.com/snowgem/snowpay-api/-/commit/08920f53ba8c8a47d1f3e0db584371fff9b2ca80): Merge branch 'bittrex_integration' into 'master' - demzet\n\n[f0d1e628](https://gitlab.com/snowgem/snowpay-api/-/commit/f0d1e62805d0a6dce3c13b090cdf5acb192d9334): Merge branch 'master' into 'bittrex_integration' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/08920f53ba8c8a47d1f3e0db584371fff9b2ca80...fd5473edd93f6f2d0444c5aad849eb26999396a9))",
+    "created_at": "2020-06-09 09:16:51.905000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a7138b5e](https://gitlab.com/snowgem/snowpay-api/-/commit/a7138b5ea2bff4cacddfcaeb17fab38db05f0265): Bittrex integration - demzet\n\n[fd5473ed](https://gitlab.com/snowgem/snowpay-api/-/commit/fd5473edd93f6f2d0444c5aad849eb26999396a9): Merge branch 'bittrex_integration' into 'master' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!7 \\*Bittrex integration\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/7) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-06-09 09:16:52.090000",
+    "embed_0": {
+      "color": 4672855,
+      "description": "GitLab.com",
+      "provider": {
+        "name": "GitLab",
+        "url": null
+      },
+      "thumbnail": {
+        "height": 64,
+        "proxy_url": "https://images-ext-2.discordapp.net/external/DkF5MVjV3dgiqhgp8J0ROWrKTz-fABDy9o5LuOXgYiQ/https/assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "url": "https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "width": 64
+      },
+      "title": "Sign in",
+      "type": "link",
+      "url": "https://gitlab.com/snowgem/snowpay-api/-/merge_requests/7)"
+    },
+    "embed_1": {
+      "color": 4672855,
+      "description": "GitLab.com",
+      "provider": {
+        "name": "GitLab",
+        "url": null
+      },
+      "thumbnail": {
+        "height": 64,
+        "proxy_url": "https://images-ext-2.discordapp.net/external/DkF5MVjV3dgiqhgp8J0ROWrKTz-fABDy9o5LuOXgYiQ/https/assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "url": "https://assets.gitlab-static.net/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+        "width": 64
+      },
+      "title": "Sign in",
+      "type": "link",
+      "url": "https://gitlab.com/snowgem/snowpay-api)"
+    }
   }
 ]
