@@ -9291,5 +9291,15 @@
       "description": "[8ad14d9f](https://gitlab.com/snowgem/bitfrost/-/commit/8ad14d9f7a7b6585367ce20a5a03e39ee88f34d2): fix undefined data - SnowGem\n\n[9185a95e](https://gitlab.com/snowgem/bitfrost/-/commit/9185a95ef14ac0c001ea9df27d0a03c7df0ad76c): check test account - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9185a95ef14ac0c001ea9df27d0a03c7df0ad76c...620ca82a5881f76223299392407bb394524a084b))",
+    "created_at": "2020-06-10 21:39:22.292000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1e2834be](https://gitlab.com/snowgem/bitfrost/-/commit/1e2834bece006a5625d442eb502ec4c769d4ef79): Settings page customizations. - DaX\n\n[620ca82a](https://gitlab.com/snowgem/bitfrost/-/commit/620ca82a5881f76223299392407bb394524a084b): Wallet settings customization. - DaX",
+      "type": "rich"
+    }
   }
 ]
