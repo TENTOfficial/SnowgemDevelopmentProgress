@@ -9231,5 +9231,15 @@
       "description": "[ec60cf6e](https://gitlab.com/snowgem/bitfrost/-/commit/ec60cf6ea4113fe5761abcac08a573994c598b0f): ZEL icon - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec60cf6ea4113fe5761abcac08a573994c598b0f...16127f177ca0a06ef4e33e662984a4a1f8b445d4))",
+    "created_at": "2020-06-10 11:42:26.232000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[16127f17](https://gitlab.com/snowgem/bitfrost/-/commit/16127f177ca0a06ef4e33e662984a4a1f8b445d4): no transaction msg on empty wallet - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
