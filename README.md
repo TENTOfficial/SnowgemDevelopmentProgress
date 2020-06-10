@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 804 commits since 20/01/2020. You can see the complete history in
+There is a total of 805 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-06-10 12:12:26</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/16127f177ca0a06ef4e33e662984a4a1f8b445d4...fd058444c89ca066152b01500b56a231057136e3))</sub> | <sub>[fd058444](https://gitlab.com/snowgem/bitfrost/-/commit/fd058444c89ca066152b01500b56a231057136e3): styled error - Filip Storkan</sub> |
 | <sub>2020-06-10 11:42:26</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec60cf6ea4113fe5761abcac08a573994c598b0f...16127f177ca0a06ef4e33e662984a4a1f8b445d4))</sub> | <sub>[16127f17](https://gitlab.com/snowgem/bitfrost/-/commit/16127f177ca0a06ef4e33e662984a4a1f8b445d4): no transaction msg on empty wallet - Filip Storkan</sub> |
 | <sub>2020-06-10 11:31:48</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8c19e9168a6a15b019f58f2ec5ed5ef315e37a7a...ec60cf6ea4113fe5761abcac08a573994c598b0f))</sub> | <sub>[ec60cf6e](https://gitlab.com/snowgem/bitfrost/-/commit/ec60cf6ea4113fe5761abcac08a573994c598b0f): ZEL icon - Filip Storkan</sub> |
 | <sub>2020-06-10 10:37:19</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/37224dca0fe15874bba5cc2b27088e8b2098e1d1...8c19e9168a6a15b019f58f2ec5ed5ef315e37a7a))</sub> | <sub>[4bcf1677](https://gitlab.com/snowgem/bitfrost/-/commit/4bcf1677222ad0809f86301cc082b8272c2db972): add zelcash - SnowGem<br>[8c19e916](https://gitlab.com/snowgem/bitfrost/-/commit/8c19e9168a6a15b019f58f2ec5ed5ef315e37a7a): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem</sub> |
@@ -17,6 +18,5 @@ There is a total of 804 commits since 20/01/2020. You can see the complete histo
 | <sub>2020-06-09 18:04:25</sub> | <sub>Txid (txid) merged merge request [\!2 \*Release/0\.0\.6\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/2) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-06-09 18:02:42</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!2 \*Release/0\.0\.6\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/2) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-06-09 09:21:15</sub> | <sub>demzet pushed new branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-06-09 09:16:52</sub> | <sub>demzet (aphex5) merged merge request [\!7 \*Bittrex integration\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/7) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
