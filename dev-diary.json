@@ -9251,5 +9251,15 @@
       "description": "[fd058444](https://gitlab.com/snowgem/bitfrost/-/commit/fd058444c89ca066152b01500b56a231057136e3): styled error - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fd058444c89ca066152b01500b56a231057136e3...96c3a159c5a6c7da84131707fb77fb64ecde4191))",
+    "created_at": "2020-06-10 13:05:57.559000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[96c3a159](https://gitlab.com/snowgem/bitfrost/-/commit/96c3a159c5a6c7da84131707fb77fb64ecde4191): return all wallets on search cancel - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
