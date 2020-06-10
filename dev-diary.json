@@ -9271,5 +9271,15 @@
       "description": "[0bc2db16](https://gitlab.com/snowgem/snowpay-api/-/commit/0bc2db165bcaf134868ee27bd86591279b5b5c7d): refactor - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/96c3a159c5a6c7da84131707fb77fb64ecde4191...ebfc31667f772cb8b368d00747cc388ff0085524))",
+    "created_at": "2020-06-10 16:09:58.491000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d50ce5b4](https://gitlab.com/snowgem/bitfrost/-/commit/d50ce5b4c754866bd71359878545cf53c66a682d): update bitfrost-lib - SnowGem\n\n[24132389](https://gitlab.com/snowgem/bitfrost/-/commit/241323893edbd18847b42cfc97b0b27b78adc052): auto go to next page if scan qr - SnowGem\n\n[ebfc3166](https://gitlab.com/snowgem/bitfrost/-/commit/ebfc31667f772cb8b368d00747cc388ff0085524): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
+      "type": "rich"
+    }
   }
 ]
