@@ -9261,5 +9261,15 @@
       "description": "[96c3a159](https://gitlab.com/snowgem/bitfrost/-/commit/96c3a159c5a6c7da84131707fb77fb64ecde4191): return all wallets on search cancel - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/008b2d6145f88edf7fd34a960039d2d180f456cb...0bc2db165bcaf134868ee27bd86591279b5b5c7d))",
+    "created_at": "2020-06-10 13:54:42.865000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0bc2db16](https://gitlab.com/snowgem/snowpay-api/-/commit/0bc2db165bcaf134868ee27bd86591279b5b5c7d): refactor - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
