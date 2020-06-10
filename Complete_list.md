@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-06-10 08:09:08</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/fd5473edd93f6f2d0444c5aad849eb26999396a9...4e1722a3a5a825d6e9bf1eddd89dbac7722f842b))</sub> | <sub>[4e1722a3](https://gitlab.com/snowgem/snowpay-api/-/commit/4e1722a3a5a825d6e9bf1eddd89dbac7722f842b): references cleanup - Kamil Wojciechowski</sub> |
 | <sub>2020-06-09 18:04:25</sub> | <sub>Txid (txid) merged merge request [\!2 \*Release/0\.0\.6\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/2) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-06-09 18:02:42</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!2 \*Release/0\.0\.6\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/2) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-06-09 09:21:15</sub> | <sub>demzet pushed new branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |

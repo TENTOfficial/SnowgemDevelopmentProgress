@@ -9181,5 +9181,15 @@
       "type": "link",
       "url": "https://gitlab.com/snowgem/bitfrost)"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/fd5473edd93f6f2d0444c5aad849eb26999396a9...4e1722a3a5a825d6e9bf1eddd89dbac7722f842b))",
+    "created_at": "2020-06-10 08:09:08.757000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4e1722a3](https://gitlab.com/snowgem/snowpay-api/-/commit/4e1722a3a5a825d6e9bf1eddd89dbac7722f842b): references cleanup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
