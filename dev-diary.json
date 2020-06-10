@@ -9201,5 +9201,15 @@
       "description": "[37224dca](https://gitlab.com/snowgem/bitfrost/-/commit/37224dca0fe15874bba5cc2b27088e8b2098e1d1): platform margin issue fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4e1722a3a5a825d6e9bf1eddd89dbac7722f842b...008b2d6145f88edf7fd34a960039d2d180f456cb))",
+    "created_at": "2020-06-10 10:25:18.465000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[008b2d61](https://gitlab.com/snowgem/snowpay-api/-/commit/008b2d6145f88edf7fd34a960039d2d180f456cb): added asset migrations, refactored db factories - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
