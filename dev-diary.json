@@ -9221,5 +9221,15 @@
       "description": "[4bcf1677](https://gitlab.com/snowgem/bitfrost/-/commit/4bcf1677222ad0809f86301cc082b8272c2db972): add zelcash - SnowGem\n\n[8c19e916](https://gitlab.com/snowgem/bitfrost/-/commit/8c19e9168a6a15b019f58f2ec5ed5ef315e37a7a): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8c19e9168a6a15b019f58f2ec5ed5ef315e37a7a...ec60cf6ea4113fe5761abcac08a573994c598b0f))",
+    "created_at": "2020-06-10 11:31:48.919000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ec60cf6e](https://gitlab.com/snowgem/bitfrost/-/commit/ec60cf6ea4113fe5761abcac08a573994c598b0f): ZEL icon - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
