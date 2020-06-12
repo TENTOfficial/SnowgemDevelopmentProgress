@@ -9431,5 +9431,15 @@
       "description": "[595e9b05](https://gitlab.com/snowgem/bitfrost/-/commit/595e9b057e3ddf280882208be59df41b782c9d27): change login flow - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/595e9b057e3ddf280882208be59df41b782c9d27...2ce4704b4831d4416f6891fdde968651c7496255))",
+    "created_at": "2020-06-12 19:48:17.346000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a1d62153](https://gitlab.com/snowgem/bitfrost/-/commit/a1d621537944982bd462f5c1f0dfe43724de06de): fix functional refresher on simple page - Filip Storkan\n\n[2ce4704b](https://gitlab.com/snowgem/bitfrost/-/commit/2ce4704b4831d4416f6891fdde968651c7496255): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
