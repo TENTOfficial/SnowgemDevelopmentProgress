@@ -9381,5 +9381,15 @@
       "description": "[dad58ac2](https://gitlab.com/snowgem/bitfrost/-/commit/dad58ac2539501471cbda4008cb7b95d0ae8fe4a): fix margin bottom - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dad58ac2539501471cbda4008cb7b95d0ae8fe4a...45502ad973a5a434b47ca0fea781bd710e3ddad4))",
+    "created_at": "2020-06-12 14:10:46.291000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[45502ad9](https://gitlab.com/snowgem/bitfrost/-/commit/45502ad973a5a434b47ca0fea781bd710e3ddad4): fix transactino desc ordering on search - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
