@@ -9351,5 +9351,15 @@
       "description": "[ed70a50c](https://gitlab.com/snowgem/snowpay-api/-/commit/ed70a50c3e9bd0b5bc986ca663a77f750b38c0f3): db improvements - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2432b266ac9b6cfb73f2938065cd5e4f4f1d3218...b82d25baa6018fc0e988d94130afa6bfb67d101f))",
+    "created_at": "2020-06-12 11:30:03.813000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[844d4d45](https://gitlab.com/snowgem/bitfrost/-/commit/844d4d45bc0c7932e6d06617e523b037cb6b35a8): fix fiat currency switch - Filip Storkan\n\n[cb806e5b](https://gitlab.com/snowgem/bitfrost/-/commit/cb806e5b8ad4b8d6eb99366f73c94c455dad86a6): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan\n\n[b82d25ba](https://gitlab.com/snowgem/bitfrost/-/commit/b82d25baa6018fc0e988d94130afa6bfb67d101f): fix fiat currency switch inside receive page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
