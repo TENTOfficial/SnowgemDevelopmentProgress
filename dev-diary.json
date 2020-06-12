@@ -9331,5 +9331,15 @@
       "description": "[2a8e3bb6](https://gitlab.com/snowgem/bitfrost/-/commit/2a8e3bb6183e4004ab90cd7fa03f71505472253d): fixed #78 for login pass - SnowGem\n\n[341a087d](https://gitlab.com/snowgem/bitfrost/-/commit/341a087d319ae99cb29e4b4bf99dcf0c0ea6be56): fix #78 masterpass - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/341a087d319ae99cb29e4b4bf99dcf0c0ea6be56...2432b266ac9b6cfb73f2938065cd5e4f4f1d3218))",
+    "created_at": "2020-06-12 09:27:18.829000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2432b266](https://gitlab.com/snowgem/bitfrost/-/commit/2432b266ac9b6cfb73f2938065cd5e4f4f1d3218): fix build ios - SnowGem",
+      "type": "rich"
+    }
   }
 ]
