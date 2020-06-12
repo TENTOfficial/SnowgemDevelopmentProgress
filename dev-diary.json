@@ -9421,5 +9421,15 @@
       "description": "[bb551288](https://gitlab.com/snowgem/bitfrost/-/commit/bb551288437e46eebdd245365c0d30f78d753669): fix settings undefine - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bb551288437e46eebdd245365c0d30f78d753669...595e9b057e3ddf280882208be59df41b782c9d27))",
+    "created_at": "2020-06-12 18:00:34.392000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[595e9b05](https://gitlab.com/snowgem/bitfrost/-/commit/595e9b057e3ddf280882208be59df41b782c9d27): change login flow - SnowGem",
+      "type": "rich"
+    }
   }
 ]
