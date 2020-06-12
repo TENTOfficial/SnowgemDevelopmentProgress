@@ -9341,5 +9341,15 @@
       "description": "[2432b266](https://gitlab.com/snowgem/bitfrost/-/commit/2432b266ac9b6cfb73f2938065cd5e4f4f1d3218): fix build ios - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0bc2db165bcaf134868ee27bd86591279b5b5c7d...ed70a50c3e9bd0b5bc986ca663a77f750b38c0f3))",
+    "created_at": "2020-06-12 11:07:14.401000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ed70a50c](https://gitlab.com/snowgem/snowpay-api/-/commit/ed70a50c3e9bd0b5bc986ca663a77f750b38c0f3): db improvements - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
