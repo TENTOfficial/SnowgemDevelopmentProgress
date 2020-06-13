@@ -9512,5 +9512,15 @@
       "description": "[d80bb199](https://gitlab.com/snowgem/bitfrost/-/commit/d80bb1992a56944234097f6b60663f131df43cc6): update version for testing also - SnowGem\n\n[0466da2f](https://gitlab.com/snowgem/bitfrost/-/commit/0466da2f9fff3e9be25b955682088ef998fab755): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem\n\n[cf055eaf](https://gitlab.com/snowgem/bitfrost/-/commit/cf055eaf7b082542774312b749ddb48dd92096eb): fix chart not display on ios - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cf055eaf7b082542774312b749ddb48dd92096eb...3b0ce7c46cd231d88da5c1f52c508b2bfa87c705))",
+    "created_at": "2020-06-13 20:36:25.658000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3b0ce7c4](https://gitlab.com/snowgem/bitfrost/-/commit/3b0ce7c46cd231d88da5c1f52c508b2bfa87c705): chart: start balance from 0 - SnowGem",
+      "type": "rich"
+    }
   }
 ]
