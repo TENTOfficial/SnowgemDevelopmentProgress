@@ -9451,5 +9451,41 @@
       "description": "[26ff84c7](https://gitlab.com/snowgem/snowpay-api/-/commit/26ff84c79e178f7bf09d8e52c0b9c3c8e5de55fe): WIP - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-06-13 11:19:10.356000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`23e421d`](https://github.com/ciripel/Heimdall/commit/23e421d01feba8af570c4d4cd7edddaedd5136bf) updated CoreTeam list - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/23e421d01feba8af570c4d4cd7edddaedd5136bf"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-06-13 11:19:41.783000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c3c6c88`](https://github.com/ciripel/Heimdall/commit/c3c6c8868f622c7946e76a8af88359de60966d31) updated translators list - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/c3c6c8868f622c7946e76a8af88359de60966d31"
+    }
   }
 ]
