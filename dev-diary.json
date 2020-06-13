@@ -9497,5 +9497,10 @@
       "description": "[2faf53d4](https://gitlab.com/snowgem/bitfrost/-/commit/2faf53d49dd8c3d35ef1422e0eb37da7bc1309f1): fix switching accent color applies to the chart - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new tag [0\\.0\\.5](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.5) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-06-13 16:36:10.307000"
   }
 ]

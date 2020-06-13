@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-06-13 16:36:10</sub> | <sub>Txid pushed new tag [0\.0\.5](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.5) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-06-13 16:24:49</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2ce4704b4831d4416f6891fdde968651c7496255...2faf53d49dd8c3d35ef1422e0eb37da7bc1309f1))</sub> | <sub>[2faf53d4](https://gitlab.com/snowgem/bitfrost/-/commit/2faf53d49dd8c3d35ef1422e0eb37da7bc1309f1): fix switching accent color applies to the chart - Filip Storkan</sub> |
 | <sub>2020-06-13 11:19:41</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/c3c6c8868f622c7946e76a8af88359de60966d31)</sub> | <sub>[c3c6c88](https://github.com/ciripel/Heimdall/commit/c3c6c8868f622c7946e76a8af88359de60966d31) updated translators list - ciripel</sub> |
 | <sub>2020-06-13 11:19:10</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/23e421d01feba8af570c4d4cd7edddaedd5136bf)</sub> | <sub>[23e421d](https://github.com/ciripel/Heimdall/commit/23e421d01feba8af570c4d4cd7edddaedd5136bf) updated CoreTeam list - ciripel</sub> |
