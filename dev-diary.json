@@ -9522,5 +9522,15 @@
       "description": "[3b0ce7c4](https://gitlab.com/snowgem/bitfrost/-/commit/3b0ce7c46cd231d88da5c1f52c508b2bfa87c705): chart: start balance from 0 - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3b0ce7c46cd231d88da5c1f52c508b2bfa87c705...cf784eaac4c465b7be8c1768d3a0b6879e5fb1a0))",
+    "created_at": "2020-06-14 12:46:34.384000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cf784eaa](https://gitlab.com/snowgem/bitfrost/-/commit/cf784eaac4c465b7be8c1768d3a0b6879e5fb1a0): fix back button from wallet settings - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
