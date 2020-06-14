@@ -9532,5 +9532,15 @@
       "description": "[cf784eaa](https://gitlab.com/snowgem/bitfrost/-/commit/cf784eaac4c465b7be8c1768d3a0b6879e5fb1a0): fix back button from wallet settings - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cf784eaac4c465b7be8c1768d3a0b6879e5fb1a0...54e89e77d2164172d9ae151730fed6e75b0cf59b))",
+    "created_at": "2020-06-14 12:57:43.611000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[54e89e77](https://gitlab.com/snowgem/bitfrost/-/commit/54e89e77d2164172d9ae151730fed6e75b0cf59b): fix header in overview page as a template - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
