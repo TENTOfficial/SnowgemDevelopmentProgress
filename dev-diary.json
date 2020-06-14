@@ -9542,5 +9542,15 @@
       "description": "[54e89e77](https://gitlab.com/snowgem/bitfrost/-/commit/54e89e77d2164172d9ae151730fed6e75b0cf59b): fix header in overview page as a template - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/26ff84c79e178f7bf09d8e52c0b9c3c8e5de55fe...b589301381bbd4c1cef717e91c3262bbc503bea9))",
+    "created_at": "2020-06-14 13:00:34.131000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b5893013](https://gitlab.com/snowgem/snowpay-api/-/commit/b589301381bbd4c1cef717e91c3262bbc503bea9): bug fixes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
