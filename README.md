@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 835 commits since 20/01/2020. You can see the complete history in
+There is a total of 836 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-06-14 18:22:29</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/034d41c41858d417541046c3cda606fa4b507655...501f4fe327b733dabcef85f0722c0486461eb3f5))</sub> | <sub>[501f4fe3](https://gitlab.com/snowgem/bitfrost/-/commit/501f4fe327b733dabcef85f0722c0486461eb3f5): disable reorder when scrolling - SnowGem</sub> |
 | <sub>2020-06-14 18:17:47</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/54e89e77d2164172d9ae151730fed6e75b0cf59b...034d41c41858d417541046c3cda606fa4b507655))</sub> | <sub>[9037baaa](https://gitlab.com/snowgem/bitfrost/-/commit/9037baaa73197f6aa6a2e20d89b4b139807955c9): fix chart height final - SnowGem<br>[034d41c4](https://gitlab.com/snowgem/bitfrost/-/commit/034d41c41858d417541046c3cda606fa4b507655): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem</sub> |
 | <sub>2020-06-14 13:00:34</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/26ff84c79e178f7bf09d8e52c0b9c3c8e5de55fe...b589301381bbd4c1cef717e91c3262bbc503bea9))</sub> | <sub>[b5893013](https://gitlab.com/snowgem/snowpay-api/-/commit/b589301381bbd4c1cef717e91c3262bbc503bea9): bug fixes - Kamil Wojciechowski</sub> |
 | <sub>2020-06-14 12:57:43</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cf784eaac4c465b7be8c1768d3a0b6879e5fb1a0...54e89e77d2164172d9ae151730fed6e75b0cf59b))</sub> | <sub>[54e89e77](https://gitlab.com/snowgem/bitfrost/-/commit/54e89e77d2164172d9ae151730fed6e75b0cf59b): fix header in overview page as a template - Filip Storkan</sub> |
@@ -17,6 +18,5 @@ There is a total of 835 commits since 20/01/2020. You can see the complete histo
 | <sub>2020-06-13 16:36:10</sub> | <sub>Txid pushed new tag [0\.0\.5](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.5) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-06-13 16:24:49</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2ce4704b4831d4416f6891fdde968651c7496255...2faf53d49dd8c3d35ef1422e0eb37da7bc1309f1))</sub> | <sub>[2faf53d4](https://gitlab.com/snowgem/bitfrost/-/commit/2faf53d49dd8c3d35ef1422e0eb37da7bc1309f1): fix switching accent color applies to the chart - Filip Storkan</sub> |
 | <sub>2020-06-13 11:19:41</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/c3c6c8868f622c7946e76a8af88359de60966d31)</sub> | <sub>[c3c6c88](https://github.com/ciripel/Heimdall/commit/c3c6c8868f622c7946e76a8af88359de60966d31) updated translators list - ciripel</sub> |
-| <sub>2020-06-13 11:19:10</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/23e421d01feba8af570c4d4cd7edddaedd5136bf)</sub> | <sub>[23e421d](https://github.com/ciripel/Heimdall/commit/23e421d01feba8af570c4d4cd7edddaedd5136bf) updated CoreTeam list - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
