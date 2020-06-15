@@ -9572,5 +9572,20 @@
       "description": "[501f4fe3](https://gitlab.com/snowgem/bitfrost/-/commit/501f4fe327b733dabcef85f0722c0486461eb3f5): disable reorder when scrolling - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [feature/sqlite](https://gitlab.com/snowgem/bitfrost/commits/feature/sqlite) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-06-15 19:11:22.033000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/501f4fe327b733dabcef85f0722c0486461eb3f5...f4c45a778f037d2cce2fd2dd5794e2587facd8f2))",
+    "created_at": "2020-06-15 19:11:45.265000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e4d7bfac](https://gitlab.com/snowgem/bitfrost/-/commit/e4d7bfac1eae88c968c8977ef0b8986de47ab38e): update move tx destination address - SnowGem\n\n[f4c45a77](https://gitlab.com/snowgem/bitfrost/-/commit/f4c45a778f037d2cce2fd2dd5794e2587facd8f2): increase version to 0.0.6 - SnowGem",
+      "type": "rich"
+    }
   }
 ]
