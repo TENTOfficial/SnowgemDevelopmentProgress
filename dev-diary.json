@@ -9587,5 +9587,15 @@
       "description": "[e4d7bfac](https://gitlab.com/snowgem/bitfrost/-/commit/e4d7bfac1eae88c968c8977ef0b8986de47ab38e): update move tx destination address - SnowGem\n\n[f4c45a77](https://gitlab.com/snowgem/bitfrost/-/commit/f4c45a778f037d2cce2fd2dd5794e2587facd8f2): increase version to 0.0.6 - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/b589301381bbd4c1cef717e91c3262bbc503bea9...a7d66420a372b2454b75c2d9a7aedf2e4e114a8c))",
+    "created_at": "2020-06-16 08:27:33.327000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a7d66420](https://gitlab.com/snowgem/snowpay-api/-/commit/a7d66420a372b2454b75c2d9a7aedf2e4e114a8c): updated docker images - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
