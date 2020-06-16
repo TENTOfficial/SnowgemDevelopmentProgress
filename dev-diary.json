@@ -9667,5 +9667,15 @@
       "description": "[ced592b7](https://gitlab.com/snowgem/bitfrost/-/commit/ced592b75504de78c5302d1aafbea7b8888b6338): styling about footer - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a7d66420a372b2454b75c2d9a7aedf2e4e114a8c...764562f88741176f66eb055c113232bae72060ad))",
+    "created_at": "2020-06-16 11:32:01.559000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[764562f8](https://gitlab.com/snowgem/snowpay-api/-/commit/764562f88741176f66eb055c113232bae72060ad): reporting fixes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
