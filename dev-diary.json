@@ -9657,5 +9657,15 @@
       "description": "[a137143d](https://gitlab.com/snowgem/bitfrost/-/commit/a137143d3ffc73031759907fbc5b1f965ce29c66): default ready state for unsigned tx - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a137143d3ffc73031759907fbc5b1f965ce29c66...ced592b75504de78c5302d1aafbea7b8888b6338))",
+    "created_at": "2020-06-16 11:21:46.632000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ced592b7](https://gitlab.com/snowgem/bitfrost/-/commit/ced592b75504de78c5302d1aafbea7b8888b6338): styling about footer - SnowGem",
+      "type": "rich"
+    }
   }
 ]
