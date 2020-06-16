@@ -9677,5 +9677,10 @@
       "description": "[764562f8](https://gitlab.com/snowgem/snowpay-api/-/commit/764562f88741176f66eb055c113232bae72060ad): reporting fixes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new tag [0\\.0\\.6](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.6) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-06-16 11:59:35.162000"
   }
 ]
