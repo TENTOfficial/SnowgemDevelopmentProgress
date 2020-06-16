@@ -9617,5 +9617,15 @@
       "description": "[5e64e163](https://gitlab.com/snowgem/bitfrost/-/commit/5e64e163be3df19cbcaeb00ff8a324521a7a426c): fix build, order transaction in overview page - SnowGem\n\n[949d4ac2](https://gitlab.com/snowgem/bitfrost/-/commit/949d4ac2f2d53cfed68b544b5ced467bee811085): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/949d4ac2f2d53cfed68b544b5ced467bee811085...aa952febe5cf2b56b0deebd8de9ed8d48e3a7d21))",
+    "created_at": "2020-06-16 10:47:12.911000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[aa952feb](https://gitlab.com/snowgem/bitfrost/-/commit/aa952febe5cf2b56b0deebd8de9ed8d48e3a7d21): fix send small ETH amount issue - SnowGem",
+      "type": "rich"
+    }
   }
 ]
