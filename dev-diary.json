@@ -9597,5 +9597,15 @@
       "description": "[a7d66420](https://gitlab.com/snowgem/snowpay-api/-/commit/a7d66420a372b2454b75c2d9a7aedf2e4e114a8c): updated docker images - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f4c45a778f037d2cce2fd2dd5794e2587facd8f2...933614fb2f0b9ebd1414791b386bda1a9cf5670b))",
+    "created_at": "2020-06-16 09:10:34.238000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[933614fb](https://gitlab.com/snowgem/bitfrost/-/commit/933614fb2f0b9ebd1414791b386bda1a9cf5670b): fix default light mode colors on older android - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
