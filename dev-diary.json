@@ -9717,5 +9717,15 @@
       "description": "[4e9bfaa3](https://gitlab.com/snowgem/snowpay-api/-/commit/4e9bfaa3fb617d1d092adb5a37246078a7c7aeab): unit tests fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4e9bfaa3fb617d1d092adb5a37246078a7c7aeab...99c8d071b74ea207bbdf15aed856b092fae9ef36))",
+    "created_at": "2020-06-18 08:50:50.621000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[99c8d071](https://gitlab.com/snowgem/snowpay-api/-/commit/99c8d071b74ea207bbdf15aed856b092fae9ef36): gitlab build definition update - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
