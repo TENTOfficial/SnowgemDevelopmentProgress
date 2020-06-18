@@ -9707,5 +9707,15 @@
       "description": "[972ee789](https://gitlab.com/snowgem/bitfrost/-/commit/972ee789fd316f96bb0c4f9b174bfe641e1402c7): fix floating point number for ETH - SnowGem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/764562f88741176f66eb055c113232bae72060ad...4e9bfaa3fb617d1d092adb5a37246078a7c7aeab))",
+    "created_at": "2020-06-18 08:39:13.114000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4e9bfaa3](https://gitlab.com/snowgem/snowpay-api/-/commit/4e9bfaa3fb617d1d092adb5a37246078a7c7aeab): unit tests fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
