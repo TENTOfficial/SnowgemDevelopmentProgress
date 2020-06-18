@@ -9777,5 +9777,15 @@
       "description": "[346f9a08](https://gitlab.com/snowgem/snowpay-api/-/commit/346f9a0855aa260a28b733b76118a65560ca5ec8): notification service logger fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/346f9a0855aa260a28b733b76118a65560ca5ec8...82f47574b059510c3a876e0a2ed39575af70d299))",
+    "created_at": "2020-06-18 13:33:46.742000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[82f47574](https://gitlab.com/snowgem/snowpay-api/-/commit/82f47574b059510c3a876e0a2ed39575af70d299): exchange cfg changes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
