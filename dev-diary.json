@@ -9757,5 +9757,15 @@
       "description": "[4b196998](https://gitlab.com/snowgem/snowpay-api/-/commit/4b19699831e6930df2f689de224f3c7db86901a9): docker file path resolution fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4b19699831e6930df2f689de224f3c7db86901a9...11019791558af86159b5edd0356ee1486aadbdad))",
+    "created_at": "2020-06-18 12:37:39.538000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[11019791](https://gitlab.com/snowgem/snowpay-api/-/commit/11019791558af86159b5edd0356ee1486aadbdad): reconfigured logger - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
