@@ -9737,5 +9737,15 @@
       "description": "[fbff82c0](https://gitlab.com/snowgem/bitfrost/-/commit/fbff82c0a48bb278d8440336169606ad86c035fa): Correct ETH name - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/99c8d071b74ea207bbdf15aed856b092fae9ef36...6315da9c00908bc0860c0846755bbee7df8f6912))",
+    "created_at": "2020-06-18 09:48:06.698000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6315da9c](https://gitlab.com/snowgem/snowpay-api/-/commit/6315da9c00908bc0860c0846755bbee7df8f6912): added missing cfg file into docker image - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
