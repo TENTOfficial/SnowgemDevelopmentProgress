@@ -9787,5 +9787,15 @@
       "description": "[82f47574](https://gitlab.com/snowgem/snowpay-api/-/commit/82f47574b059510c3a876e0a2ed39575af70d299): exchange cfg changes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/82f47574b059510c3a876e0a2ed39575af70d299...05aea5255847eb8a0f948e1a493c33fe35980445))",
+    "created_at": "2020-06-19 08:09:01.240000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[05aea525](https://gitlab.com/snowgem/snowpay-api/-/commit/05aea5255847eb8a0f948e1a493c33fe35980445): added post param calculations - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
