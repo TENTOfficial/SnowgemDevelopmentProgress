@@ -9797,5 +9797,15 @@
       "description": "[05aea525](https://gitlab.com/snowgem/snowpay-api/-/commit/05aea5255847eb8a0f948e1a493c33fe35980445): added post param calculations - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/05aea5255847eb8a0f948e1a493c33fe35980445...adc4d68d9e70f02d3392ff12f77bdd323bb9171f))",
+    "created_at": "2020-06-19 08:59:02.550000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[adc4d68d](https://gitlab.com/snowgem/snowpay-api/-/commit/adc4d68d9e70f02d3392ff12f77bdd323bb9171f): added ZEL swap support - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
