@@ -9867,5 +9867,15 @@
       "description": "[e4e0c4e4](https://gitlab.com/snowgem/snowpay-api/-/commit/e4e0c4e47052e8f3e116602d17c069453e7ab7d8): dgb swap adjustments - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e4e0c4e47052e8f3e116602d17c069453e7ab7d8...132f05ebdced4c03eabbc3a13cf73e8586df7a05))",
+    "created_at": "2020-06-24 21:04:57.464000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[132f05eb](https://gitlab.com/snowgem/snowpay-api/-/commit/132f05ebdced4c03eabbc3a13cf73e8586df7a05): notification service configuration fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
