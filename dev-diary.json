@@ -9837,5 +9837,15 @@
       "description": "[fda705ea](https://gitlab.com/snowgem/bitfrost/-/commit/fda705eae83233b1781a514c6303ac8456adb994): fix after merge - Filip Storkan\n\n[37194a19](https://gitlab.com/snowgem/bitfrost/-/commit/37194a19eb2aee9ea9b144e0febf1d74fdf08797): removing  calculator component - Filip Storkan\n\n[4c1b7570](https://gitlab.com/snowgem/bitfrost/-/commit/4c1b757088291651d84181c5f86dffc4477289e9): new swap value component - Filip Storkan\n\n[5e724881](https://gitlab.com/snowgem/bitfrost/-/commit/5e7248815bb75e5cd5a4b4a49156d5eb026d9d78): reactive form ready value component - Filip Storkan\n\n[01b9d0b5](https://gitlab.com/snowgem/bitfrost/-/commit/01b9d0b5d6231d4c1c5b7d28b8668cdfc50c33c4): stateless numpad component - Filip Storkan\n\n[5e044c5e](https://gitlab.com/snowgem/bitfrost/-/commit/5e044c5e71da61c6b680b9248979edcf2ef8f907): adding refresh action to wallets page - Filip Storkan\n\n[0b02d9e5](https://gitlab.com/snowgem/bitfrost/-/commit/0b02d9e5f3e72afe08bef62c63c64d81ced96c58): updating pairing fns - Filip Storkan\n\n[2ba7c138](https://gitlab.com/snowgem/bitfrost/-/commit/2ba7c1383531e29cb16c00dd82a9e4f47e01bd64): show swap in action modal only if wallets exist - Filip Storkan\n\n[c79de3cb](https://gitlab.com/snowgem/bitfrost/-/commit/c79de3cbb7277ef16d04ffead3fcdfca09a44249): exchange page - comments and clean up - Filip Storkan\n\n[0176a8e2](https://gitlab.com/snowgem/bitfrost/-/commit/0176a8e2cd595ab22ac18533ef0c9d1fb816b711): disable form - Filip Storkan\n\n[34a1f5cd](https://gitlab.com/snowgem/bitfrost/-/commit/34a1f5cdb8d66e1b75189c129ee19b3adaf8ac8e): swap convert type - Filip Storkan\n\n[2403fd7d](https://gitlab.com/snowgem/bitfrost/-/commit/2403fd7db2052d55b0b6506b4ee3c4b39f5a3980): no button margin - Filip Storkan\n\n[eb351658](https://gitlab.com/snowgem/bitfrost/-/commit/eb351658fa67259963a77bd7b4a088cdb504ebda): timing api calls for getting converted value - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f03d24ba681177a3f9bc20b46b397000a8779b58...bc7105aaa044732ee774b5cbb76c9b60a5fe77de))",
+    "created_at": "2020-06-24 07:37:29.603000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bc7105aa](https://gitlab.com/snowgem/snowpay-api/-/commit/bc7105aaa044732ee774b5cbb76c9b60a5fe77de): fixed ZEL asset settings - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
