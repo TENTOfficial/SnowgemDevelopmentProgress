@@ -9847,5 +9847,15 @@
       "description": "[bc7105aa](https://gitlab.com/snowgem/snowpay-api/-/commit/bc7105aaa044732ee774b5cbb76c9b60a5fe77de): fixed ZEL asset settings - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/sqlite](https://gitlab.com/snowgem/bitfrost/commits/feature/sqlite) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/33673f93f0674723700ced5fa32b2513f64b4745...455fa08c5bbfd5d219bcbb51a83e45349bd410fd))",
+    "created_at": "2020-06-24 10:31:54.219000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d20b3501](https://gitlab.com/snowgem/bitfrost/-/commit/d20b35018b498616c4565e03ba030f50a98714be): update settings, add wallets - Snowgem\n\n[a09b67f6](https://gitlab.com/snowgem/bitfrost/-/commit/a09b67f6f127e5d727b7d8893addcc04cc060f0c): save wallets - Snowgem\n\n[455fa08c](https://gitlab.com/snowgem/bitfrost/-/commit/455fa08c5bbfd5d219bcbb51a83e45349bd410fd): update cache and wallets - Snowgem",
+      "type": "rich"
+    }
   }
 ]
