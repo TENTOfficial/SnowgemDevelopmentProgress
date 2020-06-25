@@ -9887,5 +9887,15 @@
       "description": "[b64a6122](https://gitlab.com/snowgem/snowpay-api/-/commit/b64a61229f11bbc2e3946d51b40fc9a9254037fa): added promo codes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/sqlite](https://gitlab.com/snowgem/bitfrost/commits/feature/sqlite) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/455fa08c5bbfd5d219bcbb51a83e45349bd410fd...33715bb440c3335b356402b06a65f460de9487ab))",
+    "created_at": "2020-06-25 17:28:45.496000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[280594ba](https://gitlab.com/snowgem/bitfrost/-/commit/280594bad72b9f078be4809ea7e7946e3879d893): update wallets, change, total history - Snowgem\n\n[cebc1cc1](https://gitlab.com/snowgem/bitfrost/-/commit/cebc1cc1bf2d45388805ee472aa1251aeefa0b5d): wallet history - Snowgem\n\n[5d3941bd](https://gitlab.com/snowgem/bitfrost/-/commit/5d3941bdf834c51b7d6602ad41f6d67319091544): rename wallet - Snowgem\n\n[f3e4ab9c](https://gitlab.com/snowgem/bitfrost/-/commit/f3e4ab9c7d33bab1a38f878f71d81f080d201aa7): do not store priv key in database, encrypt mnemo - Snowgem\n\n[6737976b](https://gitlab.com/snowgem/bitfrost/-/commit/6737976bbed5298f61120286b86fed9a45723238): do not store address priv key - Snowgem\n\n[e6010dbd](https://gitlab.com/snowgem/bitfrost/-/commit/e6010dbdaba08f184fda4983388dbb49cbf8acef): update sign transaction for encryption - Snowgem\n\n[cfd9ba1f](https://gitlab.com/snowgem/bitfrost/-/commit/cfd9ba1f34ff9747a890c04ca6d74036f7958a7d): fix sign transaction for eth - Snowgem\n\n[f725fb1d](https://gitlab.com/snowgem/bitfrost/-/commit/f725fb1dbd7db07ff17a55e65e201e0ae22f5020): fix change password - Snowgem\n\n[35515b4f](https://gitlab.com/snowgem/bitfrost/-/commit/35515b4fe38aabd2dc69ce7c3aa7cd8cc4da709b): fix change pass 2 - Snowgem\n\n[33715bb4](https://gitlab.com/snowgem/bitfrost/-/commit/33715bb440c3335b356402b06a65f460de9487ab): update forgot pass - Snowgem",
+      "type": "rich"
+    }
   }
 ]
