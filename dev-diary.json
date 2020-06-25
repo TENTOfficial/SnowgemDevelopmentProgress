@@ -9877,5 +9877,15 @@
       "description": "[132f05eb](https://gitlab.com/snowgem/snowpay-api/-/commit/132f05ebdced4c03eabbc3a13cf73e8586df7a05): notification service configuration fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/132f05ebdced4c03eabbc3a13cf73e8586df7a05...b64a61229f11bbc2e3946d51b40fc9a9254037fa))",
+    "created_at": "2020-06-25 07:19:51.444000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b64a6122](https://gitlab.com/snowgem/snowpay-api/-/commit/b64a61229f11bbc2e3946d51b40fc9a9254037fa): added promo codes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
