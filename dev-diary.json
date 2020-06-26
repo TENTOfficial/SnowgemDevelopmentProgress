@@ -9977,5 +9977,15 @@
       "description": "[e2ccfd7b](https://gitlab.com/snowgem/bitfrost/-/commit/e2ccfd7b56f210a660e4bb1e16d4783fa8887efa): fix forgot password issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/fd5473edd93f6f2d0444c5aad849eb26999396a9...d4c8a3e267e715c928f2430a4cb04df392163f8a))",
+    "created_at": "2020-06-26 19:25:15.817000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d4c8a3e2](https://gitlab.com/snowgem/snowpay-api/-/commit/d4c8a3e267e715c928f2430a4cb04df392163f8a): Update README.md - DaX",
+      "type": "rich"
+    }
   }
 ]
