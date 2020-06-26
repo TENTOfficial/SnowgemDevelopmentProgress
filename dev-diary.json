@@ -9937,5 +9937,15 @@
       "description": "[04dc7514](https://gitlab.com/snowgem/bitfrost/-/commit/04dc75145faf08a51734a29f6e1a96500d395067): Update readme.md - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/04dc75145faf08a51734a29f6e1a96500d395067...476dc704070682ad5e85318e650f6ff731b5dcf8))",
+    "created_at": "2020-06-26 12:12:48.813000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[476dc704](https://gitlab.com/snowgem/bitfrost/-/commit/476dc704070682ad5e85318e650f6ff731b5dcf8): Update readme.md - DaX",
+      "type": "rich"
+    }
   }
 ]
