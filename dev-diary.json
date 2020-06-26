@@ -9947,5 +9947,15 @@
       "description": "[476dc704](https://gitlab.com/snowgem/bitfrost/-/commit/476dc704070682ad5e85318e650f6ff731b5dcf8): Update readme.md - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/b64a61229f11bbc2e3946d51b40fc9a9254037fa...31b7d88464d15ba3fe5a6d5ffed792ccc3a0e761))",
+    "created_at": "2020-06-26 13:54:32.349000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[31b7d884](https://gitlab.com/snowgem/snowpay-api/-/commit/31b7d88464d15ba3fe5a6d5ffed792ccc3a0e761): added bittrex ethereum deposit indexer - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
