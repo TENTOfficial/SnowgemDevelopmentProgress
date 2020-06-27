@@ -9997,5 +9997,15 @@
       "description": "[80917ee5](https://gitlab.com/snowgem/snowpay-api/-/commit/80917ee502dc818223153d2be180148d474f7713): completed bittrex ethereum deposit indexer - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/476dc704070682ad5e85318e650f6ff731b5dcf8...5974529071c74067b07f8cc337ccf8de9338d7b0))",
+    "created_at": "2020-06-27 12:14:53.219000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[59745290](https://gitlab.com/snowgem/bitfrost/-/commit/5974529071c74067b07f8cc337ccf8de9338d7b0): Update readme.md - ciripel",
+      "type": "rich"
+    }
   }
 ]
