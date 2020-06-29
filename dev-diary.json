@@ -10067,5 +10067,15 @@
       "description": "[15e4a2ed](https://gitlab.com/snowgem/bitfrost/-/commit/15e4a2ed8a2b6017271cfb8b628104d367382e99): timing change to display error on calc swap - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/sqlite](https://gitlab.com/snowgem/bitfrost/commits/feature/sqlite) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e4a4ba6303f5af88490d90ea7b372fd3981cb0d7...166e016bbef574ccdc57e202c7fe27b83d6184df))",
+    "created_at": "2020-06-29 18:07:36.542000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[48ef6344](https://gitlab.com/snowgem/bitfrost/-/commit/48ef6344bb6f52b66ccf8ea78a0a482f4ce9b7af): add promise to all load functions for local data - Snowgem\n\n[cd815b09](https://gitlab.com/snowgem/bitfrost/-/commit/cd815b09d52d88184f577cb6236f39b9348a0d54): reorder functions - Snowgem\n\n[82415aa4](https://gitlab.com/snowgem/bitfrost/-/commit/82415aa45c46cb094ac3abdbc8ac7235cd1bc6eb): add some database functions - Snowgem\n\n[c06d85fe](https://gitlab.com/snowgem/bitfrost/-/commit/c06d85fe6782f68ea5df9a56130ea51644968a52): revert theme mode & graph type - Snowgem\n\n[166e016b](https://gitlab.com/snowgem/bitfrost/-/commit/166e016bbef574ccdc57e202c7fe27b83d6184df): fixz theme is not loaded - Snowgem",
+      "type": "rich"
+    }
   }
 ]
