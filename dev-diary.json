@@ -10087,5 +10087,15 @@
       "description": "[12173cbd](https://gitlab.com/snowgem/snowpay-api/-/commit/12173cbd5a7fe6bc9ba0213a47364c14facfa45d): bittrex ethereum deposit listener improvements - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/12173cbd5a7fe6bc9ba0213a47364c14facfa45d...11c1b51d8287f7240f0d11fe7d13ee188f811e80))",
+    "created_at": "2020-07-01 07:14:18.539000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[11c1b51d](https://gitlab.com/snowgem/snowpay-api/-/commit/11c1b51d8287f7240f0d11fe7d13ee188f811e80): Update index.html - demzet",
+      "type": "rich"
+    }
   }
 ]
