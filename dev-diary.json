@@ -10117,5 +10117,15 @@
       "description": "[8b2865f4](https://gitlab.com/snowgem/bitfrost/-/commit/8b2865f4d47793d2180f531f539739dedea137aa): add log - Snowgem\n\n[97958f41](https://gitlab.com/snowgem/bitfrost/-/commit/97958f4114c4667106899efdc93ca4cd1f9d0360): create wallet/settings works - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/sqlite](https://gitlab.com/snowgem/bitfrost/commits/feature/sqlite) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/97958f4114c4667106899efdc93ca4cd1f9d0360...1a54bf546d06f9392e8b0d8cc4616d0b52a3d3f6))",
+    "created_at": "2020-07-01 21:35:49.414000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d28992d9](https://gitlab.com/snowgem/bitfrost/-/commit/d28992d98a4b5e4f587757daded5a5b94fc21424): - load history - Snowgem\n\n[5f1f1c88](https://gitlab.com/snowgem/bitfrost/-/commit/5f1f1c88cfcf0565b6f44fae1b429d2fc0099e3b): correct addr column - Snowgem\n\n[1a54bf54](https://gitlab.com/snowgem/bitfrost/-/commit/1a54bf546d06f9392e8b0d8cc4616d0b52a3d3f6): fix graph display issue - Snowgem",
+      "type": "rich"
+    }
   }
 ]
