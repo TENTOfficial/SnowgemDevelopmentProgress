@@ -10097,5 +10097,15 @@
       "description": "[11c1b51d](https://gitlab.com/snowgem/snowpay-api/-/commit/11c1b51d8287f7240f0d11fe7d13ee188f811e80): Update index.html - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/sqlite](https://gitlab.com/snowgem/bitfrost/commits/feature/sqlite) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/166e016bbef574ccdc57e202c7fe27b83d6184df...ed8f8fd88821eb0260fb774253e6e107d4134b69))",
+    "created_at": "2020-07-01 07:25:03.970000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[227a5141](https://gitlab.com/snowgem/bitfrost/-/commit/227a5141e861bcf0ff3a02278977d760e54e2c64): add read settings - Snowgem\n\n[78a51939](https://gitlab.com/snowgem/bitfrost/-/commit/78a51939c94fcf4a9a2745f1c722e6f44bef371e): init setting if not exist for database - Snowgem\n\n[bf7572a6](https://gitlab.com/snowgem/bitfrost/-/commit/bf7572a68ad0a510e23e1ce443e919610f7031be): move get functions to ioservice - Snowgem\n\n[ed8f8fd8](https://gitlab.com/snowgem/bitfrost/-/commit/ed8f8fd88821eb0260fb774253e6e107d4134b69): fix sql commands and null data - Snowgem",
+      "type": "rich"
+    }
   }
 ]
