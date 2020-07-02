@@ -10137,5 +10137,15 @@
       "description": "[3e2b15b0](https://gitlab.com/snowgem/bitfrost/-/commit/3e2b15b049d6c0b1112e05c25af1b33f23afbe08): swap pair list - Filip Storkan\n\n[abdc0d80](https://gitlab.com/snowgem/bitfrost/-/commit/abdc0d806b1041d712561d11db201baa761973f8): update thumbnail - Filip Storkan\n\n[a69e1997](https://gitlab.com/snowgem/bitfrost/-/commit/a69e19979b58f09421d77ec02faa72ce1c86e5c2): updating transaction sign up - Filip Storkan\n\n[e6e23816](https://gitlab.com/snowgem/bitfrost/-/commit/e6e23816b6df7c0f0bc69fe42d406e8a0bc8e2f8): adding satoshi to swap value - Filip Storkan\n\n[834dafd6](https://gitlab.com/snowgem/bitfrost/-/commit/834dafd65d343102d7136daff44995e2d2a86fca): disabling validation - Filip Storkan\n\n[f801896b](https://gitlab.com/snowgem/bitfrost/-/commit/f801896b952c9f5ecea318d6b5f35b27b32f7234): moving token request to swap service - Filip Storkan\n\n[d4cf21f4](https://gitlab.com/snowgem/bitfrost/-/commit/d4cf21f4753b3418c09e645398990a6d54dfb1a2): update value after countdown on summary - Filip Storkan\n\n[379924d5](https://gitlab.com/snowgem/bitfrost/-/commit/379924d5b2d4d3677621c85a5bbd3661b6f30cac): update thumbnail on change - Filip Storkan\n\n[f3f85dc8](https://gitlab.com/snowgem/bitfrost/-/commit/f3f85dc858d384d9feecc936f62387f7b6c942d2): removing 8 decimals on value - Filip Storkan\n\n[9083a2d7](https://gitlab.com/snowgem/bitfrost/-/commit/9083a2d7159b70dfc2ecbb1734358b846b2be863): adding swap confirm page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/swap](https://gitlab.com/snowgem/bitfrost/commits/feature/swap) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9083a2d7159b70dfc2ecbb1734358b846b2be863...249eac99ad5102a3ec5353f8fc9e6c412e05b4f0))",
+    "created_at": "2020-07-02 10:23:05.865000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[249eac99](https://gitlab.com/snowgem/bitfrost/-/commit/249eac99ad5102a3ec5353f8fc9e6c412e05b4f0): amount convertion based on wallet type - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
