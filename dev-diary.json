@@ -10157,5 +10157,15 @@
       "description": "[bce3baf3](https://gitlab.com/snowgem/bitfrost/-/commit/bce3baf30650a03c1ee658cd0a527b51b2a7b585): fix address list save/load - Snowgem\n\n[ea81e49c](https://gitlab.com/snowgem/bitfrost/-/commit/ea81e49cb19bc6a034331d035bfad7f6c00c24a3): return after adding wallet - Snowgem\n\n[d329a634](https://gitlab.com/snowgem/bitfrost/-/commit/d329a634390e04e6842d9e5cad20f5b99e00146c): fix update/add settings isue - Snowgem\n\n[ed716fa5](https://gitlab.com/snowgem/bitfrost/-/commit/ed716fa5967c02e6bb291ffd68a91f08de65aaa1): update adata after adding new info - Snowgem\n\n[a8a6567e](https://gitlab.com/snowgem/bitfrost/-/commit/a8a6567ed3e5b5d7858eafd96356a952545e6379): fix sort data - Snowgem\n\n[93cf52e1](https://gitlab.com/snowgem/bitfrost/-/commit/93cf52e1f953b0beb488cd2a14ad72c807db92d3): fix wallet id - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/sqlite](https://gitlab.com/snowgem/bitfrost/commits/feature/sqlite) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/93cf52e1f953b0beb488cd2a14ad72c807db92d3...3d71fc8fb0b390f294cc4c089f175cc1fda87584))",
+    "created_at": "2020-07-02 21:00:14.813000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cc4acb5a](https://gitlab.com/snowgem/bitfrost/-/commit/cc4acb5adc36ab4f35694ff349d26e549c430bb5): cache and wallet transactions - Snowgem\n\n[3d71fc8f](https://gitlab.com/snowgem/bitfrost/-/commit/3d71fc8fb0b390f294cc4c089f175cc1fda87584): import walllet, save cache ok - Snowgem",
+      "type": "rich"
+    }
   }
 ]
