@@ -10167,5 +10167,15 @@
       "description": "[cc4acb5a](https://gitlab.com/snowgem/bitfrost/-/commit/cc4acb5adc36ab4f35694ff349d26e549c430bb5): cache and wallet transactions - Snowgem\n\n[3d71fc8f](https://gitlab.com/snowgem/bitfrost/-/commit/3d71fc8fb0b390f294cc4c089f175cc1fda87584): import walllet, save cache ok - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/swap](https://gitlab.com/snowgem/bitfrost/commits/feature/swap) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2052074a6e9fe24df60897d83eb6282fbe4d9d56...dd5516987c0ee6b48330616f234a8a4184081a5e))",
+    "created_at": "2020-07-03 14:05:55.354000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6207dc73](https://gitlab.com/snowgem/bitfrost/-/commit/6207dc738f5444e95d34ab90b12b0ab74b65ef06): TargetMinWithdrawalAmount inside minAmount valid - Filip Storkan\n\n[391fca08](https://gitlab.com/snowgem/bitfrost/-/commit/391fca08cf7aeda52a769934a77cfb0095388970): preparing onSwap method - Filip Storkan\n\n[f742cabf](https://gitlab.com/snowgem/bitfrost/-/commit/f742cabfbc0cd1a63d305f4c687d4d4166f9fe2a): missing type fixed - Filip Storkan\n\n[7e92b3df](https://gitlab.com/snowgem/bitfrost/-/commit/7e92b3df5c6c92ea8f79ee15e4405b2285d4a8ae): removing balance pipe format - Filip Storkan\n\n[1866fb2b](https://gitlab.com/snowgem/bitfrost/-/commit/1866fb2b740aeaa47abf6f9a04386b3da7e0f416): rounded stroke inside swap pending item - Filip Storkan\n\n[dd551698](https://gitlab.com/snowgem/bitfrost/-/commit/dd5516987c0ee6b48330616f234a8a4184081a5e): updated swap pending item dimentions - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
