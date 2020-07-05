@@ -10207,5 +10207,15 @@
       "description": "[2716dc81](https://gitlab.com/snowgem/bitfrost/-/commit/2716dc81a2f40d55b94146418e7845704690e06a): fix - displaying correct fiat currency - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/sqlite](https://gitlab.com/snowgem/bitfrost/commits/feature/sqlite) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5a1248fdfa86690f4d0036ca920e72a4c9e59ced...d12987fb1d3987a77d9d73ae36504de187850a68))",
+    "created_at": "2020-07-05 18:50:10.057000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d12987fb](https://gitlab.com/snowgem/bitfrost/-/commit/d12987fb1d3987a77d9d73ae36504de187850a68): rename & remove wallet - Snowgem",
+      "type": "rich"
+    }
   }
 ]
