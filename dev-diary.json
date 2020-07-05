@@ -10289,5 +10289,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/ffda2040dd20e14c03ad3e8852d65bdfae5c688c"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/sqlite](https://gitlab.com/snowgem/bitfrost/commits/feature/sqlite) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d12987fb1d3987a77d9d73ae36504de187850a68...14b26a641446489b76511f8554b9fcd438ef1f83))",
+    "created_at": "2020-07-05 20:22:46.689000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5ff893a3](https://gitlab.com/snowgem/bitfrost/-/commit/5ff893a3349a215e1920a40958fc3ad5deb5fc03): change password ok - Snowgem\n\n[71653f12](https://gitlab.com/snowgem/bitfrost/-/commit/71653f127a610e1be8491e7f0364a931f8acce20): change pass 2 and fix bollean type - Snowgem\n\n[14b26a64](https://gitlab.com/snowgem/bitfrost/-/commit/14b26a641446489b76511f8554b9fcd438ef1f83): forgot pass works - Snowgem",
+      "type": "rich"
+    }
   }
 ]
