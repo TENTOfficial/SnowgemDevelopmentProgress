@@ -10389,5 +10389,15 @@
       "description": "[30061c31](https://gitlab.com/snowgem/bitfrost/-/commit/30061c311923f97b86ebb92c8962e00180b66439): promisify broadcas fn - Filip Storkan\n\n[60e2d460](https://gitlab.com/snowgem/bitfrost/-/commit/60e2d460b0270f46b0262020a67a4260268664f1): unpause counter when reference modal is cancelled - Filip Storkan\n\n[9787b509](https://gitlab.com/snowgem/bitfrost/-/commit/9787b50939e3da3255d79a17ce67dae6d1cc0e6e): sending swap tx to explorer and exchange - Filip Storkan\n\n[c0721265](https://gitlab.com/snowgem/bitfrost/-/commit/c07212653ee0a16cff3bdcc95f43467137797c6f): saving pending swap to local storage - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d0ae801ec937bee4bda617296f7bf31afb124056...570b88a929ce21bd738afcc80c371a0aee96ab0b))",
+    "created_at": "2020-07-06 13:45:45.028000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[570b88a9](https://gitlab.com/snowgem/snowpay-api/-/commit/570b88a929ce21bd738afcc80c371a0aee96ab0b): az login - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
