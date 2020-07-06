@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 912 commits since 20/01/2020. You can see the complete history in
+There is a total of 913 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-07-06 13:04:09</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5c7a0f3333c337f08515ebe9825ca1a9128d72e2...8b6d1df93f4c2845fa9448c718adc51dbcf5ae70))</sub> | <sub>[8b6d1df9](https://gitlab.com/snowgem/snowpay-api/-/commit/8b6d1df93f4c2845fa9448c718adc51dbcf5ae70): deployment scripts - Kamil Wojciechowski</sub> |
 | <sub>2020-07-06 12:27:46</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f97ac25f883603060b6e7fd91aae7560d589a3b4...5c7a0f3333c337f08515ebe9825ca1a9128d72e2))</sub> | <sub>[5c7a0f33](https://gitlab.com/snowgem/snowpay-api/-/commit/5c7a0f3333c337f08515ebe9825ca1a9128d72e2): deployment script - Kamil Wojciechowski</sub> |
 | <sub>2020-07-06 11:49:06</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e497849f45ff6613aba065951c1ec8e2b8012309...f97ac25f883603060b6e7fd91aae7560d589a3b4))</sub> | <sub>[f97ac25f](https://gitlab.com/snowgem/snowpay-api/-/commit/f97ac25f883603060b6e7fd91aae7560d589a3b4): deloyment script - Kamil Wojciechowski</sub> |
 | <sub>2020-07-06 11:32:15</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1bad4585d9d6aef998db459c1b1e2d7ecd57389c...e497849f45ff6613aba065951c1ec8e2b8012309))</sub> | <sub>[e497849f](https://gitlab.com/snowgem/snowpay-api/-/commit/e497849f45ff6613aba065951c1ec8e2b8012309): deployment script update - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 912 commits since 20/01/2020. You can see the complete histo
 | <sub>2020-07-05 20:12:31</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/ffda2040dd20e14c03ad3e8852d65bdfae5c688c)</sub> | <sub>[ffda204](https://github.com/ciripel/Heimdall/commit/ffda2040dd20e14c03ad3e8852d65bdfae5c688c) again - ciripel</sub> |
 | <sub>2020-07-05 20:09:16</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/8351adb249c850ac06503b89cbc111b37b0b1b3d)</sub> | <sub>[8351adb](https://github.com/ciripel/Heimdall/commit/8351adb249c850ac06503b89cbc111b37b0b1b3d) testing verification - ciripel</sub> |
 | <sub>2020-07-05 20:00:11</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/382a0cf76edbd5f454c5885935c966e571070fc9)</sub> | <sub>[382a0cf](https://github.com/ciripel/Heimdall/commit/382a0cf76edbd5f454c5885935c966e571070fc9) updated whenmoon - ciripel</sub> |
-| <sub>2020-07-05 19:32:52</sub> | <sub>[[Snowgem:master] 2 new commits](https://github.com/Snowgem/Snowgem/compare/38ea9d2c2bf7...189332fbd535)</sub> | <sub>[91199e0](https://github.com/Snowgem/Snowgem/commit/91199e021868681f6f857002f7b74310feb4bcc5) Update build.sh - cryi<br>[189332f](https://github.com/Snowgem/Snowgem/commit/189332fbd53507db542b8d605f0d4797ac60beae) Merge pull request #25 from cryi/master - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
