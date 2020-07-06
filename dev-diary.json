@@ -10419,5 +10419,15 @@
       "description": "[6fa25b30](https://gitlab.com/snowgem/bitfrost/-/commit/6fa25b3006c34cdd6ea15ec804a81ed02814b8d2): fix - swaps body - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ce83d0903fc332f706c7e4c21a64470c997372c5...e6d3809322cd3a3efd65d5f4bebb54724ea93232))",
+    "created_at": "2020-07-06 20:49:44.879000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e6d38093](https://gitlab.com/snowgem/snowpay-api/-/commit/e6d3809322cd3a3efd65d5f4bebb54724ea93232): gitlab-ci - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
