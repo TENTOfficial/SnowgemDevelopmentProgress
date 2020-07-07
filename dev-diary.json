@@ -10579,5 +10579,23 @@
       "description": "[761da4ab](https://gitlab.com/snowgem/snowpay-api/-/commit/761da4ab528b8ff3531dabf3fad159c27344affd): ci - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-07-07 20:38:44.172000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e247b4c`](https://github.com/Snowgem/Snowgem/commit/e247b4c45490c15cdc8ded9cdae5314972540e37) Update of copyright year to 2020 - ciripel",
+      "title": "[Snowgem:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/Snowgem/commit/e247b4c45490c15cdc8ded9cdae5314972540e37"
+    }
   }
 ]
