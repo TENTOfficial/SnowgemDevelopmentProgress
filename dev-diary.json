@@ -10657,5 +10657,15 @@
       "description": "[912ba798](https://gitlab.com/snowgem/bitfrost/-/commit/912ba798deac8d6309fd1de367c75e5429f757c8): fix rescanning issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8571074d6843d81e9ad8daf1a710a8f9711325b3...c552418451eefd93d7470cc846031bf77265b66d))",
+    "created_at": "2020-07-08 21:58:11.819000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c5524184](https://gitlab.com/snowgem/snowpay-api/-/commit/c552418451eefd93d7470cc846031bf77265b66d): added swap results metadata - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
