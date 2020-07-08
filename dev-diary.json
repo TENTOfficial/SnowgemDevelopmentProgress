@@ -10627,5 +10627,15 @@
       "description": "[8571074d](https://gitlab.com/snowgem/snowpay-api/-/commit/8571074d6843d81e9ad8daf1a710a8f9711325b3): shared configuration fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1ef61be2d356972a7663da7a03c2363a57e1c1a8...4678f0931ac9e54fb066b916b33501180d0c4119))",
+    "created_at": "2020-07-08 14:39:50.260000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cfd311a3](https://gitlab.com/snowgem/bitfrost/-/commit/cfd311a399369b3f5ad8bd3db53777ca87e3af1e): get balance of token - Snowgem\n\n[aeb4a4fa](https://gitlab.com/snowgem/bitfrost/-/commit/aeb4a4fab4153d5f654303cac2af797a5505183d): update mnemo aes for backup page - Snowgem\n\n[4678f093](https://gitlab.com/snowgem/bitfrost/-/commit/4678f0931ac9e54fb066b916b33501180d0c4119): add usdt and busd for testing - Snowgem",
+      "type": "rich"
+    }
   }
 ]
