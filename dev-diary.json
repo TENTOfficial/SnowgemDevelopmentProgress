@@ -10597,5 +10597,15 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/Snowgem/commit/e247b4c45490c15cdc8ded9cdae5314972540e37"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/761da4ab528b8ff3531dabf3fad159c27344affd...fac276d49b76daf382530b2d06c01058410160e7))",
+    "created_at": "2020-07-08 09:48:24.600000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fac276d4](https://gitlab.com/snowgem/snowpay-api/-/commit/fac276d49b76daf382530b2d06c01058410160e7): added japan region api support - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
