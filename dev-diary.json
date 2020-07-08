@@ -10647,5 +10647,15 @@
       "description": "[b65307f7](https://gitlab.com/snowgem/bitfrost/-/commit/b65307f7d22edde9341402c0d6c5c2acc76ddb07): fix transaction signing - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b65307f7d22edde9341402c0d6c5c2acc76ddb07...912ba798deac8d6309fd1de367c75e5429f757c8))",
+    "created_at": "2020-07-08 19:05:47.239000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[912ba798](https://gitlab.com/snowgem/bitfrost/-/commit/912ba798deac8d6309fd1de367c75e5429f757c8): fix rescanning issue - Snowgem",
+      "type": "rich"
+    }
   }
 ]
