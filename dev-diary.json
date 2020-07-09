@@ -10717,5 +10717,15 @@
       "description": "[42a65707](https://gitlab.com/snowgem/bitfrost/-/commit/42a657072b2c5e8357a22f3c7c26f42b7379f138): merge fix - Filip Storkan\n\n[87db36d4](https://gitlab.com/snowgem/bitfrost/-/commit/87db36d4f44f6c498e2c420f7de7d0fd3afc9f5d): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan\n\n[d9a709ca](https://gitlab.com/snowgem/bitfrost/-/commit/d9a709cafd119533984c39b9b1ebcfbc37de49ff): sign eth swap transaction support - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/27c355533c34586743d7af506b80800fb9e8f39b...b756315233472b970177593679734cef6ffdda4f))",
+    "created_at": "2020-07-09 19:02:21.947000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b7563152](https://gitlab.com/snowgem/bitfrost/-/commit/b756315233472b970177593679734cef6ffdda4f): fix transaction display amount - Snowgem",
+      "type": "rich"
+    }
   }
 ]
