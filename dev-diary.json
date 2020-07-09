@@ -10687,5 +10687,15 @@
       "description": "[b1ec4cf6](https://gitlab.com/snowgem/snowpay-api/-/commit/b1ec4cf614010ef8f7298a04b72ba325735cb67c): #44 - order book resync - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bab64840b5d954e20a01d9825e754da7edff983f...607731b40a224f7fb230efee377ed82ae11f1e81))",
+    "created_at": "2020-07-09 12:46:56.590000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[607731b4](https://gitlab.com/snowgem/snowpay-api/-/commit/607731b40a224f7fb230efee377ed82ae11f1e81): #47 [Bug] Exchanges should have only one callback endpoint queue - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
