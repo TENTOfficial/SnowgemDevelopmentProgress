@@ -10745,5 +10745,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/8c97899dd87742ce35eda1bcf63c4f7384a9ce48"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ffa61cea967face390666760842b0eb4c73f3d1f...ba68d9d8267d0ebab3431d668bf0b81b6e80cb25))",
+    "created_at": "2020-07-10 11:32:53.454000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ba68d9d8](https://gitlab.com/snowgem/snowpay-api/-/commit/ba68d9d8267d0ebab3431d668bf0b81b6e80cb25): #51 - [Dev] Fix Error logs formatting - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
