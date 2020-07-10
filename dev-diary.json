@@ -10755,5 +10755,15 @@
       "description": "[ba68d9d8](https://gitlab.com/snowgem/snowpay-api/-/commit/ba68d9d8267d0ebab3431d668bf0b81b6e80cb25): #51 - [Dev] Fix Error logs formatting - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4991e7402b1445fb2644beb7a069cf7684379028...0fbf80b119784ee3ab6faeabd73df866f781b5ac))",
+    "created_at": "2020-07-10 14:43:11.293000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0fbf80b1](https://gitlab.com/snowgem/bitfrost/-/commit/0fbf80b119784ee3ab6faeabd73df866f781b5ac): fix eth transaction - Snowgem",
+      "type": "rich"
+    }
   }
 ]
