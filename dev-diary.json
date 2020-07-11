@@ -10775,5 +10775,25 @@
       "description": "[81030de5](https://gitlab.com/snowgem/bitfrost/-/commit/81030de536efb4cd44cd1fe652a02d33cd4847f4): removing extra exchanges page - Filip Storkan\n\n[9822af63](https://gitlab.com/snowgem/bitfrost/-/commit/9822af63bedd1544433a9899b8891abab151eec2): swap adding wallet registration - Filip Storkan\n\n[21dd3425](https://gitlab.com/snowgem/bitfrost/-/commit/21dd3425aa0bf0d9c6951d8bd6a13b4414a03e84): fix swap refund address - Filip Storkan\n\n[5e35b69b](https://gitlab.com/snowgem/bitfrost/-/commit/5e35b69b5ad8e763ba09907327742d710cdeb0af): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5e35b69b5ad8e763ba09907327742d710cdeb0af...0b12fbaea06602f0dc18a547ce2c5f1910f48dd6))",
+    "created_at": "2020-07-11 14:25:06.247000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2a96e8f0](https://gitlab.com/snowgem/bitfrost/-/commit/2a96e8f08d977da455de13a44ea5447d7aff31ec): adding BUSD, USDT icons - Filip Storkan\n\n[0b12fbae](https://gitlab.com/snowgem/bitfrost/-/commit/0b12fbaea06602f0dc18a547ce2c5f1910f48dd6): updating XSG icon color - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0b12fbaea06602f0dc18a547ce2c5f1910f48dd6...eae7712ce7d9879d2647b993ff122a791aa1eb10))",
+    "created_at": "2020-07-11 14:30:01.305000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eae7712c](https://gitlab.com/snowgem/bitfrost/-/commit/eae7712ce7d9879d2647b993ff122a791aa1eb10): updating BTC icon color - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
