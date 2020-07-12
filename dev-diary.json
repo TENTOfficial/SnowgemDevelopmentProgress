@@ -10858,5 +10858,15 @@
       "description": "[094054b1](https://gitlab.com/snowgem/bitfrost/-/commit/094054b1e5175bcbc980aebbdd7a05a2ceecc713): minor - Snowgem\n\n[aa16d763](https://gitlab.com/snowgem/bitfrost/-/commit/aa16d763c4c59ddffaff66a07de77ce26ca5a193): correct send-overview fee display - Snowgem\n\n[9dccf87a](https://gitlab.com/snowgem/bitfrost/-/commit/9dccf87a37e55eb11e3672096afe477b948e7b5d): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9dccf87a37e55eb11e3672096afe477b948e7b5d...3da3914fec022ace1459a1f687670502d24d1d4a))",
+    "created_at": "2020-07-12 19:33:34.571000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3da3914f](https://gitlab.com/snowgem/bitfrost/-/commit/3da3914fec022ace1459a1f687670502d24d1d4a): fix #99 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
