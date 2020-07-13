@@ -10908,5 +10908,15 @@
       "description": "[f30b6a1c](https://gitlab.com/snowgem/snowpay-api/-/commit/f30b6a1cc4642f74ccab9bdd9ae2d183c33a67b2): #54 - added swap type to the list of allowed swaps - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f30b6a1cc4642f74ccab9bdd9ae2d183c33a67b2...79385044c49f6f31841b1d640c709be1eb0f7af8))",
+    "created_at": "2020-07-13 10:02:52.090000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[79385044](https://gitlab.com/snowgem/snowpay-api/-/commit/79385044c49f6f31841b1d640c709be1eb0f7af8): #53 - swap parameters fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
