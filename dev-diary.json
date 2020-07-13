@@ -10868,5 +10868,15 @@
       "description": "[3da3914f](https://gitlab.com/snowgem/bitfrost/-/commit/3da3914fec022ace1459a1f687670502d24d1d4a): fix #99 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ba68d9d8267d0ebab3431d668bf0b81b6e80cb25...ef418169a14c3d4242f2c59e560f6de4ce517bf5))",
+    "created_at": "2020-07-13 07:56:24.603000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ef418169](https://gitlab.com/snowgem/snowpay-api/-/commit/ef418169a14c3d4242f2c59e560f6de4ce517bf5): #53 - changed the way of handling deposits - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
