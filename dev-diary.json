@@ -10988,5 +10988,15 @@
       "description": "[f547984a](https://gitlab.com/snowgem/bitfrost/-/commit/f547984aa8933bd875c7515717f5a1cb75babc77): fix eth source address for swap - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f547984aa8933bd875c7515717f5a1cb75babc77...86169af7e4c687f2e4a45f3785fb50c585334805))",
+    "created_at": "2020-07-13 16:11:34.853000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8978ab5c](https://gitlab.com/snowgem/bitfrost/-/commit/8978ab5c698c5d1ef799cdc21a91260f56b9d16f): send overview page removing comments - Filip Storkan\n\n[c0db5521](https://gitlab.com/snowgem/bitfrost/-/commit/c0db552130c4ca638cb712f52e68aeeedb4419ec): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan\n\n[96808458](https://gitlab.com/snowgem/bitfrost/-/commit/96808458c7675fabd6b969252f26caa7b5f595df): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan\n\n[e5ea24c0](https://gitlab.com/snowgem/bitfrost/-/commit/e5ea24c0b2a9de419ca43da8fce61f833b777510): truncating a long wallet names - Filip Storkan\n\n[50021e09](https://gitlab.com/snowgem/bitfrost/-/commit/50021e09688a8a5b609861c7ba142e21995b37a3): using a reusable fn for counting gas value - Filip Storkan\n\n[86169af7](https://gitlab.com/snowgem/bitfrost/-/commit/86169af7e4c687f2e4a45f3785fb50c585334805): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
