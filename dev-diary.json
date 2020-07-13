@@ -10938,5 +10938,15 @@
       "description": "[96dbbe18](https://gitlab.com/snowgem/bitfrost/-/commit/96dbbe18b20c2fd60bd00c187e9f5ef74259ebaf): selective loadash imports - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/96dbbe18b20c2fd60bd00c187e9f5ef74259ebaf...e06b229a5f1351c57aab5aff77b2af34f48e81b4))",
+    "created_at": "2020-07-13 11:33:48.586000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bf166925](https://gitlab.com/snowgem/bitfrost/-/commit/bf166925f34c7a5e98b2a2c300217fc0ac471368): fix adding a default value to `getTransactions` - Filip Storkan\n\n[badcb6f2](https://gitlab.com/snowgem/bitfrost/-/commit/badcb6f2bd527f58b4ed5c162c06a3d160eddeaf): fix spinner with primary color - Filip Storkan\n\n[e06b229a](https://gitlab.com/snowgem/bitfrost/-/commit/e06b229a5f1351c57aab5aff77b2af34f48e81b4): removing feeCoin and trimming address in send page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
