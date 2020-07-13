@@ -10918,5 +10918,15 @@
       "description": "[79385044](https://gitlab.com/snowgem/snowpay-api/-/commit/79385044c49f6f31841b1d640c709be1eb0f7af8): #53 - swap parameters fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3da3914fec022ace1459a1f687670502d24d1d4a...436e5e612569213036fa5710777d8563fc293756))",
+    "created_at": "2020-07-13 10:27:52.716000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3d156b1d](https://gitlab.com/snowgem/bitfrost/-/commit/3d156b1d4969a9c7f58c1af120cbfe61ec9a7055): classifying vout fix - Filip Storkan\n\n[436e5e61](https://gitlab.com/snowgem/bitfrost/-/commit/436e5e612569213036fa5710777d8563fc293756): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
