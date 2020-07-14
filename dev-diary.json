@@ -11061,5 +11061,15 @@
       "description": "[852807a7](https://gitlab.com/snowgem/bitfrost/-/commit/852807a7256afed5440be8cdcaa568339015d283): fixed #102 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/852807a7256afed5440be8cdcaa568339015d283...a3312ada22c49183c7b8ddb9a66247deb673593a))",
+    "created_at": "2020-07-14 17:16:52.544000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a3312ada](https://gitlab.com/snowgem/bitfrost/-/commit/a3312ada22c49183c7b8ddb9a66247deb673593a): prepare api for old database - Snowgem",
+      "type": "rich"
+    }
   }
 ]
