@@ -11091,5 +11091,15 @@
       "description": "[81f81506](https://gitlab.com/snowgem/bitfrost/-/commit/81f81506360d81f5e3dc9b555d05da16d70c6711): merge old database to the new one - Snowgem\n\n[5f534d62](https://gitlab.com/snowgem/bitfrost/-/commit/5f534d62f445299693bd3118a23b22b210cd8736): fix recover password issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/54efe6e2191c8364f10aa08f141908117494cea9...9c205a851f7439788a5e1e2b2a0586f672c407b9))",
+    "created_at": "2020-07-14 21:09:35.719000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9c205a85](https://gitlab.com/snowgem/snowpay-api/-/commit/9c205a851f7439788a5e1e2b2a0586f672c407b9): #41 - added remaining usdt support to transaction id provider; added usdt... - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
