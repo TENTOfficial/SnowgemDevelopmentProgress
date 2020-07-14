@@ -11081,5 +11081,15 @@
       "description": "[43b212cc](https://gitlab.com/snowgem/bitfrost/-/commit/43b212cc13e3a581b965fa7c4afde57d81aa85aa): merge old database to the new one - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/43b212cc13e3a581b965fa7c4afde57d81aa85aa...5f534d62f445299693bd3118a23b22b210cd8736))",
+    "created_at": "2020-07-14 19:05:04.026000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[81f81506](https://gitlab.com/snowgem/bitfrost/-/commit/81f81506360d81f5e3dc9b555d05da16d70c6711): merge old database to the new one - Snowgem\n\n[5f534d62](https://gitlab.com/snowgem/bitfrost/-/commit/5f534d62f445299693bd3118a23b22b210cd8736): fix recover password issue - Snowgem",
+      "type": "rich"
+    }
   }
 ]
