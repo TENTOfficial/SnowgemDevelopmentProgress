@@ -11041,5 +11041,15 @@
       "description": "[efea250c](https://gitlab.com/snowgem/bitfrost/-/commit/efea250c199750e8f53fec3f5f0bdc17b2a1d9ed): fix data for custom icon - Snowgem\n\n[858928e0](https://gitlab.com/snowgem/bitfrost/-/commit/858928e0d1a69a966c4f2af5ed4181dc6c66a3cb): resize image after saving to 86x86 fix #71 - Snowgem\n\n[e4563714](https://gitlab.com/snowgem/bitfrost/-/commit/e4563714bff4d7e6c634f662eff155c7041d6264): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/79385044c49f6f31841b1d640c709be1eb0f7af8...54efe6e2191c8364f10aa08f141908117494cea9))",
+    "created_at": "2020-07-14 12:55:09.774000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[54efe6e2](https://gitlab.com/snowgem/snowpay-api/-/commit/54efe6e2191c8364f10aa08f141908117494cea9): #41 - added usdt and dgb swap pair; added bittrex usdt support - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
