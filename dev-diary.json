@@ -11008,5 +11008,28 @@
       "description": "[dce90289](https://gitlab.com/snowgem/bitfrost/-/commit/dce902899b7c36b6f9ecfcf5e7a518bffaafc1c6): a formated max value in swap value base on wallet - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "BitBucket",
+    "content": "",
+    "created_at": "2020-07-14 09:33:30.448000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058:347bfedc-1936-40dc-9695-c7fc31c3d248/919a5dd8-1068-47af-8a06-b62ffaf42924/128",
+        "name": "Jakub Korbel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/JE5uUCH5HDoSq4fr_ifNcbz0Fm0ha99XtdW4Sqsq1rQ/https/avatar-management--avatars.us-west-2.prod.public.atl-paas.net/557058%3A347bfedc-1936-40dc-9695-c7fc31c3d248/919a5dd8-1068-47af-8a06-b62ffaf42924/128"
+      },
+      "color": 2473734,
+      "fields": [
+        {
+          "inline": false,
+          "name": "Commit from Command line",
+          "value": "[`c37b5c6`](https://bitbucket.org/snowgem/asgard/commits/c37b5c63299128a6e4ed1a60ab1673525d2cdfd2) Asgard updates."
+        }
+      ],
+      "title": "[Asgard:master] 1 commit",
+      "type": "rich",
+      "url": "https://bitbucket.org/snowgem/asgard"
+    }
   }
 ]
