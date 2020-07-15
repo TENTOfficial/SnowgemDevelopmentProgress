@@ -11181,5 +11181,25 @@
       "description": "[07b2df67](https://gitlab.com/snowgem/snowpay-api/-/commit/07b2df678fd3cc6d954145cbef8c127f6095a911): Update index.html - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/asgardv1/commits/master) of [snowgem / asgardv1](https://gitlab.com/snowgem/asgardv1) ([Compare changes](https://gitlab.com/snowgem/asgardv1/compare/19202d767608334e802c9ad173febc6aedab783c...c37b5c63299128a6e4ed1a60ab1673525d2cdfd2))",
+    "created_at": "2020-07-15 20:09:12.923000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c37b5c63](https://gitlab.com/snowgem/asgardv1/-/commit/c37b5c63299128a6e4ed1a60ab1673525d2cdfd2): Asgard updates. - root\n\n[deb503e1](https://gitlab.com/snowgem/asgardv1/-/commit/deb503e1f3d988d2477c292478d97a8c2f60376c): Asgard security fix. - root\n\n[19202d76](https://gitlab.com/snowgem/asgardv1/-/commit/19202d767608334e802c9ad173febc6aedab783c): - typo fix for asgard managed correct number - Sergiu Costache",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/asgardv1/commits/master) of [snowgem / asgardv1](https://gitlab.com/snowgem/asgardv1) ([Compare changes](https://gitlab.com/snowgem/asgardv1/compare/19202d767608334e802c9ad173febc6aedab783c...c37b5c63299128a6e4ed1a60ab1673525d2cdfd2))",
+    "created_at": "2020-07-15 20:09:21.415000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c37b5c63](https://gitlab.com/snowgem/asgardv1/-/commit/c37b5c63299128a6e4ed1a60ab1673525d2cdfd2): Asgard updates. - root\n\n[deb503e1](https://gitlab.com/snowgem/asgardv1/-/commit/deb503e1f3d988d2477c292478d97a8c2f60376c): Asgard security fix. - root\n\n[19202d76](https://gitlab.com/snowgem/asgardv1/-/commit/19202d767608334e802c9ad173febc6aedab783c): - typo fix for asgard managed correct number - Sergiu Costache",
+      "type": "rich"
+    }
   }
 ]
