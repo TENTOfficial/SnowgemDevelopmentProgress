@@ -11141,5 +11141,15 @@
       "description": "[29a20441](https://gitlab.com/snowgem/snowpay-api/-/commit/29a20441cad5059cf9830803825e442bd6901d93): signalr  docs update - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/29a20441cad5059cf9830803825e442bd6901d93...a4ca4f1939acab00b96ea8af49bdb5427d28b01a))",
+    "created_at": "2020-07-15 12:55:09.221000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a4ca4f19](https://gitlab.com/snowgem/snowpay-api/-/commit/a4ca4f1939acab00b96ea8af49bdb5427d28b01a): fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
