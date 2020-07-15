@@ -11151,5 +11151,35 @@
       "description": "[a4ca4f19](https://gitlab.com/snowgem/snowpay-api/-/commit/a4ca4f1939acab00b96ea8af49bdb5427d28b01a): fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a4ca4f1939acab00b96ea8af49bdb5427d28b01a...f303235910595f48a9466a9221fdafceaa7d5bb4))",
+    "created_at": "2020-07-15 13:23:23.641000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f3032359](https://gitlab.com/snowgem/snowpay-api/-/commit/f303235910595f48a9466a9221fdafceaa7d5bb4): updated sample - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f303235910595f48a9466a9221fdafceaa7d5bb4...50d8926e31d131a7abbeb6a8de784ab0c8f77198))",
+    "created_at": "2020-07-15 13:24:12.229000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[50d8926e](https://gitlab.com/snowgem/snowpay-api/-/commit/50d8926e31d131a7abbeb6a8de784ab0c8f77198): Update index.html - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/50d8926e31d131a7abbeb6a8de784ab0c8f77198...07b2df678fd3cc6d954145cbef8c127f6095a911))",
+    "created_at": "2020-07-15 13:24:25.113000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[07b2df67](https://gitlab.com/snowgem/snowpay-api/-/commit/07b2df678fd3cc6d954145cbef8c127f6095a911): Update index.html - demzet",
+      "type": "rich"
+    }
   }
 ]
