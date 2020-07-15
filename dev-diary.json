@@ -11101,5 +11101,15 @@
       "description": "[9c205a85](https://gitlab.com/snowgem/snowpay-api/-/commit/9c205a851f7439788a5e1e2b2a0586f672c407b9): #41 - added remaining usdt support to transaction id provider; added usdt... - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9c205a851f7439788a5e1e2b2a0586f672c407b9...bc25b7f454d8a359ae1b321b618f2d6167beb180))",
+    "created_at": "2020-07-15 09:35:09.618000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bc25b7f4](https://gitlab.com/snowgem/snowpay-api/-/commit/bc25b7f454d8a359ae1b321b618f2d6167beb180): #55 - error logging changes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
