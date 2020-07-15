@@ -11121,5 +11121,15 @@
       "description": "[703602d4](https://gitlab.com/snowgem/snowpay-api/-/commit/703602d4f78d4a2dd59968b03ec22c25b4b20951): #42 - ethereum and closed deposit listener race possible condition fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/62831c488357e366e211af3647a6f2d9f0ecce43...b7e3fadeaadcac1c04fbe58b643b53abe47e5777))",
+    "created_at": "2020-07-15 11:55:22.326000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b7e3fade](https://gitlab.com/snowgem/bitfrost/-/commit/b7e3fadeaadcac1c04fbe58b643b53abe47e5777): thinner stroke of circle progress bar - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
