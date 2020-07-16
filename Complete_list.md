@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-07-16 14:42:07</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0ad11e9a19974b3d1baafd570ee38001a97079c3...bea2c14abf031e7adfbe2d1ebf57ffc152c1cc88))</sub> | <sub>[bea2c14a](https://gitlab.com/snowgem/snowpay-api/-/commit/bea2c14abf031e7adfbe2d1ebf57ffc152c1cc88): #43 - updated auth policy - Kamil Wojciechowski</sub> |
 | <sub>2020-07-16 14:38:43</sub> | <sub>demzet pushed new branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-16 14:08:28</sub> | <sub>demzet removed branch release_candidate_1 from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-16 14:08:27</sub> | <sub>demzet (aphex5) merged merge request [\!8 \*Release candidate 1\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/8) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |

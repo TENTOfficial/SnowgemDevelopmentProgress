@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1010 commits since 20/01/2020. You can see the complete history in
+There is a total of 1011 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-07-16 14:42:07</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0ad11e9a19974b3d1baafd570ee38001a97079c3...bea2c14abf031e7adfbe2d1ebf57ffc152c1cc88))</sub> | <sub>[bea2c14a](https://gitlab.com/snowgem/snowpay-api/-/commit/bea2c14abf031e7adfbe2d1ebf57ffc152c1cc88): #43 - updated auth policy - Kamil Wojciechowski</sub> |
 | <sub>2020-07-16 14:38:43</sub> | <sub>demzet pushed new branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-16 14:08:28</sub> | <sub>demzet removed branch release_candidate_1 from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-16 14:08:27</sub> | <sub>demzet (aphex5) merged merge request [\!8 \*Release candidate 1\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/8) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1010 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-07-16 13:22:00</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/fb9b6d0d4af88fb2eeac451b1a7376dce45b1efd...ae4e5b233ae759a0b80bd193e33b876365bc837c))</sub> | <sub>[ae4e5b23](https://gitlab.com/snowgem/snowpay-api/-/commit/ae4e5b233ae759a0b80bd193e33b876365bc837c): #43 auth test 2 - Kamil Wojciechowski</sub> |
 | <sub>2020-07-16 12:59:06</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a825542fc4df7a82393c1eec3cc05cc9018f3832...fb9b6d0d4af88fb2eeac451b1a7376dce45b1efd))</sub> | <sub>[fb9b6d0d](https://gitlab.com/snowgem/snowpay-api/-/commit/fb9b6d0d4af88fb2eeac451b1a7376dce45b1efd): #43 - auth test - Kamil Wojciechowski</sub> |
 | <sub>2020-07-16 11:50:34</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/00656e98eafd9352788c3e8cf2a49401157abb55...a825542fc4df7a82393c1eec3cc05cc9018f3832))</sub> | <sub>[a825542f](https://gitlab.com/snowgem/snowpay-api/-/commit/a825542fc4df7a82393c1eec3cc05cc9018f3832): #43 - auth changes - Kamil Wojciechowski</sub> |
-| <sub>2020-07-16 10:53:08</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/55467b485dfcf274c9d13f4224112602d4788bd4...00656e98eafd9352788c3e8cf2a49401157abb55))</sub> | <sub>[00656e98](https://gitlab.com/snowgem/snowpay-api/-/commit/00656e98eafd9352788c3e8cf2a49401157abb55): #43 - hub auth policy changed - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
