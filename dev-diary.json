@@ -11216,5 +11216,15 @@
       "description": "[4b998b81](https://gitlab.com/snowgem/snowpay-api/-/commit/4b998b81adb533acc8ca3c42698231fc5ed8759b): #43 - websocket cors fix - Kamil Wojciechowski\n\n[2c7329f0](https://gitlab.com/snowgem/snowpay-api/-/commit/2c7329f06b5cec99e3102f0215587f2cb2e13943): Merge branch 'release_candidate_1' of https://gitlab.com/snowgem/snowpay-api... - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2c7329f06b5cec99e3102f0215587f2cb2e13943...fdaefe06cdb1833c36b4c46250b57f9263c8f7a4))",
+    "created_at": "2020-07-16 07:48:21.754000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fdaefe06](https://gitlab.com/snowgem/snowpay-api/-/commit/fdaefe06cdb1833c36b4c46250b57f9263c8f7a4): #41 - cors fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
