@@ -11266,5 +11266,15 @@
       "description": "[55467b48](https://gitlab.com/snowgem/snowpay-api/-/commit/55467b485dfcf274c9d13f4224112602d4788bd4): #43  - updated cors - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/55467b485dfcf274c9d13f4224112602d4788bd4...00656e98eafd9352788c3e8cf2a49401157abb55))",
+    "created_at": "2020-07-16 10:53:08.953000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[00656e98](https://gitlab.com/snowgem/snowpay-api/-/commit/00656e98eafd9352788c3e8cf2a49401157abb55): #43 - hub auth policy changed - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
