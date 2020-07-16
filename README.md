@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1009 commits since 20/01/2020. You can see the complete history in
+There is a total of 1010 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-07-16 14:38:43</sub> | <sub>demzet pushed new branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-16 14:08:28</sub> | <sub>demzet removed branch release_candidate_1 from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-16 14:08:27</sub> | <sub>demzet (aphex5) merged merge request [\!8 \*Release candidate 1\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/8) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-16 14:06:10</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/def8c388da7cfca101629c4df493d6bd5e0f3cbd...ba1b340201a206851cf115e9dd974efe8df898e5))</sub> | <sub>[d4c8a3e2](https://gitlab.com/snowgem/snowpay-api/-/commit/d4c8a3e267e715c928f2430a4cb04df392163f8a): Update README.md - DaX<br>[ba1b3402](https://gitlab.com/snowgem/snowpay-api/-/commit/ba1b340201a206851cf115e9dd974efe8df898e5): Merge branch 'master' into 'release_candidate_1' - demzet</sub> |
@@ -17,6 +18,5 @@ There is a total of 1009 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-07-16 12:59:06</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a825542fc4df7a82393c1eec3cc05cc9018f3832...fb9b6d0d4af88fb2eeac451b1a7376dce45b1efd))</sub> | <sub>[fb9b6d0d](https://gitlab.com/snowgem/snowpay-api/-/commit/fb9b6d0d4af88fb2eeac451b1a7376dce45b1efd): #43 - auth test - Kamil Wojciechowski</sub> |
 | <sub>2020-07-16 11:50:34</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/00656e98eafd9352788c3e8cf2a49401157abb55...a825542fc4df7a82393c1eec3cc05cc9018f3832))</sub> | <sub>[a825542f](https://gitlab.com/snowgem/snowpay-api/-/commit/a825542fc4df7a82393c1eec3cc05cc9018f3832): #43 - auth changes - Kamil Wojciechowski</sub> |
 | <sub>2020-07-16 10:53:08</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/55467b485dfcf274c9d13f4224112602d4788bd4...00656e98eafd9352788c3e8cf2a49401157abb55))</sub> | <sub>[00656e98](https://gitlab.com/snowgem/snowpay-api/-/commit/00656e98eafd9352788c3e8cf2a49401157abb55): #43 - hub auth policy changed - Kamil Wojciechowski</sub> |
-| <sub>2020-07-16 10:37:02</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7fa06fe09741cf73337940c795529cc48c454096...55467b485dfcf274c9d13f4224112602d4788bd4))</sub> | <sub>[55467b48](https://gitlab.com/snowgem/snowpay-api/-/commit/55467b485dfcf274c9d13f4224112602d4788bd4): #43  - updated cors - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

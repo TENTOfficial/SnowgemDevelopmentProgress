@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-07-16 14:38:43</sub> | <sub>demzet pushed new branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-16 14:08:28</sub> | <sub>demzet removed branch release_candidate_1 from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-16 14:08:27</sub> | <sub>demzet (aphex5) merged merge request [\!8 \*Release candidate 1\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/8) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-16 14:06:10</sub> | <sub>demzet pushed to branch [release\_candidate\_1](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/def8c388da7cfca101629c4df493d6bd5e0f3cbd...ba1b340201a206851cf115e9dd974efe8df898e5))</sub> | <sub>[d4c8a3e2](https://gitlab.com/snowgem/snowpay-api/-/commit/d4c8a3e267e715c928f2430a4cb04df392163f8a): Update README.md - DaX<br>[ba1b3402](https://gitlab.com/snowgem/snowpay-api/-/commit/ba1b340201a206851cf115e9dd974efe8df898e5): Merge branch 'master' into 'release_candidate_1' - demzet</sub> |
