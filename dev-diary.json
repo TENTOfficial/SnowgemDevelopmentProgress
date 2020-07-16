@@ -11366,5 +11366,15 @@
       "description": "[2df0dfc8](https://gitlab.com/snowgem/bitfrost/-/commit/2df0dfc82c8a501e2ec3a7bac0c454ef2605765b): fix #87 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bea2c14abf031e7adfbe2d1ebf57ffc152c1cc88...bb15d8098f8a00ddb559fca8937af1148dd20175))",
+    "created_at": "2020-07-16 20:32:39.344000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bb15d809](https://gitlab.com/snowgem/snowpay-api/-/commit/bb15d8098f8a00ddb559fca8937af1148dd20175): #43 - cleanup auth models - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
