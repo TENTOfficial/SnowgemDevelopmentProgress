@@ -11561,5 +11561,25 @@
       "description": "[11b0297f](https://gitlab.com/snowgem/bitfrost/-/commit/11b0297f29f549861b03a13655e8522196b5308f): fix min amount valid - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/11b0297f29f549861b03a13655e8522196b5308f...9ba35848b854940d5b5b54d8685c381768bc23c1))",
+    "created_at": "2020-07-17 13:55:26.157000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9ba35848](https://gitlab.com/snowgem/bitfrost/-/commit/9ba35848b854940d5b5b54d8685c381768bc23c1): cleaning console log - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9ba35848b854940d5b5b54d8685c381768bc23c1...34b6660b6b9120f2a1ed0c82d238a2909cd961a2))",
+    "created_at": "2020-07-17 13:56:54.445000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[34b6660b](https://gitlab.com/snowgem/bitfrost/-/commit/34b6660b6b9120f2a1ed0c82d238a2909cd961a2): fix min amount -> more or equal the value - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
