@@ -11541,5 +11541,15 @@
       "description": "[54e5b428](https://gitlab.com/snowgem/bitfrost/-/commit/54e5b42891cad74194c80b6df9484b949f207c1c): swap page with tapbar - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/54e5b42891cad74194c80b6df9484b949f207c1c...7b7b704819494925d37016888c7020d45d46750e))",
+    "created_at": "2020-07-17 13:46:48.796000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7b7b7048](https://gitlab.com/snowgem/bitfrost/-/commit/7b7b704819494925d37016888c7020d45d46750e): fix is min amount validation - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
