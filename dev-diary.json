@@ -11511,5 +11511,25 @@
       "description": "[9d3e7be1](https://gitlab.com/snowgem/bitfrost/-/commit/9d3e7be13f8a3672be74637907d914b3e4a1e0fb): rocket accent color - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9d3e7be13f8a3672be74637907d914b3e4a1e0fb...62d5a33974aafd29db444d04ce5127dc667aa8f5))",
+    "created_at": "2020-07-17 13:30:34.003000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[62d5a339](https://gitlab.com/snowgem/bitfrost/-/commit/62d5a33974aafd29db444d04ce5127dc667aa8f5): min value validation - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/62d5a33974aafd29db444d04ce5127dc667aa8f5...5a63506e8d75fba2fbda94b357de97d95b674a40))",
+    "created_at": "2020-07-17 13:34:07.660000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5a63506e](https://gitlab.com/snowgem/bitfrost/-/commit/5a63506e8d75fba2fbda94b357de97d95b674a40): loading messages - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
