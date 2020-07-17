@@ -11481,5 +11481,15 @@
       "description": "[0e2f5f35](https://gitlab.com/snowgem/bitfrost/-/commit/0e2f5f3560bbc196693545d0e6a6090b52750a7d): binding methods - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0e2f5f3560bbc196693545d0e6a6090b52750a7d...9c32000827f1e2b7981719ccf3c2f234a69dd0f1))",
+    "created_at": "2020-07-17 13:07:02.207000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9c320008](https://gitlab.com/snowgem/bitfrost/-/commit/9c32000827f1e2b7981719ccf3c2f234a69dd0f1): fix registered swap tx - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
