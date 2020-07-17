@@ -11501,5 +11501,15 @@
       "description": "[93b44783](https://gitlab.com/snowgem/bitfrost/-/commit/93b447833cff48f8b9d232a80a970d60ac5c0658): removing response check on swap - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/93b447833cff48f8b9d232a80a970d60ac5c0658...9d3e7be13f8a3672be74637907d914b3e4a1e0fb))",
+    "created_at": "2020-07-17 13:21:58.558000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9d3e7be1](https://gitlab.com/snowgem/bitfrost/-/commit/9d3e7be13f8a3672be74637907d914b3e4a1e0fb): rocket accent color - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
