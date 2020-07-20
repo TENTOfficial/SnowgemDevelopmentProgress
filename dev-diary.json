@@ -11755,5 +11755,20 @@
       "description": "[b7219fc9](https://gitlab.com/snowgem/mywallet/-/commit/b7219fc95ea0b578715079587c2cfdc935fbc454): updated discord link - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/mywallet/commits/master) of [snowgem / mywallet](https://gitlab.com/snowgem/mywallet) ([Compare changes](https://gitlab.com/snowgem/mywallet/compare/b7219fc95ea0b578715079587c2cfdc935fbc454...a7102fe920e27ed71d3305213552af63a3811497))",
+    "created_at": "2020-07-20 21:50:04.525000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a7102fe9](https://gitlab.com/snowgem/mywallet/-/commit/a7102fe920e27ed71d3305213552af63a3811497): updated year - ciripel",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [bittrex\\_ethereum\\_deposits\\_refactor](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_ethereum_deposits_refactor) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-07-20 21:52:48.894000"
   }
 ]
