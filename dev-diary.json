@@ -11679,5 +11679,25 @@
       "description": "[71e840c9](https://gitlab.com/snowgem/snowpay-api/-/commit/71e840c9853656e27626dad01e945865c6804964): #59 - [Dev] Add resed verification email endpoint - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!9 \\*Release 2020 07 17\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/9) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-07-20 13:35:56.478000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!9 \\*Release 2020 07 17\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/9) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-07-20 13:36:06.346000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0ae883e89f0ac86ec5c47208244ecd6ecc5814e9...fcc03ff9160cb10100967bf7c78598c4d3bc622d))",
+    "created_at": "2020-07-20 13:36:06.420000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[286862ff](https://gitlab.com/snowgem/snowpay-api/-/commit/286862ffb3b53df921363d0d9f3e560de3933efd): #43 - gitlab-ci update - Kamil Wojciechowski\n\n[3d9dfa7b](https://gitlab.com/snowgem/snowpay-api/-/commit/3d9dfa7b939e2238abc34385bd4caf90628b416f): #43 - cleanedup auth roles - Kamil Wojciechowski\n\n[71e840c9](https://gitlab.com/snowgem/snowpay-api/-/commit/71e840c9853656e27626dad01e945865c6804964): #59 - [Dev] Add resed verification email endpoint - Kamil Wojciechowski\n\n[fcc03ff9](https://gitlab.com/snowgem/snowpay-api/-/commit/fcc03ff9160cb10100967bf7c78598c4d3bc622d): Merge branch 'release_2020_07_17' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
