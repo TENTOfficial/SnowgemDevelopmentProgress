@@ -11619,5 +11619,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/1c2d863c4b95b0a9d547e880a911574ee2555d67"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/asgardv1/commits/master) of [snowgem / asgardv1](https://gitlab.com/snowgem/asgardv1) ([Compare changes](https://gitlab.com/snowgem/asgardv1/compare/80ff6656a433990ab268190254e5287ccb9247ac...86c8e1299445893a42cd6e983ef8988ccbbd7115))",
+    "created_at": "2020-07-20 06:50:51.100000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b4ccbd2b](https://gitlab.com/snowgem/asgardv1/-/commit/b4ccbd2b49bb9268482d10e94eed939757177a10): Security improvements. - root\n\n[86c8e129](https://gitlab.com/snowgem/asgardv1/-/commit/86c8e1299445893a42cd6e983ef8988ccbbd7115): Merge https://gitlab.com/snowgem/asgardv1 - root",
+      "type": "rich"
+    }
   }
 ]
