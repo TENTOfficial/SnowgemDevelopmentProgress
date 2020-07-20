@@ -11709,5 +11709,23 @@
       "description": "[290384d1](https://gitlab.com/snowgem/bitfrost/-/commit/290384d1b9a29afcc2b97b8c9f55b53021a47f82): correct file path - Snowgem\n\n[1981c17f](https://gitlab.com/snowgem/bitfrost/-/commit/1981c17f8fa2e6d2b150977a1a50cb653d433069): update save pending swap function - Snowgem\n\n[56ceca7a](https://gitlab.com/snowgem/bitfrost/-/commit/56ceca7a027cdc06f682db283c4f494aadc94f4f): fix merge conflict - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-07-20 19:02:02.586000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`dbd2eae`](https://github.com/ciripel/Heimdall/commit/dbd2eae2a1bf7c53ecb7b4e890e0fa67f0b088c1) updated discord official link - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/dbd2eae2a1bf7c53ecb7b4e890e0fa67f0b088c1"
+    }
   }
 ]
