@@ -11639,5 +11639,15 @@
       "description": "[b2d8a0cb](https://gitlab.com/snowgem/bitfrost/-/commit/b2d8a0cb3bd435ca06fdee8541e6233bb91eab41): tapbar control + route structure update - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/mywallet/commits/master) of [snowgem / mywallet](https://gitlab.com/snowgem/mywallet) ([Compare changes](https://gitlab.com/snowgem/mywallet/compare/753968b3388eb5c0e992e8324b4132e5230e3f75...b5f96d4c57990a20347260c570aa15566dc2cf39))",
+    "created_at": "2020-07-20 09:32:15.520000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6d8bc756](https://gitlab.com/snowgem/mywallet/-/commit/6d8bc756bc9b87f779a20d5cd512fc85b6366549): Added Arabic translation - ciripel\n\n[f0dc4eaf](https://gitlab.com/snowgem/mywallet/-/commit/f0dc4eafb6cd3f39071b2187c4ae4738d3dd1a93): corrected english xml file - ciripel\n\n[b5f96d4c](https://gitlab.com/snowgem/mywallet/-/commit/b5f96d4c57990a20347260c570aa15566dc2cf39): fixed Romanian Translation - ciripel",
+      "type": "rich"
+    }
   }
 ]
