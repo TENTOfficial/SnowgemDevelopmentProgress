@@ -11659,5 +11659,15 @@
       "description": "[b66de029](https://gitlab.com/snowgem/bitfrost/-/commit/b66de029d7f4feb6273109e4d068e3d1dca29af4): fix credential typo - Snowgem\n\n[2f25c28f](https://gitlab.com/snowgem/bitfrost/-/commit/2f25c28fee25a9961f78555ebe90bf191ab1cab2): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2f25c28fee25a9961f78555ebe90bf191ab1cab2...71227d52007f689696921beadb123c3f63384cf5))",
+    "created_at": "2020-07-20 10:54:54.003000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9bb1ee2e](https://gitlab.com/snowgem/bitfrost/-/commit/9bb1ee2e7eaafad8b986bc08600ac893f7bb4179): fix - ts relative paths - Filip Storkan\n\n[b997afde](https://gitlab.com/snowgem/bitfrost/-/commit/b997afde9666f93937e1e96049f5da1a52d4a86c): fix - add swap history returns a promise - Filip Storkan\n\n[71227d52](https://gitlab.com/snowgem/bitfrost/-/commit/71227d52007f689696921beadb123c3f63384cf5): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
