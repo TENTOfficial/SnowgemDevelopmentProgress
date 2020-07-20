@@ -11745,5 +11745,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall-telegram/commit/320ee8991dabff54e2bc4d81b2914c72e8e367bf"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/mywallet/commits/master) of [snowgem / mywallet](https://gitlab.com/snowgem/mywallet) ([Compare changes](https://gitlab.com/snowgem/mywallet/compare/b5f96d4c57990a20347260c570aa15566dc2cf39...b7219fc95ea0b578715079587c2cfdc935fbc454))",
+    "created_at": "2020-07-20 21:46:42.243000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b7219fc9](https://gitlab.com/snowgem/mywallet/-/commit/b7219fc95ea0b578715079587c2cfdc935fbc454): updated discord link - ciripel",
+      "type": "rich"
+    }
   }
 ]
