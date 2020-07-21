@@ -11850,5 +11850,15 @@
       "description": "[d23180d9](https://gitlab.com/snowgem/bitfrost/-/commit/d23180d9fa076936fd800a9555a2b00e2f30a738): fix classify vout in homepage - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_17](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_17) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2363b082b122fa6c3724eb2571d738aa47354df2...46cede8d28d31738d87242e3d9a548f583f505e5))",
+    "created_at": "2020-07-21 20:52:45.771000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[46cede8d](https://gitlab.com/snowgem/snowpay-api/-/commit/46cede8d28d31738d87242e3d9a548f583f505e5): #60 - added unit test - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
