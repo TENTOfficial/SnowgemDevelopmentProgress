@@ -11800,5 +11800,15 @@
       "description": "[2363b082](https://gitlab.com/snowgem/snowpay-api/-/commit/2363b082b122fa6c3724eb2571d738aa47354df2): #61 - bug fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3627534129ecde36b44b7ab035bd731f5126783e...8ec6557c8720fa89c039c40ed0b2cc5387ebd995))",
+    "created_at": "2020-07-21 18:02:29.308000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[004bc1cd](https://gitlab.com/snowgem/bitfrost/-/commit/004bc1cdd289dc14225c1499519c9a8caac68fe4): fixed btcz branch id - Snowgem\n\n[8ec6557c](https://gitlab.com/snowgem/bitfrost/-/commit/8ec6557c8720fa89c039c40ed0b2cc5387ebd995): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
+      "type": "rich"
+    }
   }
 ]
