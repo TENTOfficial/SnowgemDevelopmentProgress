@@ -11820,5 +11820,15 @@
       "description": "[5c87e219](https://gitlab.com/snowgem/bitfrost/-/commit/5c87e219382cec875ddcea2a184656695df95afc): fix decimal issue for transactions - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5c87e219382cec875ddcea2a184656695df95afc...f10b20c340963d4edc1aa2f1c78acd03acf00a59))",
+    "created_at": "2020-07-21 19:08:37.385000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f10b20c3](https://gitlab.com/snowgem/bitfrost/-/commit/f10b20c340963d4edc1aa2f1c78acd03acf00a59): transactions in homepage - Snowgem",
+      "type": "rich"
+    }
   }
 ]
