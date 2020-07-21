@@ -11780,5 +11780,15 @@
       "description": "[36275341](https://gitlab.com/snowgem/bitfrost/-/commit/3627534129ecde36b44b7ab035bd731f5126783e): fix - settings router update - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_17](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_17) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/71e840c9853656e27626dad01e945865c6804964...b43e8ff76ce6231e2403eaddbe4409b9a7df8633))",
+    "created_at": "2020-07-21 12:29:23.701000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b43e8ff7](https://gitlab.com/snowgem/snowpay-api/-/commit/b43e8ff76ce6231e2403eaddbe4409b9a7df8633): #60 - Changed Wallet endpoint input - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
