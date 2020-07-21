@@ -11830,5 +11830,15 @@
       "description": "[f10b20c3](https://gitlab.com/snowgem/bitfrost/-/commit/f10b20c340963d4edc1aa2f1c78acd03acf00a59): transactions in homepage - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f10b20c340963d4edc1aa2f1c78acd03acf00a59...e9010883f68aca8492c452450d2913a806a1f84d))",
+    "created_at": "2020-07-21 19:11:07.481000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e9010883](https://gitlab.com/snowgem/bitfrost/-/commit/e9010883f68aca8492c452450d2913a806a1f84d): fix amount in homepage - Snowgem",
+      "type": "rich"
+    }
   }
 ]
