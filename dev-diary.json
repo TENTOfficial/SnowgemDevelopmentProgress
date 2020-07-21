@@ -11790,5 +11790,15 @@
       "description": "[b43e8ff7](https://gitlab.com/snowgem/snowpay-api/-/commit/b43e8ff76ce6231e2403eaddbe4409b9a7df8633): #60 - Changed Wallet endpoint input - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_17](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_17) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/b43e8ff76ce6231e2403eaddbe4409b9a7df8633...2363b082b122fa6c3724eb2571d738aa47354df2))",
+    "created_at": "2020-07-21 12:54:56.116000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2363b082](https://gitlab.com/snowgem/snowpay-api/-/commit/2363b082b122fa6c3724eb2571d738aa47354df2): #61 - bug fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
