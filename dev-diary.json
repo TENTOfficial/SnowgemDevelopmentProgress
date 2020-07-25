@@ -12028,5 +12028,15 @@
       "description": "[744c7f1a](https://gitlab.com/snowgem/bitfrost/-/commit/744c7f1a8a7de343eb659250748feeb8f99aadd2): primary text color for input in/ value components - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [bittrex\\_ethereum\\_deposits\\_refactor](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_ethereum_deposits_refactor) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bbda5b73e9a772b5f551defe72eba890cef53ace...cca5565e560dc7ba3e64d19750073c2e954ae33e))",
+    "created_at": "2020-07-25 14:06:19.165000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cca5565e](https://gitlab.com/snowgem/snowpay-api/-/commit/cca5565e560dc7ba3e64d19750073c2e954ae33e): #58 - bittrex refactoring - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
