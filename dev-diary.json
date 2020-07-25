@@ -12018,5 +12018,15 @@
       "description": "[4d6665d4](https://gitlab.com/snowgem/bitfrost/-/commit/4d6665d4b54240239790e741a265f9de758c3600): removing activation page - Filip Storkan\n\n[efa989cf](https://gitlab.com/snowgem/bitfrost/-/commit/efa989cf614143ff03b3a3f29e7cb7eb42c1c67d): portraid mode only - Filip Storkan\n\n[e32697ec](https://gitlab.com/snowgem/bitfrost/-/commit/e32697ecebeebb0ce81d1699ab9976c2b08c6468): adding userid to db - Filip Storkan\n\n[1cb43d54](https://gitlab.com/snowgem/bitfrost/-/commit/1cb43d545b61845e0a6f830df70b0ab861adb7d9): swap credentials - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1cb43d545b61845e0a6f830df70b0ab861adb7d9...744c7f1a8a7de343eb659250748feeb8f99aadd2))",
+    "created_at": "2020-07-25 10:53:15.725000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[744c7f1a](https://gitlab.com/snowgem/bitfrost/-/commit/744c7f1a8a7de343eb659250748feeb8f99aadd2): primary text color for input in/ value components - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
