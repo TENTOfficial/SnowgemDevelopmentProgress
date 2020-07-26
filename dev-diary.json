@@ -12058,5 +12058,15 @@
       "description": "[57e6bd31](https://gitlab.com/snowgem/bitfrost/-/commit/57e6bd317048783e87b3e67f3cae789b9fff6c46): strip Bearer prefix if needed - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/swap\\-ws\\-web\\-worker](https://gitlab.com/snowgem/bitfrost/commits/feature/swap-ws-web-worker) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/57e6bd317048783e87b3e67f3cae789b9fff6c46...027460737577628265a02763d9d6310f4e2cdf88))",
+    "created_at": "2020-07-26 21:38:45.866000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[02746073](https://gitlab.com/snowgem/bitfrost/-/commit/027460737577628265a02763d9d6310f4e2cdf88): observe  credentias using subjects - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
