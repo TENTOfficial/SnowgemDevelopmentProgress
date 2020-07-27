@@ -12328,5 +12328,15 @@
       "description": "[2677361e](https://gitlab.com/snowgem/snowpay-api/-/commit/2677361e6fb642363afafb833a0048bd21e0dfd1): #68 - unit test fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2677361e6fb642363afafb833a0048bd21e0dfd1...c37e38cb0dcaa38005a687449294e9c6ffaf0f44))",
+    "created_at": "2020-07-27 21:50:38.265000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c37e38cb](https://gitlab.com/snowgem/snowpay-api/-/commit/c37e38cb0dcaa38005a687449294e9c6ffaf0f44): #69 - fix notification endpoint routing - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
