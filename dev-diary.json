@@ -12188,5 +12188,25 @@
       "description": "[78633082](https://gitlab.com/snowgem/snowpay-api/-/commit/78633082d676e34eaab7fe321f14508cc0387727): #42 - notifications fix - Kamil Wojciechowski\n\n[4367101b](https://gitlab.com/snowgem/snowpay-api/-/commit/4367101b57e59bf641de6fb9c53ee4c964353f5e): Merge branch 'release_2020_07_17' of https://gitlab.com/snowgem/snowpay-api into release_2020_07_17 - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_17](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_17) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4367101b57e59bf641de6fb9c53ee4c964353f5e...38f52c9f53c9498a49355958757b7a9ca1d900b4))",
+    "created_at": "2020-07-27 11:32:35.718000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[38f52c9f](https://gitlab.com/snowgem/snowpay-api/-/commit/38f52c9f53c9498a49355958757b7a9ca1d900b4): dummy - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) opened merge request [\\!3 \\*Feature/swap ws web worker\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/3) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-07-27 11:34:19.399000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) merged merge request [\\!3 \\*Feature/swap ws web worker\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/3) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-07-27 11:34:43.034000"
   }
 ]
