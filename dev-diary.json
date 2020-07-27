@@ -12108,5 +12108,15 @@
       "description": "[96a38ad4](https://gitlab.com/snowgem/bitfrost/-/commit/96a38ad499b9b80b2615df75864b0fd5f1b6fa04): fix wallet availability in wallet registration - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_17](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_17) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ed632880581653af05bca2bc90d7e1c633eb6da4...e6fd3fd43e343c6f4f4c9b48965b8dd415ef124c))",
+    "created_at": "2020-07-27 07:46:55.925000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e6fd3fd4](https://gitlab.com/snowgem/snowpay-api/-/commit/e6fd3fd43e343c6f4f4c9b48965b8dd415ef124c): #42 - notifications fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
