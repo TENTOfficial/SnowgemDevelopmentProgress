@@ -12148,5 +12148,25 @@
       "description": "[5dffa5c5](https://gitlab.com/snowgem/bitfrost/-/commit/5dffa5c5358ca9fe598fd2b7de7d580bd09d3b8b): settings icon - Filip Storkan\n\n[ecf15044](https://gitlab.com/snowgem/bitfrost/-/commit/ecf150444da6e0357574cb572b32295e339de1ab): lighter ripple effect - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/swap\\-ws\\-web\\-worker](https://gitlab.com/snowgem/bitfrost/commits/feature/swap-ws-web-worker) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ecf150444da6e0357574cb572b32295e339de1ab...001eba0bc3ba82fafaaf7af20c7fcacce73df03c))",
+    "created_at": "2020-07-27 11:01:58.306000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0778a4ab](https://gitlab.com/snowgem/bitfrost/-/commit/0778a4ab528cbd07d58f3b77cb25296144b5d4de): no return on save - Filip Storkan\n\n[001eba0b](https://gitlab.com/snowgem/bitfrost/-/commit/001eba0bc3ba82fafaaf7af20c7fcacce73df03c): removing unnecesary imports - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/swap\\-ws\\-web\\-worker](https://gitlab.com/snowgem/bitfrost/commits/feature/swap-ws-web-worker) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/001eba0bc3ba82fafaaf7af20c7fcacce73df03c...5abda3a88321d46ed4d7b36233178a8ec59dad12))",
+    "created_at": "2020-07-27 11:02:59.642000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5abda3a8](https://gitlab.com/snowgem/bitfrost/-/commit/5abda3a88321d46ed4d7b36233178a8ec59dad12): removing unnecesary imports - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
