@@ -12298,5 +12298,25 @@
       "description": "[008b413a](https://gitlab.com/snowgem/bitfrost/-/commit/008b413ab5ff30e43d54f890766a8fab68318e77): load credentials protection - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!11 \\*Bittrex ethereum deposits refactor\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/11) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-07-27 20:29:10.960000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e7105de6d0467c49e5b269f4387d3621cfe9194b...ae0bbda363fd9d5310872841aff7f67549c15e62))",
+    "created_at": "2020-07-27 20:29:11.295000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[81c75b8e](https://gitlab.com/snowgem/snowpay-api/-/commit/81c75b8e830b88c6d3a75a7e50100b9abd01a979): #58 - bittrex deposit listeners refactoring - Kamil Wojciechowski\n\n[d5baa325](https://gitlab.com/snowgem/snowpay-api/-/commit/d5baa3252297ff265475e63d826670ce3d116da0): #58 - hosted services refactoring - Kamil Wojciechowski\n\n[bf79f69a](https://gitlab.com/snowgem/snowpay-api/-/commit/bf79f69ace8847d07f830bb20aa915d94b8ff0a7): #58 wip - Kamil Wojciechowski\n\n[9ab078bc](https://gitlab.com/snowgem/snowpay-api/-/commit/9ab078bc71a0b864148ed4f0bee588a4aad310b8): #58 - bittrex ethereum scanner refactor - Kamil Wojciechowski\n\n[73178e2e](https://gitlab.com/snowgem/snowpay-api/-/commit/73178e2e393fdad9e53bd75282c7a0019722b2d8): #52 - [Dev] Setup immutable mesage serialization for nservicebus - Kamil Wojciechowski\n\n[bbda5b73](https://gitlab.com/snowgem/snowpay-api/-/commit/bbda5b73e9a772b5f551defe72eba890cef53ace): #52 - removed INeedInitialization from handlers - Kamil Wojciechowski\n\n[cca5565e](https://gitlab.com/snowgem/snowpay-api/-/commit/cca5565e560dc7ba3e64d19750073c2e954ae33e): #58 - bittrex refactoring - Kamil Wojciechowski\n\n[b7041b8e](https://gitlab.com/snowgem/snowpay-api/-/commit/b7041b8eb00904a525583ba7b8e4b771edbaaa90): #58 - unit test fix - Kamil Wojciechowski\n\n[ae0bbda3](https://gitlab.com/snowgem/snowpay-api/-/commit/ae0bbda363fd9d5310872841aff7f67549c15e62): Merge remote-tracking branch 'remotes/origin/bittrex_ethereum_deposits_refactor' - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-07-27 20:29:57.776000"
   }
 ]
