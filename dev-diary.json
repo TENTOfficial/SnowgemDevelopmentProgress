@@ -12238,5 +12238,30 @@
       "description": "[6a277d53](https://gitlab.com/snowgem/bitfrost/-/commit/6a277d53b6cb6aef85a9a0d17bcb69ee78df866e): Created change password page - settings. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!10 \\*Release 2020 07 17\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/10) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-07-27 12:21:42.298000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!10 \\*Release 2020 07 17\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/10) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-07-27 12:21:55.515000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!10 \\*Release 2020 07 17\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/10) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-07-27 12:22:00.748000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/fcc03ff9160cb10100967bf7c78598c4d3bc622d...e7105de6d0467c49e5b269f4387d3621cfe9194b))",
+    "created_at": "2020-07-27 12:22:01.403000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b43e8ff7](https://gitlab.com/snowgem/snowpay-api/-/commit/b43e8ff76ce6231e2403eaddbe4409b9a7df8633): #60 - Changed Wallet endpoint input - Kamil Wojciechowski\n\n[2363b082](https://gitlab.com/snowgem/snowpay-api/-/commit/2363b082b122fa6c3724eb2571d738aa47354df2): #61 - bug fix - Kamil Wojciechowski\n\n[46cede8d](https://gitlab.com/snowgem/snowpay-api/-/commit/46cede8d28d31738d87242e3d9a548f583f505e5): #60 - added unit test - Kamil Wojciechowski\n\n[339bda71](https://gitlab.com/snowgem/snowpay-api/-/commit/339bda71ab74ad402dcbe87119b5613e85d36856): #62  - UserId should be required when issuing new access token - Kamil Wojciechowski\n\n[ed632880](https://gitlab.com/snowgem/snowpay-api/-/commit/ed632880581653af05bca2bc90d7e1c633eb6da4): #63 - Add reset password endpoint - Kamil Wojciechowski\n\n[e6fd3fd4](https://gitlab.com/snowgem/snowpay-api/-/commit/e6fd3fd43e343c6f4f4c9b48965b8dd415ef124c): #42 - notifications fix - Kamil Wojciechowski\n\n[78633082](https://gitlab.com/snowgem/snowpay-api/-/commit/78633082d676e34eaab7fe321f14508cc0387727): #42 - notifications fix - Kamil Wojciechowski\n\n[4367101b](https://gitlab.com/snowgem/snowpay-api/-/commit/4367101b57e59bf641de6fb9c53ee4c964353f5e): Merge branch 'release_2020_07_17' of https://gitlab.com/snowgem/snowpay-api into release_2020_07_17 - Kamil Wojciechowski\n\n[38f52c9f](https://gitlab.com/snowgem/snowpay-api/-/commit/38f52c9f53c9498a49355958757b7a9ca1d900b4): dummy - Kamil Wojciechowski\n\n[b1c1e055](https://gitlab.com/snowgem/snowpay-api/-/commit/b1c1e055f323b0b617f618726e439472a0185e9e): #69 - notification handler fix - Kamil Wojciechowski\n\n[e7105de6](https://gitlab.com/snowgem/snowpay-api/-/commit/e7105de6d0467c49e5b269f4387d3621cfe9194b): Merge branch 'release_2020_07_17' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
