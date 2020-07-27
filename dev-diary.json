@@ -12288,5 +12288,15 @@
     "author": "GitLab",
     "content": "demzet (aphex5) opened merge request [\\!11 \\*Bittrex ethereum deposits refactor\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/11) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-07-27 12:40:39.709000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6a277d53b6cb6aef85a9a0d17bcb69ee78df866e...008b413ab5ff30e43d54f890766a8fab68318e77))",
+    "created_at": "2020-07-27 15:15:37.649000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[008b413a](https://gitlab.com/snowgem/bitfrost/-/commit/008b413ab5ff30e43d54f890766a8fab68318e77): load credentials protection - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]

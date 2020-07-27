@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1109 commits since 20/01/2020. You can see the complete history in
+There is a total of 1110 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-07-27 15:15:37</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6a277d53b6cb6aef85a9a0d17bcb69ee78df866e...008b413ab5ff30e43d54f890766a8fab68318e77))</sub> | <sub>[008b413a](https://gitlab.com/snowgem/bitfrost/-/commit/008b413ab5ff30e43d54f890766a8fab68318e77): load credentials protection - Filip Storkan</sub> |
 | <sub>2020-07-27 12:40:39</sub> | <sub>demzet (aphex5) opened merge request [\!11 \*Bittrex ethereum deposits refactor\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/11) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-27 12:40:34</sub> | <sub>demzet (aphex5) closed merge request [\!11 \*Bittrex ethereum deposits refactor\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/11) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-27 12:36:13</sub> | <sub>demzet (aphex5) opened merge request [\!11 \*Bittrex ethereum deposits refactor\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/11) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1109 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-07-27 12:21:55</sub> | <sub>demzet (aphex5) approved merge request [\!10 \*Release 2020 07 17\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/10) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-27 12:21:42</sub> | <sub>demzet (aphex5) opened merge request [\!10 \*Release 2020 07 17\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/10) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-27 12:15:51</sub> | <sub>DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/51f3d40e324556c2f59aa6dfed1349e3a7c003a7...6a277d53b6cb6aef85a9a0d17bcb69ee78df866e))</sub> | <sub>[6a277d53](https://gitlab.com/snowgem/bitfrost/-/commit/6a277d53b6cb6aef85a9a0d17bcb69ee78df866e): Created change password page - settings. - DaX</sub> |
-| <sub>2020-07-27 11:51:12</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/34f0052741f58c3145fd0806a3d3217d44d40b63...51f3d40e324556c2f59aa6dfed1349e3a7c003a7))</sub> | <sub>[51f3d40e](https://gitlab.com/snowgem/bitfrost/-/commit/51f3d40e324556c2f59aa6dfed1349e3a7c003a7): default pulling icon set to null - Filip Storkan</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

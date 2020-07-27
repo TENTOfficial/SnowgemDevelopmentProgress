@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-07-27 15:15:37</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6a277d53b6cb6aef85a9a0d17bcb69ee78df866e...008b413ab5ff30e43d54f890766a8fab68318e77))</sub> | <sub>[008b413a](https://gitlab.com/snowgem/bitfrost/-/commit/008b413ab5ff30e43d54f890766a8fab68318e77): load credentials protection - Filip Storkan</sub> |
 | <sub>2020-07-27 12:40:39</sub> | <sub>demzet (aphex5) opened merge request [\!11 \*Bittrex ethereum deposits refactor\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/11) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-27 12:40:34</sub> | <sub>demzet (aphex5) closed merge request [\!11 \*Bittrex ethereum deposits refactor\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/11) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-27 12:36:13</sub> | <sub>demzet (aphex5) opened merge request [\!11 \*Bittrex ethereum deposits refactor\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/11) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
