@@ -12208,5 +12208,15 @@
     "author": "GitLab",
     "content": "Filip Storkan (filipstrkn) merged merge request [\\!3 \\*Feature/swap ws web worker\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/3) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-07-27 11:34:43.034000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_17](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_17) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/38f52c9f53c9498a49355958757b7a9ca1d900b4...b1c1e055f323b0b617f618726e439472a0185e9e))",
+    "created_at": "2020-07-27 11:48:25.395000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b1c1e055](https://gitlab.com/snowgem/snowpay-api/-/commit/b1c1e055f323b0b617f618726e439472a0185e9e): #69 - notification handler fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
