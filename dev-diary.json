@@ -12228,5 +12228,15 @@
       "description": "[51f3d40e](https://gitlab.com/snowgem/bitfrost/-/commit/51f3d40e324556c2f59aa6dfed1349e3a7c003a7): default pulling icon set to null - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/51f3d40e324556c2f59aa6dfed1349e3a7c003a7...6a277d53b6cb6aef85a9a0d17bcb69ee78df866e))",
+    "created_at": "2020-07-27 12:15:51.648000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6a277d53](https://gitlab.com/snowgem/bitfrost/-/commit/6a277d53b6cb6aef85a9a0d17bcb69ee78df866e): Created change password page - settings. - DaX",
+      "type": "rich"
+    }
   }
 ]
