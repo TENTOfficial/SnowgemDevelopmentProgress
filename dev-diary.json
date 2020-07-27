@@ -12218,5 +12218,15 @@
       "description": "[b1c1e055](https://gitlab.com/snowgem/snowpay-api/-/commit/b1c1e055f323b0b617f618726e439472a0185e9e): #69 - notification handler fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/34f0052741f58c3145fd0806a3d3217d44d40b63...51f3d40e324556c2f59aa6dfed1349e3a7c003a7))",
+    "created_at": "2020-07-27 11:51:12.476000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[51f3d40e](https://gitlab.com/snowgem/bitfrost/-/commit/51f3d40e324556c2f59aa6dfed1349e3a7c003a7): default pulling icon set to null - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
