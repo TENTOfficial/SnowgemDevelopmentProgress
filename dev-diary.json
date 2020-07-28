@@ -12408,5 +12408,15 @@
       "description": "[9ed00dea](https://gitlab.com/snowgem/bitfrost/-/commit/9ed00dea6d47df8f3ef48ce742f079c7a4f695a2): ios btn in send page - Filip Storkan\n\n[1645eeaa](https://gitlab.com/snowgem/bitfrost/-/commit/1645eeaa42928590c3a073511431cc231ac0287d): private utilsService fix - Filip Storkan\n\n[0578f8fc](https://gitlab.com/snowgem/bitfrost/-/commit/0578f8fc437c706f462f91caa70f4ea5d5aa6f7a): select wallet receive fix - Filip Storkan\n\n[5bc13fc3](https://gitlab.com/snowgem/bitfrost/-/commit/5bc13fc3ab560cff65d983ecfddb693ede75eab5): send page utilsService fix - Filip Storkan\n\n[457eefd3](https://gitlab.com/snowgem/bitfrost/-/commit/457eefd37c82657e71f964c783be17e6ef96d1d2): change swap password page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/457eefd37c82657e71f964c783be17e6ef96d1d2...9db3e9ccfd60ad9997395370a3a33ccaa85faa03))",
+    "created_at": "2020-07-28 18:10:16.813000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9db3e9cc](https://gitlab.com/snowgem/bitfrost/-/commit/9db3e9ccfd60ad9997395370a3a33ccaa85faa03): adding force login to swap - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
