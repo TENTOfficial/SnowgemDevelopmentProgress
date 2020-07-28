@@ -12348,5 +12348,15 @@
       "description": "[7bd13ed1](https://gitlab.com/snowgem/snowpay-api/-/commit/7bd13ed1a80d6e3a5b81c57bf5d7271e946f9eac): #64 - update gitlab ci - Kamil Wojciechowski\n\n[131fec97](https://gitlab.com/snowgem/snowpay-api/-/commit/131fec977f9a16e45982767c1015ac11740ce187): #64 - updated docker images - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/008b413ab5ff30e43d54f890766a8fab68318e77...a1befd449474d7039d59d12c3fd6f09cdb385257))",
+    "created_at": "2020-07-28 12:27:23.249000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a1befd44](https://gitlab.com/snowgem/bitfrost/-/commit/a1befd449474d7039d59d12c3fd6f09cdb385257): backup page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
