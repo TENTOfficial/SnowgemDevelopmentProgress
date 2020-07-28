@@ -12418,5 +12418,15 @@
       "description": "[9db3e9cc](https://gitlab.com/snowgem/bitfrost/-/commit/9db3e9ccfd60ad9997395370a3a33ccaa85faa03): adding force login to swap - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9db3e9ccfd60ad9997395370a3a33ccaa85faa03...c815cf8eafa3bf941ee5234d536a0294c34b5baf))",
+    "created_at": "2020-07-28 18:20:42.619000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c815cf8e](https://gitlab.com/snowgem/bitfrost/-/commit/c815cf8eafa3bf941ee5234d536a0294c34b5baf): force login update - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
