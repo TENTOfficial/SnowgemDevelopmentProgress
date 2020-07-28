@@ -12468,5 +12468,15 @@
       "description": "[257059be](https://gitlab.com/snowgem/freyja/-/commit/257059beecee3052b280111b9538cd684c831bb2): initial commit - testing required - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [double\\_swaps](https://gitlab.com/snowgem/snowpay-api/commits/double_swaps) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/eb129747d45bcb5085272255a85ae0866dd1d221...45b21f99a33dfc4693c134fb48ca8a94b7e3aaa4))",
+    "created_at": "2020-07-28 21:16:08.583000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[45b21f99](https://gitlab.com/snowgem/snowpay-api/-/commit/45b21f99a33dfc4693c134fb48ca8a94b7e3aaa4): #71 - double swaps initial commit - start swap command, controller, validator - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
