@@ -12378,5 +12378,15 @@
       "description": "[cd5127b9](https://gitlab.com/snowgem/bitfrost/-/commit/cd5127b957da24fb18ad6d2203c25ea7f7081990): ROOT URL changed - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cd5127b957da24fb18ad6d2203c25ea7f7081990...7ce45ed7370ecec4fa87f9f32837b8a7ca2877e8))",
+    "created_at": "2020-07-28 12:44:45.418000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7ce45ed7](https://gitlab.com/snowgem/bitfrost/-/commit/7ce45ed7370ecec4fa87f9f32837b8a7ca2877e8): accent color update - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
