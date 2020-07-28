@@ -12388,5 +12388,15 @@
       "description": "[7ce45ed7](https://gitlab.com/snowgem/bitfrost/-/commit/7ce45ed7370ecec4fa87f9f32837b8a7ca2877e8): accent color update - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/swap\\-ws\\-web\\-worker](https://gitlab.com/snowgem/bitfrost/commits/feature/swap-ws-web-worker) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5abda3a88321d46ed4d7b36233178a8ec59dad12...3515c016ff28505e5400b50058899632263a13d8))",
+    "created_at": "2020-07-28 16:31:09.565000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3515c016](https://gitlab.com/snowgem/bitfrost/-/commit/3515c016ff28505e5400b50058899632263a13d8): update credential when changing password - Snowgem",
+      "type": "rich"
+    }
   }
 ]
