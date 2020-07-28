@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1115 commits since 20/01/2020. You can see the complete history in
+There is a total of 1116 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-07-28 08:36:38</sub> | <sub>demzet pushed to branch [release\_2020\_07\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c37e38cb0dcaa38005a687449294e9c6ffaf0f44...131fec977f9a16e45982767c1015ac11740ce187))</sub> | <sub>[7bd13ed1](https://gitlab.com/snowgem/snowpay-api/-/commit/7bd13ed1a80d6e3a5b81c57bf5d7271e946f9eac): #64 - update gitlab ci - Kamil Wojciechowski<br>[131fec97](https://gitlab.com/snowgem/snowpay-api/-/commit/131fec977f9a16e45982767c1015ac11740ce187): #64 - updated docker images - Kamil Wojciechowski</sub> |
 | <sub>2020-07-27 21:50:38</sub> | <sub>demzet pushed to branch [release\_2020\_07\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2677361e6fb642363afafb833a0048bd21e0dfd1...c37e38cb0dcaa38005a687449294e9c6ffaf0f44))</sub> | <sub>[c37e38cb](https://gitlab.com/snowgem/snowpay-api/-/commit/c37e38cb0dcaa38005a687449294e9c6ffaf0f44): #69 - fix notification endpoint routing - Kamil Wojciechowski</sub> |
 | <sub>2020-07-27 20:52:51</sub> | <sub>demzet pushed to branch [release\_2020\_07\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ae0bbda363fd9d5310872841aff7f67549c15e62...2677361e6fb642363afafb833a0048bd21e0dfd1))</sub> | <sub>[2677361e](https://gitlab.com/snowgem/snowpay-api/-/commit/2677361e6fb642363afafb833a0048bd21e0dfd1): #68 - unit test fix - Kamil Wojciechowski</sub> |
 | <sub>2020-07-27 20:29:57</sub> | <sub>demzet pushed new branch [release\_2020\_07\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1115 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-07-27 12:40:39</sub> | <sub>demzet (aphex5) opened merge request [\!11 \*Bittrex ethereum deposits refactor\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/11) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-27 12:40:34</sub> | <sub>demzet (aphex5) closed merge request [\!11 \*Bittrex ethereum deposits refactor\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/11) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-07-27 12:36:13</sub> | <sub>demzet (aphex5) opened merge request [\!11 \*Bittrex ethereum deposits refactor\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/11) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-07-27 12:33:59</sub> | <sub>demzet pushed to branch [bittrex\_ethereum\_deposits\_refactor](https://gitlab.com/snowgem/snowpay-api/commits/bittrex_ethereum_deposits_refactor) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cca5565e560dc7ba3e64d19750073c2e954ae33e...b7041b8eb00904a525583ba7b8e4b771edbaaa90))</sub> | <sub>[b7041b8e](https://gitlab.com/snowgem/snowpay-api/-/commit/b7041b8eb00904a525583ba7b8e4b771edbaaa90): #58 - unit test fix - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
