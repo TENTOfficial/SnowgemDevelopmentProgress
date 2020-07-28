@@ -12453,5 +12453,10 @@
       "description": "[2677361e](https://gitlab.com/snowgem/snowpay-api/-/commit/2677361e6fb642363afafb833a0048bd21e0dfd1): #68 - unit test fix - Kamil Wojciechowski\n\n[c37e38cb](https://gitlab.com/snowgem/snowpay-api/-/commit/c37e38cb0dcaa38005a687449294e9c6ffaf0f44): #69 - fix notification endpoint routing - Kamil Wojciechowski\n\n[7bd13ed1](https://gitlab.com/snowgem/snowpay-api/-/commit/7bd13ed1a80d6e3a5b81c57bf5d7271e946f9eac): #64 - update gitlab ci - Kamil Wojciechowski\n\n[131fec97](https://gitlab.com/snowgem/snowpay-api/-/commit/131fec977f9a16e45982767c1015ac11740ce187): #64 - updated docker images - Kamil Wojciechowski\n\n[eb129747](https://gitlab.com/snowgem/snowpay-api/-/commit/eb129747d45bcb5085272255a85ae0866dd1d221): Merge branch 'release_2020_07_27' into 'master' - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [double\\_swaps](https://gitlab.com/snowgem/snowpay-api/commits/double_swaps) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-07-28 20:22:28.742000"
   }
 ]
