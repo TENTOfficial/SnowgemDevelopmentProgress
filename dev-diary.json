@@ -12398,5 +12398,15 @@
       "description": "[3515c016](https://gitlab.com/snowgem/bitfrost/-/commit/3515c016ff28505e5400b50058899632263a13d8): update credential when changing password - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7ce45ed7370ecec4fa87f9f32837b8a7ca2877e8...457eefd37c82657e71f964c783be17e6ef96d1d2))",
+    "created_at": "2020-07-28 17:23:25.810000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9ed00dea](https://gitlab.com/snowgem/bitfrost/-/commit/9ed00dea6d47df8f3ef48ce742f079c7a4f695a2): ios btn in send page - Filip Storkan\n\n[1645eeaa](https://gitlab.com/snowgem/bitfrost/-/commit/1645eeaa42928590c3a073511431cc231ac0287d): private utilsService fix - Filip Storkan\n\n[0578f8fc](https://gitlab.com/snowgem/bitfrost/-/commit/0578f8fc437c706f462f91caa70f4ea5d5aa6f7a): select wallet receive fix - Filip Storkan\n\n[5bc13fc3](https://gitlab.com/snowgem/bitfrost/-/commit/5bc13fc3ab560cff65d983ecfddb693ede75eab5): send page utilsService fix - Filip Storkan\n\n[457eefd3](https://gitlab.com/snowgem/bitfrost/-/commit/457eefd37c82657e71f964c783be17e6ef96d1d2): change swap password page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
