@@ -12518,5 +12518,35 @@
       "description": "[3cdfc71d](https://gitlab.com/snowgem/snowpay-api/-/commit/3cdfc71d8af367a59cc34bc87e93434db533e5b1): #68 - hide unsupported swap pairs from the Api response - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/swap\\-ws\\-web\\-worker](https://gitlab.com/snowgem/bitfrost/commits/feature/swap-ws-web-worker) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3515c016ff28505e5400b50058899632263a13d8...bd5283877ad6060a7b618a56c67a6ac87e68134d))",
+    "created_at": "2020-07-29 14:51:58.971000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bd528387](https://gitlab.com/snowgem/bitfrost/-/commit/bd5283877ad6060a7b618a56c67a6ac87e68134d): correct swap history location - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1930e5b4bda21a801d5d5791f5663d05533c043f...57464c237a51c6dfafff4c1937b27591ca04fc3c))",
+    "created_at": "2020-07-29 14:53:14.340000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1b03771d](https://gitlab.com/snowgem/bitfrost/-/commit/1b03771d22864440bb86dd6c89632fc8e047eb7d): correct swap history location - Snowgem\n\n[57464c23](https://gitlab.com/snowgem/bitfrost/-/commit/57464c237a51c6dfafff4c1937b27591ca04fc3c): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/57464c237a51c6dfafff4c1937b27591ca04fc3c...a9e180940be1ef3c22be3f2edcc6c6b89eff0a1e))",
+    "created_at": "2020-07-29 14:54:24.673000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a9e18094](https://gitlab.com/snowgem/bitfrost/-/commit/a9e180940be1ef3c22be3f2edcc6c6b89eff0a1e): correct swap history data - Snowgem",
+      "type": "rich"
+    }
   }
 ]
