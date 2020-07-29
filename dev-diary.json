@@ -12488,5 +12488,15 @@
       "description": "[1f161789](https://gitlab.com/snowgem/bitfrost/-/commit/1f161789be15a3796cbe69ef981d245e646bb427): updated title - Filip Storkan\n\n[24e5101f](https://gitlab.com/snowgem/bitfrost/-/commit/24e5101f9f6c704cedd902f8b46210822a3b3ea4): login inside enter, clean credential on logout - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/131fec977f9a16e45982767c1015ac11740ce187...29560116fb070570d888e3153c1b6c9786d79722))",
+    "created_at": "2020-07-29 13:49:44.846000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[29560116](https://gitlab.com/snowgem/snowpay-api/-/commit/29560116fb070570d888e3153c1b6c9786d79722): #68 - queue name type fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
