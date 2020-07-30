@@ -12672,5 +12672,15 @@
       "description": "[58b73ef1](https://gitlab.com/snowgem/snowpay-api/-/commit/58b73ef1d2ee5f16d2e53fba46307780e938c7aa): #71 - composite swaps - saga naming changes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/58b73ef1d2ee5f16d2e53fba46307780e938c7aa...7ed721c3dd6951550abd46e207c7e6931171f82b))",
+    "created_at": "2020-07-30 21:01:07.667000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7ed721c3](https://gitlab.com/snowgem/snowpay-api/-/commit/7ed721c3dd6951550abd46e207c7e6931171f82b): #72 - new swap confirmation email - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
