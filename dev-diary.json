@@ -12652,5 +12652,15 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/insight-api-snowgem/commit/5c93c354e9f97191dfa72a52b30b9caa7ad3f29b"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c40a89266c5aa5268f4bd5c0ae7bafed6638442c...aada8ec732e727085f50fa72444c1046a1e19314))",
+    "created_at": "2020-07-30 20:21:46.166000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c81d2f99](https://gitlab.com/snowgem/bitfrost/-/commit/c81d2f999dd59f535af4cca7807a0fbcde81d2bd): do not store abi into database - Snowgem\n\n[6f07d69b](https://gitlab.com/snowgem/bitfrost/-/commit/6f07d69b1af93feb9bc364acdfae4296e48c57d8): check null for pending swap - Snowgem\n\n[c3933757](https://gitlab.com/snowgem/bitfrost/-/commit/c3933757f7729adc1b989002b2857cb7af519195): remove abi from wallet data in sql - Snowgem\n\n[19b05a05](https://gitlab.com/snowgem/bitfrost/-/commit/19b05a0586a9c3df34b9982f9f043c6f49fbffe1): get fee again if undefined - Snowgem\n\n[aada8ec7](https://gitlab.com/snowgem/bitfrost/-/commit/aada8ec732e727085f50fa72444c1046a1e19314): fix cache transaction for mobile - Snowgem",
+      "type": "rich"
+    }
   }
 ]
