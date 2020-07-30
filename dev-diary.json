@@ -12606,5 +12606,23 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/insight-ui-snowgem/commit/f5601c7c5f520c06ad2c79750dc7d68a42206e6b"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-07-30 16:49:42.062000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`341d3bc`](https://github.com/Snowgem/insight-ui-snowgem/commit/341d3bcdd3819dd06c0955ebff4e85e2c1789cb8) updated discord link to official one. - ciripel",
+      "title": "[insight-ui-snowgem:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/insight-ui-snowgem/commit/341d3bcdd3819dd06c0955ebff4e85e2c1789cb8"
+    }
   }
 ]
