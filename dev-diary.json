@@ -12578,5 +12578,15 @@
       "description": "[e8207f8d](https://gitlab.com/snowgem/snowpay-api/-/commit/e8207f8dc2ce6e4183194f52a6a8ce2e2a4247e1): #71 - composite swaps - saga naming changes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6211405698122c657c3f0d85fa876309aebb3057...eed6f331ca3b2f459f3972d9354a8688798b690b))",
+    "created_at": "2020-07-30 16:15:00.792000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[56a036cc](https://gitlab.com/snowgem/bitfrost/-/commit/56a036cc9620c622b24fe75b14f8db403639a1e9): worker update - Filip Storkan\n\n[eed6f331](https://gitlab.com/snowgem/bitfrost/-/commit/eed6f331ca3b2f459f3972d9354a8688798b690b): utilsservice in wallet page fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
