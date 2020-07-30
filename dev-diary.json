@@ -12548,5 +12548,15 @@
       "description": "[a9e18094](https://gitlab.com/snowgem/bitfrost/-/commit/a9e180940be1ef3c22be3f2edcc6c6b89eff0a1e): correct swap history data - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a9e180940be1ef3c22be3f2edcc6c6b89eff0a1e...6211405698122c657c3f0d85fa876309aebb3057))",
+    "created_at": "2020-07-30 11:00:50.324000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f8cb64ad](https://gitlab.com/snowgem/bitfrost/-/commit/f8cb64ad1a538b8e3fa999f7137838ae916f71ef): infinite scroll swap page - Filip Storkan\n\n[62114056](https://gitlab.com/snowgem/bitfrost/-/commit/6211405698122c657c3f0d85fa876309aebb3057): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
