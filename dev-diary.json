@@ -12746,5 +12746,33 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/insight-api-snowgem/compare/f6dba8101fd9...6d8b68a4b037"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/73d396f7c86a51ff908f2fb6e6ecb269c0471976...6389facf864fd1b9b1319aa17d3f37854c1056b3))",
+    "created_at": "2020-07-30 21:30:13.985000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6389facf](https://gitlab.com/snowgem/snowpay-api/-/commit/6389facf864fd1b9b1319aa17d3f37854c1056b3): #68 - unit test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-07-30 21:32:57.015000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4e031b2`](https://github.com/Snowgem/insight-api-snowgem/commit/4e031b2f147b4f68ae8c18076ec371dac61466d4) fixed pool.json - ciripel",
+      "title": "[insight-api-snowgem:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/insight-api-snowgem/commit/4e031b2f147b4f68ae8c18076ec371dac61466d4"
+    }
   }
 ]
