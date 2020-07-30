@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-07-30 21:51:53</sub> | <sub>[[insight-api-snowgem:master] 1 new commit](https://github.com/Snowgem/insight-api-snowgem/commit/3e7a56cb800832c9dba5cc488ce013a7410bb0b4)</sub> | <sub>[3e7a56c](https://github.com/Snowgem/insight-api-snowgem/commit/3e7a56cb800832c9dba5cc488ce013a7410bb0b4) fixed parsing json - ciripel</sub> |
 | <sub>2020-07-30 21:49:37</sub> | <sub>[[insight-api-snowgem:master] 1 new commit](https://github.com/Snowgem/insight-api-snowgem/commit/e6e59c241e0bef61fdc64cb6a05fd2dba3df75b9)</sub> | <sub>[e6e59c2](https://github.com/Snowgem/insight-api-snowgem/commit/e6e59c241e0bef61fdc64cb6a05fd2dba3df75b9) assigned unit to USD - ciripel</sub> |
 | <sub>2020-07-30 21:45:09</sub> | <sub>[[insight-api-snowgem:master] 1 new commit](https://github.com/Snowgem/insight-api-snowgem/commit/1ddd6b82b9a14e0fd6486057e7e05ce5ec434e0a)</sub> | <sub>[1ddd6b8](https://github.com/Snowgem/insight-api-snowgem/commit/1ddd6b82b9a14e0fd6486057e7e05ce5ec434e0a) fixed xsg/usd rate - ciripel</sub> |
 | <sub>2020-07-30 21:32:57</sub> | <sub>[[insight-api-snowgem:master] 1 new commit](https://github.com/Snowgem/insight-api-snowgem/commit/4e031b2f147b4f68ae8c18076ec371dac61466d4)</sub> | <sub>[4e031b2](https://github.com/Snowgem/insight-api-snowgem/commit/4e031b2f147b4f68ae8c18076ec371dac61466d4) fixed pool.json - ciripel</sub> |
