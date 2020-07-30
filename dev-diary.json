@@ -12634,5 +12634,23 @@
       "description": "[f29c6e8a](https://gitlab.com/snowgem/bitfrost/-/commit/f29c6e8a666378020f19c00588506838227be2fe): fix sql data - Snowgem\n\n[c40a8926](https://gitlab.com/snowgem/bitfrost/-/commit/c40a89266c5aa5268f4bd5c0ae7bafed6638442c): fix settings undefined - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-07-30 20:17:26.101000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars0.githubusercontent.com/u/34765060?v=4",
+        "name": "Snowgem",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/vdGAaTPy7Messds4i0tUo-ZtbEA2fFE1cmlFCJ_BsKM/%3Fv%3D4/https/avatars0.githubusercontent.com/u/34765060",
+        "url": "https://github.com/Snowgem"
+      },
+      "color": 7506394,
+      "description": "[`5c93c35`](https://github.com/Snowgem/insight-api-snowgem/commit/5c93c354e9f97191dfa72a52b30b9caa7ad3f29b) Update pools.json - Snowgem",
+      "title": "[insight-api-snowgem:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/insight-api-snowgem/commit/5c93c354e9f97191dfa72a52b30b9caa7ad3f29b"
+    }
   }
 ]
