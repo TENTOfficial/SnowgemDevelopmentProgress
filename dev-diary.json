@@ -12624,5 +12624,15 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/insight-ui-snowgem/commit/341d3bcdd3819dd06c0955ebff4e85e2c1789cb8"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/eed6f331ca3b2f459f3972d9354a8688798b690b...c40a89266c5aa5268f4bd5c0ae7bafed6638442c))",
+    "created_at": "2020-07-30 17:06:41.392000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f29c6e8a](https://gitlab.com/snowgem/bitfrost/-/commit/f29c6e8a666378020f19c00588506838227be2fe): fix sql data - Snowgem\n\n[c40a8926](https://gitlab.com/snowgem/bitfrost/-/commit/c40a89266c5aa5268f4bd5c0ae7bafed6638442c): fix settings undefined - Snowgem",
+      "type": "rich"
+    }
   }
 ]
