@@ -12682,5 +12682,51 @@
       "description": "[7ed721c3](https://gitlab.com/snowgem/snowpay-api/-/commit/7ed721c3dd6951550abd46e207c7e6931171f82b): #72 - new swap confirmation email - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7ed721c3dd6951550abd46e207c7e6931171f82b...73d396f7c86a51ff908f2fb6e6ecb269c0471976))",
+    "created_at": "2020-07-30 21:12:33.110000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[73d396f7](https://gitlab.com/snowgem/snowpay-api/-/commit/73d396f7c86a51ff908f2fb6e6ecb269c0471976): #68 - cors for mobile - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-07-30 21:12:44.524000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars0.githubusercontent.com/u/34765060?v=4",
+        "name": "Snowgem",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/vdGAaTPy7Messds4i0tUo-ZtbEA2fFE1cmlFCJ_BsKM/%3Fv%3D4/https/avatars0.githubusercontent.com/u/34765060",
+        "url": "https://github.com/Snowgem"
+      },
+      "color": 7506394,
+      "description": "[`64ac85c`](https://github.com/Snowgem/insight-api-snowgem/commit/64ac85c193488955048252ca6162038094059441) Speedpool update pool.json - popof1664\n[`2c4f047`](https://github.com/Snowgem/insight-api-snowgem/commit/2c4f0471612442618e62402106de49edaf98dba8) Merge branch 'master' into patch-1 - Snowgem\n[`a6cd49f`](https://github.com/Snowgem/insight-api-snowgem/commit/a6cd49f80cfe3fb1ed84541ebf11615cf0cf9549) Merge pull request #9 from popof1664/patch-1 - Snowgem",
+      "title": "[insight-api-snowgem:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/insight-api-snowgem/compare/5c93c354e9f9...a6cd49f80cfe"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-07-30 21:13:43.016000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars0.githubusercontent.com/u/34765060?v=4",
+        "name": "Snowgem",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/vdGAaTPy7Messds4i0tUo-ZtbEA2fFE1cmlFCJ_BsKM/%3Fv%3D4/https/avatars0.githubusercontent.com/u/34765060",
+        "url": "https://github.com/Snowgem"
+      },
+      "color": 7506394,
+      "description": "[`3e6a6e6`](https://github.com/Snowgem/insight-api-snowgem/commit/3e6a6e676657f94ea6659b1e5e7df33a85f9e523) Remove Redundant Equipool Listing - egyptianbman\n[`2627abd`](https://github.com/Snowgem/insight-api-snowgem/commit/2627abd6746ffd85f0d2d53f6dac331465e14550) Merge branch 'master' into patch-5 - Snowgem\n[`f6dba81`](https://github.com/Snowgem/insight-api-snowgem/commit/f6dba8101fd9ce3a69b87760ed69b4e6bf1cdede) Merge pull request #6 from egyptianbman/patch-5 - Snowgem",
+      "title": "[insight-api-snowgem:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/insight-api-snowgem/compare/a6cd49f80cfe...f6dba8101fd9"
+    }
   }
 ]
