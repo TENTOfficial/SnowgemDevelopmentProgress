@@ -12774,5 +12774,41 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/insight-api-snowgem/commit/4e031b2f147b4f68ae8c18076ec371dac61466d4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-07-30 21:45:09.425000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`1ddd6b8`](https://github.com/Snowgem/insight-api-snowgem/commit/1ddd6b82b9a14e0fd6486057e7e05ce5ec434e0a) fixed xsg/usd rate - ciripel",
+      "title": "[insight-api-snowgem:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/insight-api-snowgem/commit/1ddd6b82b9a14e0fd6486057e7e05ce5ec434e0a"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-07-30 21:49:37.490000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e6e59c2`](https://github.com/Snowgem/insight-api-snowgem/commit/e6e59c241e0bef61fdc64cb6a05fd2dba3df75b9) assigned unit to USD - ciripel",
+      "title": "[insight-api-snowgem:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/insight-api-snowgem/commit/e6e59c241e0bef61fdc64cb6a05fd2dba3df75b9"
+    }
   }
 ]
