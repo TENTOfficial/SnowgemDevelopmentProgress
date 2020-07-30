@@ -12558,5 +12558,15 @@
       "description": "[f8cb64ad](https://gitlab.com/snowgem/bitfrost/-/commit/f8cb64ad1a538b8e3fa999f7137838ae916f71ef): infinite scroll swap page - Filip Storkan\n\n[62114056](https://gitlab.com/snowgem/bitfrost/-/commit/6211405698122c657c3f0d85fa876309aebb3057): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/3cdfc71d8af367a59cc34bc87e93434db533e5b1...2a5ea4b5c304832fc0df351fe7977fcafcf79926))",
+    "created_at": "2020-07-30 13:06:53.718000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2a5ea4b5](https://gitlab.com/snowgem/snowpay-api/-/commit/2a5ea4b5c304832fc0df351fe7977fcafcf79926): #71 - composite swaps - added new saga naming convention, extended swap reports - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
