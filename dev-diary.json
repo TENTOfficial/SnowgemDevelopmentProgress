@@ -12924,5 +12924,15 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/insight-ui-snowgem/commit/d4747e611ebe18d8399f30d3e929227ffd83f882"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4d366e49a6a55e0b038db2584a54da47bc0bba15...85fd388683a6a4f894fd1261edb68b2d3d4c1ad8))",
+    "created_at": "2020-07-31 21:10:13.108000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[85fd3886](https://gitlab.com/snowgem/snowpay-api/-/commit/85fd388683a6a4f894fd1261edb68b2d3d4c1ad8): #68 - websocket auth fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
