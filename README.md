@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1165 commits since 20/01/2020. You can see the complete history in
+There is a total of 1166 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-07-31 19:58:06</sub> | <sub>[[insight-ui-snowgem:master] 1 new commit](https://github.com/Snowgem/insight-ui-snowgem/commit/d4747e611ebe18d8399f30d3e929227ffd83f882)</sub> | <sub>[d4747e6](https://github.com/Snowgem/insight-ui-snowgem/commit/d4747e611ebe18d8399f30d3e929227ffd83f882) Added hostname indentifier in the footer - ciripel</sub> |
 | <sub>2020-07-31 16:21:50</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b1cd8180e2f4100a707d2f517ae5016ffb5573e0...6ca5591e2d83d2aa4c6407fa790a75bd1e1f322f))</sub> | <sub>[6ca5591e](https://gitlab.com/snowgem/bitfrost/-/commit/6ca5591e2d83d2aa4c6407fa790a75bd1e1f322f): adding time to swap item - Filip Storkan</sub> |
 | <sub>2020-07-31 16:05:13</sub> | <sub>[[Snowgem:dev] 3 new commits](https://github.com/Snowgem/Snowgem/compare/c038510e7026^...e21286887d65)</sub> | <sub>[c038510](https://github.com/Snowgem/Snowgem/commit/c038510e7026135f6eacc7cda04b4e9c189d8484) update deprecation block - Snowgem<br>[19af199](https://github.com/Snowgem/Snowgem/commit/19af19900fffb9601d8057fe71f2c2ac42522fb0) compact wallet - Snowgem<br>[e212868](https://github.com/Snowgem/Snowgem/commit/e21286887d65e1565981d8970064e62c09152e1f) Delete & Witnesses 1. Add functionality to dele... - Snowgem</sub> |
 | <sub>2020-07-31 16:03:42</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/aada8ec732e727085f50fa72444c1046a1e19314...b1cd8180e2f4100a707d2f517ae5016ffb5573e0))</sub> | <sub>[b1cd8180](https://gitlab.com/snowgem/bitfrost/-/commit/b1cd8180e2f4100a707d2f517ae5016ffb5573e0): rocket component - Filip Storkan</sub> |
@@ -17,6 +18,5 @@ There is a total of 1165 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-07-31 08:29:46</sub> | <sub>demzet pushed to branch [release\_2020\_07\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6389facf864fd1b9b1319aa17d3f37854c1056b3...bb0c4ef2746d41210af67178d94f9536ac31cc46))</sub> | <sub>[bb0c4ef2](https://gitlab.com/snowgem/snowpay-api/-/commit/bb0c4ef2746d41210af67178d94f9536ac31cc46): #68 - update swap routes - Kamil Wojciechowski</sub> |
 | <sub>2020-07-30 21:51:53</sub> | <sub>[[insight-api-snowgem:master] 1 new commit](https://github.com/Snowgem/insight-api-snowgem/commit/3e7a56cb800832c9dba5cc488ce013a7410bb0b4)</sub> | <sub>[3e7a56c](https://github.com/Snowgem/insight-api-snowgem/commit/3e7a56cb800832c9dba5cc488ce013a7410bb0b4) fixed parsing json - ciripel</sub> |
 | <sub>2020-07-30 21:49:37</sub> | <sub>[[insight-api-snowgem:master] 1 new commit](https://github.com/Snowgem/insight-api-snowgem/commit/e6e59c241e0bef61fdc64cb6a05fd2dba3df75b9)</sub> | <sub>[e6e59c2](https://github.com/Snowgem/insight-api-snowgem/commit/e6e59c241e0bef61fdc64cb6a05fd2dba3df75b9) assigned unit to USD - ciripel</sub> |
-| <sub>2020-07-30 21:45:09</sub> | <sub>[[insight-api-snowgem:master] 1 new commit](https://github.com/Snowgem/insight-api-snowgem/commit/1ddd6b82b9a14e0fd6486057e7e05ce5ec434e0a)</sub> | <sub>[1ddd6b8](https://github.com/Snowgem/insight-api-snowgem/commit/1ddd6b82b9a14e0fd6486057e7e05ce5ec434e0a) fixed xsg/usd rate - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
