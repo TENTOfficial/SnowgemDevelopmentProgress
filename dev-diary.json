@@ -12974,5 +12974,15 @@
       "description": "[eb285219](https://gitlab.com/snowgem/snowpay-api/-/commit/eb28521922041780b0fd39e1a3a2483307b0271b): #68 - added swap status param to swap reports endpoint - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/eb28521922041780b0fd39e1a3a2483307b0271b...13898b92e2ba9222ed3710922d473628699ca9b1))",
+    "created_at": "2020-07-31 22:09:50.716000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[13898b92](https://gitlab.com/snowgem/snowpay-api/-/commit/13898b92e2ba9222ed3710922d473628699ca9b1): #68 - email filepath fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
