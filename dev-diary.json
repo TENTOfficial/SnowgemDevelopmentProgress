@@ -12984,5 +12984,23 @@
       "description": "[13898b92](https://gitlab.com/snowgem/snowpay-api/-/commit/13898b92e2ba9222ed3710922d473628699ca9b1): #68 - email filepath fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-07-31 22:23:50.500000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b5839eb`](https://github.com/Snowgem/insight-ui-snowgem/commit/b5839ebde910bca8a534e11752d4de41903f48dc) added local_data identifier file - ciripel",
+      "title": "[insight-ui-snowgem:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/insight-ui-snowgem/commit/b5839ebde910bca8a534e11752d4de41903f48dc"
+    }
   }
 ]
