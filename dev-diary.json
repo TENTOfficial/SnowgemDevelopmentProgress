@@ -12868,5 +12868,15 @@
       "description": "[4d366e49](https://gitlab.com/snowgem/snowpay-api/-/commit/4d366e49a6a55e0b038db2584a54da47bc0bba15): #68 - websocket auth change - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/aada8ec732e727085f50fa72444c1046a1e19314...b1cd8180e2f4100a707d2f517ae5016ffb5573e0))",
+    "created_at": "2020-07-31 16:03:42.540000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b1cd8180](https://gitlab.com/snowgem/bitfrost/-/commit/b1cd8180e2f4100a707d2f517ae5016ffb5573e0): rocket component - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
