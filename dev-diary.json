@@ -12838,5 +12838,15 @@
       "description": "[bb0c4ef2](https://gitlab.com/snowgem/snowpay-api/-/commit/bb0c4ef2746d41210af67178d94f9536ac31cc46): #68 - update swap routes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bb0c4ef2746d41210af67178d94f9536ac31cc46...f14cdb59dee0d7bdcdec50c78d87be45ee9b8d2b))",
+    "created_at": "2020-07-31 11:38:09.982000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f14cdb59](https://gitlab.com/snowgem/snowpay-api/-/commit/f14cdb59dee0d7bdcdec50c78d87be45ee9b8d2b): #68 - update swap routes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
