@@ -13002,5 +13002,23 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/insight-ui-snowgem/commit/b5839ebde910bca8a534e11752d4de41903f48dc"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-07-31 22:44:12.010000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`97dc214`](https://github.com/Snowgem/insight-ui-snowgem/commit/97dc214ded8add03121caa5bb235ce2274f46278) corrected local_data - ciripel",
+      "title": "[insight-ui-snowgem:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/insight-ui-snowgem/commit/97dc214ded8add03121caa5bb235ce2274f46278"
+    }
   }
 ]
