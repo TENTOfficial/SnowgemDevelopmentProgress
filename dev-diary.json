@@ -13020,5 +13020,15 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/insight-ui-snowgem/commit/97dc214ded8add03121caa5bb235ce2274f46278"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/974dc63099577f69a2ca879dafcdd87d12b959f2...c305a158c6b591b75b86ee09ffc632a89934bfdc))",
+    "created_at": "2020-08-01 10:08:45.803000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c305a158](https://gitlab.com/snowgem/bitfrost/-/commit/c305a158c6b591b75b86ee09ffc632a89934bfdc): listing swaps - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
