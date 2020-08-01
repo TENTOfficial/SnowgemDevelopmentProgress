@@ -13030,5 +13030,15 @@
       "description": "[c305a158](https://gitlab.com/snowgem/bitfrost/-/commit/c305a158c6b591b75b86ee09ffc632a89934bfdc): listing swaps - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c305a158c6b591b75b86ee09ffc632a89934bfdc...423ead0b11c0ad1537dc6894c2a03bb469e6fb3f))",
+    "created_at": "2020-08-01 11:35:31.916000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[423ead0b](https://gitlab.com/snowgem/bitfrost/-/commit/423ead0b11c0ad1537dc6894c2a03bb469e6fb3f): send address page crash after create tx error fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
