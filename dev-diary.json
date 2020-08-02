@@ -13143,5 +13143,15 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/Snowgem/compare/e21286887d65...7b0c80edd352"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/16802eca554d3589fbc3d0ca659192d66b202f46...e0ab4e191598263af23229512a9ec543754566ae))",
+    "created_at": "2020-08-02 16:45:56.789000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[24924667](https://gitlab.com/snowgem/bitfrost/-/commit/249246673c3c6d6b2b287ce58829ac73bd680911): fix swap credential for mobile - Snowgem\n\n[e0ab4e19](https://gitlab.com/snowgem/bitfrost/-/commit/e0ab4e191598263af23229512a9ec543754566ae): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
+      "type": "rich"
+    }
   }
 ]
