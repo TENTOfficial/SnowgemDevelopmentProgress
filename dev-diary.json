@@ -13163,5 +13163,15 @@
       "description": "[ccf01be7](https://gitlab.com/snowgem/bitfrost/-/commit/ccf01be7f9b42e4302543fd7ebd8b122dd9d53d9): fix saving credential - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ccf01be7f9b42e4302543fd7ebd8b122dd9d53d9...ed2f7bc8e50ea30c6c2a8554e0afd25e9424e3b7))",
+    "created_at": "2020-08-02 18:29:41.381000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ed2f7bc8](https://gitlab.com/snowgem/bitfrost/-/commit/ed2f7bc8e50ea30c6c2a8554e0afd25e9424e3b7): fix saving credential into database again - Snowgem",
+      "type": "rich"
+    }
   }
 ]
