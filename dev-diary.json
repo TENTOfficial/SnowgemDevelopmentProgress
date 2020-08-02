@@ -13050,5 +13050,15 @@
       "description": "[d53fbd55](https://gitlab.com/snowgem/bitfrost/-/commit/d53fbd55fa6f5c145e3e71f6ddbd46b332b4212c): canceling penidng swap - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/13898b92e2ba9222ed3710922d473628699ca9b1...a21960ab3e9d4b39555a75c01e4dc6927c5b2108))",
+    "created_at": "2020-08-02 08:45:33.877000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a21960ab](https://gitlab.com/snowgem/snowpay-api/-/commit/a21960ab3e9d4b39555a75c01e4dc6927c5b2108): #68 - email filepath fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
