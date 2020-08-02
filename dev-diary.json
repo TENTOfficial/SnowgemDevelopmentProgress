@@ -13153,5 +13153,15 @@
       "description": "[24924667](https://gitlab.com/snowgem/bitfrost/-/commit/249246673c3c6d6b2b287ce58829ac73bd680911): fix swap credential for mobile - Snowgem\n\n[e0ab4e19](https://gitlab.com/snowgem/bitfrost/-/commit/e0ab4e191598263af23229512a9ec543754566ae): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e0ab4e191598263af23229512a9ec543754566ae...ccf01be7f9b42e4302543fd7ebd8b122dd9d53d9))",
+    "created_at": "2020-08-02 17:48:55.356000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ccf01be7](https://gitlab.com/snowgem/bitfrost/-/commit/ccf01be7f9b42e4302543fd7ebd8b122dd9d53d9): fix saving credential - Snowgem",
+      "type": "rich"
+    }
   }
 ]
