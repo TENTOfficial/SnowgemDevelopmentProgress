@@ -13193,5 +13193,15 @@
       "description": "[acbad1c4](https://gitlab.com/snowgem/bitfrost/-/commit/acbad1c41cd985f35466301e51e2d750d07be577): fix max button issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/acbad1c41cd985f35466301e51e2d750d07be577...8ad2a99de5144c93e73a794b0ef1e447001eafa7))",
+    "created_at": "2020-08-02 20:36:34.255000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[419106c9](https://gitlab.com/snowgem/bitfrost/-/commit/419106c9038c6f965507f20ef3b98ee07d9e0b41): forgot password - Filip Storkan\n\n[8ad2a99d](https://gitlab.com/snowgem/bitfrost/-/commit/8ad2a99de5144c93e73a794b0ef1e447001eafa7): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
