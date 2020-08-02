@@ -13100,5 +13100,15 @@
       "description": "[c225668e](https://gitlab.com/snowgem/snowpay-api/-/commit/c225668e3dd872a2303bf79d37cbfdc88e4c392d): #68 - minimum order fix, order timeouts can be set per exchange - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c225668e3dd872a2303bf79d37cbfdc88e4c392d...3ffe35fecbdfef6fd312d9bd52eb6222e1082c5f))",
+    "created_at": "2020-08-02 12:22:08.634000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3ffe35fe](https://gitlab.com/snowgem/snowpay-api/-/commit/3ffe35fecbdfef6fd312d9bd52eb6222e1082c5f): #68 - unit test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
