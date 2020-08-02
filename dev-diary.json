@@ -13125,5 +13125,23 @@
     "author": "GitLab",
     "content": "demzet (aphex5) merged merge request [\\!13 \\*Release 2020 07 27\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/13) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-08-02 13:02:31.988000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-02 15:23:46.972000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars0.githubusercontent.com/u/34765060?v=4",
+        "name": "Snowgem",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/vdGAaTPy7Messds4i0tUo-ZtbEA2fFE1cmlFCJ_BsKM/%3Fv%3D4/https/avatars0.githubusercontent.com/u/34765060",
+        "url": "https://github.com/Snowgem"
+      },
+      "color": 7506394,
+      "description": "[`4a40a66`](https://github.com/Snowgem/Snowgem/commit/4a40a66fe619b96786adf980c08b2214925cd8cd) fix build - Snowgem\n[`7b0c80e`](https://github.com/Snowgem/Snowgem/commit/7b0c80edd352afe9383ac5a5bca1627978c22ba5) build successfully - Snowgem",
+      "title": "[Snowgem:dev] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/Snowgem/compare/e21286887d65...7b0c80edd352"
+    }
   }
 ]
