@@ -13551,5 +13551,25 @@
       "description": "[9094db03](https://gitlab.com/snowgem/snowpay-api/-/commit/9094db03a8870808025754213358d3199addcb85): #68 - swap statuses reorganization - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/69699e2c73d4a82990af977ba4072e211fa30ad8...02a0b69b48209872c222131b175a1126ce4d0394))",
+    "created_at": "2020-08-03 16:48:44.795000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7f4e327f](https://gitlab.com/snowgem/bitfrost/-/commit/7f4e327f8b25021770213f5a7394d473458978d4): fix change swap password - Snowgem\n\n[dfb5340b](https://gitlab.com/snowgem/bitfrost/-/commit/dfb5340b6c5cdf16d59e3a4e0db05713f8c44e67): fix chart default period - Snowgem\n\n[02a0b69b](https://gitlab.com/snowgem/bitfrost/-/commit/02a0b69b48209872c222131b175a1126ce4d0394): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/02a0b69b48209872c222131b175a1126ce4d0394...4cad954c02227464df3a2ed4f0f7db4fddffa4f2))",
+    "created_at": "2020-08-03 16:49:48.986000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fcd84726](https://gitlab.com/snowgem/bitfrost/-/commit/fcd84726068a80b51d9a0ffbc610b979627841f4): adding sourceInitialAmount to single swap - Filip Storkan\n\n[4cad954c](https://gitlab.com/snowgem/bitfrost/-/commit/4cad954c02227464df3a2ed4f0f7db4fddffa4f2): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
