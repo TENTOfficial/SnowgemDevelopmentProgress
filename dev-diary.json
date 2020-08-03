@@ -13453,5 +13453,15 @@
       "description": "[f802884a](https://gitlab.com/snowgem/bitfrost/-/commit/f802884a6facbaa20cf126caecbf0cd1252dee9e): UserAgreedAmount - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f802884a6facbaa20cf126caecbf0cd1252dee9e...e175111890e4130e38d25aaecfff7d70d801282a))",
+    "created_at": "2020-08-03 15:32:40.203000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e1751118](https://gitlab.com/snowgem/bitfrost/-/commit/e175111890e4130e38d25aaecfff7d70d801282a): adding userAgreedAmount to single swap call - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
