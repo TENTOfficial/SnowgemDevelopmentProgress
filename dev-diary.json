@@ -13483,5 +13483,15 @@
       "description": "[f4e3c0f1](https://gitlab.com/snowgem/bitfrost/-/commit/f4e3c0f18e2ce572d882a428cc913adc1bdfb035): adding rows in swap detail modal - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/798f7c0c396a9681cc3f40e9ae6a1433a4fe4a07...06a348062820ed87de9dd8289d2967d60a98b787))",
+    "created_at": "2020-08-03 16:07:26.558000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c95ecffd](https://gitlab.com/snowgem/snowpay-api/-/commit/c95ecffdfabeccb3bcb3889e25fe568431867fc2): #68 - ui app improvements - Kamil Wojciechowski\n\n[06a34806](https://gitlab.com/snowgem/snowpay-api/-/commit/06a348062820ed87de9dd8289d2967d60a98b787): Merge branch 'release_2020_07_27' of https://gitlab.com/snowgem/snowpay-api into release_2020_07_27 - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
