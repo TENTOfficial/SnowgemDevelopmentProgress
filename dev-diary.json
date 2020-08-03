@@ -13666,5 +13666,15 @@
     "author": "GitLab",
     "content": "Txid pushed new tag [0\\.0\\.7\\_android](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.7_android) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-08-03 21:09:59.547000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f7698fc3b6277ed9f56a5519ab0b3e1e35d64c77...cd14d4f1803f79470cd6d509890dce7219359a9d))",
+    "created_at": "2020-08-03 21:34:56.722000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cd14d4f1](https://gitlab.com/snowgem/bitfrost/-/commit/cd14d4f1803f79470cd6d509890dce7219359a9d): increase version to 0.0.7 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
