@@ -13373,5 +13373,15 @@
       "description": "[f1987c48](https://gitlab.com/snowgem/bitfrost/-/commit/f1987c48c9e47109f2b96a2b1b31744b54b151bc): websockets illegal invokation - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f1987c48c9e47109f2b96a2b1b31744b54b151bc...9c5fb2d6edd37b574176a507ffb3554ec575e083))",
+    "created_at": "2020-08-03 12:48:29.518000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9c5fb2d6](https://gitlab.com/snowgem/bitfrost/-/commit/9c5fb2d6edd37b574176a507ffb3554ec575e083): sagaid started with the source currency prefix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
