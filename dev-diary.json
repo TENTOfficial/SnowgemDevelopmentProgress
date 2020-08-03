@@ -13641,5 +13641,15 @@
       "description": "[57668595](https://gitlab.com/snowgem/bitfrost/-/commit/57668595878baaea351be53a52f99a8b62ff8437): load wallet history from sql - Snowgem\n\n[bbfc1024](https://gitlab.com/snowgem/bitfrost/-/commit/bbfc10242e27a305683180987375d355971cd0dd): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bbfc10242e27a305683180987375d355971cd0dd...4dea618eaa95eb969b4a6e0f3db236de0b5ed990))",
+    "created_at": "2020-08-03 19:41:59.381000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4dea618e](https://gitlab.com/snowgem/bitfrost/-/commit/4dea618eaa95eb969b4a6e0f3db236de0b5ed990): fix load wallet history name - Snowgem",
+      "type": "rich"
+    }
   }
 ]
