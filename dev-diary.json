@@ -13463,5 +13463,25 @@
       "description": "[e1751118](https://gitlab.com/snowgem/bitfrost/-/commit/e175111890e4130e38d25aaecfff7d70d801282a): adding userAgreedAmount to single swap call - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e175111890e4130e38d25aaecfff7d70d801282a...5d989d2ea6e585532f81c51cb594dfb02b340d95))",
+    "created_at": "2020-08-03 15:41:49.351000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5d989d2e](https://gitlab.com/snowgem/bitfrost/-/commit/5d989d2ea6e585532f81c51cb594dfb02b340d95): removing amount from modal and renames - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5d989d2ea6e585532f81c51cb594dfb02b340d95...f4e3c0f18e2ce572d882a428cc913adc1bdfb035))",
+    "created_at": "2020-08-03 15:44:50.867000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f4e3c0f1](https://gitlab.com/snowgem/bitfrost/-/commit/f4e3c0f18e2ce572d882a428cc913adc1bdfb035): adding rows in swap detail modal - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
