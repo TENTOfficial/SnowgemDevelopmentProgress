@@ -13353,5 +13353,15 @@
       "description": "[1fe4ae71](https://gitlab.com/snowgem/bitfrost/-/commit/1fe4ae71e3cf56a5ba5b9c1f6699a3b52796f366): fix refresh interval/graph display in settings - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1fe4ae71e3cf56a5ba5b9c1f6699a3b52796f366...2952687150da6d0eab6da428a3eeeb29a69fefdc))",
+    "created_at": "2020-08-03 11:55:06.478000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[29526871](https://gitlab.com/snowgem/bitfrost/-/commit/2952687150da6d0eab6da428a3eeeb29a69fefdc): Swap overview page fix, backup text fix. - DaX",
+      "type": "rich"
+    }
   }
 ]
