@@ -13303,5 +13303,25 @@
       "description": "[db2d3e75](https://gitlab.com/snowgem/snowpay-api/-/commit/db2d3e754989fd4febed2cbcd04457c28d8d6333): #68 - added missing amount information - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f050dc23733b20383806cf350de08186700db4f4...2cbb145351f3bd7288398bc8d286877307807914))",
+    "created_at": "2020-08-03 10:36:33.737000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2cbb1453](https://gitlab.com/snowgem/bitfrost/-/commit/2cbb145351f3bd7288398bc8d286877307807914): fix display traction when new tx is arrived - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/db2d3e754989fd4febed2cbcd04457c28d8d6333...9fc5fcfdd06cf93feadda48e6c2a66e5e2528cb0))",
+    "created_at": "2020-08-03 10:38:56.640000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9fc5fcfd](https://gitlab.com/snowgem/snowpay-api/-/commit/9fc5fcfdd06cf93feadda48e6c2a66e5e2528cb0): #68 - unit test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
