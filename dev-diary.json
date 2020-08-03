@@ -13493,5 +13493,25 @@
       "description": "[c95ecffd](https://gitlab.com/snowgem/snowpay-api/-/commit/c95ecffdfabeccb3bcb3889e25fe568431867fc2): #68 - ui app improvements - Kamil Wojciechowski\n\n[06a34806](https://gitlab.com/snowgem/snowpay-api/-/commit/06a348062820ed87de9dd8289d2967d60a98b787): Merge branch 'release_2020_07_27' of https://gitlab.com/snowgem/snowpay-api into release_2020_07_27 - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/06a348062820ed87de9dd8289d2967d60a98b787...42fc34606e351ccdaa5c469590a4d40f115a2073))",
+    "created_at": "2020-08-03 16:11:39.770000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[42fc3460](https://gitlab.com/snowgem/snowpay-api/-/commit/42fc34606e351ccdaa5c469590a4d40f115a2073): #68 - unit test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f4e3c0f18e2ce572d882a428cc913adc1bdfb035...57ceddcd9517c0b903469eb519022caef024304a))",
+    "created_at": "2020-08-03 16:13:46.265000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[57ceddcd](https://gitlab.com/snowgem/bitfrost/-/commit/57ceddcd9517c0b903469eb519022caef024304a): push penidng swaps update - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
