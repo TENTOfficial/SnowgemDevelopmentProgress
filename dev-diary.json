@@ -13363,5 +13363,15 @@
       "description": "[29526871](https://gitlab.com/snowgem/bitfrost/-/commit/2952687150da6d0eab6da428a3eeeb29a69fefdc): Swap overview page fix, backup text fix. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2952687150da6d0eab6da428a3eeeb29a69fefdc...f1987c48c9e47109f2b96a2b1b31744b54b151bc))",
+    "created_at": "2020-08-03 12:34:43.924000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f1987c48](https://gitlab.com/snowgem/bitfrost/-/commit/f1987c48c9e47109f2b96a2b1b31744b54b151bc): websockets illegal invokation - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
