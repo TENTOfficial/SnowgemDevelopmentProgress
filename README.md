@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1193 commits since 20/01/2020. You can see the complete history in
+There is a total of 1194 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-03 07:44:07</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8ad2a99de5144c93e73a794b0ef1e447001eafa7...fad32b9115c67c2f52ce5d0ccff344b69f9316b3))</sub> | <sub>[1b60e771](https://gitlab.com/snowgem/bitfrost/-/commit/1b60e7712b47712e706f8896330dc5b694fd63cd): update new credential after changing login password - Snowgem<br>[fad32b91](https://gitlab.com/snowgem/bitfrost/-/commit/fad32b9115c67c2f52ce5d0ccff344b69f9316b3): fix conflict - Snowgem</sub> |
 | <sub>2020-08-02 20:36:34</sub> | <sub>Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/acbad1c41cd985f35466301e51e2d750d07be577...8ad2a99de5144c93e73a794b0ef1e447001eafa7))</sub> | <sub>[419106c9](https://gitlab.com/snowgem/bitfrost/-/commit/419106c9038c6f965507f20ef3b98ee07d9e0b41): forgot password - Filip Storkan<br>[8ad2a99d](https://gitlab.com/snowgem/bitfrost/-/commit/8ad2a99de5144c93e73a794b0ef1e447001eafa7): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan</sub> |
 | <sub>2020-08-02 19:02:38</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/034b1c5a8c0fdb2cea4184dadb61ed385ecd62b5...acbad1c41cd985f35466301e51e2d750d07be577))</sub> | <sub>[acbad1c4](https://gitlab.com/snowgem/bitfrost/-/commit/acbad1c41cd985f35466301e51e2d750d07be577): fix max button issue - Snowgem</sub> |
 | <sub>2020-08-02 18:53:36</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ed2f7bc8e50ea30c6c2a8554e0afd25e9424e3b7...034b1c5a8c0fdb2cea4184dadb61ed385ecd62b5))</sub> | <sub>[034b1c5a](https://gitlab.com/snowgem/bitfrost/-/commit/034b1c5a8c0fdb2cea4184dadb61ed385ecd62b5): encrypt remember data - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 1193 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-02 15:23:46</sub> | <sub>[[Snowgem:dev] 2 new commits](https://github.com/Snowgem/Snowgem/compare/e21286887d65...7b0c80edd352)</sub> | <sub>[4a40a66](https://github.com/Snowgem/Snowgem/commit/4a40a66fe619b96786adf980c08b2214925cd8cd) fix build - Snowgem<br>[7b0c80e](https://github.com/Snowgem/Snowgem/commit/7b0c80edd352afe9383ac5a5bca1627978c22ba5) build successfully - Snowgem</sub> |
 | <sub>2020-08-02 13:02:31</sub> | <sub>demzet (aphex5) merged merge request [\!13 \*Release 2020 07 27\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/13) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-02 13:02:18</sub> | <sub>demzet (aphex5) approved merge request [\!13 \*Release 2020 07 27\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/13) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-08-02 13:02:12</sub> | <sub>demzet (aphex5) opened merge request [\!13 \*Release 2020 07 27\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/13) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

@@ -13203,5 +13203,15 @@
       "description": "[419106c9](https://gitlab.com/snowgem/bitfrost/-/commit/419106c9038c6f965507f20ef3b98ee07d9e0b41): forgot password - Filip Storkan\n\n[8ad2a99d](https://gitlab.com/snowgem/bitfrost/-/commit/8ad2a99de5144c93e73a794b0ef1e447001eafa7): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8ad2a99de5144c93e73a794b0ef1e447001eafa7...fad32b9115c67c2f52ce5d0ccff344b69f9316b3))",
+    "created_at": "2020-08-03 07:44:07.029000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1b60e771](https://gitlab.com/snowgem/bitfrost/-/commit/1b60e7712b47712e706f8896330dc5b694fd63cd): update new credential after changing login password - Snowgem\n\n[fad32b91](https://gitlab.com/snowgem/bitfrost/-/commit/fad32b9115c67c2f52ce5d0ccff344b69f9316b3): fix conflict - Snowgem",
+      "type": "rich"
+    }
   }
 ]
