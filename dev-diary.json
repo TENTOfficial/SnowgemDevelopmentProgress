@@ -13233,5 +13233,15 @@
       "description": "[b7ebdfa6](https://gitlab.com/snowgem/bitfrost/-/commit/b7ebdfa6a5c71215a1fa550595a616f95fb52f88): Fixed swap tickers on overview page. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b7ebdfa6a5c71215a1fa550595a616f95fb52f88...2e8353e8a7b7e0af1e25edf03c041ef98ee7b755))",
+    "created_at": "2020-08-03 09:27:48.373000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b35bb119](https://gitlab.com/snowgem/bitfrost/-/commit/b35bb1193beb95df4b602ae36d374b0caae7cda6): fix cache undefined - Snowgem\n\n[2e8353e8](https://gitlab.com/snowgem/bitfrost/-/commit/2e8353e8a7b7e0af1e25edf03c041ef98ee7b755): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
+      "type": "rich"
+    }
   }
 ]
