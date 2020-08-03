@@ -13443,5 +13443,15 @@
       "description": "[798f7c0c](https://gitlab.com/snowgem/snowpay-api/-/commit/798f7c0c396a9681cc3f40e9ae6a1433a4fe4a07): Fix logo. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d2d99e3aceb024765e566f110a00ffa5d7bd12ef...f802884a6facbaa20cf126caecbf0cd1252dee9e))",
+    "created_at": "2020-08-03 15:24:50.516000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f802884a](https://gitlab.com/snowgem/bitfrost/-/commit/f802884a6facbaa20cf126caecbf0cd1252dee9e): UserAgreedAmount - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
