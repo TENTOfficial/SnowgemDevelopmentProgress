@@ -13393,5 +13393,15 @@
       "description": "[bf4fb7f8](https://gitlab.com/snowgem/bitfrost/-/commit/bf4fb7f891f21de7219a7f713ff37901440329aa): searchbar 2px padding for the extra shadow - Filip Storkan\n\n[70c33103](https://gitlab.com/snowgem/bitfrost/-/commit/70c33103c0e72fb051b947cd3fa0d6ed80798e85): removing a slight opacity for searchbar - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/70c33103c0e72fb051b947cd3fa0d6ed80798e85...70353a1454112059bae3d2b17b24bf674968bc5e))",
+    "created_at": "2020-08-03 13:03:18.858000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[70353a14](https://gitlab.com/snowgem/bitfrost/-/commit/70353a1454112059bae3d2b17b24bf674968bc5e): fix refresh interval existance inside settings - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
