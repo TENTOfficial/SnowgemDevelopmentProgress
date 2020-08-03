@@ -13283,5 +13283,15 @@
       "description": "[f050dc23](https://gitlab.com/snowgem/bitfrost/-/commit/f050dc23733b20383806cf350de08186700db4f4): enable custom api url again - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/97bb0e5a7c21f328692b49052f8f807c48409fc4...6785b986cecb9d6963ac183f65e3ef631c7a7717))",
+    "created_at": "2020-08-03 10:10:11.644000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[28c38811](https://gitlab.com/snowgem/snowpay-api/-/commit/28c38811043093771447f50603caf142c1148f07): #68 - replaced btc blockexplorer with insights - Kamil Wojciechowski\n\n[6785b986](https://gitlab.com/snowgem/snowpay-api/-/commit/6785b986cecb9d6963ac183f65e3ef631c7a7717): Merge branch 'release_2020_07_27' of https://gitlab.com/snowgem/snowpay-api into release_2020_07_27 - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
