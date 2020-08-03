@@ -13223,5 +13223,15 @@
       "description": "[fe74f2ee](https://gitlab.com/snowgem/snowpay-api/-/commit/fe74f2ee63864d3ea61b2284d4f8e6d94263669b): #68 - swap reports updater fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fad32b9115c67c2f52ce5d0ccff344b69f9316b3...b7ebdfa6a5c71215a1fa550595a616f95fb52f88))",
+    "created_at": "2020-08-03 08:59:11.336000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b7ebdfa6](https://gitlab.com/snowgem/bitfrost/-/commit/b7ebdfa6a5c71215a1fa550595a616f95fb52f88): Fixed swap tickers on overview page. - DaX",
+      "type": "rich"
+    }
   }
 ]
