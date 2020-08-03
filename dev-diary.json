@@ -13661,5 +13661,10 @@
       "description": "[f7698fc3](https://gitlab.com/snowgem/bitfrost/-/commit/f7698fc3b6277ed9f56a5519ab0b3e1e35d64c77): fix new transaction is not saved to history - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new tag [0\\.0\\.7\\_android](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.7_android) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-03 21:09:59.547000"
   }
 ]
