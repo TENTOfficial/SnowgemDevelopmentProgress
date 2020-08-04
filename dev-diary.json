@@ -13716,5 +13716,25 @@
       "description": "[9c037d05](https://gitlab.com/snowgem/bitfrost/-/commit/9c037d0519cafd4b5cbee2a0af53d6a128ce0558): adding safe are to the header - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9c037d0519cafd4b5cbee2a0af53d6a128ce0558...26bfad632fb04af536112389b6c889714ff65dd0))",
+    "created_at": "2020-08-04 13:45:41.404000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[26bfad63](https://gitlab.com/snowgem/bitfrost/-/commit/26bfad632fb04af536112389b6c889714ff65dd0): offset on success pages - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/26bfad632fb04af536112389b6c889714ff65dd0...2833ac5c1194e339039855fd4dd15976b9bf5e4e))",
+    "created_at": "2020-08-04 13:48:11.896000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2833ac5c](https://gitlab.com/snowgem/bitfrost/-/commit/2833ac5c1194e339039855fd4dd15976b9bf5e4e): typo fix in register page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
