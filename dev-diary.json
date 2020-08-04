@@ -13736,5 +13736,15 @@
       "description": "[2833ac5c](https://gitlab.com/snowgem/bitfrost/-/commit/2833ac5c1194e339039855fd4dd15976b9bf5e4e): typo fix in register page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2833ac5c1194e339039855fd4dd15976b9bf5e4e...072b790ac4f8516046027ba849e193da765401f5))",
+    "created_at": "2020-08-04 14:31:16.522000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[072b790a](https://gitlab.com/snowgem/bitfrost/-/commit/072b790ac4f8516046027ba849e193da765401f5): gridify floating header due to safe area - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
