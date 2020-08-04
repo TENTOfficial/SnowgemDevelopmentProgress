@@ -13746,5 +13746,15 @@
       "description": "[072b790a](https://gitlab.com/snowgem/bitfrost/-/commit/072b790ac4f8516046027ba849e193da765401f5): gridify floating header due to safe area - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/072b790ac4f8516046027ba849e193da765401f5...dc2f4308bbdc75b883e44e141f72bd2f5cf744f2))",
+    "created_at": "2020-08-04 17:19:21.780000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[dc2f4308](https://gitlab.com/snowgem/bitfrost/-/commit/dc2f4308bbdc75b883e44e141f72bd2f5cf744f2): fix safe area issue - Snowgem",
+      "type": "rich"
+    }
   }
 ]
