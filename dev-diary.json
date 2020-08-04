@@ -13686,5 +13686,15 @@
       "description": "[323c4323](https://gitlab.com/snowgem/bitfrost/-/commit/323c43236e9fe19eec036bc0ad112d3be1cf4b6d): update about date - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/030ecf9acb0b77e26157490774c750ce1d156d70...e3cc0be015909860ec5d92f685435b09d05847a7))",
+    "created_at": "2020-08-04 10:35:11.115000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e3cc0be0](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/e3cc0be015909860ec5d92f685435b09d05847a7): updated FAQ link - fixed issue #6 - ciripel",
+      "type": "rich"
+    }
   }
 ]
