@@ -13706,5 +13706,15 @@
       "description": "[b40adbd5](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/b40adbd50981b7d530c51aaedcf867b8e2b2d860): Changed About in navbar with Help - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/323c43236e9fe19eec036bc0ad112d3be1cf4b6d...9c037d0519cafd4b5cbee2a0af53d6a128ce0558))",
+    "created_at": "2020-08-04 13:36:48.903000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9c037d05](https://gitlab.com/snowgem/bitfrost/-/commit/9c037d0519cafd4b5cbee2a0af53d6a128ce0558): adding safe are to the header - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
