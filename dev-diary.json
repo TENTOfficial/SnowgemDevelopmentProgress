@@ -13796,5 +13796,15 @@
       "description": "[3456c615](https://gitlab.com/snowgem/bitfrost/-/commit/3456c615d273d3c791d88529400ee2f9e2523e91): fix header background for ios - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3456c615d273d3c791d88529400ee2f9e2523e91...07e15b2dc77e69177d2be2701a563a9ef249a80b))",
+    "created_at": "2020-08-05 20:15:01.705000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[07e15b2d](https://gitlab.com/snowgem/bitfrost/-/commit/07e15b2dc77e69177d2be2701a563a9ef249a80b): enable graph by default - Snowgem",
+      "type": "rich"
+    }
   }
 ]
