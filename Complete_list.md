@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-06 08:42:26</sub> | <sub>demzet pushed to branch [release\_2020\_07\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9094db03a8870808025754213358d3199addcb85...ed1ba7fde7b3f4428150d1f1664eb990a045170e))</sub> | <sub>[ed1ba7fd](https://gitlab.com/snowgem/snowpay-api/-/commit/ed1ba7fde7b3f4428150d1f1664eb990a045170e): #68 - CI scripts - Kamil Wojciechowski</sub> |
 | <sub>2020-08-06 07:55:51</sub> | <sub>Txid pushed new tag [0\.0\.7a](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.7a) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-06 07:53:13</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7f50f7c912314ec670ed21f07384507f4c962266...0119a332db863e6196bff39d1a0099161db277a9))</sub> | <sub>[0119a332](https://gitlab.com/snowgem/bitfrost/-/commit/0119a332db863e6196bff39d1a0099161db277a9): change version to 0.0.7a - Snowgem</sub> |
 | <sub>2020-08-06 07:52:10</sub> | <sub>Txid removed tag 0.0.7.1 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |

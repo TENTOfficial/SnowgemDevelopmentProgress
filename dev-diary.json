@@ -13851,5 +13851,15 @@
     "author": "GitLab",
     "content": "Txid pushed new tag [0\\.0\\.7a](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.7a) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-08-06 07:55:51.546000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9094db03a8870808025754213358d3199addcb85...ed1ba7fde7b3f4428150d1f1664eb990a045170e))",
+    "created_at": "2020-08-06 08:42:26.567000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ed1ba7fd](https://gitlab.com/snowgem/snowpay-api/-/commit/ed1ba7fde7b3f4428150d1f1664eb990a045170e): #68 - CI scripts - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
