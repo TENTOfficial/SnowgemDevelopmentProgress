@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1258 commits since 20/01/2020. You can see the complete history in
+There is a total of 1259 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-06 07:55:51</sub> | <sub>Txid pushed new tag [0\.0\.7a](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.7a) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-06 07:53:13</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7f50f7c912314ec670ed21f07384507f4c962266...0119a332db863e6196bff39d1a0099161db277a9))</sub> | <sub>[0119a332](https://gitlab.com/snowgem/bitfrost/-/commit/0119a332db863e6196bff39d1a0099161db277a9): change version to 0.0.7a - Snowgem</sub> |
 | <sub>2020-08-06 07:52:10</sub> | <sub>Txid removed tag 0.0.7.1 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-06 07:41:10</sub> | <sub>Txid pushed new tag [0\.0\.7\.1](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.7.1) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1258 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-05 19:28:24</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dc2f4308bbdc75b883e44e141f72bd2f5cf744f2...3456c615d273d3c791d88529400ee2f9e2523e91))</sub> | <sub>[3456c615](https://gitlab.com/snowgem/bitfrost/-/commit/3456c615d273d3c791d88529400ee2f9e2523e91): fix header background for ios - Snowgem</sub> |
 | <sub>2020-08-05 18:46:47</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/ebe8fbc903872a222b650668609c24502c564eb6...6ae7c1f07c92c4c495715481d615159028151585))</sub> | <sub>[6ae7c1f0](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/6ae7c1f07c92c4c495715481d615159028151585): Fixed Add Peers action and corrected message - ciripel</sub> |
 | <sub>2020-08-04 22:31:18</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/9cdb1a3f26d49207987585f6ea67101f77167ee6...ebe8fbc903872a222b650668609c24502c564eb6))</sub> | <sub>[ebe8fbc9](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/ebe8fbc903872a222b650668609c24502c564eb6): Corrected reindex message - Fixed issue #3 - ciripel</sub> |
-| <sub>2020-08-04 22:12:22</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/b40adbd50981b7d530c51aaedcf867b8e2b2d860...9cdb1a3f26d49207987585f6ea67101f77167ee6))</sub> | <sub>[9cdb1a3f](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/9cdb1a3f26d49207987585f6ea67101f77167ee6): Corrected discord link - issue #5 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

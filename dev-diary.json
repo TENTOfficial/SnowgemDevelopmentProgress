@@ -13846,5 +13846,10 @@
       "description": "[0119a332](https://gitlab.com/snowgem/bitfrost/-/commit/0119a332db863e6196bff39d1a0099161db277a9): change version to 0.0.7a - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new tag [0\\.0\\.7a](https://gitlab.com/snowgem/bitfrost/-/tags/0.0.7a) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-06 07:55:51.546000"
   }
 ]
