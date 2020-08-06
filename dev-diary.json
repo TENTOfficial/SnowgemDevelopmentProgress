@@ -13910,5 +13910,15 @@
       "color": 3359829,
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9094db03a8870808025754213358d3199addcb85...ac57105268377ef1a864ebbb5c6f72c0fb535053))",
+    "created_at": "2020-08-06 10:22:38.004000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ac571052](https://gitlab.com/snowgem/snowpay-api/-/commit/ac57105268377ef1a864ebbb5c6f72c0fb535053): #68 - CI - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
