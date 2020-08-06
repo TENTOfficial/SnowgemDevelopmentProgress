@@ -14110,5 +14110,10 @@
       "description": "[32bb3973](https://gitlab.com/snowgem/snowpay-api/-/commit/32bb3973e15144460317d5f03f39a0b2b6e2897b): CI - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [v0\\.0\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-06 17:34:22.396000"
   }
 ]
