@@ -14239,5 +14239,15 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/Snowgem/commit/db64ecba1c80f1cef0628b4eb2abcca03f829b58"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_07\\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/990f95ccf5c8399550b9db0f3df41e4b7a74c445...ecc6b77cace46b6762b1cb77398bf77b454c101d))",
+    "created_at": "2020-08-07 13:13:42.273000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ecc6b77c](https://gitlab.com/snowgem/snowpay-api/-/commit/ecc6b77cace46b6762b1cb77398bf77b454c101d): #68 - Test environment CI setup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
