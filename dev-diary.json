@@ -14335,5 +14335,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/d6e0ccacab74390f51cf1880118315169141a035"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-08 18:15:23.482000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c1974e6`](https://github.com/ciripel/Heimdall-telegram/commit/c1974e6060b6f4accc86bb677a01b6d5a243403e) updated daemon_ver to 3000458 - ciripel",
+      "title": "[Heimdall-telegram:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall-telegram/commit/c1974e6060b6f4accc86bb677a01b6d5a243403e"
+    }
   }
 ]
