@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1303 commits since 20/01/2020. You can see the complete history in
+There is a total of 1304 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-08 18:13:41</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/d6e0ccacab74390f51cf1880118315169141a035)</sub> | <sub>[d6e0cca](https://github.com/ciripel/Heimdall/commit/d6e0ccacab74390f51cf1880118315169141a035) updated daemon_ver to 3000458 - ciripel</sub> |
 | <sub>2020-08-08 13:04:04</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/1ff9ebca51d8f9e399124adb92872c608f586885)</sub> | <sub>[1ff9ebc](https://github.com/Snowgem/Snowgem/commit/1ff9ebca51d8f9e399124adb92872c608f586885) fix build mac, size_t to uint64_t - Snowgem</sub> |
 | <sub>2020-08-07 21:30:51</sub> | <sub>demzet pushed to branch [release\_2020\_07\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bdc8f2f8b6e013a3242b3d81f6c5fd753d3b82ce...84b7b4d2b20b41154786ba2562914ae2a64c7ae9))</sub> | <sub>[84b7b4d2](https://gitlab.com/snowgem/snowpay-api/-/commit/84b7b4d2b20b41154786ba2562914ae2a64c7ae9): CI - Kamil Wojciechowski</sub> |
 | <sub>2020-08-07 21:06:10</sub> | <sub>demzet pushed to branch [release\_2020\_07\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ca46d2a02abd03706226421a5d4c0d5f8c6913a1...bdc8f2f8b6e013a3242b3d81f6c5fd753d3b82ce))</sub> | <sub>[bdc8f2f8](https://gitlab.com/snowgem/snowpay-api/-/commit/bdc8f2f8b6e013a3242b3d81f6c5fd753d3b82ce): CI - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 1303 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-07 13:13:42</sub> | <sub>demzet pushed to branch [release\_2020\_07\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/990f95ccf5c8399550b9db0f3df41e4b7a74c445...ecc6b77cace46b6762b1cb77398bf77b454c101d))</sub> | <sub>[ecc6b77c](https://gitlab.com/snowgem/snowpay-api/-/commit/ecc6b77cace46b6762b1cb77398bf77b454c101d): #68 - Test environment CI setup - Kamil Wojciechowski</sub> |
 | <sub>2020-08-07 13:01:15</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/db64ecba1c80f1cef0628b4eb2abcca03f829b58)</sub> | <sub>[db64ecb](https://github.com/Snowgem/Snowgem/commit/db64ecba1c80f1cef0628b4eb2abcca03f829b58) increase version to 3000458 - Snowgem</sub> |
 | <sub>2020-08-07 13:00:59</sub> | <sub>[[Snowgem:] 1 new commit](https://github.com/Snowgem/Snowgem/commit/db64ecba1c80f1cef0628b4eb2abcca03f829b58)</sub> | <sub>[db64ecb](https://github.com/Snowgem/Snowgem/commit/db64ecba1c80f1cef0628b4eb2abcca03f829b58) increase version to 3000458 - Snowgem</sub> |
-| <sub>2020-08-07 12:38:50</sub> | <sub>demzet pushed to branch [release\_2020\_07\_27](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_07_27) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2d3908321025d284bf6dc9c6532efe2e6a5f0503...990f95ccf5c8399550b9db0f3df41e4b7a74c445))</sub> | <sub>[990f95cc](https://gitlab.com/snowgem/snowpay-api/-/commit/990f95ccf5c8399550b9db0f3df41e4b7a74c445): CI - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
