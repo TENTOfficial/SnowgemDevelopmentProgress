@@ -14353,5 +14353,30 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall-telegram/commit/c1974e6060b6f4accc86bb677a01b6d5a243403e"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!14 \\*Release 2020 07 27\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/14) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-09 12:15:31.646000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!14 \\*Release 2020 07 27\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/14) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-09 12:15:38.142000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!14 \\*Release 2020 07 27\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/14) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-09 12:15:43.863000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [double\\_swaps](https://gitlab.com/snowgem/snowpay-api/commits/double_swaps) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/45b21f99a33dfc4693c134fb48ca8a94b7e3aaa4...61c2bfeda0bf15d7ecd53e75cbf71ece7fa01cdd))",
+    "created_at": "2020-08-09 12:18:18.005000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[61c2bfed](https://gitlab.com/snowgem/snowpay-api/-/commit/61c2bfeda0bf15d7ecd53e75cbf71ece7fa01cdd): WIP - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
