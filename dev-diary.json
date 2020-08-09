@@ -14403,5 +14403,15 @@
       "description": "[9cd49a05](https://gitlab.com/snowgem/snowpay-api/-/commit/9cd49a059ef2b937f4b00c62a162ab20bc6be7fd): #78 - changed docker compose test env file - Kamil Wojciechowski\n\n[c1114623](https://gitlab.com/snowgem/snowpay-api/-/commit/c11146230f118f0e7b6341649fa24ae72aa5ca10): Merge branch 'release_2020_08_12' of https://gitlab.com/snowgem/snowpay-api into release_2020_08_12 - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c11146230f118f0e7b6341649fa24ae72aa5ca10...be0c6f38dafbbdadd050b2c9cdf2ae26bd16aa81))",
+    "created_at": "2020-08-09 15:09:22.025000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[be0c6f38](https://gitlab.com/snowgem/snowpay-api/-/commit/be0c6f38dafbbdadd050b2c9cdf2ae26bd16aa81): #78 - bittrex ci - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
