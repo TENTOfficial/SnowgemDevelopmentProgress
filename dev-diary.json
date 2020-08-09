@@ -14383,5 +14383,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-08-09 12:20:30.182000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8ab70b59544454cb2cca3f251c5903a2a2d85b60...4d09a4c52852d03d7dbe2523a7860d51ed9e98fa))",
+    "created_at": "2020-08-09 14:03:56.011000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4d09a4c5](https://gitlab.com/snowgem/snowpay-api/-/commit/4d09a4c52852d03d7dbe2523a7860d51ed9e98fa): #78 - Database migrations reorganization - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
