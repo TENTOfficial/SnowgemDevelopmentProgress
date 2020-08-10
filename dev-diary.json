@@ -14433,5 +14433,15 @@
       "description": "[14951c6c](https://gitlab.com/snowgem/snowpay-api/-/commit/14951c6cfeca94f40a3c89a3203c23b668efdcf5): #78 - logger url change - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/14951c6cfeca94f40a3c89a3203c23b668efdcf5...c2c3c437004c0a2de8d5f5f5d2b229410447b673))",
+    "created_at": "2020-08-10 10:13:17.986000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c2c3c437](https://gitlab.com/snowgem/snowpay-api/-/commit/c2c3c437004c0a2de8d5f5f5d2b229410447b673): #78 - bittrex  settings change - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
