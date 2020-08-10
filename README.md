@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1314 commits since 20/01/2020. You can see the complete history in
+There is a total of 1315 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-10 09:22:25</sub> | <sub>demzet pushed to branch [release\_2020\_08\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/be0c6f38dafbbdadd050b2c9cdf2ae26bd16aa81...14951c6cfeca94f40a3c89a3203c23b668efdcf5))</sub> | <sub>[14951c6c](https://gitlab.com/snowgem/snowpay-api/-/commit/14951c6cfeca94f40a3c89a3203c23b668efdcf5): #78 - logger url change - Kamil Wojciechowski</sub> |
 | <sub>2020-08-09 15:38:59</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0119a332db863e6196bff39d1a0099161db277a9...61d85dbd9e78770248fcc0deb52e2b2c407d3076))</sub> | <sub>[61d85dbd](https://gitlab.com/snowgem/bitfrost/-/commit/61d85dbd9e78770248fcc0deb52e2b2c407d3076): fix max btn issue for sending page #125 - Snowgem</sub> |
 | <sub>2020-08-09 15:09:22</sub> | <sub>demzet pushed to branch [release\_2020\_08\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c11146230f118f0e7b6341649fa24ae72aa5ca10...be0c6f38dafbbdadd050b2c9cdf2ae26bd16aa81))</sub> | <sub>[be0c6f38](https://gitlab.com/snowgem/snowpay-api/-/commit/be0c6f38dafbbdadd050b2c9cdf2ae26bd16aa81): #78 - bittrex ci - Kamil Wojciechowski</sub> |
 | <sub>2020-08-09 14:31:15</sub> | <sub>demzet pushed to branch [release\_2020\_08\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4d09a4c52852d03d7dbe2523a7860d51ed9e98fa...c11146230f118f0e7b6341649fa24ae72aa5ca10))</sub> | <sub>[9cd49a05](https://gitlab.com/snowgem/snowpay-api/-/commit/9cd49a059ef2b937f4b00c62a162ab20bc6be7fd): #78 - changed docker compose test env file - Kamil Wojciechowski<br>[c1114623](https://gitlab.com/snowgem/snowpay-api/-/commit/c11146230f118f0e7b6341649fa24ae72aa5ca10): Merge branch 'release_2020_08_12' of https://gitlab.com/snowgem/snowpay-api into release_2020_08_12 - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 1314 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-09 12:15:43</sub> | <sub>demzet (aphex5) merged merge request [\!14 \*Release 2020 07 27\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/14) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-09 12:15:38</sub> | <sub>demzet (aphex5) approved merge request [\!14 \*Release 2020 07 27\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/14) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-09 12:15:31</sub> | <sub>demzet (aphex5) opened merge request [\!14 \*Release 2020 07 27\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/14) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-08-08 18:15:23</sub> | <sub>[[Heimdall-telegram:master] 1 new commit](https://github.com/ciripel/Heimdall-telegram/commit/c1974e6060b6f4accc86bb677a01b6d5a243403e)</sub> | <sub>[c1974e6](https://github.com/ciripel/Heimdall-telegram/commit/c1974e6060b6f4accc86bb677a01b6d5a243403e) updated daemon_ver to 3000458 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

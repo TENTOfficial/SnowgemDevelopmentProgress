@@ -14423,5 +14423,15 @@
       "description": "[61d85dbd](https://gitlab.com/snowgem/bitfrost/-/commit/61d85dbd9e78770248fcc0deb52e2b2c407d3076): fix max btn issue for sending page #125 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/be0c6f38dafbbdadd050b2c9cdf2ae26bd16aa81...14951c6cfeca94f40a3c89a3203c23b668efdcf5))",
+    "created_at": "2020-08-10 09:22:25.447000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[14951c6c](https://gitlab.com/snowgem/snowpay-api/-/commit/14951c6cfeca94f40a3c89a3203c23b668efdcf5): #78 - logger url change - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
