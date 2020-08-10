@@ -14453,5 +14453,15 @@
       "description": "[7e3e6ef6](https://gitlab.com/snowgem/snowpay-api/-/commit/7e3e6ef65119b286eb264f56e855b78cc5ef03d9): #79 - add cancellation swap emails - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/257059beecee3052b280111b9538cd684c831bb2...ecb54fb0d3c4d5d5ce78d9215dee0dd332c6a99a))",
+    "created_at": "2020-08-10 19:15:48.671000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ecb54fb0](https://gitlab.com/snowgem/freyja/-/commit/ecb54fb0d3c4d5d5ce78d9215dee0dd332c6a99a): tests & improvements: - V",
+      "type": "rich"
+    }
   }
 ]
