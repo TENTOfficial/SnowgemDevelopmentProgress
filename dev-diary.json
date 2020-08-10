@@ -14473,5 +14473,15 @@
       "description": "[22d6ea86](https://gitlab.com/snowgem/snowpay-api/-/commit/22d6ea86342393d0a29d83411ec51aa89cfbd1dd): CI - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7e3e6ef65119b286eb264f56e855b78cc5ef03d9...55e52e20feb83713beff54c07d90062d295ca875))",
+    "created_at": "2020-08-10 21:41:11.213000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[55e52e20](https://gitlab.com/snowgem/snowpay-api/-/commit/55e52e20feb83713beff54c07d90062d295ca875): #80 - Remove unused data endpoint - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
