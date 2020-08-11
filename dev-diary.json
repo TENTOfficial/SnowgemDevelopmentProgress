@@ -14493,5 +14493,15 @@
       "description": "[c7ea46a7](https://gitlab.com/snowgem/snowpay-api/-/commit/c7ea46a78d4783be58e2b51dfabe4baff32e2a75): added DGB/BTC/ETH/USDT swap pairs - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/ecb54fb0d3c4d5d5ce78d9215dee0dd332c6a99a...3a6a043b8f09a190b599e5331cd3bd76829c3df4))",
+    "created_at": "2020-08-11 14:24:55.643000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3a6a043b](https://gitlab.com/snowgem/freyja/-/commit/3a6a043b8f09a190b599e5331cd3bd76829c3df4): allow removal node in preparation while in waiting state & print nodes in preparation - V",
+      "type": "rich"
+    }
   }
 ]
