@@ -14533,5 +14533,15 @@
       "description": "[3bf4db9c](https://gitlab.com/snowgem/freyja/-/commit/3bf4db9c652529960cc995cd966bb420ced5b9e7): updated readme - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/3bf4db9c652529960cc995cd966bb420ced5b9e7...ffa532ad8cf4406b4c83dafa7e7546f05a8a2bd4))",
+    "created_at": "2020-08-11 16:54:02.016000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ffa532ad](https://gitlab.com/snowgem/freyja/-/commit/ffa532ad8cf4406b4c83dafa7e7546f05a8a2bd4): Update readme.md - ciripel",
+      "type": "rich"
+    }
   }
 ]
