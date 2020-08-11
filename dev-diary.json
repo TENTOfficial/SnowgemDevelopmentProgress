@@ -14573,5 +14573,15 @@
       "description": "[dfcad290](https://gitlab.com/snowgem/freyja/-/commit/dfcad290d2af4967a8463cabd36440f3bbdb9fb4): fixed bootstrap id - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/dfcad290d2af4967a8463cabd36440f3bbdb9fb4...5df1f2b4e592a69fd79f13ed4f175cadada3e01c))",
+    "created_at": "2020-08-11 18:25:35.164000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5df1f2b4](https://gitlab.com/snowgem/freyja/-/commit/5df1f2b4e592a69fd79f13ed4f175cadada3e01c): Update readme.md - ciripel",
+      "type": "rich"
+    }
   }
 ]
