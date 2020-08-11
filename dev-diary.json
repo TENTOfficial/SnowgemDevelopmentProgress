@@ -14483,5 +14483,15 @@
       "description": "[55e52e20](https://gitlab.com/snowgem/snowpay-api/-/commit/55e52e20feb83713beff54c07d90062d295ca875): #80 - Remove unused data endpoint - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/55e52e20feb83713beff54c07d90062d295ca875...c7ea46a78d4783be58e2b51dfabe4baff32e2a75))",
+    "created_at": "2020-08-11 12:22:41.778000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c7ea46a7](https://gitlab.com/snowgem/snowpay-api/-/commit/c7ea46a78d4783be58e2b51dfabe4baff32e2a75): added DGB/BTC/ETH/USDT swap pairs - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
