@@ -14725,5 +14725,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/c274efb65d25f632861aa2616f5abf36f165b314"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5f007409a8b4e5beabf0744f53c05f0f800f4a47...a91b714a62f3fbf91b23f00b9d25cd7fb6c7f987))",
+    "created_at": "2020-08-12 10:23:41.018000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a91b714a](https://gitlab.com/snowgem/bitfrost/-/commit/a91b714a62f3fbf91b23f00b9d25cd7fb6c7f987): fix transaction status is not updated dgb - Snowgem",
+      "type": "rich"
+    }
   }
 ]
