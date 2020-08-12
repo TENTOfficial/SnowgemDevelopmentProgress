@@ -14765,5 +14765,20 @@
       "description": "[62138f6d](https://gitlab.com/snowgem/freyja/-/commit/62138f6d8cb4c0b7126633eeebc80d0e9cc721c0): shared zcash-params - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [hotfix/0\\.0\\.8\\_ios](https://gitlab.com/snowgem/bitfrost/commits/hotfix/0.0.8_ios) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-12 13:20:47.548000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5db9c14d0423403fec5a3f879da021c59baae60a...82827e8247da4472ec46b5553baf897060fc2192))",
+    "created_at": "2020-08-12 13:24:20.268000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[82827e82](https://gitlab.com/snowgem/snowpay-api/-/commit/82827e8247da4472ec46b5553baf897060fc2192): #82 - added swap spreads - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
