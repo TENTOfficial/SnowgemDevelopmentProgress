@@ -14631,5 +14631,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/da63635e9eb0effa7d912114bc10e5e78fb26beb"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/79b89bedd2b6838d3532b3baa10a6154cf7cc27f...7d4570d7b685fa7f88eeaeb63fbeeee39d9540ed))",
+    "created_at": "2020-08-12 08:35:54.862000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7d4570d7](https://gitlab.com/snowgem/bitfrost/-/commit/7d4570d7b685fa7f88eeaeb63fbeeee39d9540ed): support test env - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
