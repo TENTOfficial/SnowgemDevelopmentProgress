@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1336 commits since 20/01/2020. You can see the complete history in
+There is a total of 1337 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-12 08:48:30</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7d4570d7b685fa7f88eeaeb63fbeeee39d9540ed...9c86ccb6e31ac24e505baac3b6fc0e486d761220))</sub> | <sub>[9c86ccb6](https://gitlab.com/snowgem/bitfrost/-/commit/9c86ccb6e31ac24e505baac3b6fc0e486d761220): Update coin-swap.service.ts - demzet</sub> |
 | <sub>2020-08-12 08:43:21</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/b3078c74a6a2b471b8b58a60aaba05265d70ea9f)</sub> | <sub>[b3078c7](https://github.com/ciripel/Heimdall/commit/b3078c74a6a2b471b8b58a60aaba05265d70ea9f) added procent of locked coins in !coin - ciripel</sub> |
 | <sub>2020-08-12 08:35:54</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/79b89bedd2b6838d3532b3baa10a6154cf7cc27f...7d4570d7b685fa7f88eeaeb63fbeeee39d9540ed))</sub> | <sub>[7d4570d7](https://gitlab.com/snowgem/bitfrost/-/commit/7d4570d7b685fa7f88eeaeb63fbeeee39d9540ed): support test env - Kamil Wojciechowski</sub> |
 | <sub>2020-08-12 08:29:35</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/da63635e9eb0effa7d912114bc10e5e78fb26beb)</sub> | <sub>[da63635](https://github.com/ciripel/Heimdall/commit/da63635e9eb0effa7d912114bc10e5e78fb26beb) Update README.md - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1336 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-11 18:25:35</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/dfcad290d2af4967a8463cabd36440f3bbdb9fb4...5df1f2b4e592a69fd79f13ed4f175cadada3e01c))</sub> | <sub>[5df1f2b4](https://gitlab.com/snowgem/freyja/-/commit/5df1f2b4e592a69fd79f13ed4f175cadada3e01c): Update readme.md - ciripel</sub> |
 | <sub>2020-08-11 18:20:44</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/3795bf5c1f95105311fc9ebd0ce2268aff816797...dfcad290d2af4967a8463cabd36440f3bbdb9fb4))</sub> | <sub>[dfcad290](https://gitlab.com/snowgem/freyja/-/commit/dfcad290d2af4967a8463cabd36440f3bbdb9fb4): fixed bootstrap id - V</sub> |
 | <sub>2020-08-11 18:08:18</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/3f5b9f412f67be9c8d83d25f4747ab6e216fdfdf...3795bf5c1f95105311fc9ebd0ce2268aff816797))</sub> | <sub>[3795bf5c](https://gitlab.com/snowgem/freyja/-/commit/3795bf5c1f95105311fc9ebd0ce2268aff816797): fixed bootstrap check - V</sub> |
-| <sub>2020-08-11 16:55:27</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/ffa532ad8cf4406b4c83dafa7e7546f05a8a2bd4...3f5b9f412f67be9c8d83d25f4747ab6e216fdfdf))</sub> | <sub>[3f5b9f41](https://gitlab.com/snowgem/freyja/-/commit/3f5b9f412f67be9c8d83d25f4747ab6e216fdfdf): Update readme.md - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
