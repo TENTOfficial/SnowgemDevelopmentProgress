@@ -14641,5 +14641,23 @@
       "description": "[7d4570d7](https://gitlab.com/snowgem/bitfrost/-/commit/7d4570d7b685fa7f88eeaeb63fbeeee39d9540ed): support test env - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-12 08:43:21.436000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b3078c7`](https://github.com/ciripel/Heimdall/commit/b3078c74a6a2b471b8b58a60aaba05265d70ea9f) added procent of locked coins in !coin - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/b3078c74a6a2b471b8b58a60aaba05265d70ea9f"
+    }
   }
 ]
