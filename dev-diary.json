@@ -14707,5 +14707,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/6aa2785db08a89a644110d5b9318f7508c8c6409"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-12 09:57:26.254000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c274efb`](https://github.com/ciripel/Heimdall/commit/c274efb65d25f632861aa2616f5abf36f165b314) fixed temporarily attempt to ban core members! - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/c274efb65d25f632861aa2616f5abf36f165b314"
+    }
   }
 ]
