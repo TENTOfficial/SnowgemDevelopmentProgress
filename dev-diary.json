@@ -14790,5 +14790,15 @@
       "description": "[f1a44f0b](https://gitlab.com/snowgem/bitfrost/-/commit/f1a44f0bd1e43b7af14b3e0b5b20362d71210ecc): fix max btn click for sending page - Snowgem\n\n[b00b4895](https://gitlab.com/snowgem/bitfrost/-/commit/b00b48957e33803137db968206789c7627686c00): fix max button on swap page - Snowgem\n\n[76f91da5](https://gitlab.com/snowgem/bitfrost/-/commit/76f91da5ca26ed14aac5ae7192221cf57c68ed2c): fix transaction status is not updated dgb - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [hotfix/0\\.0\\.8\\_ios](https://gitlab.com/snowgem/bitfrost/commits/hotfix/0.0.8_ios) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/76f91da5ca26ed14aac5ae7192221cf57c68ed2c...ee5a5151bfcba7936217a29ab7732ec8c0fc7a4f))",
+    "created_at": "2020-08-12 14:13:14.456000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3eea851b](https://gitlab.com/snowgem/bitfrost/-/commit/3eea851bbb132cf449660ed587207f3d7ee0c805): card section alert - Filip Storkan\n\n[ee5a5151](https://gitlab.com/snowgem/bitfrost/-/commit/ee5a5151bfcba7936217a29ab7732ec8c0fc7a4f): 0.0.8 version - Snowgem",
+      "type": "rich"
+    }
   }
 ]
