@@ -14745,5 +14745,15 @@
       "description": "[5db9c14d](https://gitlab.com/snowgem/snowpay-api/-/commit/5db9c14d0423403fec5a3f879da021c59baae60a): #84 - cleanup logging - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a91b714a62f3fbf91b23f00b9d25cd7fb6c7f987...4162f5447b17ab9984cd7e36fcd67a53a647faf8))",
+    "created_at": "2020-08-12 12:48:37.374000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4162f544](https://gitlab.com/snowgem/bitfrost/-/commit/4162f5447b17ab9984cd7e36fcd67a53a647faf8): card section alert - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
