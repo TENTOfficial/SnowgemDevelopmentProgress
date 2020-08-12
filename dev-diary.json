@@ -14669,5 +14669,15 @@
       "description": "[9c86ccb6](https://gitlab.com/snowgem/bitfrost/-/commit/9c86ccb6e31ac24e505baac3b6fc0e486d761220): Update coin-swap.service.ts - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c7ea46a78d4783be58e2b51dfabe4baff32e2a75...0dc7466d6cc286641abef04309376d47ef46f36b))",
+    "created_at": "2020-08-12 09:13:58.639000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0dc7466d](https://gitlab.com/snowgem/snowpay-api/-/commit/0dc7466d6cc286641abef04309376d47ef46f36b): #85 - Improve notification sending - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
