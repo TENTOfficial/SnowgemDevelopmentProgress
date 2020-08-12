@@ -14780,5 +14780,15 @@
       "description": "[82827e82](https://gitlab.com/snowgem/snowpay-api/-/commit/82827e8247da4472ec46b5553baf897060fc2192): #82 - added swap spreads - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [hotfix/0\\.0\\.8\\_ios](https://gitlab.com/snowgem/bitfrost/commits/hotfix/0.0.8_ios) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0119a332db863e6196bff39d1a0099161db277a9...76f91da5ca26ed14aac5ae7192221cf57c68ed2c))",
+    "created_at": "2020-08-12 13:26:36.181000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f1a44f0b](https://gitlab.com/snowgem/bitfrost/-/commit/f1a44f0bd1e43b7af14b3e0b5b20362d71210ecc): fix max btn click for sending page - Snowgem\n\n[b00b4895](https://gitlab.com/snowgem/bitfrost/-/commit/b00b48957e33803137db968206789c7627686c00): fix max button on swap page - Snowgem\n\n[76f91da5](https://gitlab.com/snowgem/bitfrost/-/commit/76f91da5ca26ed14aac5ae7192221cf57c68ed2c): fix transaction status is not updated dgb - Snowgem",
+      "type": "rich"
+    }
   }
 ]
