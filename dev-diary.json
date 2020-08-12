@@ -14755,5 +14755,15 @@
       "description": "[4162f544](https://gitlab.com/snowgem/bitfrost/-/commit/4162f5447b17ab9984cd7e36fcd67a53a647faf8): card section alert - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/414d57a80cd289d3982cbc37bbd6cf152088030c...62138f6d8cb4c0b7126633eeebc80d0e9cc721c0))",
+    "created_at": "2020-08-12 13:07:58.347000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[62138f6d](https://gitlab.com/snowgem/freyja/-/commit/62138f6d8cb4c0b7126633eeebc80d0e9cc721c0): shared zcash-params - V",
+      "type": "rich"
+    }
   }
 ]
