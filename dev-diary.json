@@ -14830,5 +14830,15 @@
       "description": "[5ee3cb0a](https://gitlab.com/snowgem/bitfrost/-/commit/5ee3cb0a4dc0208c6745c99eeb13743c150a2635): fix isMax for swap - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/82827e8247da4472ec46b5553baf897060fc2192...30fbfd3ecfa9ab6bd5c8839aaa4e25d43d51be50))",
+    "created_at": "2020-08-13 12:14:35.564000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[30fbfd3e](https://gitlab.com/snowgem/snowpay-api/-/commit/30fbfd3ecfa9ab6bd5c8839aaa4e25d43d51be50): #82 - added BTC to LTC, ETH,USDT swap pairs; improved spread calculations - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
