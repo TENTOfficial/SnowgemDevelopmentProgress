@@ -14840,5 +14840,15 @@
       "description": "[30fbfd3e](https://gitlab.com/snowgem/snowpay-api/-/commit/30fbfd3ecfa9ab6bd5c8839aaa4e25d43d51be50): #82 - added BTC to LTC, ETH,USDT swap pairs; improved spread calculations - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/30fbfd3ecfa9ab6bd5c8839aaa4e25d43d51be50...0d76ca872b45d25628cb03f2926d13a08a541368))",
+    "created_at": "2020-08-13 13:26:25.953000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0d76ca87](https://gitlab.com/snowgem/snowpay-api/-/commit/0d76ca872b45d25628cb03f2926d13a08a541368): #82- added btcz btc swap pair; added eth usdt swap pair - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
