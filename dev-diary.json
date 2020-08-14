@@ -14850,5 +14850,15 @@
       "description": "[0d76ca87](https://gitlab.com/snowgem/snowpay-api/-/commit/0d76ca872b45d25628cb03f2926d13a08a541368): #82- added btcz btc swap pair; added eth usdt swap pair - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0d76ca872b45d25628cb03f2926d13a08a541368...503cdc02ce9eddb1baf8b73d4d577c914a497245))",
+    "created_at": "2020-08-14 09:57:12.555000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[503cdc02](https://gitlab.com/snowgem/snowpay-api/-/commit/503cdc02ce9eddb1baf8b73d4d577c914a497245): #86 - Adjust Bittrex USDT pairs - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
