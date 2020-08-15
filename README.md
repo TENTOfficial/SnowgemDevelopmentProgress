@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1358 commits since 20/01/2020. You can see the complete history in
+There is a total of 1359 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-15 11:21:24</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/6d532ff95e8ee20c68bd00a9f098d3ec3bea3020)</sub> | <sub>[6d532ff](https://github.com/Snowgem/Snowgem/commit/6d532ff95e8ee20c68bd00a9f098d3ec3bea3020) Update README.md - ciripel</sub> |
 | <sub>2020-08-15 11:19:07</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/e541557bfce60871c07aea536428bc645812dd08)</sub> | <sub>[e541557](https://github.com/Snowgem/Snowgem/commit/e541557bfce60871c07aea536428bc645812dd08) Update README.md - ciripel</sub> |
 | <sub>2020-08-15 10:45:35</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/abd1ab02e4621363f6a146f211d55aa33541dcf3)</sub> | <sub>[abd1ab0](https://github.com/Snowgem/Snowgem/commit/abd1ab02e4621363f6a146f211d55aa33541dcf3) Update README.md - ciripel</sub> |
 | <sub>2020-08-15 10:44:50</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/0204ade3a47692571bb65a0c0b50799065716138)</sub> | <sub>[0204ade](https://github.com/Snowgem/Snowgem/commit/0204ade3a47692571bb65a0c0b50799065716138) Update README.md - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1358 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-13 09:03:01</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b5f66bcffad3a62d993e5d6240ec628305bdc39a...5ee3cb0a4dc0208c6745c99eeb13743c150a2635))</sub> | <sub>[5ee3cb0a](https://gitlab.com/snowgem/bitfrost/-/commit/5ee3cb0a4dc0208c6745c99eeb13743c150a2635): fix isMax for swap - Snowgem</sub> |
 | <sub>2020-08-13 08:39:08</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4162f5447b17ab9984cd7e36fcd67a53a647faf8...b5f66bcffad3a62d993e5d6240ec628305bdc39a))</sub> | <sub>[42237690](https://gitlab.com/snowgem/bitfrost/-/commit/422376901ce1d83d4698f5e6ed526098ff5de7e0): fix max button on swap page - Snowgem<br>[b5f66bcf](https://gitlab.com/snowgem/bitfrost/-/commit/b5f66bcffad3a62d993e5d6240ec628305bdc39a): disable new address for token - Snowgem</sub> |
 | <sub>2020-08-12 21:22:11</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/6ae7c1f07c92c4c495715481d615159028151585...c886679cd920a5e4139f515881130bcf986d7e62))</sub> | <sub>[c886679c](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/c886679cd920a5e4139f515881130bcf986d7e62): Changed year to 2020 - ciripel</sub> |
-| <sub>2020-08-12 14:13:14</sub> | <sub>Txid pushed to branch [hotfix/0\.0\.8\_ios](https://gitlab.com/snowgem/bitfrost/commits/hotfix/0.0.8_ios) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/76f91da5ca26ed14aac5ae7192221cf57c68ed2c...ee5a5151bfcba7936217a29ab7732ec8c0fc7a4f))</sub> | <sub>[3eea851b](https://gitlab.com/snowgem/bitfrost/-/commit/3eea851bbb132cf449660ed587207f3d7ee0c805): card section alert - Filip Storkan<br>[ee5a5151](https://gitlab.com/snowgem/bitfrost/-/commit/ee5a5151bfcba7936217a29ab7732ec8c0fc7a4f): 0.0.8 version - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

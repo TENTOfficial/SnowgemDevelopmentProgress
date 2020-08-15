@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-15 11:21:24</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/6d532ff95e8ee20c68bd00a9f098d3ec3bea3020)</sub> | <sub>[6d532ff](https://github.com/Snowgem/Snowgem/commit/6d532ff95e8ee20c68bd00a9f098d3ec3bea3020) Update README.md - ciripel</sub> |
 | <sub>2020-08-15 11:19:07</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/e541557bfce60871c07aea536428bc645812dd08)</sub> | <sub>[e541557](https://github.com/Snowgem/Snowgem/commit/e541557bfce60871c07aea536428bc645812dd08) Update README.md - ciripel</sub> |
 | <sub>2020-08-15 10:45:35</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/abd1ab02e4621363f6a146f211d55aa33541dcf3)</sub> | <sub>[abd1ab0](https://github.com/Snowgem/Snowgem/commit/abd1ab02e4621363f6a146f211d55aa33541dcf3) Update README.md - ciripel</sub> |
 | <sub>2020-08-15 10:44:50</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/0204ade3a47692571bb65a0c0b50799065716138)</sub> | <sub>[0204ade](https://github.com/Snowgem/Snowgem/commit/0204ade3a47692571bb65a0c0b50799065716138) Update README.md - ciripel</sub> |
