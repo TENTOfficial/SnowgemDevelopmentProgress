@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1359 commits since 20/01/2020. You can see the complete history in
+There is a total of 1360 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-15 11:33:55</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/f0a5b8e814a0270f602d395626ae07428b5b418e)</sub> | <sub>[f0a5b8e](https://github.com/Snowgem/Snowgem/commit/f0a5b8e814a0270f602d395626ae07428b5b418e) Update README.md - ciripel</sub> |
 | <sub>2020-08-15 11:21:24</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/6d532ff95e8ee20c68bd00a9f098d3ec3bea3020)</sub> | <sub>[6d532ff](https://github.com/Snowgem/Snowgem/commit/6d532ff95e8ee20c68bd00a9f098d3ec3bea3020) Update README.md - ciripel</sub> |
 | <sub>2020-08-15 11:19:07</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/e541557bfce60871c07aea536428bc645812dd08)</sub> | <sub>[e541557](https://github.com/Snowgem/Snowgem/commit/e541557bfce60871c07aea536428bc645812dd08) Update README.md - ciripel</sub> |
 | <sub>2020-08-15 10:45:35</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/abd1ab02e4621363f6a146f211d55aa33541dcf3)</sub> | <sub>[abd1ab0](https://github.com/Snowgem/Snowgem/commit/abd1ab02e4621363f6a146f211d55aa33541dcf3) Update README.md - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1359 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-13 12:14:35</sub> | <sub>demzet pushed to branch [release\_2020\_08\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/82827e8247da4472ec46b5553baf897060fc2192...30fbfd3ecfa9ab6bd5c8839aaa4e25d43d51be50))</sub> | <sub>[30fbfd3e](https://gitlab.com/snowgem/snowpay-api/-/commit/30fbfd3ecfa9ab6bd5c8839aaa4e25d43d51be50): #82 - added BTC to LTC, ETH,USDT swap pairs; improved spread calculations - Kamil Wojciechowski</sub> |
 | <sub>2020-08-13 09:03:01</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b5f66bcffad3a62d993e5d6240ec628305bdc39a...5ee3cb0a4dc0208c6745c99eeb13743c150a2635))</sub> | <sub>[5ee3cb0a](https://gitlab.com/snowgem/bitfrost/-/commit/5ee3cb0a4dc0208c6745c99eeb13743c150a2635): fix isMax for swap - Snowgem</sub> |
 | <sub>2020-08-13 08:39:08</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4162f5447b17ab9984cd7e36fcd67a53a647faf8...b5f66bcffad3a62d993e5d6240ec628305bdc39a))</sub> | <sub>[42237690](https://gitlab.com/snowgem/bitfrost/-/commit/422376901ce1d83d4698f5e6ed526098ff5de7e0): fix max button on swap page - Snowgem<br>[b5f66bcf](https://gitlab.com/snowgem/bitfrost/-/commit/b5f66bcffad3a62d993e5d6240ec628305bdc39a): disable new address for token - Snowgem</sub> |
-| <sub>2020-08-12 21:22:11</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/6ae7c1f07c92c4c495715481d615159028151585...c886679cd920a5e4139f515881130bcf986d7e62))</sub> | <sub>[c886679c](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/c886679cd920a5e4139f515881130bcf986d7e62): Changed year to 2020 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
