@@ -15016,5 +15016,10 @@
       "description": "[cb596dae](https://gitlab.com/snowgem/bitfrost/-/commit/cb596dae0975372993924b4ff3f5f28b07d89f9f): add zero - Snowgem\n\n[01143f3a](https://gitlab.com/snowgem/bitfrost/-/commit/01143f3ab2b71cb7194eaf6eecd764dc3a2e8f08): fix check ETH fee - Snowgem\n\n[052c3b27](https://gitlab.com/snowgem/bitfrost/-/commit/052c3b27c0b35c873dd487c66e3f3de8d237ddff): balance pipe for addresses page - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [feature/0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/feature/0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-16 15:40:19.195000"
   }
 ]
