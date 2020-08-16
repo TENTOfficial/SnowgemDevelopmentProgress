@@ -15061,5 +15061,15 @@
       "description": "[fa744429](https://gitlab.com/snowgem/bitfrost/-/commit/fa7444293e5a88c85a8cd97749325834b767d334): fix #131 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3300484b9ed5abdb55cb36ffd7db9d381e62e69e...6e55e33a947e7591ec3ff8075a17c21fc9618c40))",
+    "created_at": "2020-08-16 18:55:50.654000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[efb22d6a](https://gitlab.com/snowgem/bitfrost/-/commit/efb22d6af34cdaca9b24d9db7cb0d6a69c26c287): createWallet missing arguments fix - Filip Storkan\n\n[6e55e33a](https://gitlab.com/snowgem/bitfrost/-/commit/6e55e33a947e7591ec3ff8075a17c21fc9618c40): primary wallet set to uuid - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
