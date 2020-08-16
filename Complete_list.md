@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-16 18:41:14</sub> | <sub>Txid pushed to branch [v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a20b459f49fece45395c70b734c256ebf5e0e7c4...fa7444293e5a88c85a8cd97749325834b767d334))</sub> | <sub>[fa744429](https://gitlab.com/snowgem/bitfrost/-/commit/fa7444293e5a88c85a8cd97749325834b767d334): fix #131 - Snowgem</sub> |
 | <sub>2020-08-16 17:52:59</sub> | <sub>Txid pushed new branch [v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-16 17:51:43</sub> | <sub>Txid removed branch feature/0.0.9 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-16 17:30:32</sub> | <sub>Filip Storkan pushed to branch [v0\.0\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ab3213426034d3748e311ad88b671d17e8dd08af...3300484b9ed5abdb55cb36ffd7db9d381e62e69e))</sub> | <sub>[3300484b](https://gitlab.com/snowgem/bitfrost/-/commit/3300484b9ed5abdb55cb36ffd7db9d381e62e69e): send/receive fix, primary wallet and reorder - Filip Storkan</sub> |
