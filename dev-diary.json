@@ -15111,5 +15111,23 @@
       "description": "[c21b44a6](https://gitlab.com/snowgem/bitfrost/-/commit/c21b44a6a0eba510c31a42736f41cbf24f052235): update chart currency when settings is changed - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-16 20:45:50.184000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7c67f14`](https://github.com/ciripel/Heimdall/commit/7c67f14e506e261330eec82c4abe9fce60679430) Added price in sats channel name autoupdated - ciripel\n[`acaee89`](https://github.com/ciripel/Heimdall/commit/acaee89fc2302b0d93d789fc7564bc42dbc9e318) Merge branch 'master' of https://github.com/cir... - ciripel",
+      "title": "[Heimdall:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/compare/92bd974430e7...acaee89fc230"
+    }
   }
 ]
