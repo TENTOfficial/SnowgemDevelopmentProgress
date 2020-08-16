@@ -15006,5 +15006,15 @@
       "description": "[96c7a59e](https://gitlab.com/snowgem/bitfrost/-/commit/96c7a59e9ae58c0cbff5f33e5762d88c92c7d9f9): select main eth wallet for token - Snowgem\n\n[6d515eaf](https://gitlab.com/snowgem/bitfrost/-/commit/6d515eaf10efea5086e2ce3b857ee5e81beb49d9): update package, add sum coin - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6d515eaf10efea5086e2ce3b857ee5e81beb49d9...052c3b27c0b35c873dd487c66e3f3de8d237ddff))",
+    "created_at": "2020-08-16 15:39:26.624000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cb596dae](https://gitlab.com/snowgem/bitfrost/-/commit/cb596dae0975372993924b4ff3f5f28b07d89f9f): add zero - Snowgem\n\n[01143f3a](https://gitlab.com/snowgem/bitfrost/-/commit/01143f3ab2b71cb7194eaf6eecd764dc3a2e8f08): fix check ETH fee - Snowgem\n\n[052c3b27](https://gitlab.com/snowgem/bitfrost/-/commit/052c3b27c0b35c873dd487c66e3f3de8d237ddff): balance pipe for addresses page - Snowgem",
+      "type": "rich"
+    }
   }
 ]
