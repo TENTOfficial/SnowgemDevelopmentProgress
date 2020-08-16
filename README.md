@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1366 commits since 20/01/2020. You can see the complete history in
+There is a total of 1367 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-16 16:26:20</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/052c3b27c0b35c873dd487c66e3f3de8d237ddff...a20b459f49fece45395c70b734c256ebf5e0e7c4))</sub> | <sub>[a20b459f](https://gitlab.com/snowgem/bitfrost/-/commit/a20b459f49fece45395c70b734c256ebf5e0e7c4): fix Insufficient amount check - Snowgem</sub> |
 | <sub>2020-08-16 15:40:19</sub> | <sub>Txid pushed new branch [feature/0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/feature/0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-16 15:39:26</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6d515eaf10efea5086e2ce3b857ee5e81beb49d9...052c3b27c0b35c873dd487c66e3f3de8d237ddff))</sub> | <sub>[cb596dae](https://gitlab.com/snowgem/bitfrost/-/commit/cb596dae0975372993924b4ff3f5f28b07d89f9f): add zero - Snowgem<br>[01143f3a](https://gitlab.com/snowgem/bitfrost/-/commit/01143f3ab2b71cb7194eaf6eecd764dc3a2e8f08): fix check ETH fee - Snowgem<br>[052c3b27](https://gitlab.com/snowgem/bitfrost/-/commit/052c3b27c0b35c873dd487c66e3f3de8d237ddff): balance pipe for addresses page - Snowgem</sub> |
 | <sub>2020-08-16 07:59:13</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5ee3cb0a4dc0208c6745c99eeb13743c150a2635...6d515eaf10efea5086e2ce3b857ee5e81beb49d9))</sub> | <sub>[96c7a59e](https://gitlab.com/snowgem/bitfrost/-/commit/96c7a59e9ae58c0cbff5f33e5762d88c92c7d9f9): select main eth wallet for token - Snowgem<br>[6d515eaf](https://gitlab.com/snowgem/bitfrost/-/commit/6d515eaf10efea5086e2ce3b857ee5e81beb49d9): update package, add sum coin - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 1366 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-15 11:33:55</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/f0a5b8e814a0270f602d395626ae07428b5b418e)</sub> | <sub>[f0a5b8e](https://github.com/Snowgem/Snowgem/commit/f0a5b8e814a0270f602d395626ae07428b5b418e) Update README.md - ciripel</sub> |
 | <sub>2020-08-15 11:21:24</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/6d532ff95e8ee20c68bd00a9f098d3ec3bea3020)</sub> | <sub>[6d532ff](https://github.com/Snowgem/Snowgem/commit/6d532ff95e8ee20c68bd00a9f098d3ec3bea3020) Update README.md - ciripel</sub> |
 | <sub>2020-08-15 11:19:07</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/e541557bfce60871c07aea536428bc645812dd08)</sub> | <sub>[e541557](https://github.com/Snowgem/Snowgem/commit/e541557bfce60871c07aea536428bc645812dd08) Update README.md - ciripel</sub> |
-| <sub>2020-08-15 10:45:35</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/abd1ab02e4621363f6a146f211d55aa33541dcf3)</sub> | <sub>[abd1ab0](https://github.com/Snowgem/Snowgem/commit/abd1ab02e4621363f6a146f211d55aa33541dcf3) Update README.md - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
