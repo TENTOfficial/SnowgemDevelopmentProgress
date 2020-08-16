@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1368 commits since 20/01/2020. You can see the complete history in
+There is a total of 1370 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-16 17:52:59</sub> | <sub>Txid pushed new branch [v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-08-16 17:51:43</sub> | <sub>Txid removed branch feature/0.0.9 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-16 17:30:32</sub> | <sub>Filip Storkan pushed to branch [v0\.0\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ab3213426034d3748e311ad88b671d17e8dd08af...3300484b9ed5abdb55cb36ffd7db9d381e62e69e))</sub> | <sub>[3300484b](https://gitlab.com/snowgem/bitfrost/-/commit/3300484b9ed5abdb55cb36ffd7db9d381e62e69e): send/receive fix, primary wallet and reorder - Filip Storkan</sub> |
 | <sub>2020-08-16 16:26:20</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/052c3b27c0b35c873dd487c66e3f3de8d237ddff...a20b459f49fece45395c70b734c256ebf5e0e7c4))</sub> | <sub>[a20b459f](https://gitlab.com/snowgem/bitfrost/-/commit/a20b459f49fece45395c70b734c256ebf5e0e7c4): fix Insufficient amount check - Snowgem</sub> |
 | <sub>2020-08-16 15:40:19</sub> | <sub>Txid pushed new branch [feature/0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/feature/0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -16,7 +18,5 @@ There is a total of 1368 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-15 19:20:28</sub> | <sub>Filip Storkan pushed to branch [v0\.0\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/54313ecb5155bbf16430c527e03ee41036513ed2...ab3213426034d3748e311ad88b671d17e8dd08af))</sub> | <sub>[ec0f8fbc](https://gitlab.com/snowgem/bitfrost/-/commit/ec0f8fbc27d31f709f4ba6cba23188b43689880e): settings refactor - Filip Storkan<br>[da35eb52](https://gitlab.com/snowgem/bitfrost/-/commit/da35eb52c9b655ae8b207a3bcf7caef08ccfba30): Add wallet, theme refactor - Filip Storkan<br>[ab321342](https://gitlab.com/snowgem/bitfrost/-/commit/ab3213426034d3748e311ad88b671d17e8dd08af): custom lomg press, refactor - Filip Storkan</sub> |
 | <sub>2020-08-15 15:44:16</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/92bd974430e789d998387a2cce1a5eea5eff9cc4)</sub> | <sub>[92bd974](https://github.com/ciripel/Heimdall/commit/92bd974430e789d998387a2cce1a5eea5eff9cc4) Added badges - ciripel</sub> |
 | <sub>2020-08-15 15:26:20</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/76e5cafbaf860ca8657b0ff8f5a804fb25f234a1)</sub> | <sub>[76e5caf](https://github.com/ciripel/Heimdall/commit/76e5cafbaf860ca8657b0ff8f5a804fb25f234a1) Update README.md - ciripel</sub> |
-| <sub>2020-08-15 11:33:55</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/f0a5b8e814a0270f602d395626ae07428b5b418e)</sub> | <sub>[f0a5b8e](https://github.com/Snowgem/Snowgem/commit/f0a5b8e814a0270f602d395626ae07428b5b418e) Update README.md - ciripel</sub> |
-| <sub>2020-08-15 11:21:24</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/6d532ff95e8ee20c68bd00a9f098d3ec3bea3020)</sub> | <sub>[6d532ff](https://github.com/Snowgem/Snowgem/commit/6d532ff95e8ee20c68bd00a9f098d3ec3bea3020) Update README.md - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

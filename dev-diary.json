@@ -15041,5 +15041,15 @@
       "description": "[3300484b](https://gitlab.com/snowgem/bitfrost/-/commit/3300484b9ed5abdb55cb36ffd7db9d381e62e69e): send/receive fix, primary wallet and reorder - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid removed branch feature/0.0.9 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-16 17:51:43.604000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-16 17:52:59.895000"
   }
 ]
