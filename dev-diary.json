@@ -15071,5 +15071,15 @@
       "description": "[efb22d6a](https://gitlab.com/snowgem/bitfrost/-/commit/efb22d6af34cdaca9b24d9db7cb0d6a69c26c287): createWallet missing arguments fix - Filip Storkan\n\n[6e55e33a](https://gitlab.com/snowgem/bitfrost/-/commit/6e55e33a947e7591ec3ff8075a17c21fc9618c40): primary wallet set to uuid - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fa7444293e5a88c85a8cd97749325834b767d334...36aa5dd5147d41e8bb081d816e7005df3c8af024))",
+    "created_at": "2020-08-16 19:02:39.436000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[36aa5dd5](https://gitlab.com/snowgem/bitfrost/-/commit/36aa5dd5147d41e8bb081d816e7005df3c8af024): fix display value when moving on chart EURO - Snowgem",
+      "type": "rich"
+    }
   }
 ]
