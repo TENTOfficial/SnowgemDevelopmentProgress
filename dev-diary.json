@@ -15217,5 +15217,23 @@
       "description": "[bb6ba36a](https://gitlab.com/snowgem/bitfrost/-/commit/bb6ba36a59cc55e9382c9db89ab580284ac41727): no wallets page - Filip Storkan\n\n[59748fd3](https://gitlab.com/snowgem/bitfrost/-/commit/59748fd3c0ba757e0b5f591d071373fc4d26ae8d): no wallets page comments - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-17 19:28:50.183000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`52f9722`](https://github.com/ciripel/Heimdall/commit/52f972266a178932050edd44f615e9846043d947) removed FTP uplods and announcement monitoring. - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/52f972266a178932050edd44f615e9846043d947"
+    }
   }
 ]
