@@ -15167,5 +15167,15 @@
       "description": "[54d8526e](https://gitlab.com/snowgem/snowpay-api/-/commit/54d8526e1cb63bf7e67b6ee5ce87332fd5028887): #76 - unit test fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c21b44a6a0eba510c31a42736f41cbf24f052235...0e48eca567cd452a4db7f0217e58cea404149042))",
+    "created_at": "2020-08-17 09:59:38.714000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0e48eca5](https://gitlab.com/snowgem/bitfrost/-/commit/0e48eca567cd452a4db7f0217e58cea404149042): support multiple rpc url for erc20 coins - Snowgem",
+      "type": "rich"
+    }
   }
 ]
