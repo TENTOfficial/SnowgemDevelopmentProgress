@@ -15207,5 +15207,15 @@
       "description": "[20a8f555](https://gitlab.com/snowgem/bitfrost/-/commit/20a8f555a0f57352920d7002c1a1b4720d51ff7d): update SUM and ZERO logo - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ff5a27774eed9d31bc56b08996b9ff8ef95ef3d6...59748fd3c0ba757e0b5f591d071373fc4d26ae8d))",
+    "created_at": "2020-08-17 17:57:41.249000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bb6ba36a](https://gitlab.com/snowgem/bitfrost/-/commit/bb6ba36a59cc55e9382c9db89ab580284ac41727): no wallets page - Filip Storkan\n\n[59748fd3](https://gitlab.com/snowgem/bitfrost/-/commit/59748fd3c0ba757e0b5f591d071373fc4d26ae8d): no wallets page comments - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
