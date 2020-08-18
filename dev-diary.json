@@ -15413,5 +15413,23 @@
       "description": "[b6ef6c58](https://gitlab.com/snowgem/bitfrost/-/commit/b6ef6c5831a7ca6170df42b0a292370770fbfab7): add pirl - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-18 15:03:43.836000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`24c430e`](https://github.com/ciripel/Heimdall/commit/24c430e06d96637da21b401eb7d8fba00ca58e42) Get price of the price channel from STEX - fixe... - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/24c430e06d96637da21b401eb7d8fba00ca58e42"
+    }
   }
 ]
