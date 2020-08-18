@@ -15459,5 +15459,15 @@
       "description": "[68f4589f](https://gitlab.com/snowgem/bitfrost/-/commit/68f4589faff12e45ca9a62d771433ee5d6c7b8c9): moving theme subscription to home page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a69f4b40d714ab2950c6c03ab88d950b27621938...43685bb794867e9a55cf63af074749e82628d114))",
+    "created_at": "2020-08-18 15:52:36.515000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[43685bb7](https://gitlab.com/snowgem/bitfrost/-/commit/43685bb794867e9a55cf63af074749e82628d114): adding PIRL icon - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
