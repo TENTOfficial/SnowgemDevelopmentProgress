@@ -15385,5 +15385,23 @@
       "description": "[71498b74](https://gitlab.com/snowgem/snowpay-api/-/commit/71498b7476a9218586412544e4e1b1e731ca72ee): #87 - CI - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-18 14:09:29.339000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7e7fcc1`](https://github.com/ciripel/Heimdall/commit/7e7fcc1a402aa141f93098522211662d0a1f382c) Update LICENSE - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/7e7fcc1a402aa141f93098522211662d0a1f382c"
+    }
   }
 ]
