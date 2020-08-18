@@ -15449,5 +15449,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/c19c78bc9e411332d621fd45dde2840dd4823c93"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/59748fd3c0ba757e0b5f591d071373fc4d26ae8d...68f4589faff12e45ca9a62d771433ee5d6c7b8c9))",
+    "created_at": "2020-08-18 15:43:00.475000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[68f4589f](https://gitlab.com/snowgem/bitfrost/-/commit/68f4589faff12e45ca9a62d771433ee5d6c7b8c9): moving theme subscription to home page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
