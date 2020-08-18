@@ -15403,5 +15403,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/7e7fcc1a402aa141f93098522211662d0a1f382c"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/20a8f555a0f57352920d7002c1a1b4720d51ff7d...b6ef6c5831a7ca6170df42b0a292370770fbfab7))",
+    "created_at": "2020-08-18 14:55:41.804000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b6ef6c58](https://gitlab.com/snowgem/bitfrost/-/commit/b6ef6c5831a7ca6170df42b0a292370770fbfab7): add pirl - Snowgem",
+      "type": "rich"
+    }
   }
 ]
