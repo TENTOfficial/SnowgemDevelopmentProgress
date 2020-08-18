@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-18 15:08:14</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/c19c78bc9e411332d621fd45dde2840dd4823c93)</sub> | <sub>[c19c78b](https://github.com/ciripel/Heimdall/commit/c19c78bc9e411332d621fd45dde2840dd4823c93) Completed CoreTeam members list - fixed #12 - ciripel</sub> |
 | <sub>2020-08-18 15:03:43</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/24c430e06d96637da21b401eb7d8fba00ca58e42)</sub> | <sub>[24c430e](https://github.com/ciripel/Heimdall/commit/24c430e06d96637da21b401eb7d8fba00ca58e42) Get price of the price channel from STEX - fixe... - ciripel</sub> |
 | <sub>2020-08-18 14:55:41</sub> | <sub>Txid pushed to branch [v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/20a8f555a0f57352920d7002c1a1b4720d51ff7d...b6ef6c5831a7ca6170df42b0a292370770fbfab7))</sub> | <sub>[b6ef6c58](https://gitlab.com/snowgem/bitfrost/-/commit/b6ef6c5831a7ca6170df42b0a292370770fbfab7): add pirl - Snowgem</sub> |
 | <sub>2020-08-18 14:09:29</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/7e7fcc1a402aa141f93098522211662d0a1f382c)</sub> | <sub>[7e7fcc1](https://github.com/ciripel/Heimdall/commit/7e7fcc1a402aa141f93098522211662d0a1f382c) Update LICENSE - ciripel</sub> |
