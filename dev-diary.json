@@ -15479,5 +15479,23 @@
       "description": "[c5327a88](https://gitlab.com/snowgem/bitfrost/-/commit/c5327a8872832fe65c924b509c993ba35cc577fd): add pirl logo - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-18 17:32:21.095000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2b40b51`](https://github.com/ciripel/Heimdall/commit/2b40b51303ec5c163b379ca4ac6fedbe69c26e97) updated storkandstars languages - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/2b40b51303ec5c163b379ca4ac6fedbe69c26e97"
+    }
   }
 ]
