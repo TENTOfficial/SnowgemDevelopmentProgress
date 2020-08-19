@@ -15522,5 +15522,35 @@
       "description": "[71655d4b](https://gitlab.com/snowgem/snowpay-api/-/commit/71655d4b88fbc02966b1646233eb0939ebf09045): #87 - added swarm deployer - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/71655d4b88fbc02966b1646233eb0939ebf09045...9e2552fb96b86db11fda93e84803965ef3961baa))",
+    "created_at": "2020-08-19 08:51:27.014000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9e2552fb](https://gitlab.com/snowgem/snowpay-api/-/commit/9e2552fb96b86db11fda93e84803965ef3961baa): #87 - added swarm deployer - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9e2552fb96b86db11fda93e84803965ef3961baa...2f335a087c14f53cc1ed86f94ec597ddbb399fa0))",
+    "created_at": "2020-08-19 08:53:00.598000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2f335a08](https://gitlab.com/snowgem/snowpay-api/-/commit/2f335a087c14f53cc1ed86f94ec597ddbb399fa0): #87 - added swarm deployer - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2f335a087c14f53cc1ed86f94ec597ddbb399fa0...5819c79a9c00c291e4054b5ef19877d5a5303bd7))",
+    "created_at": "2020-08-19 08:54:53.834000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5819c79a](https://gitlab.com/snowgem/snowpay-api/-/commit/5819c79a9c00c291e4054b5ef19877d5a5303bd7): #87 - added swarm deployer - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
