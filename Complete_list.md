@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-19 08:31:17</sub> | <sub>demzet pushed to branch [release\_2020\_08\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/71498b7476a9218586412544e4e1b1e731ca72ee...71655d4b88fbc02966b1646233eb0939ebf09045))</sub> | <sub>[71655d4b](https://gitlab.com/snowgem/snowpay-api/-/commit/71655d4b88fbc02966b1646233eb0939ebf09045): #87 - added swarm deployer - Kamil Wojciechowski</sub> |
 | <sub>2020-08-18 19:33:23</sub> | <sub>Bartosz Szpara (bartosz.szpara) opened merge request [\!4 \*Draft: Feature/translation\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/4) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-18 19:32:37</sub> | <sub>Bartosz Szpara pushed new branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-18 19:31:11</sub> | <sub>Bartosz Szpara pushed new branch [feature/translations](https://gitlab.com/snowgem/bitfrost/commits/feature/translations) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
