@@ -15782,5 +15782,15 @@
       "description": "[d1649ad0](https://gitlab.com/snowgem/bitfrost/-/commit/d1649ad0f5038bf300e7ded369d20a1abc1b6c24): show error message when registering explorer - Snowgem\n\n[b9a3684a](https://gitlab.com/snowgem/bitfrost/-/commit/b9a3684aa5efe00b9c54f0383ead319b8c132a1b): add more showing time for register explorer error - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/b9148ea28e3b18a153f6796d6de2120232b6b34a...63cde5ee724b6ea524d454b66f5f6f8724ff77cf))",
+    "created_at": "2020-08-19 22:47:23.398000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[63cde5ee](https://gitlab.com/snowgem/freyja/-/commit/63cde5ee724b6ea524d454b66f5f6f8724ff77cf): modified index.js and added freyja service file - root",
+      "type": "rich"
+    }
   }
 ]
