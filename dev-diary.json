@@ -15882,5 +15882,15 @@
       "description": "[546cd970](https://gitlab.com/snowgem/freyja/-/commit/546cd97054b48ef9b083b09c6ce23db0527c5b5c): node update improvements - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e6b8ec3e52912dcad242fe1f621c35ab5240c926...ac9e5cd3c1ff0a19a4ae47ffb33cc7fca2a0fc6b))",
+    "created_at": "2020-08-20 16:14:29.770000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ac9e5cd3](https://gitlab.com/snowgem/bitfrost/-/commit/ac9e5cd3c1ff0a19a4ae47ffb33cc7fca2a0fc6b): changing wallet source in swap exchange page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
