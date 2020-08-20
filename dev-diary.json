@@ -16023,5 +16023,25 @@
     "author": "GitLab",
     "content": "demzet (aphex5) opened merge request [\\!15 \\*Release 2020 08 12\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/15) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-08-20 20:35:44.518000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e788920306718dfe7f5941a2dc4c1b5824597094...ff45af7c180bf94f77b8af4ae256d12fd743c09e))",
+    "created_at": "2020-08-20 20:40:05.625000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ff45af7c](https://gitlab.com/snowgem/snowpay-api/-/commit/ff45af7c180bf94f77b8af4ae256d12fd743c09e): #87 - August API release - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ff45af7c180bf94f77b8af4ae256d12fd743c09e...28fc9a3e6102b2c8958c347301fe278b8a69b748))",
+    "created_at": "2020-08-20 20:40:39.689000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[28fc9a3e](https://gitlab.com/snowgem/snowpay-api/-/commit/28fc9a3e6102b2c8958c347301fe278b8a69b748): #87 - August API release - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
