@@ -15980,5 +15980,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/5e2911515f17a4e5e791b492a05f11e317ae8d52"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-20 20:01:35.036000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`50717fc`](https://github.com/ciripel/Heimdall/commit/50717fcfd7bb870c3e0106f3acf611bce0bc6aa8) some bolding - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/50717fcfd7bb870c3e0106f3acf611bce0bc6aa8"
+    }
   }
 ]
