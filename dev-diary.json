@@ -15998,5 +15998,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/50717fcfd7bb870c3e0106f3acf611bce0bc6aa8"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0b93ce724e5c77b77e237ee72dcadde26fe2f102...56cd6af86411372de56fef089d9526e5250a0bf2))",
+    "created_at": "2020-08-20 20:17:05.283000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[56cd6af8](https://gitlab.com/snowgem/snowpay-api/-/commit/56cd6af86411372de56fef089d9526e5250a0bf2): #87 - August API release - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]

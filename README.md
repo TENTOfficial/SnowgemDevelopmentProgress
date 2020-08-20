@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1459 commits since 20/01/2020. You can see the complete history in
+There is a total of 1460 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-20 20:17:05</sub> | <sub>demzet pushed to branch [release\_2020\_08\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0b93ce724e5c77b77e237ee72dcadde26fe2f102...56cd6af86411372de56fef089d9526e5250a0bf2))</sub> | <sub>[56cd6af8](https://gitlab.com/snowgem/snowpay-api/-/commit/56cd6af86411372de56fef089d9526e5250a0bf2): #87 - August API release - Kamil Wojciechowski</sub> |
 | <sub>2020-08-20 20:01:35</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/50717fcfd7bb870c3e0106f3acf611bce0bc6aa8)</sub> | <sub>[50717fc](https://github.com/ciripel/Heimdall/commit/50717fcfd7bb870c3e0106f3acf611bce0bc6aa8) some bolding - ciripel</sub> |
 | <sub>2020-08-20 19:57:50</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/5e2911515f17a4e5e791b492a05f11e317ae8d52)</sub> | <sub>[5e29115](https://github.com/ciripel/Heimdall/commit/5e2911515f17a4e5e791b492a05f11e317ae8d52) updated !fork function to report not forking da... - ciripel</sub> |
 | <sub>2020-08-20 19:51:10</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/30df4537983b960306b9286e846d361f081f04f4...4b9986705d23e65cc6c51c03bf2c0439d094e61d))</sub> | <sub>[4b998670](https://gitlab.com/snowgem/freyja/-/commit/4b9986705d23e65cc6c51c03bf2c0439d094e61d): masternode: 1 - V</sub> |
@@ -17,6 +18,5 @@ There is a total of 1459 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-20 17:39:41</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/208aeafd995caab53291de16bc90c255cab4d3af...c6f00ac35e182a8758ca69d661313dfcdb91d228))</sub> | <sub>[c6f00ac3](https://gitlab.com/snowgem/freyja/-/commit/c6f00ac35e182a8758ca69d661313dfcdb91d228): doubled TLS retry limit - V</sub> |
 | <sub>2020-08-20 17:38:55</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/546cd97054b48ef9b083b09c6ce23db0527c5b5c...208aeafd995caab53291de16bc90c255cab4d3af))</sub> | <sub>[208aeafd](https://gitlab.com/snowgem/freyja/-/commit/208aeafd995caab53291de16bc90c255cab4d3af): get node configuration & better typing - V</sub> |
 | <sub>2020-08-20 16:53:38</sub> | <sub>Txid pushed to branch [v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b9a3684aa5efe00b9c54f0383ead319b8c132a1b...77b55f279d3c62fb0d3455cb68ad1d93c71e2c70))</sub> | <sub>[77b55f27](https://gitlab.com/snowgem/bitfrost/-/commit/77b55f279d3c62fb0d3455cb68ad1d93c71e2c70): remove zen - Snowgem</sub> |
-| <sub>2020-08-20 16:14:29</sub> | <sub>Filip Storkan pushed to branch [v0\.0\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e6b8ec3e52912dcad242fe1f621c35ab5240c926...ac9e5cd3c1ff0a19a4ae47ffb33cc7fca2a0fc6b))</sub> | <sub>[ac9e5cd3](https://gitlab.com/snowgem/bitfrost/-/commit/ac9e5cd3c1ff0a19a4ae47ffb33cc7fca2a0fc6b): changing wallet source in swap exchange page - Filip Storkan</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
