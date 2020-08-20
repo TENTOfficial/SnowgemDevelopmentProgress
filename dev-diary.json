@@ -15812,5 +15812,15 @@
       "description": "[a5ba9b21](https://gitlab.com/snowgem/snowpay-api/-/commit/a5ba9b210e0295a915ade51e7a1aa87ba3c77084): #87 - production ci - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/43685bb794867e9a55cf63af074749e82628d114...270de5ef722830b03da0f42a46abc999b22f0045))",
+    "created_at": "2020-08-20 09:15:10.413000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2c794210](https://gitlab.com/snowgem/bitfrost/-/commit/2c79421008e3e2a6c256a1f0bc7a7a5ff0cd4b9e): Installing ngx-translate package - bszpara\n\n[6d753db2](https://gitlab.com/snowgem/bitfrost/-/commit/6d753db2349a16fe9a8e229f81fe250509d30928): Root module ngx-translate initialiser - bszpara\n\n[dfc2cb1d](https://gitlab.com/snowgem/bitfrost/-/commit/dfc2cb1d07480b76b3df660c3b9f9e693549f7aa): Initialisation config and browser detection - bszpara\n\n[810d8ab0](https://gitlab.com/snowgem/bitfrost/-/commit/810d8ab070e09e55dc4007222b1315681de2884a): Export translations from shared module - bszpara\n\n[376ffd2b](https://gitlab.com/snowgem/bitfrost/-/commit/376ffd2badc1dcd8c8921e68c7eb92adb9d1fb26): Login pages translations - bszpara\n\n[39dcf9fa](https://gitlab.com/snowgem/bitfrost/-/commit/39dcf9fa078ba99d021b6faad2ce97625586bab8): Register pages translation - bszpara\n\n[270de5ef](https://gitlab.com/snowgem/bitfrost/-/commit/270de5ef722830b03da0f42a46abc999b22f0045): Translations: Forgot password pages - bszpara",
+      "type": "rich"
+    }
   }
 ]
