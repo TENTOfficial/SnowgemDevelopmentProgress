@@ -15802,5 +15802,15 @@
       "description": "[efd88fd9](https://gitlab.com/snowgem/snowpay-api/-/commit/efd88fd9cc64c8dccb4b1b4f5cbcfc85e64d1af8): #88 - Stex Swaproutes are null when wallet under maintenance - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/efd88fd9cc64c8dccb4b1b4f5cbcfc85e64d1af8...a5ba9b210e0295a915ade51e7a1aa87ba3c77084))",
+    "created_at": "2020-08-20 08:50:26.611000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a5ba9b21](https://gitlab.com/snowgem/snowpay-api/-/commit/a5ba9b210e0295a915ade51e7a1aa87ba3c77084): #87 - production ci - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
