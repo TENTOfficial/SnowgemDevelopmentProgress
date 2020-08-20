@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1461 commits since 20/01/2020. You can see the complete history in
+There is a total of 1462 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-20 20:35:44</sub> | <sub>demzet (aphex5) opened merge request [\!15 \*Release 2020 08 12\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/15) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-20 20:32:17</sub> | <sub>demzet pushed to branch [release\_2020\_08\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/56cd6af86411372de56fef089d9526e5250a0bf2...e788920306718dfe7f5941a2dc4c1b5824597094))</sub> | <sub>[e7889203](https://gitlab.com/snowgem/snowpay-api/-/commit/e788920306718dfe7f5941a2dc4c1b5824597094): #87 - August API release - Kamil Wojciechowski</sub> |
 | <sub>2020-08-20 20:17:05</sub> | <sub>demzet pushed to branch [release\_2020\_08\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0b93ce724e5c77b77e237ee72dcadde26fe2f102...56cd6af86411372de56fef089d9526e5250a0bf2))</sub> | <sub>[56cd6af8](https://gitlab.com/snowgem/snowpay-api/-/commit/56cd6af86411372de56fef089d9526e5250a0bf2): #87 - August API release - Kamil Wojciechowski</sub> |
 | <sub>2020-08-20 20:01:35</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/50717fcfd7bb870c3e0106f3acf611bce0bc6aa8)</sub> | <sub>[50717fc](https://github.com/ciripel/Heimdall/commit/50717fcfd7bb870c3e0106f3acf611bce0bc6aa8) some bolding - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1461 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-20 19:24:41</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/9e380ee6c4aa7d3ddcda7e00e6b0cbeccedb3839...ed6ff4bc5149af9537e2834ce28dae0e3444e31d))</sub> | <sub>[ed6ff4bc](https://gitlab.com/snowgem/freyja/-/commit/ed6ff4bc5149af9537e2834ce28dae0e3444e31d): fixed rpcbind undefined - V</sub> |
 | <sub>2020-08-20 17:55:15</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/c6f00ac35e182a8758ca69d661313dfcdb91d228...9e380ee6c4aa7d3ddcda7e00e6b0cbeccedb3839))</sub> | <sub>[9e380ee6](https://gitlab.com/snowgem/freyja/-/commit/9e380ee6c4aa7d3ddcda7e00e6b0cbeccedb3839): automatic localhost ip generation - V</sub> |
 | <sub>2020-08-20 17:39:41</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/208aeafd995caab53291de16bc90c255cab4d3af...c6f00ac35e182a8758ca69d661313dfcdb91d228))</sub> | <sub>[c6f00ac3](https://gitlab.com/snowgem/freyja/-/commit/c6f00ac35e182a8758ca69d661313dfcdb91d228): doubled TLS retry limit - V</sub> |
-| <sub>2020-08-20 17:38:55</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/546cd97054b48ef9b083b09c6ce23db0527c5b5c...208aeafd995caab53291de16bc90c255cab4d3af))</sub> | <sub>[208aeafd](https://gitlab.com/snowgem/freyja/-/commit/208aeafd995caab53291de16bc90c255cab4d3af): get node configuration & better typing - V</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

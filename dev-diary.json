@@ -16018,5 +16018,10 @@
       "description": "[e7889203](https://gitlab.com/snowgem/snowpay-api/-/commit/e788920306718dfe7f5941a2dc4c1b5824597094): #87 - August API release - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!15 \\*Release 2020 08 12\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/15) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-20 20:35:44.518000"
   }
 ]
