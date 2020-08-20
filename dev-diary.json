@@ -15862,5 +15862,15 @@
       "description": "[7529071f](https://gitlab.com/snowgem/freyja/-/commit/7529071fb6c5178710486dd8b73cb49b2e889e8b): added rpcallowip into xsg template - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/464ea5d70a803d366697d899c8e9e6c0a5f14d71...e6b8ec3e52912dcad242fe1f621c35ab5240c926))",
+    "created_at": "2020-08-20 14:08:53.928000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d0922970](https://gitlab.com/snowgem/bitfrost/-/commit/d092297015afdb26b4a1a3f4c0df96af289fe362): moving to a custom validators - Filip Storkan\n\n[e6b8ec3e](https://gitlab.com/snowgem/bitfrost/-/commit/e6b8ec3e52912dcad242fe1f621c35ab5240c926): passing wallet via router - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
