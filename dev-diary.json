@@ -15902,5 +15902,25 @@
       "description": "[77b55f27](https://gitlab.com/snowgem/bitfrost/-/commit/77b55f279d3c62fb0d3455cb68ad1d93c71e2c70): remove zen - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/546cd97054b48ef9b083b09c6ce23db0527c5b5c...208aeafd995caab53291de16bc90c255cab4d3af))",
+    "created_at": "2020-08-20 17:38:55.460000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[208aeafd](https://gitlab.com/snowgem/freyja/-/commit/208aeafd995caab53291de16bc90c255cab4d3af): get node configuration & better typing - V",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/208aeafd995caab53291de16bc90c255cab4d3af...c6f00ac35e182a8758ca69d661313dfcdb91d228))",
+    "created_at": "2020-08-20 17:39:41.949000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c6f00ac3](https://gitlab.com/snowgem/freyja/-/commit/c6f00ac35e182a8758ca69d661313dfcdb91d228): doubled TLS retry limit - V",
+      "type": "rich"
+    }
   }
 ]
