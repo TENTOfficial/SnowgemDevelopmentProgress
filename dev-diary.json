@@ -15842,5 +15842,15 @@
       "description": "[30e6c086](https://gitlab.com/snowgem/bitfrost/-/commit/30e6c08692e4437eb51560d8f21031d5eabeec23): check transacrion refactor - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/30e6c08692e4437eb51560d8f21031d5eabeec23...464ea5d70a803d366697d899c8e9e6c0a5f14d71))",
+    "created_at": "2020-08-20 13:23:53.829000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[464ea5d7](https://gitlab.com/snowgem/bitfrost/-/commit/464ea5d70a803d366697d899c8e9e6c0a5f14d71): auth provider file rename - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
