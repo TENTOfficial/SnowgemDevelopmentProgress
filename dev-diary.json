@@ -16201,5 +16201,15 @@
       "description": "[cb8c48c9](https://gitlab.com/snowgem/bitfrost/-/commit/cb8c48c9ef3a70d86b487e57d90173d32d6e277e): Added translate module dependencies - bszpara\n\n[996a1028](https://gitlab.com/snowgem/bitfrost/-/commit/996a102834cbd475f66fa1ec581556aec4a13ee4): Add coin page translation - bszpara\n\n[a4072bb2](https://gitlab.com/snowgem/bitfrost/-/commit/a4072bb2b5ec4069f4c7fe884c5cb78441b4dcc2): Translation : wallet info page - bszpara\n\n[7f8670f8](https://gitlab.com/snowgem/bitfrost/-/commit/7f8670f8e8223fffc9af56ba62fe7e9bcf8770b4): Removed init method - bszpara\n\n[003b48d8](https://gitlab.com/snowgem/bitfrost/-/commit/003b48d87d45bb3fae280c6bd20ac819ee328594): Used webpack for loading translations - bszpara\n\n[a68f1da5](https://gitlab.com/snowgem/bitfrost/-/commit/a68f1da5119e046831a3e7b1c75034c5b17fabed): Strongly typed toasts - bszpara\n\n[db8c6010](https://gitlab.com/snowgem/bitfrost/-/commit/db8c6010e528b8250a097777de589215dc81006a): Login translations - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/db8c6010e528b8250a097777de589215dc81006a...13df0771be8bac8d51869f6dea2b0c1118fd263e))",
+    "created_at": "2020-08-21 17:04:07.843000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5ffc70b1](https://gitlab.com/snowgem/bitfrost/-/commit/5ffc70b1cc19190cde69a7c1d4066a6a4049f158): Added masternodes page - bszpara\n\n[56f77eef](https://gitlab.com/snowgem/bitfrost/-/commit/56f77eef04c888813e74739e63cf28bb24157a95): Add rename wallet page - bszpara\n\n[13df0771](https://gitlab.com/snowgem/bitfrost/-/commit/13df0771be8bac8d51869f6dea2b0c1118fd263e): Added backup page - bszpara",
+      "type": "rich"
+    }
   }
 ]
