@@ -16171,5 +16171,15 @@
     "author": "GitLab",
     "content": "demzet (aphex5) merged merge request [\\!15 \\*Release 2020 08 12\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/15) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-08-21 11:20:54.985000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) approved merge request [\\!4 \\*Draft: Feature/translation\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/4) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-21 13:05:17.746000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) closed merge request [\\!4 \\*Draft: Feature/translation\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/4) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-21 13:05:29.695000"
   }
 ]
