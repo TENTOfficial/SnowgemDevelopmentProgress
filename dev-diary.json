@@ -16156,5 +16156,20 @@
       "description": "[6b1816ae](https://gitlab.com/snowgem/snowpay-api/-/commit/6b1816ae3102fe78a51c23a8b3f36393c825681f): #87 - August API release - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8ab70b59544454cb2cca3f251c5903a2a2d85b60...8abade97d7d17f2b8ad7d9bdfd4e6cb8216f76e6))",
+    "created_at": "2020-08-21 11:20:54.929000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4d09a4c5](https://gitlab.com/snowgem/snowpay-api/-/commit/4d09a4c52852d03d7dbe2523a7860d51ed9e98fa): #78 - Database migrations reorganization - Kamil Wojciechowski\n\n[9cd49a05](https://gitlab.com/snowgem/snowpay-api/-/commit/9cd49a059ef2b937f4b00c62a162ab20bc6be7fd): #78 - changed docker compose test env file - Kamil Wojciechowski\n\n[c1114623](https://gitlab.com/snowgem/snowpay-api/-/commit/c11146230f118f0e7b6341649fa24ae72aa5ca10): Merge branch 'release_2020_08_12' of https://gitlab.com/snowgem/snowpay-api into release_2020_08_12 - Kamil Wojciechowski\n\n[6b1816ae](https://gitlab.com/snowgem/snowpay-api/-/commit/6b1816ae3102fe78a51c23a8b3f36393c825681f): #87 - August API release - Kamil Wojciechowski\n\n[8abade97](https://gitlab.com/snowgem/snowpay-api/-/commit/8abade97d7d17f2b8ad7d9bdfd4e6cb8216f76e6): Merge branch 'release_2020_08_12' into 'master' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!15 \\*Release 2020 08 12\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/15) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-21 11:20:54.985000"
   }
 ]
