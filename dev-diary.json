@@ -16141,5 +16141,20 @@
       "description": "[e41e1368](https://gitlab.com/snowgem/bitfrost/-/commit/e41e1368b38d277bed26ca69a6755fa02e78c794): displat history chart fix, accent color observable - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!15 \\*Release 2020 08 12\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/15) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-21 11:17:59.759000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9fcd573a087dbf51b34b6484f99830ca93112765...6b1816ae3102fe78a51c23a8b3f36393c825681f))",
+    "created_at": "2020-08-21 11:19:37.287000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6b1816ae](https://gitlab.com/snowgem/snowpay-api/-/commit/6b1816ae3102fe78a51c23a8b3f36393c825681f): #87 - August API release - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
