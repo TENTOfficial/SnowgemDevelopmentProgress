@@ -16246,5 +16246,15 @@
       "description": "[ace0c14b](https://gitlab.com/snowgem/snowpay-api/-/commit/ace0c14bf87d41e6292f55abd7b668c02677ae67): CI - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/43685bb794867e9a55cf63af074749e82628d114...109cfe0d051c103b9f0d83930271c1a6168462b7))",
+    "created_at": "2020-08-21 20:59:15.365000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[109cfe0d](https://gitlab.com/snowgem/bitfrost/-/commit/109cfe0d051c103b9f0d83930271c1a6168462b7): updated test environment urls - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]

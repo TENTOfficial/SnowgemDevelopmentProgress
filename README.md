@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1487 commits since 20/01/2020. You can see the complete history in
+There is a total of 1488 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-21 20:59:15</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/43685bb794867e9a55cf63af074749e82628d114...109cfe0d051c103b9f0d83930271c1a6168462b7))</sub> | <sub>[109cfe0d](https://gitlab.com/snowgem/bitfrost/-/commit/109cfe0d051c103b9f0d83930271c1a6168462b7): updated test environment urls - Kamil Wojciechowski</sub> |
 | <sub>2020-08-21 20:32:37</sub> | <sub>demzet pushed to branch [release\_2020\_08\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6b1816ae3102fe78a51c23a8b3f36393c825681f...ace0c14bf87d41e6292f55abd7b668c02677ae67))</sub> | <sub>[ace0c14b](https://gitlab.com/snowgem/snowpay-api/-/commit/ace0c14bf87d41e6292f55abd7b668c02677ae67): CI - Kamil Wojciechowski</sub> |
 | <sub>2020-08-21 17:53:51</sub> | <sub>Txid pushed to branch [v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1057e76cfd8a4e220beb55c6f720800f7dbfab35...07d0afae49685ccbe9be3d6dc1cbaedb45cdc16c))</sub> | <sub>[07d0afae](https://gitlab.com/snowgem/bitfrost/-/commit/07d0afae49685ccbe9be3d6dc1cbaedb45cdc16c): improve create token flow - Snowgem</sub> |
 | <sub>2020-08-21 17:48:01</sub> | <sub>Bartosz Szpara removed branch feature/translations from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1487 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-21 16:07:55</sub> | <sub>Txid pushed to branch [v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/77b55f279d3c62fb0d3455cb68ad1d93c71e2c70...2798a5fe852482fdf94be19bc5187428539abd94))</sub> | <sub>[4ea861de](https://gitlab.com/snowgem/bitfrost/-/commit/4ea861de6ade184dd5a550aefbefe9bdbf98fb14): separate ETH and PIRL - Snowgem<br>[5aa8b605](https://gitlab.com/snowgem/bitfrost/-/commit/5aa8b60583c0f8b32ac30df204951f292bbbc968): update add coin notice for token - Snowgem<br>[2798a5fe](https://gitlab.com/snowgem/bitfrost/-/commit/2798a5fe852482fdf94be19bc5187428539abd94): add coin to export - Snowgem</sub> |
 | <sub>2020-08-21 13:05:29</sub> | <sub>Txid (txid) closed merge request [\!4 \*Draft: Feature/translation\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/4) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-21 13:05:17</sub> | <sub>Txid (txid) approved merge request [\!4 \*Draft: Feature/translation\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/4) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-08-21 11:20:54</sub> | <sub>demzet (aphex5) merged merge request [\!15 \*Release 2020 08 12\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/15) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
