@@ -16226,5 +16226,15 @@
     "author": "GitLab",
     "content": "Bartosz Szpara removed branch feature/translations from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-08-21 17:48:01.107000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1057e76cfd8a4e220beb55c6f720800f7dbfab35...07d0afae49685ccbe9be3d6dc1cbaedb45cdc16c))",
+    "created_at": "2020-08-21 17:53:51.195000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[07d0afae](https://gitlab.com/snowgem/bitfrost/-/commit/07d0afae49685ccbe9be3d6dc1cbaedb45cdc16c): improve create token flow - Snowgem",
+      "type": "rich"
+    }
   }
 ]
