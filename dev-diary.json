@@ -16181,5 +16181,15 @@
     "author": "GitLab",
     "content": "Txid (txid) closed merge request [\\!4 \\*Draft: Feature/translation\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/4) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-08-21 13:05:29.695000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/77b55f279d3c62fb0d3455cb68ad1d93c71e2c70...2798a5fe852482fdf94be19bc5187428539abd94))",
+    "created_at": "2020-08-21 16:07:55.612000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4ea861de](https://gitlab.com/snowgem/bitfrost/-/commit/4ea861de6ade184dd5a550aefbefe9bdbf98fb14): separate ETH and PIRL - Snowgem\n\n[5aa8b605](https://gitlab.com/snowgem/bitfrost/-/commit/5aa8b60583c0f8b32ac30df204951f292bbbc968): update add coin notice for token - Snowgem\n\n[2798a5fe](https://gitlab.com/snowgem/bitfrost/-/commit/2798a5fe852482fdf94be19bc5187428539abd94): add coin to export - Snowgem",
+      "type": "rich"
+    }
   }
 ]
