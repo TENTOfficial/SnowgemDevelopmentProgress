@@ -16286,5 +16286,25 @@
       "description": "[866430f9](https://gitlab.com/snowgem/snowpay-api/-/commit/866430f90d4627c217b935ce55353777a3d6f7bc): #87 - bittrex api rate limits - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!16 \\*Release 2020 08 12\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/16) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-22 10:17:59.124000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!16 \\*Release 2020 08 12\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/16) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-22 10:18:04.971000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8abade97d7d17f2b8ad7d9bdfd4e6cb8216f76e6...d0066e2c32d7630f73f9bd413c54881cd467a518))",
+    "created_at": "2020-08-22 10:18:05.169000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ace0c14b](https://gitlab.com/snowgem/snowpay-api/-/commit/ace0c14bf87d41e6292f55abd7b668c02677ae67): CI - Kamil Wojciechowski\n\n[866430f9](https://gitlab.com/snowgem/snowpay-api/-/commit/866430f90d4627c217b935ce55353777a3d6f7bc): #87 - bittrex api rate limits - Kamil Wojciechowski\n\n[d0066e2c](https://gitlab.com/snowgem/snowpay-api/-/commit/d0066e2c32d7630f73f9bd413c54881cd467a518): Merge branch 'release_2020_08_12' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
