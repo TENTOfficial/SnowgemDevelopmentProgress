@@ -16256,5 +16256,15 @@
       "description": "[109cfe0d](https://gitlab.com/snowgem/bitfrost/-/commit/109cfe0d051c103b9f0d83930271c1a6168462b7): updated test environment urls - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/13df0771be8bac8d51869f6dea2b0c1118fd263e...81815919fa13af35a98309724df2560656af0718))",
+    "created_at": "2020-08-22 00:31:54.354000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a9cfb128](https://gitlab.com/snowgem/bitfrost/-/commit/a9cfb128aecee133cd9d35eaeef525ddd1aabbb4): Added Apiurl and adresses translations and alert - bszpara\n\n[81815919](https://gitlab.com/snowgem/bitfrost/-/commit/81815919fa13af35a98309724df2560656af0718): Extended showAlert method added tools and rename page - bszpara",
+      "type": "rich"
+    }
   }
 ]
