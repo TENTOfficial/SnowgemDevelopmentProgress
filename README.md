@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1512 commits since 20/01/2020. You can see the complete history in
+There is a total of 1514 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-22 20:33:08</sub> | <sub>Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2171a0135b6414e02e86b4ba771ec36c805d3632...798ae3fafc96396e5ea332527935872553f52d5f))</sub> | <sub>[798ae3fa](https://gitlab.com/snowgem/bitfrost/-/commit/798ae3fafc96396e5ea332527935872553f52d5f): Added settings translations ts - bszpara</sub> |
+| <sub>2020-08-22 20:32:39</sub> | <sub>Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/561ea3b4075f7b7b423d2c0d077011ed11657f94...2171a0135b6414e02e86b4ba771ec36c805d3632))</sub> | <sub>[425589a6](https://gitlab.com/snowgem/bitfrost/-/commit/425589a62c3bdede0b6ad853740438218a02d3c9): Added export wallet translation - bszpara<br>[87f998d4](https://gitlab.com/snowgem/bitfrost/-/commit/87f998d4dc0e830d675b519440ece35eef8827ac): Added change pass translations - bszpara<br>[2171a013](https://gitlab.com/snowgem/bitfrost/-/commit/2171a0135b6414e02e86b4ba771ec36c805d3632): Added  settings translations - bszpara</sub> |
 | <sub>2020-08-22 17:16:46</sub> | <sub>Filip Storkan pushed new branch [v0\.0\.8\-merge\-v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-22 17:16:09</sub> | <sub>Filip Storkan removed branch v0.0.8-merge-v0.0.9 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-22 17:15:37</sub> | <sub>Filip Storkan pushed new branch [v0\.0\.8\-merge\-v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -16,7 +18,5 @@ There is a total of 1512 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-22 13:31:25</sub> | <sub>demzet pushed new tag [release\_2020\_08\_22\_4](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_4) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-22 13:30:24</sub> | <sub>demzet pushed to branch [release\_2020\_08\_22](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_22) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1f6b8d567f75cbfd535f1c86a9cefb56d0f3d8f0...b42327b911efa76161483b282b3ad8307822015e))</sub> | <sub>[b42327b9](https://gitlab.com/snowgem/snowpay-api/-/commit/b42327b911efa76161483b282b3ad8307822015e): #78 - stack update - Kamil Wojciechowski</sub> |
 | <sub>2020-08-22 13:27:30</sub> | <sub>demzet pushed new tag [release\_2020\_08\_22\_3](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_3) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-08-22 13:23:30</sub> | <sub>demzet pushed to branch [release\_2020\_08\_22](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_22) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bb550b0e970ba76e6ecc5bbc4ce4cef7d7223170...1f6b8d567f75cbfd535f1c86a9cefb56d0f3d8f0))</sub> | <sub>[1f6b8d56](https://gitlab.com/snowgem/snowpay-api/-/commit/1f6b8d567f75cbfd535f1c86a9cefb56d0f3d8f0): #78 - swarm deployer fix - Kamil Wojciechowski</sub> |
-| <sub>2020-08-22 13:00:17</sub> | <sub>demzet pushed new tag [release\_2020\_08\_22\_2](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_2) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

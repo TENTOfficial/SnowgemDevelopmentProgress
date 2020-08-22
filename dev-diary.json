@@ -16436,5 +16436,25 @@
     "author": "GitLab",
     "content": "Filip Storkan pushed new branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-08-22 17:16:46.155000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/561ea3b4075f7b7b423d2c0d077011ed11657f94...2171a0135b6414e02e86b4ba771ec36c805d3632))",
+    "created_at": "2020-08-22 20:32:39.845000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[425589a6](https://gitlab.com/snowgem/bitfrost/-/commit/425589a62c3bdede0b6ad853740438218a02d3c9): Added export wallet translation - bszpara\n\n[87f998d4](https://gitlab.com/snowgem/bitfrost/-/commit/87f998d4dc0e830d675b519440ece35eef8827ac): Added change pass translations - bszpara\n\n[2171a013](https://gitlab.com/snowgem/bitfrost/-/commit/2171a0135b6414e02e86b4ba771ec36c805d3632): Added  settings translations - bszpara",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2171a0135b6414e02e86b4ba771ec36c805d3632...798ae3fafc96396e5ea332527935872553f52d5f))",
+    "created_at": "2020-08-22 20:33:08.802000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[798ae3fa](https://gitlab.com/snowgem/bitfrost/-/commit/798ae3fafc96396e5ea332527935872553f52d5f): Added settings translations ts - bszpara",
+      "type": "rich"
+    }
   }
 ]
