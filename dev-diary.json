@@ -16401,5 +16401,15 @@
     "author": "GitLab",
     "content": "demzet pushed new tag [release\\_2020\\_08\\_22\\_4](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_4) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-08-22 13:31:25.489000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/126eba4685a77c2ffeab091ba670484d76e2c431...3d984d1abb4ff3d0eec8fae1f4810c974f04f9f4))",
+    "created_at": "2020-08-22 15:15:45.350000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3d984d1a](https://gitlab.com/snowgem/bitfrost/-/commit/3d984d1abb4ff3d0eec8fae1f4810c974f04f9f4): adding memory clean up on removing swap cache - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
