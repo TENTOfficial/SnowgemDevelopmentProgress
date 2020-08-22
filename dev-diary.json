@@ -16306,5 +16306,10 @@
       "description": "[ace0c14b](https://gitlab.com/snowgem/snowpay-api/-/commit/ace0c14bf87d41e6292f55abd7b668c02677ae67): CI - Kamil Wojciechowski\n\n[866430f9](https://gitlab.com/snowgem/snowpay-api/-/commit/866430f90d4627c217b935ce55353777a3d6f7bc): #87 - bittrex api rate limits - Kamil Wojciechowski\n\n[d0066e2c](https://gitlab.com/snowgem/snowpay-api/-/commit/d0066e2c32d7630f73f9bd413c54881cd467a518): Merge branch 'release_2020_08_12' into 'master' - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [release\\_2020\\_08\\_22](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_22) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-22 10:28:06.841000"
   }
 ]

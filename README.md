@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1494 commits since 20/01/2020. You can see the complete history in
+There is a total of 1495 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-22 10:28:06</sub> | <sub>demzet pushed new branch [release\_2020\_08\_22](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_22) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-22 10:18:05</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8abade97d7d17f2b8ad7d9bdfd4e6cb8216f76e6...d0066e2c32d7630f73f9bd413c54881cd467a518))</sub> | <sub>[ace0c14b](https://gitlab.com/snowgem/snowpay-api/-/commit/ace0c14bf87d41e6292f55abd7b668c02677ae67): CI - Kamil Wojciechowski<br>[866430f9](https://gitlab.com/snowgem/snowpay-api/-/commit/866430f90d4627c217b935ce55353777a3d6f7bc): #87 - bittrex api rate limits - Kamil Wojciechowski<br>[d0066e2c](https://gitlab.com/snowgem/snowpay-api/-/commit/d0066e2c32d7630f73f9bd413c54881cd467a518): Merge branch 'release_2020_08_12' into 'master' - demzet</sub> |
 | <sub>2020-08-22 10:18:04</sub> | <sub>demzet (aphex5) merged merge request [\!16 \*Release 2020 08 12\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/16) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-22 10:17:59</sub> | <sub>demzet (aphex5) opened merge request [\!16 \*Release 2020 08 12\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/16) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1494 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-21 20:59:15</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/43685bb794867e9a55cf63af074749e82628d114...109cfe0d051c103b9f0d83930271c1a6168462b7))</sub> | <sub>[109cfe0d](https://gitlab.com/snowgem/bitfrost/-/commit/109cfe0d051c103b9f0d83930271c1a6168462b7): updated test environment urls - Kamil Wojciechowski</sub> |
 | <sub>2020-08-21 20:32:37</sub> | <sub>demzet pushed to branch [release\_2020\_08\_12](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_12) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6b1816ae3102fe78a51c23a8b3f36393c825681f...ace0c14bf87d41e6292f55abd7b668c02677ae67))</sub> | <sub>[ace0c14b](https://gitlab.com/snowgem/snowpay-api/-/commit/ace0c14bf87d41e6292f55abd7b668c02677ae67): CI - Kamil Wojciechowski</sub> |
 | <sub>2020-08-21 17:53:51</sub> | <sub>Txid pushed to branch [v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1057e76cfd8a4e220beb55c6f720800f7dbfab35...07d0afae49685ccbe9be3d6dc1cbaedb45cdc16c))</sub> | <sub>[07d0afae](https://gitlab.com/snowgem/bitfrost/-/commit/07d0afae49685ccbe9be3d6dc1cbaedb45cdc16c): improve create token flow - Snowgem</sub> |
-| <sub>2020-08-21 17:48:01</sub> | <sub>Bartosz Szpara removed branch feature/translations from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
