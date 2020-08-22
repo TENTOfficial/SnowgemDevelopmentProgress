@@ -16421,5 +16421,20 @@
       "description": "[25c8c143](https://gitlab.com/snowgem/bitfrost/-/commit/25c8c1439d3531a6dd1706e4a013632591699173): update old wallets on app init - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-22 17:15:37.026000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch v0.0.8-merge-v0.0.9 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-22 17:16:09.967000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-08-22 17:16:46.155000"
   }
 ]
