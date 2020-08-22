@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1505 commits since 20/01/2020. You can see the complete history in
+There is a total of 1507 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-22 13:31:25</sub> | <sub>demzet pushed new tag [release\_2020\_08\_22\_4](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_4) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-08-22 13:30:24</sub> | <sub>demzet pushed to branch [release\_2020\_08\_22](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_22) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1f6b8d567f75cbfd535f1c86a9cefb56d0f3d8f0...b42327b911efa76161483b282b3ad8307822015e))</sub> | <sub>[b42327b9](https://gitlab.com/snowgem/snowpay-api/-/commit/b42327b911efa76161483b282b3ad8307822015e): #78 - stack update - Kamil Wojciechowski</sub> |
 | <sub>2020-08-22 13:27:30</sub> | <sub>demzet pushed new tag [release\_2020\_08\_22\_3](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_3) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-22 13:23:30</sub> | <sub>demzet pushed to branch [release\_2020\_08\_22](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_22) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bb550b0e970ba76e6ecc5bbc4ce4cef7d7223170...1f6b8d567f75cbfd535f1c86a9cefb56d0f3d8f0))</sub> | <sub>[1f6b8d56](https://gitlab.com/snowgem/snowpay-api/-/commit/1f6b8d567f75cbfd535f1c86a9cefb56d0f3d8f0): #78 - swarm deployer fix - Kamil Wojciechowski</sub> |
 | <sub>2020-08-22 13:00:17</sub> | <sub>demzet pushed new tag [release\_2020\_08\_22\_2](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_2) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -16,7 +18,5 @@ There is a total of 1505 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-22 10:44:42</sub> | <sub>demzet pushed new tag [release\_2020\_08\_22\_1](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_1) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-22 10:41:46</sub> | <sub>demzet pushed to branch [release\_2020\_08\_22](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_22) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/465c8f2113330fabf30e1ec7bee48c394bbf0a66...471d9841cd2ae5f20c027bbdd65b37cfc82f21c0))</sub> | <sub>[471d9841](https://gitlab.com/snowgem/snowpay-api/-/commit/471d9841cd2ae5f20c027bbdd65b37cfc82f21c0): Update .gitlab-ci.yml - demzet</sub> |
 | <sub>2020-08-22 10:40:55</sub> | <sub>demzet removed tag release_2020_08_22_1 from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-08-22 10:40:21</sub> | <sub>demzet pushed new tag [release\_2020\_08\_22\_1](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_1) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-08-22 10:35:59</sub> | <sub>demzet pushed to branch [release\_2020\_08\_22](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_22) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d0066e2c32d7630f73f9bd413c54881cd467a518...465c8f2113330fabf30e1ec7bee48c394bbf0a66))</sub> | <sub>[465c8f21](https://gitlab.com/snowgem/snowpay-api/-/commit/465c8f2113330fabf30e1ec7bee48c394bbf0a66): [skip ci] - release settings - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

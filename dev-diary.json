@@ -16386,5 +16386,20 @@
     "author": "GitLab",
     "content": "demzet pushed new tag [release\\_2020\\_08\\_22\\_3](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_3) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-08-22 13:27:30.231000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_22](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_22) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1f6b8d567f75cbfd535f1c86a9cefb56d0f3d8f0...b42327b911efa76161483b282b3ad8307822015e))",
+    "created_at": "2020-08-22 13:30:24.516000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b42327b9](https://gitlab.com/snowgem/snowpay-api/-/commit/b42327b911efa76161483b282b3ad8307822015e): #78 - stack update - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new tag [release\\_2020\\_08\\_22\\_4](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_4) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-22 13:31:25.489000"
   }
 ]
