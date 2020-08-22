@@ -16366,5 +16366,10 @@
       "description": "[84d8b6ff](https://gitlab.com/snowgem/snowpay-api/-/commit/84d8b6ffc879a0e1dc31911f33fb4c4cf995cfed): #78 - updated stack definition - Kamil Wojciechowski\n\n[bb550b0e](https://gitlab.com/snowgem/snowpay-api/-/commit/bb550b0e970ba76e6ecc5bbc4ce4cef7d7223170): Merge branch 'release_2020_08_22' of https://gitlab.com/snowgem/snowpay-api into release_2020_08_22 - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new tag [release\\_2020\\_08\\_22\\_2](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_2) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-22 13:00:17.678000"
   }
 ]
