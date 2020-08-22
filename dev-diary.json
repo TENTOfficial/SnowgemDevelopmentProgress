@@ -16321,5 +16321,30 @@
       "description": "[465c8f21](https://gitlab.com/snowgem/snowpay-api/-/commit/465c8f2113330fabf30e1ec7bee48c394bbf0a66): [skip ci] - release settings - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new tag [release\\_2020\\_08\\_22\\_1](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_1) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-22 10:40:21.432000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed tag release_2020_08_22_1 from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-22 10:40:55.731000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_08\\_22](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_08_22) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/465c8f2113330fabf30e1ec7bee48c394bbf0a66...471d9841cd2ae5f20c027bbdd65b37cfc82f21c0))",
+    "created_at": "2020-08-22 10:41:46.396000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[471d9841](https://gitlab.com/snowgem/snowpay-api/-/commit/471d9841cd2ae5f20c027bbdd65b37cfc82f21c0): Update .gitlab-ci.yml - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new tag [release\\_2020\\_08\\_22\\_1](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_1) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-22 10:44:42.670000"
   }
 ]
