@@ -16346,5 +16346,15 @@
     "author": "GitLab",
     "content": "demzet pushed new tag [release\\_2020\\_08\\_22\\_1](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_08_22_1) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-08-22 10:44:42.670000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e41e1368b38d277bed26ca69a6755fa02e78c794...126eba4685a77c2ffeab091ba670484d76e2c431))",
+    "created_at": "2020-08-22 10:56:10.134000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[126eba46](https://gitlab.com/snowgem/bitfrost/-/commit/126eba4685a77c2ffeab091ba670484d76e2c431): swap caching - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
