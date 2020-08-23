@@ -16456,5 +16456,15 @@
       "description": "[798ae3fa](https://gitlab.com/snowgem/bitfrost/-/commit/798ae3fafc96396e5ea332527935872553f52d5f): Added settings translations ts - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/798ae3fafc96396e5ea332527935872553f52d5f...334885bce4697a2214eddf968b64c7cf5d73289a))",
+    "created_at": "2020-08-23 16:38:25.559000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9c18b452](https://gitlab.com/snowgem/bitfrost/-/commit/9c18b45274cb5d49a327441f3c27061d2ac9b3dc): Added modals translations - bszpara\n\n[334885bc](https://gitlab.com/snowgem/bitfrost/-/commit/334885bce4697a2214eddf968b64c7cf5d73289a): Added rest translations - bszpara",
+      "type": "rich"
+    }
   }
 ]
