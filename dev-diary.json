@@ -16486,5 +16486,15 @@
       "description": "[024c359b](https://gitlab.com/snowgem/bitfrost/-/commit/024c359bee0883b1093e62fa66d5cd20a1db2288): Fixed missing fields bug  updated translations - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/4b9986705d23e65cc6c51c03bf2c0439d094e61d...a433feccdc4497445bd09e36c581add6a0b568b3))",
+    "created_at": "2020-08-23 20:15:48.372000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a433fecc](https://gitlab.com/snowgem/freyja/-/commit/a433feccdc4497445bd09e36c581add6a0b568b3): Added update node command in readme.md - ciripel",
+      "type": "rich"
+    }
   }
 ]
