@@ -16506,5 +16506,15 @@
       "description": "[a5de542d](https://gitlab.com/snowgem/bitfrost/-/commit/a5de542dfa483b39f0999e424bc90750b5526cfc): WS connection on the main thread if no worklet - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a5de542dfa483b39f0999e424bc90750b5526cfc...e8253833c7dd6282ea41e461fba408596cb27d24))",
+    "created_at": "2020-08-24 16:04:34.361000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c5f66e63](https://gitlab.com/snowgem/bitfrost/-/commit/c5f66e63cb5acde1628789c906feaf25da2f81a5): Coinlist source folder fix - Filip Storkan\n\n[e8253833](https://gitlab.com/snowgem/bitfrost/-/commit/e8253833c7dd6282ea41e461fba408596cb27d24): removing unused file - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
