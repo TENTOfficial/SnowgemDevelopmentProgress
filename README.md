@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1518 commits since 20/01/2020. You can see the complete history in
+There is a total of 1519 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-24 08:19:04</sub> | <sub>Filip Storkan pushed to branch [v0\.0\.8\-merge\-v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dc92dfa1d229978f3ba2eedc0cd9517424838584...a5de542dfa483b39f0999e424bc90750b5526cfc))</sub> | <sub>[a5de542d](https://gitlab.com/snowgem/bitfrost/-/commit/a5de542dfa483b39f0999e424bc90750b5526cfc): WS connection on the main thread if no worklet - Filip Storkan</sub> |
 | <sub>2020-08-23 20:15:48</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/4b9986705d23e65cc6c51c03bf2c0439d094e61d...a433feccdc4497445bd09e36c581add6a0b568b3))</sub> | <sub>[a433fecc](https://gitlab.com/snowgem/freyja/-/commit/a433feccdc4497445bd09e36c581add6a0b568b3): Added update node command in readme.md - ciripel</sub> |
 | <sub>2020-08-23 19:07:20</sub> | <sub>Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/caba303ee3826f3f41620bc48d3828fe4a402c2a...024c359bee0883b1093e62fa66d5cd20a1db2288))</sub> | <sub>[024c359b](https://gitlab.com/snowgem/bitfrost/-/commit/024c359bee0883b1093e62fa66d5cd20a1db2288): Fixed missing fields bug  updated translations - bszpara</sub> |
 | <sub>2020-08-23 17:30:12</sub> | <sub>Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/334885bce4697a2214eddf968b64c7cf5d73289a...caba303ee3826f3f41620bc48d3828fe4a402c2a))</sub> | <sub>[caba303e](https://gitlab.com/snowgem/bitfrost/-/commit/caba303ee3826f3f41620bc48d3828fe4a402c2a): Added polish language - bszpara</sub> |
@@ -17,6 +18,5 @@ There is a total of 1518 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-22 17:16:46</sub> | <sub>Filip Storkan pushed new branch [v0\.0\.8\-merge\-v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-22 17:16:09</sub> | <sub>Filip Storkan removed branch v0.0.8-merge-v0.0.9 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-22 17:15:37</sub> | <sub>Filip Storkan pushed new branch [v0\.0\.8\-merge\-v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-08-22 17:14:12</sub> | <sub>Filip Storkan pushed to branch [v0\.0\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3d984d1abb4ff3d0eec8fae1f4810c974f04f9f4...25c8c1439d3531a6dd1706e4a013632591699173))</sub> | <sub>[25c8c143](https://gitlab.com/snowgem/bitfrost/-/commit/25c8c1439d3531a6dd1706e4a013632591699173): update old wallets on app init - Filip Storkan</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

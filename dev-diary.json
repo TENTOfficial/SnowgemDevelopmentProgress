@@ -16496,5 +16496,15 @@
       "description": "[a433fecc](https://gitlab.com/snowgem/freyja/-/commit/a433feccdc4497445bd09e36c581add6a0b568b3): Added update node command in readme.md - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dc92dfa1d229978f3ba2eedc0cd9517424838584...a5de542dfa483b39f0999e424bc90750b5526cfc))",
+    "created_at": "2020-08-24 08:19:04.275000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a5de542d](https://gitlab.com/snowgem/bitfrost/-/commit/a5de542dfa483b39f0999e424bc90750b5526cfc): WS connection on the main thread if no worklet - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
