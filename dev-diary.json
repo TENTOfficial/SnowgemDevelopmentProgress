@@ -16526,5 +16526,15 @@
       "description": "[308c58ac](https://gitlab.com/snowgem/bitfrost/-/commit/308c58ac3aacdd750b8fd67041f0bbde85375802): correct ETH and token data - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/a433feccdc4497445bd09e36c581add6a0b568b3...4a7840a8cfe2e8b12cbb26205ce02d3fbcd259e8))",
+    "created_at": "2020-08-24 18:15:21.676000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4a7840a8](https://gitlab.com/snowgem/freyja/-/commit/4a7840a8cfe2e8b12cbb26205ce02d3fbcd259e8): Doubled TLS_READ_TIMEOUT in freyja.service - ciripel",
+      "type": "rich"
+    }
   }
 ]
