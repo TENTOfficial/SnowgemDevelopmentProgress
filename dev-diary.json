@@ -16536,5 +16536,15 @@
       "description": "[4a7840a8](https://gitlab.com/snowgem/freyja/-/commit/4a7840a8cfe2e8b12cbb26205ce02d3fbcd259e8): Doubled TLS_READ_TIMEOUT in freyja.service - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/4a7840a8cfe2e8b12cbb26205ce02d3fbcd259e8...171882eed5080f76c3a9ff87657e125b3b226ef7))",
+    "created_at": "2020-08-24 18:24:18.425000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[171882ee](https://gitlab.com/snowgem/freyja/-/commit/171882eed5080f76c3a9ff87657e125b3b226ef7): Added get-node-configuration - ciripel",
+      "type": "rich"
+    }
   }
 ]
