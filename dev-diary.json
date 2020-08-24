@@ -16546,5 +16546,15 @@
       "description": "[171882ee](https://gitlab.com/snowgem/freyja/-/commit/171882eed5080f76c3a9ff87657e125b3b226ef7): Added get-node-configuration - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/024c359bee0883b1093e62fa66d5cd20a1db2288...72b51220c174cc7a5a997173033245bc63706214))",
+    "created_at": "2020-08-24 19:52:58.634000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[72b51220](https://gitlab.com/snowgem/bitfrost/-/commit/72b51220c174cc7a5a997173033245bc63706214): Updated translations - bszpara",
+      "type": "rich"
+    }
   }
 ]
