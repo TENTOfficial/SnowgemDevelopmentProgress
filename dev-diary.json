@@ -16729,5 +16729,15 @@
       "description": "[ef92e438](https://gitlab.com/snowgem/bitfrost/-/commit/ef92e43880e442efd2e7097bbeec5e1a12cb280c): Removed language route - bszpara\n\n[4e4003a2](https://gitlab.com/snowgem/bitfrost/-/commit/4e4003a2282168762dea978008faca035bd59be0): Implemented language settings control - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/3edcdfe27428121effabf51c0f1c14b706d8cd93...f945ff20e68f8610165431a7157f008ef7293dde))",
+    "created_at": "2020-08-25 22:23:19.493000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f945ff20](https://gitlab.com/snowgem/freyja/-/commit/f945ff20e68f8610165431a7157f008ef7293dde): formating report to embed message - ciripel",
+      "type": "rich"
+    }
   }
 ]
