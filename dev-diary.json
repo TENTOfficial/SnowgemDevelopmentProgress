@@ -16689,5 +16689,15 @@
       "description": "[76e5be4f](https://gitlab.com/snowgem/freyja/-/commit/76e5be4fa2c3bf52f31809f0f478b7816f098619): possibility to request health check and auto scheduled healthchecks on node addition and update - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/76e5be4fa2c3bf52f31809f0f478b7816f098619...ab1a2f13767973c0469b4e1478350cd1f56a6a77))",
+    "created_at": "2020-08-25 16:59:12.852000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ab1a2f13](https://gitlab.com/snowgem/freyja/-/commit/ab1a2f13767973c0469b4e1478350cd1f56a6a77): fixed bootstrap nodes names in reporting - V",
+      "type": "rich"
+    }
   }
 ]
