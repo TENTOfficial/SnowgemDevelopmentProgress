@@ -16594,5 +16594,30 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/74e09e66989469e18c5541294749702dbd0014e2"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!17 \\*Release 2020 08 22\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/17) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-25 10:27:11.466000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!17 \\*Release 2020 08 22\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/17) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-25 10:27:25.665000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!17 \\*Release 2020 08 22\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/17) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-25 10:27:32.541000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d0066e2c32d7630f73f9bd413c54881cd467a518...9725fc146bb142e217c2eaee818a4a0bcdc1ef97))",
+    "created_at": "2020-08-25 10:27:32.818000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[465c8f21](https://gitlab.com/snowgem/snowpay-api/-/commit/465c8f2113330fabf30e1ec7bee48c394bbf0a66): [skip ci] - release settings - Kamil Wojciechowski\n\n[471d9841](https://gitlab.com/snowgem/snowpay-api/-/commit/471d9841cd2ae5f20c027bbdd65b37cfc82f21c0): Update .gitlab-ci.yml - demzet\n\n[84d8b6ff](https://gitlab.com/snowgem/snowpay-api/-/commit/84d8b6ffc879a0e1dc31911f33fb4c4cf995cfed): #78 - updated stack definition - Kamil Wojciechowski\n\n[bb550b0e](https://gitlab.com/snowgem/snowpay-api/-/commit/bb550b0e970ba76e6ecc5bbc4ce4cef7d7223170): Merge branch 'release_2020_08_22' of https://gitlab.com/snowgem/snowpay-api into release_2020_08_22 - Kamil Wojciechowski\n\n[1f6b8d56](https://gitlab.com/snowgem/snowpay-api/-/commit/1f6b8d567f75cbfd535f1c86a9cefb56d0f3d8f0): #78 - swarm deployer fix - Kamil Wojciechowski\n\n[b42327b9](https://gitlab.com/snowgem/snowpay-api/-/commit/b42327b911efa76161483b282b3ad8307822015e): #78 - stack update - Kamil Wojciechowski\n\n[9725fc14](https://gitlab.com/snowgem/snowpay-api/-/commit/9725fc146bb142e217c2eaee818a4a0bcdc1ef97): Merge branch 'release_2020_08_22' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
