@@ -16719,5 +16719,15 @@
       "description": "[3edcdfe2](https://gitlab.com/snowgem/freyja/-/commit/3edcdfe27428121effabf51c0f1c14b706d8cd93): fixed check whether bootstrap node exists - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b9e6b6fb0f97a0e43e94a20ec00db97581415191...4e4003a2282168762dea978008faca035bd59be0))",
+    "created_at": "2020-08-25 18:38:26.137000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ef92e438](https://gitlab.com/snowgem/bitfrost/-/commit/ef92e43880e442efd2e7097bbeec5e1a12cb280c): Removed language route - bszpara\n\n[4e4003a2](https://gitlab.com/snowgem/bitfrost/-/commit/4e4003a2282168762dea978008faca035bd59be0): Implemented language settings control - bszpara",
+      "type": "rich"
+    }
   }
 ]
