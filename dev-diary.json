@@ -16709,5 +16709,15 @@
       "description": "[c3abfe05](https://gitlab.com/snowgem/freyja/-/commit/c3abfe052f51e0d7b3fbddcea3532b47c1e7b484): api now allow calls to bootstrap nodes - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/c3abfe052f51e0d7b3fbddcea3532b47c1e7b484...3edcdfe27428121effabf51c0f1c14b706d8cd93))",
+    "created_at": "2020-08-25 17:27:17.508000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3edcdfe2](https://gitlab.com/snowgem/freyja/-/commit/3edcdfe27428121effabf51c0f1c14b706d8cd93): fixed check whether bootstrap node exists - V",
+      "type": "rich"
+    }
   }
 ]
