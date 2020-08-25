@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1536 commits since 20/01/2020. You can see the complete history in
+There is a total of 1537 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-25 15:40:25</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/0e18b5d64ba331a882e5bcbe2843b7b75a17d663...3c115ff72eca954f1558c94574e2f7ae09a45222))</sub> | <sub>[3c115ff7](https://gitlab.com/snowgem/freyja/-/commit/3c115ff72eca954f1558c94574e2f7ae09a45222): removed alive message from reporting - V</sub> |
 | <sub>2020-08-25 14:49:54</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/99e6f5df68c9da450029b1605717a88faa9abe07...0e18b5d64ba331a882e5bcbe2843b7b75a17d663))</sub> | <sub>[0e18b5d6](https://gitlab.com/snowgem/freyja/-/commit/0e18b5d64ba331a882e5bcbe2843b7b75a17d663): reporting fixes (msg format, local db mutation etc.) - V</sub> |
 | <sub>2020-08-25 13:29:40</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/945ca3cfaea32acf13006960dfededbd018de2e9...99e6f5df68c9da450029b1605717a88faa9abe07))</sub> | <sub>[defb9413](https://gitlab.com/snowgem/freyja/-/commit/defb9413ea10518b8990aef581aec54283220834): config -> config.example - V<br>[99e6f5df](https://gitlab.com/snowgem/freyja/-/commit/99e6f5df68c9da450029b1605717a88faa9abe07): updated .gitignore - V</sub> |
 | <sub>2020-08-25 13:21:32</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/a0af162b159fc0a0f461350520be287c4c30889c...945ca3cfaea32acf13006960dfededbd018de2e9))</sub> | <sub>[945ca3cf](https://gitlab.com/snowgem/freyja/-/commit/945ca3cfaea32acf13006960dfededbd018de2e9): report source override - V</sub> |
@@ -17,6 +18,5 @@ There is a total of 1536 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-25 10:27:32</sub> | <sub>demzet (aphex5) merged merge request [\!17 \*Release 2020 08 22\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/17) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-25 10:27:25</sub> | <sub>demzet (aphex5) approved merge request [\!17 \*Release 2020 08 22\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/17) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-25 10:27:11</sub> | <sub>demzet (aphex5) opened merge request [\!17 \*Release 2020 08 22\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/17) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-08-24 20:56:10</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/74e09e66989469e18c5541294749702dbd0014e2)</sub> | <sub>[74e09e6](https://github.com/ciripel/Heimdall/commit/74e09e66989469e18c5541294749702dbd0014e2) updated default no of nodes to 1900 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
