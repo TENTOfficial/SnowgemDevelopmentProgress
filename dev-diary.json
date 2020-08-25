@@ -16649,5 +16649,15 @@
       "description": "[945ca3cf](https://gitlab.com/snowgem/freyja/-/commit/945ca3cfaea32acf13006960dfededbd018de2e9): report source override - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/945ca3cfaea32acf13006960dfededbd018de2e9...99e6f5df68c9da450029b1605717a88faa9abe07))",
+    "created_at": "2020-08-25 13:29:40.932000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[defb9413](https://gitlab.com/snowgem/freyja/-/commit/defb9413ea10518b8990aef581aec54283220834): config -> config.example - V\n\n[99e6f5df](https://gitlab.com/snowgem/freyja/-/commit/99e6f5df68c9da450029b1605717a88faa9abe07): updated .gitignore - V",
+      "type": "rich"
+    }
   }
 ]
