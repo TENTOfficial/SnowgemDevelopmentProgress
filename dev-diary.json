@@ -16739,5 +16739,25 @@
       "description": "[f945ff20](https://gitlab.com/snowgem/freyja/-/commit/f945ff20e68f8610165431a7157f008ef7293dde): formating report to embed message - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/f945ff20e68f8610165431a7157f008ef7293dde...ee6679cc49e8f9cce9d840458197673826c27ed3))",
+    "created_at": "2020-08-25 22:30:10.347000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ee6679cc](https://gitlab.com/snowgem/freyja/-/commit/ee6679cc49e8f9cce9d840458197673826c27ed3): modified formating of reports - ciripel",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/ee6679cc49e8f9cce9d840458197673826c27ed3...c8ac76f4d4370fc3fddd19a61573988c8cbc034e))",
+    "created_at": "2020-08-25 22:31:42.190000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c8ac76f4](https://gitlab.com/snowgem/freyja/-/commit/c8ac76f4d4370fc3fddd19a61573988c8cbc034e): fixed author - ciripel",
+      "type": "rich"
+    }
   }
 ]
