@@ -16924,5 +16924,15 @@
       "description": "[fe7b92d6](https://gitlab.com/snowgem/bitfrost/-/commit/fe7b92d67780e81d18a3a11c1e6bfceaba39fb14): increase gas limit for eth - Snowgem\n\n[e49c6710](https://gitlab.com/snowgem/bitfrost/-/commit/e49c6710334e43982d111426c7caa0765e2db035): Merge branch 'v0.0.8-merge-v0.0.9' of https://gitlab.com/snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e49c6710334e43982d111426c7caa0765e2db035...62ed683cef4889789c565f7fd2b35b95aa66c94c))",
+    "created_at": "2020-08-26 18:22:32.616000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7fe47d16](https://gitlab.com/snowgem/bitfrost/-/commit/7fe47d1652ea90d336ca557e727da3875fac7628): correct gas text - Snowgem\n\n[62ed683c](https://gitlab.com/snowgem/bitfrost/-/commit/62ed683cef4889789c565f7fd2b35b95aa66c94c): add export/import from images - Snowgem",
+      "type": "rich"
+    }
   }
 ]
