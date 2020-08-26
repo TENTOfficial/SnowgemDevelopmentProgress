@@ -16814,5 +16814,15 @@
       "description": "[f360aa5e](https://gitlab.com/snowgem/bitfrost/-/commit/f360aa5ebea30dc8d98cc6a2ea336a095a6c83e9): stringify abi - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f360aa5ebea30dc8d98cc6a2ea336a095a6c83e9...e432ae6e9fd0dae5cec853f7331c17199ff01f51))",
+    "created_at": "2020-08-26 08:02:02.892000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e432ae6e](https://gitlab.com/snowgem/bitfrost/-/commit/e432ae6e9fd0dae5cec853f7331c17199ff01f51): fix coinlist path - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
