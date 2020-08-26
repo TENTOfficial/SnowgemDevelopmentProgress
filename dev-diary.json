@@ -16904,5 +16904,15 @@
       "description": "[593b8576](https://gitlab.com/snowgem/freyja/-/commit/593b85768b5f158d96533d59b0f4fa86e6cdf11c): updated rejects from ami execution - V\n\n[4b9854ad](https://gitlab.com/snowgem/freyja/-/commit/4b9854addbf8c08162855fa1f02c1882e7d51953): support for silent checks - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dd071ad58bebf1572f069348c2ddd9dd05d4e8ce...19ed1e1edf7438b5ec9c701622c93c94ef066202))",
+    "created_at": "2020-08-26 15:05:12.260000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9eaa2451](https://gitlab.com/snowgem/bitfrost/-/commit/9eaa245185a43cda15ad844e7b4cad95d772ea2a): sql string fix - Filip Storkan\n\n[fd7fb5eb](https://gitlab.com/snowgem/bitfrost/-/commit/fd7fb5ebc4b21b6128198ed58cbe0e1acd97620d): wallet's logo has default value an empty string - Filip Storkan\n\n[19ed1e1e](https://gitlab.com/snowgem/bitfrost/-/commit/19ed1e1edf7438b5ec9c701622c93c94ef066202): create and update wallet sql statement changed - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
