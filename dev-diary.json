@@ -16934,5 +16934,23 @@
       "description": "[7fe47d16](https://gitlab.com/snowgem/bitfrost/-/commit/7fe47d1652ea90d336ca557e727da3875fac7628): correct gas text - Snowgem\n\n[62ed683c](https://gitlab.com/snowgem/bitfrost/-/commit/62ed683cef4889789c565f7fd2b35b95aa66c94c): add export/import from images - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-26 18:30:59.632000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`1abd646`](https://github.com/ciripel/Heimdall/commit/1abd646acdd48dd1f752babe659875c9b338fd40) implement !del [no of messages] hiddend command... - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/1abd646acdd48dd1f752babe659875c9b338fd40"
+    }
   }
 ]
