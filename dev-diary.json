@@ -16834,5 +16834,15 @@
       "description": "[72435f69](https://gitlab.com/snowgem/bitfrost/-/commit/72435f69a610ee2be6b46ca6a0f760f38b282519): fix get eth balance - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/72435f69a610ee2be6b46ca6a0f760f38b282519...c95785cd6790aa02a5d7623a8975072fc045a1c2))",
+    "created_at": "2020-08-26 08:20:37.367000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c95785cd](https://gitlab.com/snowgem/bitfrost/-/commit/c95785cd6790aa02a5d7623a8975072fc045a1c2): abi set inside createWallet method - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
