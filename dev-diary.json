@@ -16769,5 +16769,15 @@
       "description": "[e6ff3407](https://gitlab.com/snowgem/freyja/-/commit/e6ff340786da263182beda04b7dea19f1a78ecc5): reporting improvements: - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/e6ff340786da263182beda04b7dea19f1a78ecc5...df4563e8492eb3ef4e2a61f8805df9dc83feeb43))",
+    "created_at": "2020-08-26 04:56:50.528000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[df4563e8](https://gitlab.com/snowgem/freyja/-/commit/df4563e8492eb3ef4e2a61f8805df9dc83feeb43): adjusted report colors - V",
+      "type": "rich"
+    }
   }
 ]
