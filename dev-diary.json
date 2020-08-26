@@ -16854,5 +16854,15 @@
       "description": "[fa4b438b](https://gitlab.com/snowgem/bitfrost/-/commit/fa4b438b164c4b8df29e4560f7a3d5fa73fd2eba): removing abi from db - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [crypto\\_to\\_fiat\\_swaps](https://gitlab.com/snowgem/snowpay-api/commits/crypto_to_fiat_swaps) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9725fc146bb142e217c2eaee818a4a0bcdc1ef97...20376fa221d6f39ddff78f3505547505a1c5bd8b))",
+    "created_at": "2020-08-26 10:00:40.551000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[20376fa2](https://gitlab.com/snowgem/snowpay-api/-/commit/20376fa221d6f39ddff78f3505547505a1c5bd8b): #90 - [CryptoToFiat] API starts crypto to fiat swap saga - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
