@@ -16789,5 +16789,15 @@
       "description": "[011f70e1](https://gitlab.com/snowgem/bitfrost/-/commit/011f70e1551e64976b8e8b6022c867fe37e4d51a): Token page - Filip Storkan\n\n[42adce56](https://gitlab.com/snowgem/bitfrost/-/commit/42adce567703a2a51f9336ecd6bdb16bb4a41944): Merge branch 'v0.0.8-merge-v0.0.9' of gitlab.com:snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/42adce567703a2a51f9336ecd6bdb16bb4a41944...c76b9143191173a199dc2e872a3d08b027030b8c))",
+    "created_at": "2020-08-26 07:27:27.297000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c76b9143](https://gitlab.com/snowgem/bitfrost/-/commit/c76b9143191173a199dc2e872a3d08b027030b8c): removing balanceUpdate - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
