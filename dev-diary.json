@@ -16874,5 +16874,15 @@
       "description": "[770d9f69](https://gitlab.com/snowgem/bitfrost/-/commit/770d9f69cae1631303b4bdc390143d7c2285f50a): No wallets page link fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [crypto\\_to\\_fiat\\_swaps](https://gitlab.com/snowgem/snowpay-api/commits/crypto_to_fiat_swaps) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/20376fa221d6f39ddff78f3505547505a1c5bd8b...9054a37ec64b2b9f2c684ab80eab4006f05535fe))",
+    "created_at": "2020-08-26 13:43:29.747000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9054a37e](https://gitlab.com/snowgem/snowpay-api/-/commit/9054a37ec64b2b9f2c684ab80eab4006f05535fe): #90 - [CryptoToFiat] API starts crypto to fiat swap saga - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
