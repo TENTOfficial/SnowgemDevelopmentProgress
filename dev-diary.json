@@ -17091,5 +17091,40 @@
       "description": "[da37c833](https://gitlab.com/snowgem/snowpay-api/-/commit/da37c833bee45ef708d740e056e6ee2aa81cd9fa): #93 - Restore user data endpoint - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release/september\\_1](https://gitlab.com/snowgem/snowpay-api/commits/release/september_1) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/da37c833bee45ef708d740e056e6ee2aa81cd9fa...63175ac00e1867c2eab0fc051c3537ede07b42a1))",
+    "created_at": "2020-08-27 13:10:17.464000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[63175ac0](https://gitlab.com/snowgem/snowpay-api/-/commit/63175ac00e1867c2eab0fc051c3537ede07b42a1): #96 - Bittrex regression testing - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!18 \\*Release/september 1\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/18) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-27 13:14:27.392000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9725fc146bb142e217c2eaee818a4a0bcdc1ef97...763c9906b1b249e29551692fd4cd7f1d9cedab15))",
+    "created_at": "2020-08-27 13:14:34.028000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d7fb4ee8](https://gitlab.com/snowgem/snowpay-api/-/commit/d7fb4ee842f4f2daf4e33c2fff8bf901d1ddb195): #94 - Fluent validation error message translations - Kamil Wojciechowski\n\n[b0668014](https://gitlab.com/snowgem/snowpay-api/-/commit/b06680145c1931f623c5b37a87327846fdf43db9): #94 - Fluent validation error message translations - Kamil Wojciechowski\n\n[da37c833](https://gitlab.com/snowgem/snowpay-api/-/commit/da37c833bee45ef708d740e056e6ee2aa81cd9fa): #93 - Restore user data endpoint - Kamil Wojciechowski\n\n[63175ac0](https://gitlab.com/snowgem/snowpay-api/-/commit/63175ac00e1867c2eab0fc051c3537ede07b42a1): #96 - Bittrex regression testing - Kamil Wojciechowski\n\n[763c9906](https://gitlab.com/snowgem/snowpay-api/-/commit/763c9906b1b249e29551692fd4cd7f1d9cedab15): Merge branch 'release/september_1' into 'master' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!18 \\*Release/september 1\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/18) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-27 13:14:34.113000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch release/september_1 from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-27 13:14:34.744000"
   }
 ]
