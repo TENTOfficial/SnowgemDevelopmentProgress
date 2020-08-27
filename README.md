@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1573 commits since 20/01/2020. You can see the complete history in
+There is a total of 1574 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-27 12:32:08</sub> | <sub>demzet pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4e4003a2282168762dea978008faca035bd59be0...4304e22e472e2a0a9aedbf8541ffb7acef0359f2))</sub> | <sub>[4304e22e](https://gitlab.com/snowgem/bitfrost/-/commit/4304e22e472e2a0a9aedbf8541ffb7acef0359f2): #90 - updated api translations - demzet</sub> |
 | <sub>2020-08-27 12:21:06</sub> | <sub>demzet pushed to branch [release/september\_1](https://gitlab.com/snowgem/snowpay-api/commits/release/september_1) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d7fb4ee842f4f2daf4e33c2fff8bf901d1ddb195...b06680145c1931f623c5b37a87327846fdf43db9))</sub> | <sub>[b0668014](https://gitlab.com/snowgem/snowpay-api/-/commit/b06680145c1931f623c5b37a87327846fdf43db9): #94 - Fluent validation error message translations - Kamil Wojciechowski</sub> |
 | <sub>2020-08-27 11:44:19</sub> | <sub>demzet pushed new branch [release/september\_1](https://gitlab.com/snowgem/snowpay-api/commits/release/september_1) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-27 06:52:09</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/f9f8a47a3453a09c61f79b35b48d0f9993a1c67a)</sub> | <sub>[f9f8a47](https://github.com/ciripel/Heimdall/commit/f9f8a47a3453a09c61f79b35b48d0f9993a1c67a) keep it for all the bots. - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 1573 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-27 04:32:15</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/4b9854addbf8c08162855fa1f02c1882e7d51953...d2811bc529bc2ca17561a0c4a9062c031194642c))</sub> | <sub>[d2811bc5](https://gitlab.com/snowgem/freyja/-/commit/d2811bc529bc2ca17561a0c4a9062c031194642c): fixed silent checks factor - V</sub> |
 | <sub>2020-08-27 00:10:10</sub> | <sub>Bartosz Szpara pushed to branch [v0\.0\.8\-merge\-v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0163d3551e68821578b9cee2ddeacaa286c67841...5e45dcd9ca134b2a1864ebcf0dc562ce58f4cc7c))</sub> | <sub>[5e45dcd9](https://gitlab.com/snowgem/bitfrost/-/commit/5e45dcd9ca134b2a1864ebcf0dc562ce58f4cc7c): Missing theme to not break app fix - bszpara</sub> |
 | <sub>2020-08-26 21:20:24</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/4a2eb40b748c960785f8412e30626b46919cf735)</sub> | <sub>[4a2eb40](https://github.com/ciripel/Heimdall/commit/4a2eb40b748c960785f8412e30626b46919cf735) implemented autocleaner in #asgard-reporting (k... - ciripel</sub> |
-| <sub>2020-08-26 18:30:59</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/1abd646acdd48dd1f752babe659875c9b338fd40)</sub> | <sub>[1abd646](https://github.com/ciripel/Heimdall/commit/1abd646acdd48dd1f752babe659875c9b338fd40) implement !del [no of messages] hiddend command... - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

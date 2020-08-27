@@ -17061,5 +17061,15 @@
       "description": "[b0668014](https://gitlab.com/snowgem/snowpay-api/-/commit/b06680145c1931f623c5b37a87327846fdf43db9): #94 - Fluent validation error message translations - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4e4003a2282168762dea978008faca035bd59be0...4304e22e472e2a0a9aedbf8541ffb7acef0359f2))",
+    "created_at": "2020-08-27 12:32:08.244000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4304e22e](https://gitlab.com/snowgem/bitfrost/-/commit/4304e22e472e2a0a9aedbf8541ffb7acef0359f2): #90 - updated api translations - demzet",
+      "type": "rich"
+    }
   }
 ]
