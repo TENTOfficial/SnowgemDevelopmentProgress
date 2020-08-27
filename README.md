@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1571 commits since 20/01/2020. You can see the complete history in
+There is a total of 1572 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-08-27 11:44:19</sub> | <sub>demzet pushed new branch [release/september\_1](https://gitlab.com/snowgem/snowpay-api/commits/release/september_1) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-08-27 06:52:09</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/f9f8a47a3453a09c61f79b35b48d0f9993a1c67a)</sub> | <sub>[f9f8a47](https://github.com/ciripel/Heimdall/commit/f9f8a47a3453a09c61f79b35b48d0f9993a1c67a) keep it for all the bots. - ciripel</sub> |
 | <sub>2020-08-27 06:46:19</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/0ee8e71c355d94eedb41460b7124874216820a76)</sub> | <sub>[0ee8e71](https://github.com/ciripel/Heimdall/commit/0ee8e71c355d94eedb41460b7124874216820a76) delete only messages of freyja and keep only la... - ciripel</sub> |
 | <sub>2020-08-27 06:36:42</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/0e6be74cc07ecea04145a6b33a5df878d662dd26...af19467601f61e2a6b7f5d82668aa36718e40140))</sub> | <sub>[f978c816](https://gitlab.com/snowgem/freyja/-/commit/f978c81633386b912570040cac3d03e59751af60): exposed ami exitcode - V<br>[af194676](https://gitlab.com/snowgem/freyja/-/commit/af19467601f61e2a6b7f5d82668aa36718e40140): Merge branch 'master' of gitlab.com:snowgem/freyja - V</sub> |
@@ -17,6 +18,5 @@ There is a total of 1571 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-08-26 21:20:24</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/4a2eb40b748c960785f8412e30626b46919cf735)</sub> | <sub>[4a2eb40](https://github.com/ciripel/Heimdall/commit/4a2eb40b748c960785f8412e30626b46919cf735) implemented autocleaner in #asgard-reporting (k... - ciripel</sub> |
 | <sub>2020-08-26 18:30:59</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/1abd646acdd48dd1f752babe659875c9b338fd40)</sub> | <sub>[1abd646](https://github.com/ciripel/Heimdall/commit/1abd646acdd48dd1f752babe659875c9b338fd40) implement !del [no of messages] hiddend command... - ciripel</sub> |
 | <sub>2020-08-26 18:22:32</sub> | <sub>Txid pushed to branch [v0\.0\.8\-merge\-v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e49c6710334e43982d111426c7caa0765e2db035...62ed683cef4889789c565f7fd2b35b95aa66c94c))</sub> | <sub>[7fe47d16](https://gitlab.com/snowgem/bitfrost/-/commit/7fe47d1652ea90d336ca557e727da3875fac7628): correct gas text - Snowgem<br>[62ed683c](https://gitlab.com/snowgem/bitfrost/-/commit/62ed683cef4889789c565f7fd2b35b95aa66c94c): add export/import from images - Snowgem</sub> |
-| <sub>2020-08-26 16:30:17</sub> | <sub>Txid pushed to branch [v0\.0\.8\-merge\-v0\.0\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/19ed1e1edf7438b5ec9c701622c93c94ef066202...e49c6710334e43982d111426c7caa0765e2db035))</sub> | <sub>[fe7b92d6](https://gitlab.com/snowgem/bitfrost/-/commit/fe7b92d67780e81d18a3a11c1e6bfceaba39fb14): increase gas limit for eth - Snowgem<br>[e49c6710](https://gitlab.com/snowgem/bitfrost/-/commit/e49c6710334e43982d111426c7caa0765e2db035): Merge branch 'v0.0.8-merge-v0.0.9' of https://gitlab.com/snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
