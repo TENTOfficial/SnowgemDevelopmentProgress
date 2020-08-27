@@ -16970,5 +16970,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/4a2eb40b748c960785f8412e30626b46919cf735"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0163d3551e68821578b9cee2ddeacaa286c67841...5e45dcd9ca134b2a1864ebcf0dc562ce58f4cc7c))",
+    "created_at": "2020-08-27 00:10:10.325000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5e45dcd9](https://gitlab.com/snowgem/bitfrost/-/commit/5e45dcd9ca134b2a1864ebcf0dc562ce58f4cc7c): Missing theme to not break app fix - bszpara",
+      "type": "rich"
+    }
   }
 ]
