@@ -17028,5 +17028,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/0ee8e71c355d94eedb41460b7124874216820a76"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-08-27 06:52:09.897000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f9f8a47`](https://github.com/ciripel/Heimdall/commit/f9f8a47a3453a09c61f79b35b48d0f9993a1c67a) keep it for all the bots. - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/f9f8a47a3453a09c61f79b35b48d0f9993a1c67a"
+    }
   }
 ]
