@@ -17151,5 +17151,15 @@
       "description": "[d1cece6b](https://gitlab.com/snowgem/bitfrost/-/commit/d1cece6b2a40fdaf5fbb9ee7f568a00334ccfeff): correct zero icons - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d1cece6b2a40fdaf5fbb9ee7f568a00334ccfeff...9f36bede5286723295f29356eeefacfe6f27def8))",
+    "created_at": "2020-08-27 15:37:31.695000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7d07ef8e](https://gitlab.com/snowgem/bitfrost/-/commit/7d07ef8e2d468723a44c29e8b37471072eba19b8): update wallets on change - Snowgem\n\n[9f36bede](https://gitlab.com/snowgem/bitfrost/-/commit/9f36bede5286723295f29356eeefacfe6f27def8): export wallets to images - Snowgem",
+      "type": "rich"
+    }
   }
 ]
