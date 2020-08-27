@@ -17126,5 +17126,20 @@
     "author": "GitLab",
     "content": "demzet removed branch release/september_1 from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-08-27 13:14:34.744000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [release\\_2020\\_09\\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-08-27 13:22:00.380000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5e45dcd9ca134b2a1864ebcf0dc562ce58f4cc7c...75e39a3155e3fcc0e863d2ff75f2f1189c999bbe))",
+    "created_at": "2020-08-27 13:22:20.380000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d3d251ca](https://gitlab.com/snowgem/bitfrost/-/commit/d3d251cab3974094ece2aa41b41647d470a5aed2): setting default value to wallet's logo - Filip Storkan\n\n[a9a1fd0b](https://gitlab.com/snowgem/bitfrost/-/commit/a9a1fd0b6e23307ada5700ecd94bedc9ddfb592d): load conf fix - Filip Storkan\n\n[dbe15117](https://gitlab.com/snowgem/bitfrost/-/commit/dbe15117e80ce896c508907faa212e49f7a3e917): capacitor splash screen - Filip Storkan\n\n[94d654b7](https://gitlab.com/snowgem/bitfrost/-/commit/94d654b783847c4e38f0b7b2dad96e92ec968194): Using capacitor statusbar - Filip Storkan\n\n[17184040](https://gitlab.com/snowgem/bitfrost/-/commit/17184040f7b156875e87e608b69a6e8fe7d2fd4e): isNative util - Filip Storkan\n\n[88cf60bc](https://gitlab.com/snowgem/bitfrost/-/commit/88cf60bcf9c249876f3a9e9c054d36bc57eb530c): removed unused cordova plugins - Filip Storkan\n\n[75e39a31](https://gitlab.com/snowgem/bitfrost/-/commit/75e39a3155e3fcc0e863d2ff75f2f1189c999bbe): Merge branch 'v0.0.8-merge-v0.0.9' of gitlab.com:snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
