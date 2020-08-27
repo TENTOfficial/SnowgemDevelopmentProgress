@@ -17071,5 +17071,15 @@
       "description": "[4304e22e](https://gitlab.com/snowgem/bitfrost/-/commit/4304e22e472e2a0a9aedbf8541ffb7acef0359f2): #90 - updated api translations - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature/translation](https://gitlab.com/snowgem/bitfrost/commits/feature/translation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4304e22e472e2a0a9aedbf8541ffb7acef0359f2...70993fdacaab4c90f713142d9870643288be6da6))",
+    "created_at": "2020-08-27 12:49:32.162000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[70993fda](https://gitlab.com/snowgem/bitfrost/-/commit/70993fdacaab4c90f713142d9870643288be6da6): #94 - updated api translations - demzet",
+      "type": "rich"
+    }
   }
 ]
