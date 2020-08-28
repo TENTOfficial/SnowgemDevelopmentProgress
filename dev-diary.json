@@ -17221,5 +17221,15 @@
       "description": "[d0134e3c](https://gitlab.com/snowgem/bitfrost/-/commit/d0134e3ccdd7d4f8f789d6ec8f9debc23dc635f2): settings little refactor - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d0134e3ccdd7d4f8f789d6ec8f9debc23dc635f2...09e6d5d5b65acd4df003b32694b0f3fdc38094bc))",
+    "created_at": "2020-08-28 18:06:38.549000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[09e6d5d5](https://gitlab.com/snowgem/bitfrost/-/commit/09e6d5d5b65acd4df003b32694b0f3fdc38094bc): fixed  template reference - bszpara",
+      "type": "rich"
+    }
   }
 ]
