@@ -17171,5 +17171,15 @@
       "description": "[c6379c08](https://gitlab.com/snowgem/bitfrost/-/commit/c6379c086cf9cc0087543c26bb3019ecf871b147): clean up - Filip Storkan\n\n[ac00030b](https://gitlab.com/snowgem/bitfrost/-/commit/ac00030b94e90ce5dff84821be895cbfcfd873b6): updated package json - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_09\\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/763c9906b1b249e29551692fd4cd7f1d9cedab15...23028a7648eb41c8d8ca38476926a22d775c0089))",
+    "created_at": "2020-08-28 11:11:39.429000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[23028a76](https://gitlab.com/snowgem/snowpay-api/-/commit/23028a7648eb41c8d8ca38476926a22d775c0089): check rate if we reach rate limit - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
