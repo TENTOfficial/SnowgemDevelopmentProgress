@@ -17191,5 +17191,15 @@
       "description": "[271d0449](https://gitlab.com/snowgem/bitfrost/-/commit/271d044982589e142ef1fd3054fb529fb923748d): build script - Filip Storkan\n\n[21db97b3](https://gitlab.com/snowgem/bitfrost/-/commit/21db97b32376c02a68eb9dc5b3d561df996b823b): build job - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/21db97b32376c02a68eb9dc5b3d561df996b823b...b3d85bbfbcb429bb672f156d13323b5922c30042))",
+    "created_at": "2020-08-28 11:33:44.643000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b3d85bbf](https://gitlab.com/snowgem/bitfrost/-/commit/b3d85bbfbcb429bb672f156d13323b5922c30042): email inside settings page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
