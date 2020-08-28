@@ -17211,5 +17211,15 @@
       "description": "[b84fdb2b](https://gitlab.com/snowgem/snowpay-api/-/commit/b84fdb2ba71c30b8ec20c2df4f6a0bf758072b8b): #96 - bittrex rate limit adjustments - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b3d85bbfbcb429bb672f156d13323b5922c30042...d0134e3ccdd7d4f8f789d6ec8f9debc23dc635f2))",
+    "created_at": "2020-08-28 17:59:14.689000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d0134e3c](https://gitlab.com/snowgem/bitfrost/-/commit/d0134e3ccdd7d4f8f789d6ec8f9debc23dc635f2): settings little refactor - bszpara",
+      "type": "rich"
+    }
   }
 ]
