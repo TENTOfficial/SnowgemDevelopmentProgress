@@ -17261,5 +17261,15 @@
       "description": "[200e331d](https://gitlab.com/snowgem/bitfrost/-/commit/200e331dc64b5c6b46093cec794454987b7dc9aa): Rescan button translation fix - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/200e331dc64b5c6b46093cec794454987b7dc9aa...f51ac4f6a9cdb219354c44365ef655963b5d33d7))",
+    "created_at": "2020-08-30 19:31:48.301000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f51ac4f6](https://gitlab.com/snowgem/bitfrost/-/commit/f51ac4f6a9cdb219354c44365ef655963b5d33d7): About termes of servces translation - bszpara",
+      "type": "rich"
+    }
   }
 ]
