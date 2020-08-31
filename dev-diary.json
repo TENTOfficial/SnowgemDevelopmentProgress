@@ -17291,5 +17291,25 @@
       "description": "[cd325c15](https://gitlab.com/snowgem/freyja/-/commit/cd325c15edb21c4911219e78585fd91ab8352c10): pre migration fixes - root",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b7c89ddd62ca9a7fc40d7e65344b2be794a467cc...43eafd95403d887e3ba35e625680b886ca28b07c))",
+    "created_at": "2020-08-31 12:26:29.506000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e61faa67](https://gitlab.com/snowgem/bitfrost/-/commit/e61faa67b03ae4fea15d97762f2a9df576af7f38): API url updated - Filip Storkan\n\n[43eafd95](https://gitlab.com/snowgem/bitfrost/-/commit/43eafd95403d887e3ba35e625680b886ca28b07c): statusbar on mode changes fix - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/43eafd95403d887e3ba35e625680b886ca28b07c...8047f0b86542062061f924a244565919046857f1))",
+    "created_at": "2020-08-31 12:27:19.588000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8047f0b8](https://gitlab.com/snowgem/bitfrost/-/commit/8047f0b86542062061f924a244565919046857f1): ios keyboard resize content on active - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
