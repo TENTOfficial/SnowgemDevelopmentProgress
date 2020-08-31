@@ -17351,5 +17351,15 @@
       "description": "[9b14ea9b](https://gitlab.com/snowgem/bitfrost/-/commit/9b14ea9b88524b65bcea30093da63c596e814770): swap url extra backslash fix - Filip Storkan\n\n[5e847bcc](https://gitlab.com/snowgem/bitfrost/-/commit/5e847bccf9251f0fccbf39de5b7eef99f3d8c372): Merge branch 'v0.0.8-merge-v0.0.9' of gitlab.com:snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5e847bccf9251f0fccbf39de5b7eef99f3d8c372...c1ad6743a5a6017a609e29d85c367cce59d31151))",
+    "created_at": "2020-08-31 19:11:29.494000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f55ff43c](https://gitlab.com/snowgem/bitfrost/-/commit/f55ff43cc114ec69522f7902e9a4b2e403a0e37e): remove unneccesary log - Snowgem\n\n[c1ad6743](https://gitlab.com/snowgem/bitfrost/-/commit/c1ad6743a5a6017a609e29d85c367cce59d31151): disable backup images in settings - Snowgem",
+      "type": "rich"
+    }
   }
 ]
