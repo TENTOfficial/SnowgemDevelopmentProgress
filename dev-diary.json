@@ -17321,5 +17321,15 @@
       "description": "[cff59af5](https://gitlab.com/snowgem/snowpay-api/-/commit/cff59af52e5b6c02b732cf83b3649fec713e1dac): #104 - Swap params query optimalization - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8047f0b86542062061f924a244565919046857f1...9f77fd51987d96fee71da35f43d4bf735054194f))",
+    "created_at": "2020-08-31 14:19:31.922000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9f77fd51](https://gitlab.com/snowgem/bitfrost/-/commit/9f77fd51987d96fee71da35f43d4bf735054194f): fix max button for bitgo lib - Snowgem",
+      "type": "rich"
+    }
   }
 ]
