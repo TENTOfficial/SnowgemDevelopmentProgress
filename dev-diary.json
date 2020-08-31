@@ -17311,5 +17311,15 @@
       "description": "[8047f0b8](https://gitlab.com/snowgem/bitfrost/-/commit/8047f0b86542062061f924a244565919046857f1): ios keyboard resize content on active - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_09\\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/b84fdb2ba71c30b8ec20c2df4f6a0bf758072b8b...cff59af52e5b6c02b732cf83b3649fec713e1dac))",
+    "created_at": "2020-08-31 13:02:34.152000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cff59af5](https://gitlab.com/snowgem/snowpay-api/-/commit/cff59af52e5b6c02b732cf83b3649fec713e1dac): #104 - Swap params query optimalization - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
