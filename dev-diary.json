@@ -17431,5 +17431,15 @@
       "description": "[0ba25c46](https://gitlab.com/snowgem/snowpay-api/-/commit/0ba25c461d3c5eadc36a4dd75b999f9213d14dd1): docker images fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_09\\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0ba25c461d3c5eadc36a4dd75b999f9213d14dd1...23b554b1988e8cd5b3e85371822ac4e510e3ed5e))",
+    "created_at": "2020-09-01 11:26:53.652000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[23b554b1](https://gitlab.com/snowgem/snowpay-api/-/commit/23b554b1988e8cd5b3e85371822ac4e510e3ed5e): stex exchange logging verbosity change - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
