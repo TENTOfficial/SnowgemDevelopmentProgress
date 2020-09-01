@@ -17481,5 +17481,15 @@
       "description": "[7111c16c](https://gitlab.com/snowgem/snowpay-api/-/commit/7111c16cffa83ec32a4e65a9303978a64db61c50): #104 cfg - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_09\\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7111c16cffa83ec32a4e65a9303978a64db61c50...47ca83441609d60aed10284a027f07c70d1982f0))",
+    "created_at": "2020-09-01 20:44:50.659000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[47ca8344](https://gitlab.com/snowgem/snowpay-api/-/commit/47ca83441609d60aed10284a027f07c70d1982f0): #107 - Stex order book update fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
