@@ -17511,5 +17511,15 @@
       "description": "[a46a100a](https://gitlab.com/snowgem/snowpay-api/-/commit/a46a100a1e18e5aa436fc924c4ddf2762f1b7470): #108 - Kestrel cfg change - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/69fd576e1a4451d3061aa1794b181cc4c98ca79a...ddff89d1d665c123843f259935ac9497c4a52138))",
+    "created_at": "2020-09-02 08:52:19.654000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[db9f0e6b](https://gitlab.com/snowgem/bitfrost/-/commit/db9f0e6b5bcc78fdf5c67de21a2bc09e8d97cd15): Swap 'Try again' instead of 'Login' - Filip Storkan\n\n[4efa6ccb](https://gitlab.com/snowgem/bitfrost/-/commit/4efa6ccb1cf1841142508be49fd3727962d1e67e): private method - Filip Storkan\n\n[b30131e2](https://gitlab.com/snowgem/bitfrost/-/commit/b30131e28295cbcc6130c70d23c02e6a5cce74d4): Merge branch 'v0.0.8-merge-v0.0.9' of gitlab.com:snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Filip Storkan\n\n[ddff89d1](https://gitlab.com/snowgem/bitfrost/-/commit/ddff89d1d665c123843f259935ac9497c4a52138): default cache on empty page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
