@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1626 commits since 20/01/2020. You can see the complete history in
+There is a total of 1627 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-02 11:03:22</sub> | <sub>demzet pushed to branch [binance\_integration](https://gitlab.com/snowgem/snowpay-api/commits/binance_integration) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/79c5882a5c569fbfebd9e6a840849822239331b3...73cd6d581605a40fc1b24bada2cfd198328b1bbf))</sub> | <sub>[73cd6d58](https://gitlab.com/snowgem/snowpay-api/-/commit/73cd6d581605a40fc1b24bada2cfd198328b1bbf): WIP - Kamil Wojciechowski</sub> |
 | <sub>2020-09-02 09:39:10</sub> | <sub>demzet pushed new branch [binance\_integration](https://gitlab.com/snowgem/snowpay-api/commits/binance_integration) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-02 09:34:58</sub> | <sub>demzet (aphex5) merged merge request [\!19 \*Release 2020 09 04\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/19) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-02 09:34:53</sub> | <sub>demzet (aphex5) approved merge request [\!19 \*Release 2020 09 04\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/19) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1626 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-09-02 07:45:43</sub> | <sub>demzet pushed to branch [release\_2020\_09\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8bb52d843855109e8da00c9d8046470cd41a3b31...a46a100a1e18e5aa436fc924c4ddf2762f1b7470))</sub> | <sub>[a46a100a](https://gitlab.com/snowgem/snowpay-api/-/commit/a46a100a1e18e5aa436fc924c4ddf2762f1b7470): #108 - Kestrel cfg change - Kamil Wojciechowski</sub> |
 | <sub>2020-09-02 07:14:20</sub> | <sub>demzet pushed to branch [release\_2020\_09\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/47ca83441609d60aed10284a027f07c70d1982f0...8bb52d843855109e8da00c9d8046470cd41a3b31))</sub> | <sub>[8bb52d84](https://gitlab.com/snowgem/snowpay-api/-/commit/8bb52d843855109e8da00c9d8046470cd41a3b31): #108 - Bittrex api client auth fix, kester was not setup - Kamil Wojciechowski</sub> |
 | <sub>2020-09-01 20:44:50</sub> | <sub>demzet pushed to branch [release\_2020\_09\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7111c16cffa83ec32a4e65a9303978a64db61c50...47ca83441609d60aed10284a027f07c70d1982f0))</sub> | <sub>[47ca8344](https://gitlab.com/snowgem/snowpay-api/-/commit/47ca83441609d60aed10284a027f07c70d1982f0): #107 - Stex order book update fix - Kamil Wojciechowski</sub> |
-| <sub>2020-09-01 19:54:38</sub> | <sub>demzet pushed to branch [release\_2020\_09\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8db164db71bde0887545c8dd6e6f9ec8aeae1205...7111c16cffa83ec32a4e65a9303978a64db61c50))</sub> | <sub>[7111c16c](https://gitlab.com/snowgem/snowpay-api/-/commit/7111c16cffa83ec32a4e65a9303978a64db61c50): #104 cfg - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
