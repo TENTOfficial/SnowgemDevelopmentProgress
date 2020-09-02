@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1625 commits since 20/01/2020. You can see the complete history in
+There is a total of 1626 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-02 09:39:10</sub> | <sub>demzet pushed new branch [binance\_integration](https://gitlab.com/snowgem/snowpay-api/commits/binance_integration) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-02 09:34:58</sub> | <sub>demzet (aphex5) merged merge request [\!19 \*Release 2020 09 04\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/19) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-02 09:34:53</sub> | <sub>demzet (aphex5) approved merge request [\!19 \*Release 2020 09 04\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/19) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-02 09:34:43</sub> | <sub>demzet (aphex5) opened merge request [\!19 \*Release 2020 09 04\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/19) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1625 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-09-02 07:14:20</sub> | <sub>demzet pushed to branch [release\_2020\_09\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/47ca83441609d60aed10284a027f07c70d1982f0...8bb52d843855109e8da00c9d8046470cd41a3b31))</sub> | <sub>[8bb52d84](https://gitlab.com/snowgem/snowpay-api/-/commit/8bb52d843855109e8da00c9d8046470cd41a3b31): #108 - Bittrex api client auth fix, kester was not setup - Kamil Wojciechowski</sub> |
 | <sub>2020-09-01 20:44:50</sub> | <sub>demzet pushed to branch [release\_2020\_09\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7111c16cffa83ec32a4e65a9303978a64db61c50...47ca83441609d60aed10284a027f07c70d1982f0))</sub> | <sub>[47ca8344](https://gitlab.com/snowgem/snowpay-api/-/commit/47ca83441609d60aed10284a027f07c70d1982f0): #107 - Stex order book update fix - Kamil Wojciechowski</sub> |
 | <sub>2020-09-01 19:54:38</sub> | <sub>demzet pushed to branch [release\_2020\_09\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8db164db71bde0887545c8dd6e6f9ec8aeae1205...7111c16cffa83ec32a4e65a9303978a64db61c50))</sub> | <sub>[7111c16c](https://gitlab.com/snowgem/snowpay-api/-/commit/7111c16cffa83ec32a4e65a9303978a64db61c50): #104 cfg - Kamil Wojciechowski</sub> |
-| <sub>2020-09-01 11:59:46</sub> | <sub>demzet pushed to branch [release\_2020\_09\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/535c961c18956036a6220cf6ec1fdbca7467303d...8db164db71bde0887545c8dd6e6f9ec8aeae1205))</sub> | <sub>[8db164db](https://gitlab.com/snowgem/snowpay-api/-/commit/8db164db71bde0887545c8dd6e6f9ec8aeae1205): cfg fix - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

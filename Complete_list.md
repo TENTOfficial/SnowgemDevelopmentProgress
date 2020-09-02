@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-02 09:39:10</sub> | <sub>demzet pushed new branch [binance\_integration](https://gitlab.com/snowgem/snowpay-api/commits/binance_integration) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-02 09:34:58</sub> | <sub>demzet (aphex5) merged merge request [\!19 \*Release 2020 09 04\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/19) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-02 09:34:53</sub> | <sub>demzet (aphex5) approved merge request [\!19 \*Release 2020 09 04\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/19) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-02 09:34:43</sub> | <sub>demzet (aphex5) opened merge request [\!19 \*Release 2020 09 04\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/19) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
