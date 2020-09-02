@@ -17561,5 +17561,15 @@
       "description": "[73cd6d58](https://gitlab.com/snowgem/snowpay-api/-/commit/73cd6d581605a40fc1b24bada2cfd198328b1bbf): WIP - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ddff89d1d665c123843f259935ac9497c4a52138...3be62919f52c496eda21225215aa6ba65e5c0a25))",
+    "created_at": "2020-09-02 13:34:21.995000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3be62919](https://gitlab.com/snowgem/bitfrost/-/commit/3be62919f52c496eda21225215aa6ba65e5c0a25): Pending swap item layout update - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
