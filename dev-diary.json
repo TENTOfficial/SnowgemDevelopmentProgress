@@ -17501,5 +17501,15 @@
       "description": "[8bb52d84](https://gitlab.com/snowgem/snowpay-api/-/commit/8bb52d843855109e8da00c9d8046470cd41a3b31): #108 - Bittrex api client auth fix, kester was not setup - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_09\\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8bb52d843855109e8da00c9d8046470cd41a3b31...a46a100a1e18e5aa436fc924c4ddf2762f1b7470))",
+    "created_at": "2020-09-02 07:45:43.511000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a46a100a](https://gitlab.com/snowgem/snowpay-api/-/commit/a46a100a1e18e5aa436fc924c4ddf2762f1b7470): #108 - Kestrel cfg change - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
