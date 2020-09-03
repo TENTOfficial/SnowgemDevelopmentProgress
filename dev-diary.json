@@ -17641,5 +17641,15 @@
       "description": "[50a1de3d](https://gitlab.com/snowgem/bitfrost/-/commit/50a1de3d89f3c9dc11ac4598d37754ec65835854): Login password placeholder input bind - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/50a1de3d89f3c9dc11ac4598d37754ec65835854...6a75eac2ced4d5f673bd72958d936a8059ade508))",
+    "created_at": "2020-09-03 21:39:17.395000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6a75eac2](https://gitlab.com/snowgem/bitfrost/-/commit/6a75eac2ced4d5f673bd72958d936a8059ade508): Account does not exist mesage translate - bszpara",
+      "type": "rich"
+    }
   }
 ]
