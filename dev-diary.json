@@ -17661,5 +17661,15 @@
       "description": "[17de86b9](https://gitlab.com/snowgem/bitfrost/-/commit/17de86b99dc6423d381a14b5ae9259b966c69338): update .gitignore android/ios folder - Snowgem\n\n[b14d37e6](https://gitlab.com/snowgem/bitfrost/-/commit/b14d37e6b7bc2860f7a6024afa8aa8880b583b47): fixing build android - Snowgem\n\n[22faa703](https://gitlab.com/snowgem/bitfrost/-/commit/22faa7038ae13fa3545c4d534b093dda353af39f): merged with #078ea7f7 - Snowgem\n\n[ac35cc6b](https://gitlab.com/snowgem/bitfrost/-/commit/ac35cc6b743d5fba354106c8b59356117f4d4860): update http plugin for capacitor - Snowgem\n\n[d6e53d35](https://gitlab.com/snowgem/bitfrost/-/commit/d6e53d35ffaa49469b7859f8121f6ddb03578cac): fix eth checking transaction - Snowgem\n\n[0b9802b2](https://gitlab.com/snowgem/bitfrost/-/commit/0b9802b2ab72ab17b64f13b85e19d272502234a7): Merge branch 'v0.0.8-merge-v0.0.9' of https://gitlab.com/snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0b9802b2ab72ab17b64f13b85e19d272502234a7...42b71b2fcaf0d7b44e9709ad7f4e0f50bb6fc51a))",
+    "created_at": "2020-09-03 22:37:14.362000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[42b71b2f](https://gitlab.com/snowgem/bitfrost/-/commit/42b71b2fcaf0d7b44e9709ad7f4e0f50bb6fc51a): fix chart data for wallets/overview page - Snowgem",
+      "type": "rich"
+    }
   }
 ]
