@@ -17631,5 +17631,15 @@
       "description": "[2fc9c714](https://gitlab.com/snowgem/bitfrost/-/commit/2fc9c714e0ddb606a2217086631b06e0ba0a128f): Password input translation - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2fc9c714e0ddb606a2217086631b06e0ba0a128f...50a1de3d89f3c9dc11ac4598d37754ec65835854))",
+    "created_at": "2020-09-03 21:28:55.365000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[50a1de3d](https://gitlab.com/snowgem/bitfrost/-/commit/50a1de3d89f3c9dc11ac4598d37754ec65835854): Login password placeholder input bind - bszpara",
+      "type": "rich"
+    }
   }
 ]
