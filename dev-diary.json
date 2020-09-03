@@ -17581,5 +17581,15 @@
       "description": "[2c57608e](https://gitlab.com/snowgem/bitfrost/-/commit/2c57608efa7dd9d21e7af3fa12ff5026b8abdfb6): estimated fee before swap calculation when using max button - Snowgem\n\n[8d6989bd](https://gitlab.com/snowgem/bitfrost/-/commit/8d6989bd171641ef4b201947ebdb5c643b89651c): Merge branch 'v0.0.8-merge-v0.0.9' of https://gitlab.com/snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8d6989bd171641ef4b201947ebdb5c643b89651c...4ceaf720a07a9d80e367637cc8bcb20ca5a81ab0))",
+    "created_at": "2020-09-03 08:56:37.060000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4ceaf720](https://gitlab.com/snowgem/bitfrost/-/commit/4ceaf720a07a9d80e367637cc8bcb20ca5a81ab0): increase version to 0.0.9 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
