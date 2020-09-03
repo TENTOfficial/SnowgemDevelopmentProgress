@@ -17591,5 +17591,15 @@
       "description": "[4ceaf720](https://gitlab.com/snowgem/bitfrost/-/commit/4ceaf720a07a9d80e367637cc8bcb20ca5a81ab0): increase version to 0.0.9 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4ceaf720a07a9d80e367637cc8bcb20ca5a81ab0...078ea7f79044fa31acf28cf1a9cb01298a243504))",
+    "created_at": "2020-09-03 19:42:49.328000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fa946958](https://gitlab.com/snowgem/bitfrost/-/commit/fa9469585c82435009f2b91bba8ff4a51999a3e3): cordova plugin cleanup - Filip Storkan\n\n[078ea7f7](https://gitlab.com/snowgem/bitfrost/-/commit/078ea7f79044fa31acf28cf1a9cb01298a243504): Capacitor storage - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
