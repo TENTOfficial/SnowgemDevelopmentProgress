@@ -17866,5 +17866,25 @@
       "description": "[86c3992a](https://gitlab.com/snowgem/bitfrost/-/commit/86c3992aa8d6273a13da437363ac2ced1f6d4865): Amount picked nicely :) - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/86c3992aa8d6273a13da437363ac2ced1f6d4865...163d12fb079fd9910ca3dd17ed0d3e04d52af8fa))",
+    "created_at": "2020-09-04 20:03:42.950000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[163d12fb](https://gitlab.com/snowgem/bitfrost/-/commit/163d12fb079fd9910ca3dd17ed0d3e04d52af8fa): translated a little Ro - ciripel",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/163d12fb079fd9910ca3dd17ed0d3e04d52af8fa...9daa2064efa4dfa64728a4ea4582aabf07c4996a))",
+    "created_at": "2020-09-04 20:04:52.034000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3d823801](https://gitlab.com/snowgem/bitfrost/-/commit/3d8238011bdd8986650f3eef494cc7ae5a1ce994): fix browser debugging - Snowgem\n\n[9daa2064](https://gitlab.com/snowgem/bitfrost/-/commit/9daa2064efa4dfa64728a4ea4582aabf07c4996a): Merge branch 'v0.0.8-merge-v0.0.9' of https://gitlab.com/snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
