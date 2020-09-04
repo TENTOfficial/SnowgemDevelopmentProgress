@@ -17711,5 +17711,15 @@
       "description": "[cae980b1](https://gitlab.com/snowgem/snowpay-api/-/commit/cae980b14c84e42176721d0c3734c8b5bf2fa8ef): #110 - Swap params TargetEstimatedWithdrawalAmount sometimes is invalid - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9e793880fecfccc8ef3c2d51a7384165300f6089...024f07973e8eb99c5751c2234a114813c1def434))",
+    "created_at": "2020-09-04 09:16:52.122000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[974b110b](https://gitlab.com/snowgem/bitfrost/-/commit/974b110b7fcde7d78eb6bac27d84812fb4d83002): Removing poppins font - Filip Storkan\n\n[024f0797](https://gitlab.com/snowgem/bitfrost/-/commit/024f07973e8eb99c5751c2234a114813c1def434): Merge branch 'v0.0.8-merge-v0.0.9' of gitlab.com:snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
