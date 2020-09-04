@@ -17796,5 +17796,15 @@
       "description": "[e3f4ac3e](https://gitlab.com/snowgem/bitfrost/-/commit/e3f4ac3eeb803be09ed4cf1484c0aa182658445e): increasing bundle limit to 6mb - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e3f4ac3eeb803be09ed4cf1484c0aa182658445e...1971d92f17025ff3dd41ceae1d5383239982496e))",
+    "created_at": "2020-09-04 13:34:29.646000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1971d92f](https://gitlab.com/snowgem/bitfrost/-/commit/1971d92f17025ff3dd41ceae1d5383239982496e): loading default languge change - bszpara",
+      "type": "rich"
+    }
   }
 ]
