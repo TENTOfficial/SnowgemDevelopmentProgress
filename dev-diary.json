@@ -17761,5 +17761,20 @@
     "author": "GitLab",
     "content": "demzet pushed new tag [release\\_2020\\_09\\_04\\_2](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_09_04_2) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-09-04 10:57:07.072000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_09\\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6945f1c272253d75faa6cc27666d37a7e0e3f136...58974d06e49248de02b25e3c730efb8b5456d3be))",
+    "created_at": "2020-09-04 11:18:16.526000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[58974d06](https://gitlab.com/snowgem/snowpay-api/-/commit/58974d06e49248de02b25e3c730efb8b5456d3be): prod build fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new tag [release\\_2020\\_09\\_04\\_3](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_09_04_3) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-09-04 11:20:01.653000"
   }
 ]
