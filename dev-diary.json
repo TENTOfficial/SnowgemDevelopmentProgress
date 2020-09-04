@@ -17756,5 +17756,10 @@
       "description": "[6945f1c2](https://gitlab.com/snowgem/snowpay-api/-/commit/6945f1c272253d75faa6cc27666d37a7e0e3f136): prod build fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new tag [release\\_2020\\_09\\_04\\_2](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_09_04_2) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-09-04 10:57:07.072000"
   }
 ]
