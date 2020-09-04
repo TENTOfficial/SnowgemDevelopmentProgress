@@ -17671,5 +17671,15 @@
       "description": "[42b71b2f](https://gitlab.com/snowgem/bitfrost/-/commit/42b71b2fcaf0d7b44e9709ad7f4e0f50bb6fc51a): fix chart data for wallets/overview page - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_09\\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a46a100a1e18e5aa436fc924c4ddf2762f1b7470...b40b681c6891cb64560bef633147ca4a619dc89f))",
+    "created_at": "2020-09-04 07:14:55.379000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b40b681c](https://gitlab.com/snowgem/snowpay-api/-/commit/b40b681c6891cb64560bef633147ca4a619dc89f): #96 - ltc,btc,dgb min deposit adjustment - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
