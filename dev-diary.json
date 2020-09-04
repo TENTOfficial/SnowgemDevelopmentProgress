@@ -17896,5 +17896,15 @@
       "description": "[f8b3d947](https://gitlab.com/snowgem/bitfrost/-/commit/f8b3d947809c1b7457e64902ba135c579480b2aa): fix total history is not filder - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f8b3d947809c1b7457e64902ba135c579480b2aa...6f64756c07ebb40ed3d5e8d48c92b3b641d4d4b4))",
+    "created_at": "2020-09-04 21:14:36.678000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d022123f](https://gitlab.com/snowgem/bitfrost/-/commit/d022123f5a5747baaabaf1e31a08637e65aa3277): update set space size for node - Snowgem\n\n[6f64756c](https://gitlab.com/snowgem/bitfrost/-/commit/6f64756c07ebb40ed3d5e8d48c92b3b641d4d4b4): update correct android version - Snowgem",
+      "type": "rich"
+    }
   }
 ]
