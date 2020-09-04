@@ -17836,5 +17836,25 @@
       "description": "[5946411a](https://gitlab.com/snowgem/bitfrost/-/commit/5946411ae4389026cdf53c31a7acbacb86d08f02): Token page and misc translations - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/af6f583041cf6ca56d3f0cfb82583519eab077f0...b020b531053cd0756c3a574feea63e4b716bbfc9))",
+    "created_at": "2020-09-04 17:33:11.633000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0b1e2aa3](https://gitlab.com/snowgem/bitfrost/-/commit/0b1e2aa3c201afdcccdf7638144270588480ae87): settings ts update - bszpara\n\n[5946411a](https://gitlab.com/snowgem/bitfrost/-/commit/5946411ae4389026cdf53c31a7acbacb86d08f02): Token page and misc translations - bszpara\n\n[8a44088d](https://gitlab.com/snowgem/bitfrost/-/commit/8a44088d0c220c876ff417e36cec3e201d00d48c): Merge branch 'v0.0.8-merge-v0.0.9' - Snowgem\n\n[3620e3af](https://gitlab.com/snowgem/bitfrost/-/commit/3620e3aff760a2b89764cad85ae3f79763323940): fix websocket url - Snowgem\n\n[b020b531](https://gitlab.com/snowgem/bitfrost/-/commit/b020b531053cd0756c3a574feea63e4b716bbfc9): remove local storage log - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5946411ae4389026cdf53c31a7acbacb86d08f02...2047de502432decba3cdfcbeb8c35499b9338a52))",
+    "created_at": "2020-09-04 17:34:56.702000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2047de50](https://gitlab.com/snowgem/bitfrost/-/commit/2047de502432decba3cdfcbeb8c35499b9338a52): Added Romanian translation files - ciripel",
+      "type": "rich"
+    }
   }
 ]
