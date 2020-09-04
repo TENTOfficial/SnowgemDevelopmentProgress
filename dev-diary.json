@@ -17826,5 +17826,15 @@
       "description": "[0b1e2aa3](https://gitlab.com/snowgem/bitfrost/-/commit/0b1e2aa3c201afdcccdf7638144270588480ae87): settings ts update - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0b1e2aa3c201afdcccdf7638144270588480ae87...5946411ae4389026cdf53c31a7acbacb86d08f02))",
+    "created_at": "2020-09-04 16:28:15.001000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5946411a](https://gitlab.com/snowgem/bitfrost/-/commit/5946411ae4389026cdf53c31a7acbacb86d08f02): Token page and misc translations - bszpara",
+      "type": "rich"
+    }
   }
 ]
