@@ -17746,5 +17746,15 @@
       "description": "[6f6bcae7](https://gitlab.com/snowgem/bitfrost/-/commit/6f6bcae70457666ea1100593136c0fdb241e63c8): modal module fix - Filip Storkan\n\n[31a8f60c](https://gitlab.com/snowgem/bitfrost/-/commit/31a8f60ce59d79be24bb77159b903b59adbaabca): transaltion fix - Filip Storkan\n\n[de6205b9](https://gitlab.com/snowgem/bitfrost/-/commit/de6205b92fa51bd21151cee77c52299759520317): Merge branch 'v0.0.8-merge-v0.0.9' of gitlab.com:snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Filip Storkan\n\n[9d6572cc](https://gitlab.com/snowgem/bitfrost/-/commit/9d6572cc2cbfec0ff123c7cee03c7c56ab14c1e5): New name - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_09\\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cae980b14c84e42176721d0c3734c8b5bf2fa8ef...6945f1c272253d75faa6cc27666d37a7e0e3f136))",
+    "created_at": "2020-09-04 10:54:52.065000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6945f1c2](https://gitlab.com/snowgem/snowpay-api/-/commit/6945f1c272253d75faa6cc27666d37a7e0e3f136): prod build fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
