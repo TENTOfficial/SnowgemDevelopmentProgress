@@ -17721,5 +17721,15 @@
       "description": "[974b110b](https://gitlab.com/snowgem/bitfrost/-/commit/974b110b7fcde7d78eb6bac27d84812fb4d83002): Removing poppins font - Filip Storkan\n\n[024f0797](https://gitlab.com/snowgem/bitfrost/-/commit/024f07973e8eb99c5751c2234a114813c1def434): Merge branch 'v0.0.8-merge-v0.0.9' of gitlab.com:snowgem/bitfrost into v0.0.8-merge-v0.0.9 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/024f07973e8eb99c5751c2234a114813c1def434...a9d8e7e55de65d9432bf5f0dbcd5c6c851f1cce8))",
+    "created_at": "2020-09-04 09:24:34.483000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a9d8e7e5](https://gitlab.com/snowgem/bitfrost/-/commit/a9d8e7e55de65d9432bf5f0dbcd5c6c851f1cce8): add new name text - Snowgem",
+      "type": "rich"
+    }
   }
 ]
