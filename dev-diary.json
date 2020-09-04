@@ -17681,5 +17681,15 @@
       "description": "[b40b681c](https://gitlab.com/snowgem/snowpay-api/-/commit/b40b681c6891cb64560bef633147ca4a619dc89f): #96 - ltc,btc,dgb min deposit adjustment - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_09\\_04](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_04) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/b40b681c6891cb64560bef633147ca4a619dc89f...cd0c2c8ce4f28bd587e3ced77f6828c297856b45))",
+    "created_at": "2020-09-04 07:20:32.526000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cd0c2c8c](https://gitlab.com/snowgem/snowpay-api/-/commit/cd0c2c8ce4f28bd587e3ced77f6828c297856b45): #109 - Etherscan api throws null reference exception - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
