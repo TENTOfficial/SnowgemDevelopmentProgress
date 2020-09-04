@@ -17806,5 +17806,15 @@
       "description": "[1971d92f](https://gitlab.com/snowgem/bitfrost/-/commit/1971d92f17025ff3dd41ceae1d5383239982496e): loading default languge change - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1971d92f17025ff3dd41ceae1d5383239982496e...d02092ddbdf92105faedd971ec9c4664004bc1b5))",
+    "created_at": "2020-09-04 14:19:00.037000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d02092dd](https://gitlab.com/snowgem/bitfrost/-/commit/d02092ddbdf92105faedd971ec9c4664004bc1b5): fix load language when loading app - Snowgem",
+      "type": "rich"
+    }
   }
 ]
