@@ -17731,5 +17731,10 @@
       "description": "[a9d8e7e5](https://gitlab.com/snowgem/bitfrost/-/commit/a9d8e7e55de65d9432bf5f0dbcd5c6c851f1cce8): add new name text - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new tag [release\\_2020\\_09\\_04\\_1](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_09_04_1) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-09-04 10:34:35.845000"
   }
 ]
