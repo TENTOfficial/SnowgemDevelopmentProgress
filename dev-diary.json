@@ -17816,5 +17816,15 @@
       "description": "[d02092dd](https://gitlab.com/snowgem/bitfrost/-/commit/d02092ddbdf92105faedd971ec9c4664004bc1b5): fix load language when loading app - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d02092ddbdf92105faedd971ec9c4664004bc1b5...0b1e2aa3c201afdcccdf7638144270588480ae87))",
+    "created_at": "2020-09-04 15:03:36.903000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0b1e2aa3](https://gitlab.com/snowgem/bitfrost/-/commit/0b1e2aa3c201afdcccdf7638144270588480ae87): settings ts update - bszpara",
+      "type": "rich"
+    }
   }
 ]
