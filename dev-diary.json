@@ -17776,5 +17776,15 @@
     "author": "GitLab",
     "content": "demzet pushed new tag [release\\_2020\\_09\\_04\\_3](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_09_04_3) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-09-04 11:20:01.653000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9d6572cc2cbfec0ff123c7cee03c7c56ab14c1e5...70cfaf8beabb9f360319001cbe29cce2d0b9d1ef))",
+    "created_at": "2020-09-04 11:58:52.036000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0ba69b94](https://gitlab.com/snowgem/bitfrost/-/commit/0ba69b941cb5a42336a3070505153b754f999d37): removing hammer.js - Filip Storkan\n\n[70cfaf8b](https://gitlab.com/snowgem/bitfrost/-/commit/70cfaf8beabb9f360319001cbe29cce2d0b9d1ef): ts inside dev dep - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
