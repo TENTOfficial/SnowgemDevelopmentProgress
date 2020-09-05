@@ -17946,5 +17946,15 @@
       "description": "[e04430ec](https://gitlab.com/snowgem/bitfrost/-/commit/e04430ecb53b81b2f96396bbe6b3189a81851414): fixed some variables and added some more RO - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e04430ecb53b81b2f96396bbe6b3189a81851414...bc709224ddc004d0b62b90a9eef6926a3a569d7f))",
+    "created_at": "2020-09-05 10:12:30.008000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bc709224](https://gitlab.com/snowgem/bitfrost/-/commit/bc709224ddc004d0b62b90a9eef6926a3a569d7f): Finished RO and corrected some translation variables - ciripel",
+      "type": "rich"
+    }
   }
 ]
