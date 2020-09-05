@@ -18006,5 +18006,15 @@
       "description": "[95aa00b8](https://gitlab.com/snowgem/bitfrost/-/commit/95aa00b8b0a2bc9de80f951f675c5f1137aea0db): update ci pipeline - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/95aa00b8b0a2bc9de80f951f675c5f1137aea0db...72fac6c64c4a5127bbe824106d9cd5f404fac131))",
+    "created_at": "2020-09-05 15:46:14.373000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[72fac6c6](https://gitlab.com/snowgem/bitfrost/-/commit/72fac6c64c4a5127bbe824106d9cd5f404fac131): update ci pipeline - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
