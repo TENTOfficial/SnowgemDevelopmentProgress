@@ -18026,5 +18026,15 @@
       "description": "[91d93d68](https://gitlab.com/snowgem/bitfrost/-/commit/91d93d68c223470be63d0b3067e9bc25547abc3a): removing file plugin - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/91d93d68c223470be63d0b3067e9bc25547abc3a...bff117246c5601fd7a2bec8593cc6cbd3f19f20e))",
+    "created_at": "2020-09-06 17:36:05.768000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1118b6e6](https://gitlab.com/snowgem/bitfrost/-/commit/1118b6e69d7aa5a28459bf8fb0f5cd28cd4aaf00): enable graph by default based on screen size - Snowgem\n\n[9df623db](https://gitlab.com/snowgem/bitfrost/-/commit/9df623db123fbf16d35b8b0c89a59a4878fe14b9): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem\n\n[c836d93a](https://gitlab.com/snowgem/bitfrost/-/commit/c836d93a4ebd0fcf3f309f478fbd4afe6b3b06a5): update build script - Snowgem\n\n[bff11724](https://gitlab.com/snowgem/bitfrost/-/commit/bff117246c5601fd7a2bec8593cc6cbd3f19f20e): update version - Snowgem",
+      "type": "rich"
+    }
   }
 ]
