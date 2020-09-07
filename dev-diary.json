@@ -18201,5 +18201,15 @@
     "author": "GitLab",
     "content": "Txid pushed new tag [0\\.1\\.0](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.0) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-09-07 18:32:30.472000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3c031665d8defcc60c6004c69a3ead5ac9cdaf13...92e3660edfaabe4927f4d4d948de70935f4f596a))",
+    "created_at": "2020-09-07 19:11:18.759000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[92e3660e](https://gitlab.com/snowgem/bitfrost/-/commit/92e3660edfaabe4927f4d4d948de70935f4f596a): remove notification for ios - Snowgem",
+      "type": "rich"
+    }
   }
 ]
