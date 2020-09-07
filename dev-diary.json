@@ -18116,5 +18116,25 @@
       "description": "[f49001d5](https://gitlab.com/snowgem/bitfrost/-/commit/f49001d5fa97ac4e55ea7cf9e689f1611ca1d93a): check should update database first - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f49001d5fa97ac4e55ea7cf9e689f1611ca1d93a...7a97a762a5d7fcbe81f18aa0fb0b30edf241258e))",
+    "created_at": "2020-09-07 15:11:43.495000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[37dfb8e2](https://gitlab.com/snowgem/bitfrost/-/commit/37dfb8e2b085f3f012ce9aae8a09be8dc2fcf26a): confirm page layout fix - Filip Storkan\n\n[28c65244](https://gitlab.com/snowgem/bitfrost/-/commit/28c6524418821843c425af641dd9a6f0c027da59): pending cache length fix - Filip Storkan\n\n[7a97a762](https://gitlab.com/snowgem/bitfrost/-/commit/7a97a762a5d7fcbe81f18aa0fb0b30edf241258e): Merge branch 'master' of gitlab.com:snowgem/bitfrost - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Bartosz Szpara pushed to branch [v0\\.0\\.8\\-merge\\-v0\\.0\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.0.8-merge-v0.0.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bc709224ddc004d0b62b90a9eef6926a3a569d7f...1a06d404e8ef57f0e48ed2bd7417f9578b0da502))",
+    "created_at": "2020-09-07 15:13:51.473000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1a06d404](https://gitlab.com/snowgem/bitfrost/-/commit/1a06d404e8ef57f0e48ed2bd7417f9578b0da502): Translation update - bszpara",
+      "type": "rich"
+    }
   }
 ]
