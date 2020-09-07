@@ -18146,5 +18146,15 @@
       "description": "[1b25378b](https://gitlab.com/snowgem/bitfrost/-/commit/1b25378b3ebdedcb4066d9f2054bbe90ad031180): fix forgot password - Snowgem\n\n[ae33b63e](https://gitlab.com/snowgem/bitfrost/-/commit/ae33b63e72c0592e3b034818b89a64f1a84346e6): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ae33b63e72c0592e3b034818b89a64f1a84346e6...967444543c8ec7c5fe277a8392185b9760bb9d65))",
+    "created_at": "2020-09-07 16:42:43.228000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6a435210](https://gitlab.com/snowgem/bitfrost/-/commit/6a4352109db333a67aeef5b3811ba6db8e953c96): fix change/forgot password flow for mobile - Snowgem\n\n[96744454](https://gitlab.com/snowgem/bitfrost/-/commit/967444543c8ec7c5fe277a8392185b9760bb9d65): show login wrong password correctly - Snowgem",
+      "type": "rich"
+    }
   }
 ]
