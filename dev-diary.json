@@ -18196,5 +18196,10 @@
       "description": "[3c031665](https://gitlab.com/snowgem/bitfrost/-/commit/3c031665d8defcc60c6004c69a3ead5ac9cdaf13): fix token transaction request timeout message - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new tag [0\\.1\\.0](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.0) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-07 18:32:30.472000"
   }
 ]
