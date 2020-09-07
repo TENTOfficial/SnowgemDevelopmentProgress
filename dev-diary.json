@@ -18066,5 +18066,15 @@
       "description": "[8f8b09bb](https://gitlab.com/snowgem/bitfrost/-/commit/8f8b09bb5618a08552ae28dd7d7f33ed60a20d03): fix command build - Snowgem\n\n[a0510b25](https://gitlab.com/snowgem/bitfrost/-/commit/a0510b25a8ad92f40bfa2f893c0d044f4bc45ebd): increase build version - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a0510b25a8ad92f40bfa2f893c0d044f4bc45ebd...c0fa1bda984fd836f938308c4ad7d1ccaf779747))",
+    "created_at": "2020-09-07 09:48:56.678000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c0fa1bda](https://gitlab.com/snowgem/bitfrost/-/commit/c0fa1bda984fd836f938308c4ad7d1ccaf779747): Added Italian Language and fixed other languages! - ciripel",
+      "type": "rich"
+    }
   }
 ]
