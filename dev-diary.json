@@ -18136,5 +18136,15 @@
       "description": "[1a06d404](https://gitlab.com/snowgem/bitfrost/-/commit/1a06d404e8ef57f0e48ed2bd7417f9578b0da502): Translation update - bszpara",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7a97a762a5d7fcbe81f18aa0fb0b30edf241258e...ae33b63e72c0592e3b034818b89a64f1a84346e6))",
+    "created_at": "2020-09-07 15:55:13.252000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1b25378b](https://gitlab.com/snowgem/bitfrost/-/commit/1b25378b3ebdedcb4066d9f2054bbe90ad031180): fix forgot password - Snowgem\n\n[ae33b63e](https://gitlab.com/snowgem/bitfrost/-/commit/ae33b63e72c0592e3b034818b89a64f1a84346e6): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
+      "type": "rich"
+    }
   }
 ]
