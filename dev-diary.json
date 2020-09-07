@@ -18176,5 +18176,15 @@
       "description": "[ba62bfbc](https://gitlab.com/snowgem/bitfrost/-/commit/ba62bfbc12cf1c1508953881efdbd26930313508): syntax error in template fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ba62bfbc12cf1c1508953881efdbd26930313508...ad89bd53a6f94c43c56aa93eef0fb3a148e918e3))",
+    "created_at": "2020-09-07 17:52:12.448000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ad89bd53](https://gitlab.com/snowgem/bitfrost/-/commit/ad89bd53a6f94c43c56aa93eef0fb3a148e918e3): derivation is not required for token wallet - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
