@@ -18076,5 +18076,15 @@
       "description": "[c0fa1bda](https://gitlab.com/snowgem/bitfrost/-/commit/c0fa1bda984fd836f938308c4ad7d1ccaf779747): Added Italian Language and fixed other languages! - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c0fa1bda984fd836f938308c4ad7d1ccaf779747...6a92c43283d3215de6e6f30652fb64efe7e9416a))",
+    "created_at": "2020-09-07 10:20:28.948000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e38a543f](https://gitlab.com/snowgem/bitfrost/-/commit/e38a543f857df91b7db1bae17b49365ca4b2dff5): update build data - Snowgem\n\n[233e1504](https://gitlab.com/snowgem/bitfrost/-/commit/233e15045c36577e5da798ed5c919126528ebe2b): update about page - Snowgem\n\n[6a92c432](https://gitlab.com/snowgem/bitfrost/-/commit/6a92c43283d3215de6e6f30652fb64efe7e9416a): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
+      "type": "rich"
+    }
   }
 ]
