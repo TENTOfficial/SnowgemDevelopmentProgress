@@ -18271,5 +18271,15 @@
       "description": "[93aa581f](https://gitlab.com/snowgem/snowpay-api/-/commit/93aa581fc2c1b53ce5943b45b5d6dd89b25193c0): WIP - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [binance\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/binance_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/93aa581fc2c1b53ce5943b45b5d6dd89b25193c0...5868390d1c7b880231ebd96f854f41f26b02696f))",
+    "created_at": "2020-09-08 21:37:57.668000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5868390d](https://gitlab.com/snowgem/snowpay-api/-/commit/5868390d1c7b880231ebd96f854f41f26b02696f): WIP - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
