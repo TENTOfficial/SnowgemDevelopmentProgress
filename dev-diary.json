@@ -18211,5 +18211,45 @@
       "description": "[92e3660e](https://gitlab.com/snowgem/bitfrost/-/commit/92e3660edfaabe4927f4d4d948de70935f4f596a): remove notification for ios - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch feature/swap from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-08 09:10:52.910000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch feature/sqlite from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-08 09:11:06.184000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch feature/swap-ws-web-worker from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-08 09:11:14.911000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch feature/translation from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-08 09:11:24.183000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch feature/main-page from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-08 09:12:31.136000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch feature/newgesture2 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-08 09:12:35.520000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch feature/newgesture from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-08 09:12:39.296000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [v0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-08 09:13:07.093000"
   }
 ]
