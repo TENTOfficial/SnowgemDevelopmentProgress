@@ -18346,5 +18346,35 @@
     "author": "GitLab",
     "content": "Filip Storkan pushed new branch [infrastructure/env\\-variables](https://gitlab.com/snowgem/bitfrost/commits/infrastructure/env-variables) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-09-09 15:34:37.454000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) opened merge request [\\!5 \\*Swap urls added to env variables\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/5) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-09 17:46:11.805000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!5 \\*Swap urls added to env variables\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/5) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-09 17:48:45.183000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/92e3660edfaabe4927f4d4d948de70935f4f596a...550c001cfeeba46df2e0309b582eb6a2a330cb02))",
+    "created_at": "2020-09-09 17:48:45.242000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a23e66d9](https://gitlab.com/snowgem/bitfrost/-/commit/a23e66d99f9b06375980bf3262feee1fb801bebb): Swap urls added to env variables - Filip Storkan\n\n[550c001c](https://gitlab.com/snowgem/bitfrost/-/commit/550c001cfeeba46df2e0309b582eb6a2a330cb02): Merge branch 'infrastructure/env-variables' into 'v0.1.1' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) opened merge request [\\!6 \\*added appflow sdk\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/6) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-09 17:48:45.638000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch infrastructure/env-variables from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-09 17:48:45.704000"
   }
 ]
