@@ -18296,5 +18296,10 @@
     "author": "GitLab",
     "content": "demzet pushed new tag [release\\_2020\\_09\\_04\\_5](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_09_04_5) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-09-09 09:48:00.532000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [hotfix/0\\.1\\.0](https://gitlab.com/snowgem/bitfrost/commits/hotfix/0.1.0) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-09 09:51:48.282000"
   }
 ]
