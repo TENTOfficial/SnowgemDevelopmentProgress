@@ -18419,5 +18419,15 @@
       "description": "[4622ba93](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/4622ba93c1d7d02bcf3f5758918df1ec42d3569d): fixed table formatting - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [MN\\_Table\\_Change](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/MN_Table_Change) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/4622ba93c1d7d02bcf3f5758918df1ec42d3569d...32e53fd19c0023bda78ba64cb4716b9e1fa96bb7))",
+    "created_at": "2020-09-10 15:53:28.615000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[32e53fd1](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/32e53fd19c0023bda78ba64cb4716b9e1fa96bb7): fixed local masternode status - ciripel",
+      "type": "rich"
+    }
   }
 ]
