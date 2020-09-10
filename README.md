@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1720 commits since 20/01/2020. You can see the complete history in
+There is a total of 1721 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-10 13:28:56</sub> | <sub>[[Snowgem:master] 2 new commits](https://github.com/Snowgem/Snowgem/compare/f0a5b8e814a0...2c3026116360)</sub> | <sub>[1ea578d](https://github.com/Snowgem/Snowgem/commit/1ea578d7de8ead0baa8cbbd33c0c1ab3ec15f267) Update funcs.mk - crackfoo<br>[2c30261](https://github.com/Snowgem/Snowgem/commit/2c302611636096c2ff574d53c1a13ae5b7f58b82) Merge pull request #26 from crackfoo/patch-1 - Snowgem</sub> |
 | <sub>2020-09-09 20:49:19</sub> | <sub>demzet pushed to branch [binance\_integration](https://gitlab.com/snowgem/snowpay-api/commits/binance_integration) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/20989c918c0d28319cbf9495a630b577796210af...1af1e9c459d24b85500b230abd2bf0775a0bdf21))</sub> | <sub>[1af1e9c4](https://gitlab.com/snowgem/snowpay-api/-/commit/1af1e9c459d24b85500b230abd2bf0775a0bdf21): #114 - added dgb to binance exchange integration - Kamil Wojciechowski</sub> |
 | <sub>2020-09-09 17:48:45</sub> | <sub>Filip Storkan removed branch infrastructure/env-variables from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-09 17:48:45</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!6 \*added appflow sdk\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/6) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1720 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-09-09 15:34:37</sub> | <sub>Filip Storkan pushed new branch [infrastructure/env\-variables](https://gitlab.com/snowgem/bitfrost/commits/infrastructure/env-variables) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-09 14:57:04</sub> | <sub>Filip Storkan pushed new branch [infrastructure/appflow](https://gitlab.com/snowgem/bitfrost/commits/infrastructure/appflow) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-09 14:45:29</sub> | <sub>Filip Storkan pushed new branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-09-09 10:54:10</sub> | <sub>demzet pushed to branch [binance\_integration](https://gitlab.com/snowgem/snowpay-api/commits/binance_integration) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/af2d765ad2633697707b6e86f9ce7bba91fbab56...20989c918c0d28319cbf9495a630b577796210af))</sub> | <sub>[20989c91](https://gitlab.com/snowgem/snowpay-api/-/commit/20989c918c0d28319cbf9495a630b577796210af): #114 - Binance integration - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
