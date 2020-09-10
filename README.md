@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1724 commits since 20/01/2020. You can see the complete history in
+There is a total of 1725 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-10 15:59:39</sub> | <sub>ciripel (ciripel) opened merge request [\!2 \*Mn table change\*](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/merge_requests/2) in [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-10 15:53:28</sub> | <sub>ciripel pushed to branch [MN\_Table\_Change](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/MN_Table_Change) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/4622ba93c1d7d02bcf3f5758918df1ec42d3569d...32e53fd19c0023bda78ba64cb4716b9e1fa96bb7))</sub> | <sub>[32e53fd1](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/32e53fd19c0023bda78ba64cb4716b9e1fa96bb7): fixed local masternode status - ciripel</sub> |
 | <sub>2020-09-10 15:12:18</sub> | <sub>ciripel pushed to branch [MN\_Table\_Change](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/MN_Table_Change) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/c886679cd920a5e4139f515881130bcf986d7e62...4622ba93c1d7d02bcf3f5758918df1ec42d3569d))</sub> | <sub>[4622ba93](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/4622ba93c1d7d02bcf3f5758918df1ec42d3569d): fixed table formatting - ciripel</sub> |
 | <sub>2020-09-10 14:43:51</sub> | <sub>ciripel pushed new branch [MN\_Table\_Change](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/MN_Table_Change) to [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1724 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-09-09 17:48:45</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!6 \*added appflow sdk\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/6) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-09 17:48:45</sub> | <sub>Txid pushed to branch [v0\.1\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/92e3660edfaabe4927f4d4d948de70935f4f596a...550c001cfeeba46df2e0309b582eb6a2a330cb02))</sub> | <sub>[a23e66d9](https://gitlab.com/snowgem/bitfrost/-/commit/a23e66d99f9b06375980bf3262feee1fb801bebb): Swap urls added to env variables - Filip Storkan<br>[550c001c](https://gitlab.com/snowgem/bitfrost/-/commit/550c001cfeeba46df2e0309b582eb6a2a330cb02): Merge branch 'infrastructure/env-variables' into 'v0.1.1' - Txid</sub> |
 | <sub>2020-09-09 17:48:45</sub> | <sub>Txid (txid) merged merge request [\!5 \*Swap urls added to env variables\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/5) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-09-09 17:46:11</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!5 \*Swap urls added to env variables\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/5) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
