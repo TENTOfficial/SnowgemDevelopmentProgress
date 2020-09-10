@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1722 commits since 20/01/2020. You can see the complete history in
+There is a total of 1723 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-10 15:12:18</sub> | <sub>ciripel pushed to branch [MN\_Table\_Change](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/MN_Table_Change) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/c886679cd920a5e4139f515881130bcf986d7e62...4622ba93c1d7d02bcf3f5758918df1ec42d3569d))</sub> | <sub>[4622ba93](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/4622ba93c1d7d02bcf3f5758918df1ec42d3569d): fixed table formatting - ciripel</sub> |
 | <sub>2020-09-10 14:43:51</sub> | <sub>ciripel pushed new branch [MN\_Table\_Change](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/MN_Table_Change) to [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-10 13:28:56</sub> | <sub>[[Snowgem:master] 2 new commits](https://github.com/Snowgem/Snowgem/compare/f0a5b8e814a0...2c3026116360)</sub> | <sub>[1ea578d](https://github.com/Snowgem/Snowgem/commit/1ea578d7de8ead0baa8cbbd33c0c1ab3ec15f267) Update funcs.mk - crackfoo<br>[2c30261](https://github.com/Snowgem/Snowgem/commit/2c302611636096c2ff574d53c1a13ae5b7f58b82) Merge pull request #26 from crackfoo/patch-1 - Snowgem</sub> |
 | <sub>2020-09-09 20:49:19</sub> | <sub>demzet pushed to branch [binance\_integration](https://gitlab.com/snowgem/snowpay-api/commits/binance_integration) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/20989c918c0d28319cbf9495a630b577796210af...1af1e9c459d24b85500b230abd2bf0775a0bdf21))</sub> | <sub>[1af1e9c4](https://gitlab.com/snowgem/snowpay-api/-/commit/1af1e9c459d24b85500b230abd2bf0775a0bdf21): #114 - added dgb to binance exchange integration - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 1722 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-09-09 17:48:45</sub> | <sub>Txid (txid) merged merge request [\!5 \*Swap urls added to env variables\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/5) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-09 17:46:11</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!5 \*Swap urls added to env variables\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/5) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-09 15:34:37</sub> | <sub>Filip Storkan pushed new branch [infrastructure/env\-variables](https://gitlab.com/snowgem/bitfrost/commits/infrastructure/env-variables) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-09-09 14:57:04</sub> | <sub>Filip Storkan pushed new branch [infrastructure/appflow](https://gitlab.com/snowgem/bitfrost/commits/infrastructure/appflow) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
