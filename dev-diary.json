@@ -18520,5 +18520,10 @@
       "description": "[3e1bfd76](https://gitlab.com/snowgem/snowpay-api/-/commit/3e1bfd7625c5ea79f7f706cfb3d023d2d42f341c): #114 - CI fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-11 07:43:42.097000"
   }
 ]
