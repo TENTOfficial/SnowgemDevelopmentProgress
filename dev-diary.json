@@ -18500,5 +18500,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/8397d6b300e6aa636aae3ecf65f49371bc80fad4"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [binance\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/binance_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1af1e9c459d24b85500b230abd2bf0775a0bdf21...6fa8f86b46cd23b8c2eba4f2cc97b1636fcb783c))",
+    "created_at": "2020-09-11 06:57:15.437000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6fa8f86b](https://gitlab.com/snowgem/snowpay-api/-/commit/6fa8f86b46cd23b8c2eba4f2cc97b1636fcb783c): #114 -  binance exchange integration CI - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
