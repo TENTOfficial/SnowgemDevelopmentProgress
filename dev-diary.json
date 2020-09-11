@@ -18575,5 +18575,15 @@
       "description": "[895c5219](https://gitlab.com/snowgem/bitfrost/-/commit/895c52192c78e41fa3405c03acb2e79638808e8d): adding card provider - Filip Storkan\n\n[fef2cd11](https://gitlab.com/snowgem/bitfrost/-/commit/fef2cd11cd4aa1aedd305b9042f000bd1fbd439c): preparing registration steps - Filip Storkan\n\n[c0ecb10d](https://gitlab.com/snowgem/bitfrost/-/commit/c0ecb10d0b0b1c1326fa6832cb47a92fa211e107): card routing starter - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c0ecb10d0b0b1c1326fa6832cb47a92fa211e107...50beb430a6bb72c6528ccf4962e3ad98a87387ad))",
+    "created_at": "2020-09-11 15:18:13.215000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ed24658c](https://gitlab.com/snowgem/bitfrost/-/commit/ed24658cd1d174e35b5b2abc772fe162b2052603): xsg-stepper component - Filip Storkan\n\n[50beb430](https://gitlab.com/snowgem/bitfrost/-/commit/50beb430a6bb72c6528ccf4962e3ad98a87387ad): quick navigation flow for card registration - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
