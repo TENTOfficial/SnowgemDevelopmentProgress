@@ -18590,5 +18590,15 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [feature/language\\-api](https://gitlab.com/snowgem/bitfrost/commits/feature/language-api) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-09-13 08:24:12.756000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e48eb9c907777e7370e165e839d6fca6409e268d...fe9934920e31e8e64d677dadd9249d0f2b2551e3))",
+    "created_at": "2020-09-13 10:31:15.555000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fe993492](https://gitlab.com/snowgem/snowpay-api/-/commit/fe9934920e31e8e64d677dadd9249d0f2b2551e3): added diagnostic controller - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
