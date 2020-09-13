@@ -18585,5 +18585,10 @@
       "description": "[ed24658c](https://gitlab.com/snowgem/bitfrost/-/commit/ed24658cd1d174e35b5b2abc772fe162b2052603): xsg-stepper component - Filip Storkan\n\n[50beb430](https://gitlab.com/snowgem/bitfrost/-/commit/50beb430a6bb72c6528ccf4962e3ad98a87387ad): quick navigation flow for card registration - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [feature/language\\-api](https://gitlab.com/snowgem/bitfrost/commits/feature/language-api) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-13 08:24:12.756000"
   }
 ]
