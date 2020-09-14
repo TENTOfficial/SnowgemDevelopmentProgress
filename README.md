@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1745 commits since 20/01/2020. You can see the complete history in
+There is a total of 1746 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-14 06:05:35</sub> | <sub>Txid pushed to branch [feature/language\-api](https://gitlab.com/snowgem/bitfrost/commits/feature/language-api) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7c26dc88c4e03959e2050b89c9c4663fbbf402cc...b793fc6a786a55f45e6acdc5eeb2c3b85c1b0bc2))</sub> | <sub>[b793fc6a](https://gitlab.com/snowgem/bitfrost/-/commit/b793fc6a786a55f45e6acdc5eeb2c3b85c1b0bc2): correct env configuration - Snowgem</sub> |
 | <sub>2020-09-13 20:29:17</sub> | <sub>Txid pushed to branch [feature/language\-api](https://gitlab.com/snowgem/bitfrost/commits/feature/language-api) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b9bd5af49764a12c68f084c89af1026ecdd62e6e...7c26dc88c4e03959e2050b89c9c4663fbbf402cc))</sub> | <sub>[7c26dc88](https://gitlab.com/snowgem/bitfrost/-/commit/7c26dc88c4e03959e2050b89c9c4663fbbf402cc): load lang package from server side - Snowgem</sub> |
 | <sub>2020-09-13 10:31:15</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e48eb9c907777e7370e165e839d6fca6409e268d...fe9934920e31e8e64d677dadd9249d0f2b2551e3))</sub> | <sub>[fe993492](https://gitlab.com/snowgem/snowpay-api/-/commit/fe9934920e31e8e64d677dadd9249d0f2b2551e3): added diagnostic controller - Kamil Wojciechowski</sub> |
 | <sub>2020-09-13 08:24:12</sub> | <sub>Txid pushed new branch [feature/language\-api](https://gitlab.com/snowgem/bitfrost/commits/feature/language-api) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1745 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-09-11 12:14:54</sub> | <sub>demzet (aphex5) merged merge request [\!21 \*Release 2020 09 04\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/21) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-11 12:14:43</sub> | <sub>demzet (aphex5) opened merge request [\!21 \*Release 2020 09 04\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/21) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-11 11:48:33</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/79c5882a5c569fbfebd9e6a840849822239331b3...70ae4e8387e8daff115b300b5ffb9d4428273279))</sub> | <sub>[e7eeb07f](https://gitlab.com/snowgem/snowpay-api/-/commit/e7eeb07f47e4497333f6d4aeb586df40eb87d0ee): Binance integration - demzet<br>[70ae4e83](https://gitlab.com/snowgem/snowpay-api/-/commit/70ae4e8387e8daff115b300b5ffb9d4428273279): Merge branch 'binance_integration' into 'master' - demzet</sub> |
-| <sub>2020-09-11 11:48:32</sub> | <sub>demzet (aphex5) merged merge request [\!20 \*Binance integration\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/20) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
