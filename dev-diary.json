@@ -18650,5 +18650,15 @@
       "description": "[55eae03c](https://gitlab.com/snowgem/snowpay-api/-/commit/55eae03cec279dcfd0629f2dfe9472e3ec5c42c6): settings cleanup, swap parameters endpoint validation enhancement - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/55eae03cec279dcfd0629f2dfe9472e3ec5c42c6...155b36fa3a4be6d39f3b59fd87ad967eb2f825e0))",
+    "created_at": "2020-09-14 11:04:35.673000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[155b36fa](https://gitlab.com/snowgem/snowpay-api/-/commit/155b36fa3a4be6d39f3b59fd87ad967eb2f825e0): binance SwapRouteProvider fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
