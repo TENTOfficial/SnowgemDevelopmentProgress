@@ -18640,5 +18640,15 @@
       "description": "[4d4848d7](https://gitlab.com/snowgem/snowpay-api/-/commit/4d4848d7349b979a0ef7ee30cf75f6a376d6320f): swap routes performance improvements - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4d4848d7349b979a0ef7ee30cf75f6a376d6320f...55eae03cec279dcfd0629f2dfe9472e3ec5c42c6))",
+    "created_at": "2020-09-14 09:22:08.929000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[55eae03c](https://gitlab.com/snowgem/snowpay-api/-/commit/55eae03cec279dcfd0629f2dfe9472e3ec5c42c6): settings cleanup, swap parameters endpoint validation enhancement - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
