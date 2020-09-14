@@ -18660,5 +18660,15 @@
       "description": "[155b36fa](https://gitlab.com/snowgem/snowpay-api/-/commit/155b36fa3a4be6d39f3b59fd87ad967eb2f825e0): binance SwapRouteProvider fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/language\\-api](https://gitlab.com/snowgem/bitfrost/commits/feature/language-api) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b793fc6a786a55f45e6acdc5eeb2c3b85c1b0bc2...49e66911e398620172cedabfd65a6d1db9220ca9))",
+    "created_at": "2020-09-14 17:13:44.017000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[49e66911](https://gitlab.com/snowgem/bitfrost/-/commit/49e66911e398620172cedabfd65a6d1db9220ca9): fix translation message issue - Snowgem",
+      "type": "rich"
+    }
   }
 ]
