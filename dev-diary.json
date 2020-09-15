@@ -18670,5 +18670,15 @@
       "description": "[49e66911](https://gitlab.com/snowgem/bitfrost/-/commit/49e66911e398620172cedabfd65a6d1db9220ca9): fix translation message issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/50beb430a6bb72c6528ccf4962e3ad98a87387ad...79cd638b40bf22baf0957fcc3abe8a040eb0f608))",
+    "created_at": "2020-09-15 10:48:16.604000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8ea781ee](https://gitlab.com/snowgem/bitfrost/-/commit/8ea781ee1ab1f03d770b9b8c3008d7f6d8bbc07d): updating npm packages - Filip Storkan\n\n[01999b4c](https://gitlab.com/snowgem/bitfrost/-/commit/01999b4cc0f8f468b2ed500f869c96431c1a28b6): adding snowgem-team to our npm registry - Filip Storkan\n\n[79cd638b](https://gitlab.com/snowgem/bitfrost/-/commit/79cd638b40bf22baf0957fcc3abe8a040eb0f608): preparing phone page in card registration - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
