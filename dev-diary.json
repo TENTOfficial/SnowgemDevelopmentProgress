@@ -18680,5 +18680,10 @@
       "description": "[8ea781ee](https://gitlab.com/snowgem/bitfrost/-/commit/8ea781ee1ab1f03d770b9b8c3008d7f6d8bbc07d): updating npm packages - Filip Storkan\n\n[01999b4c](https://gitlab.com/snowgem/bitfrost/-/commit/01999b4cc0f8f468b2ed500f869c96431c1a28b6): adding snowgem-team to our npm registry - Filip Storkan\n\n[79cd638b](https://gitlab.com/snowgem/bitfrost/-/commit/79cd638b40bf22baf0957fcc3abe8a040eb0f608): preparing phone page in card registration - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [orderbook\\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/orderbook_improvements) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-09-15 11:42:42.640000"
   }
 ]
