@@ -18715,5 +18715,25 @@
       "description": "[bdede767](https://gitlab.com/snowgem/bitfrost/-/commit/bdede767272c7c55ca145b5683d9930ee780e2c2): put all deleted functions to promise - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!6 \\*added appflow sdk\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/6) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-15 19:04:19.091000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch infrastructure/appflow from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-15 19:04:19.497000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c3a73b9bfb72a89d259335d5c57918f15bce0f02...e8cff0d470f846e8be80c1ae6fa6c1a8f6c10ba6))",
+    "created_at": "2020-09-15 19:04:21.776000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[512bec6f](https://gitlab.com/snowgem/bitfrost/-/commit/512bec6f38acbc91df84bffd1cb5c4267d8760e8): added appflow sdk - Filip Storkan\n\n[e8cff0d4](https://gitlab.com/snowgem/bitfrost/-/commit/e8cff0d470f846e8be80c1ae6fa6c1a8f6c10ba6): Merge branch 'infrastructure/appflow' into 'v0.1.1' - Txid",
+      "type": "rich"
+    }
   }
 ]
