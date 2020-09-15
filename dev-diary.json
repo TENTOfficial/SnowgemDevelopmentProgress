@@ -18705,5 +18705,15 @@
       "description": "[772fb1bb](https://gitlab.com/snowgem/bitfrost/-/commit/772fb1bbbf48e7c2289f4d4c95b3f7fe11cefdf7): fix add transactions issue - Snowgem\n\n[72463026](https://gitlab.com/snowgem/bitfrost/-/commit/724630264ea5a0e78bf77b8662875c2d35ba0559): fix rescanning text - Snowgem\n\n[04459f1f](https://gitlab.com/snowgem/bitfrost/-/commit/04459f1f77003d19374bdf2a0d1533a30b48445e): clear all wallet data from database when deleting - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/language\\-api](https://gitlab.com/snowgem/bitfrost/commits/feature/language-api) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/04459f1f77003d19374bdf2a0d1533a30b48445e...bdede767272c7c55ca145b5683d9930ee780e2c2))",
+    "created_at": "2020-09-15 17:21:43.502000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bdede767](https://gitlab.com/snowgem/bitfrost/-/commit/bdede767272c7c55ca145b5683d9930ee780e2c2): put all deleted functions to promise - Snowgem",
+      "type": "rich"
+    }
   }
 ]
