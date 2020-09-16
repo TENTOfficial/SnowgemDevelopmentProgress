@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1766 commits since 20/01/2020. You can see the complete history in
+There is a total of 1767 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-16 20:54:12</sub> | <sub>Txid pushed new branch [feature/api\-ts](https://gitlab.com/snowgem/bitfrost/commits/feature/api-ts) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-16 12:46:30</sub> | <sub>demzet pushed to branch [orderbook\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/orderbook_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/47cd4a792764ae6f942bd968e31eab2502cb456a...369dfb05974ec297990d5341db9064064f7c1507))</sub> | <sub>[369dfb05](https://gitlab.com/snowgem/snowpay-api/-/commit/369dfb05974ec297990d5341db9064064f7c1507): WIP - Kamil Wojciechowski</sub> |
 | <sub>2020-09-16 11:48:58</sub> | <sub>Filip Storkan pushed to branch [feature/debit\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/79cd638b40bf22baf0957fcc3abe8a040eb0f608...a5ecd0ae458982dddf59db23d42d9c4afa9ac874))</sub> | <sub>[a5ecd0ae](https://gitlab.com/snowgem/bitfrost/-/commit/a5ecd0ae458982dddf59db23d42d9c4afa9ac874): sms page and custom formated input - Filip Storkan</sub> |
 | <sub>2020-09-16 11:25:27</sub> | <sub>demzet pushed to branch [orderbook\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/orderbook_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2f13482e304990b645e9aebfad1c3fe09986b86e...47cd4a792764ae6f942bd968e31eab2502cb456a))</sub> | <sub>[47cd4a79](https://gitlab.com/snowgem/snowpay-api/-/commit/47cd4a792764ae6f942bd968e31eab2502cb456a): WIP - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 1766 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-09-15 21:34:36</sub> | <sub>demzet pushed to branch [orderbook\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/orderbook_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6dfb993b8c55909486a0c3f163f0a6a17201b286...b1db720e0636b4f5ca6923a3fa9a65f44ac4c3bd))</sub> | <sub>[b1db720e](https://gitlab.com/snowgem/snowpay-api/-/commit/b1db720e0636b4f5ca6923a3fa9a65f44ac4c3bd): WIP - Kamil Wojciechowski</sub> |
 | <sub>2020-09-15 19:04:21</sub> | <sub>Txid pushed to branch [v0\.1\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c3a73b9bfb72a89d259335d5c57918f15bce0f02...e8cff0d470f846e8be80c1ae6fa6c1a8f6c10ba6))</sub> | <sub>[512bec6f](https://gitlab.com/snowgem/bitfrost/-/commit/512bec6f38acbc91df84bffd1cb5c4267d8760e8): added appflow sdk - Filip Storkan<br>[e8cff0d4](https://gitlab.com/snowgem/bitfrost/-/commit/e8cff0d470f846e8be80c1ae6fa6c1a8f6c10ba6): Merge branch 'infrastructure/appflow' into 'v0.1.1' - Txid</sub> |
 | <sub>2020-09-15 19:04:19</sub> | <sub>Filip Storkan removed branch infrastructure/appflow from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-09-15 19:04:19</sub> | <sub>Txid (txid) merged merge request [\!6 \*added appflow sdk\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/6) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

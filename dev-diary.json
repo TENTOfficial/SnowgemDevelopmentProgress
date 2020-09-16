@@ -18805,5 +18805,10 @@
       "description": "[369dfb05](https://gitlab.com/snowgem/snowpay-api/-/commit/369dfb05974ec297990d5341db9064064f7c1507): WIP - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [feature/api\\-ts](https://gitlab.com/snowgem/bitfrost/commits/feature/api-ts) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-16 20:54:12.438000"
   }
 ]
