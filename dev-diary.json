@@ -18870,5 +18870,15 @@
       "description": "[87feba6c](https://gitlab.com/snowgem/snowpay-api/-/commit/87feba6cb536f08c6eaeefed1399affc7d33fbcb): #115 - OrderBook performance improvement - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a5ecd0ae458982dddf59db23d42d9c4afa9ac874...2b52bd84c64ff6ce7b8251f6c0d3472756b0a494))",
+    "created_at": "2020-09-17 14:54:59.684000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2b52bd84](https://gitlab.com/snowgem/bitfrost/-/commit/2b52bd84c64ff6ce7b8251f6c0d3472756b0a494): address page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
