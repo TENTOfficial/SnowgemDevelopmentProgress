@@ -18900,5 +18900,15 @@
       "description": "[b9bd5af4](https://gitlab.com/snowgem/bitfrost/-/commit/b9bd5af49764a12c68f084c89af1026ecdd62e6e): prepare for language api - Snowgem\n\n[7c26dc88](https://gitlab.com/snowgem/bitfrost/-/commit/7c26dc88c4e03959e2050b89c9c4663fbbf402cc): load lang package from server side - Snowgem\n\n[b793fc6a](https://gitlab.com/snowgem/bitfrost/-/commit/b793fc6a786a55f45e6acdc5eeb2c3b85c1b0bc2): correct env configuration - Snowgem\n\n[49e66911](https://gitlab.com/snowgem/bitfrost/-/commit/49e66911e398620172cedabfd65a6d1db9220ca9): fix translation message issue - Snowgem\n\n[772fb1bb](https://gitlab.com/snowgem/bitfrost/-/commit/772fb1bbbf48e7c2289f4d4c95b3f7fe11cefdf7): fix add transactions issue - Snowgem\n\n[72463026](https://gitlab.com/snowgem/bitfrost/-/commit/724630264ea5a0e78bf77b8662875c2d35ba0559): fix rescanning text - Snowgem\n\n[04459f1f](https://gitlab.com/snowgem/bitfrost/-/commit/04459f1f77003d19374bdf2a0d1533a30b48445e): clear all wallet data from database when deleting - Snowgem\n\n[bdede767](https://gitlab.com/snowgem/bitfrost/-/commit/bdede767272c7c55ca145b5683d9930ee780e2c2): put all deleted functions to promise - Snowgem\n\n[0c2441d0](https://gitlab.com/snowgem/bitfrost/-/commit/0c2441d0715aedba191b66711cf7d60918c76d34): fix create wallet - Snowgem\n\n[115b3da1](https://gitlab.com/snowgem/bitfrost/-/commit/115b3da17afb884678281198021e75b2b69a89d9): remove change address for erc, fix #155 - Snowgem\n\n[88f1c208](https://gitlab.com/snowgem/bitfrost/-/commit/88f1c208e29ce173dc5ee951b9fe0f06e378a159): Merge branch 'v0.1.1' of https://gitlab.com/snowgem/bitfrost into v0.1.1 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/88f1c208e29ce173dc5ee951b9fe0f06e378a159...090d9401c3cb564d520a069557b94e5b05d4b637))",
+    "created_at": "2020-09-17 17:31:31.474000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[090d9401](https://gitlab.com/snowgem/bitfrost/-/commit/090d9401c3cb564d520a069557b94e5b05d4b637): validate seeds and path, fix #150 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
