@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-17 20:42:13</sub> | <sub>demzet pushed new branch [exchange\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-17 20:21:23</sub> | <sub>demzet removed branch orderbook_improvements from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-17 20:21:22</sub> | <sub>demzet (aphex5) merged merge request [\!22 \*Orderbook improvements\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/22) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-17 20:21:13</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/155b36fa3a4be6d39f3b59fd87ad967eb2f825e0...dbee557f80d44b6371f29b7c79e6895440304e51))</sub> | <sub>[d11992ca](https://gitlab.com/snowgem/snowpay-api/-/commit/d11992ca50b42a30dfd112519c7af1ac4a158ded): Orderbook improvements - demzet<br>[dbee557f](https://gitlab.com/snowgem/snowpay-api/-/commit/dbee557f80d44b6371f29b7c79e6895440304e51): Merge branch 'orderbook_improvements' into 'master' - demzet</sub> |

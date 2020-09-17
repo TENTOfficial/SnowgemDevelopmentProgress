@@ -18945,5 +18945,10 @@
     "author": "GitLab",
     "content": "demzet removed branch orderbook_improvements from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-09-17 20:21:23.544000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [exchange\\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-09-17 20:42:13.202000"
   }
 ]
