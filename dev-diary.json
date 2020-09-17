@@ -18840,5 +18840,15 @@
       "description": "[0832256b](https://gitlab.com/snowgem/snowpay-api/-/commit/0832256be6a81dd97dd2f0c382a1da032d264a81): WIP - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [orderbook\\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/orderbook_improvements) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0832256be6a81dd97dd2f0c382a1da032d264a81...71d52801e48caaac8963035dfd0a459f30889019))",
+    "created_at": "2020-09-17 12:08:11.172000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[71d52801](https://gitlab.com/snowgem/snowpay-api/-/commit/71d52801e48caaac8963035dfd0a459f30889019): #115 - OrderBook performance improvement - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
