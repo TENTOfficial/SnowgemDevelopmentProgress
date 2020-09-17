@@ -18960,5 +18960,30 @@
       "description": "[ea8059d8](https://gitlab.com/snowgem/snowpay-api/-/commit/ea8059d83baf1233285148f510b4139034698bf9): #117 cleanup exchange code - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!23 \\*Exchange cleanup\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/23) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-09-17 21:34:09.561000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/dbee557f80d44b6371f29b7c79e6895440304e51...392ad2367de016946f875c8c21ef3a5490419c4b))",
+    "created_at": "2020-09-17 21:34:53.796000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0cc9bd17](https://gitlab.com/snowgem/snowpay-api/-/commit/0cc9bd177c0e0e969735fcff098fa77aaf05fe2a): Exchange cleanup - demzet\n\n[392ad236](https://gitlab.com/snowgem/snowpay-api/-/commit/392ad2367de016946f875c8c21ef3a5490419c4b): Merge branch 'exchange_cleanup' into 'master' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch exchange_cleanup from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-09-17 21:34:54.208000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!23 \\*Exchange cleanup\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/23) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-09-17 21:34:55.204000"
   }
 ]
