@@ -18880,5 +18880,15 @@
       "description": "[2b52bd84](https://gitlab.com/snowgem/bitfrost/-/commit/2b52bd84c64ff6ce7b8251f6c0d3472756b0a494): address page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2b52bd84c64ff6ce7b8251f6c0d3472756b0a494...44887e1a6ac40ae4737d2f205701e774528414c9))",
+    "created_at": "2020-09-17 15:03:51.982000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[44887e1a](https://gitlab.com/snowgem/bitfrost/-/commit/44887e1a6ac40ae4737d2f205701e774528414c9): updating sms code input - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
