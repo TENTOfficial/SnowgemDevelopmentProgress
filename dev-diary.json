@@ -18910,5 +18910,15 @@
       "description": "[090d9401](https://gitlab.com/snowgem/bitfrost/-/commit/090d9401c3cb564d520a069557b94e5b05d4b637): validate seeds and path, fix #150 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/090d9401c3cb564d520a069557b94e5b05d4b637...7fdebcebe29dd3b86feaaa114a67a117cc6d9de4))",
+    "created_at": "2020-09-17 17:44:15.698000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7fdebceb](https://gitlab.com/snowgem/bitfrost/-/commit/7fdebcebe29dd3b86feaaa114a67a117cc6d9de4): add derivation path to bacup page, fix #162 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
