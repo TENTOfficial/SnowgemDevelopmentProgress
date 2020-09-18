@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-18 09:35:07</sub> | <sub>demzet pushed new branch [exchange\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-17 21:34:55</sub> | <sub>demzet (aphex5) merged merge request [\!23 \*Exchange cleanup\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/23) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-17 21:34:54</sub> | <sub>demzet removed branch exchange_cleanup from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-17 21:34:53</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/dbee557f80d44b6371f29b7c79e6895440304e51...392ad2367de016946f875c8c21ef3a5490419c4b))</sub> | <sub>[0cc9bd17](https://gitlab.com/snowgem/snowpay-api/-/commit/0cc9bd177c0e0e969735fcff098fa77aaf05fe2a): Exchange cleanup - demzet<br>[392ad236](https://gitlab.com/snowgem/snowpay-api/-/commit/392ad2367de016946f875c8c21ef3a5490419c4b): Merge branch 'exchange_cleanup' into 'master' - demzet</sub> |

@@ -18985,5 +18985,10 @@
     "author": "GitLab",
     "content": "demzet (aphex5) merged merge request [\\!23 \\*Exchange cleanup\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/23) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-09-17 21:34:55.204000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [exchange\\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-09-18 09:35:07.195000"
   }
 ]
