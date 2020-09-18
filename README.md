@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1796 commits since 20/01/2020. You can see the complete history in
+There is a total of 1797 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-18 13:06:29</sub> | <sub>demzet pushed to branch [exchange\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0b9f800a0bf35fffb264a6ae61825fd54eac185b...fb3d910cfe79f4462ba40b6fb143b5f1b2a255ae))</sub> | <sub>[fb3d910c](https://gitlab.com/snowgem/snowpay-api/-/commit/fb3d910cfe79f4462ba40b6fb143b5f1b2a255ae): #116 - Kamil Wojciechowski</sub> |
 | <sub>2020-09-18 12:55:12</sub> | <sub>demzet pushed to branch [exchange\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1822b7be96019bf60a47512b5ba64c241906859e...0b9f800a0bf35fffb264a6ae61825fd54eac185b))</sub> | <sub>[0b9f800a](https://gitlab.com/snowgem/snowpay-api/-/commit/0b9f800a0bf35fffb264a6ae61825fd54eac185b): #116 - Kamil Wojciechowski</sub> |
 | <sub>2020-09-18 12:15:22</sub> | <sub>demzet pushed to branch [exchange\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a6be2dd9ca3a4a161410929e861b2826ec005778...1822b7be96019bf60a47512b5ba64c241906859e))</sub> | <sub>[1822b7be](https://gitlab.com/snowgem/snowpay-api/-/commit/1822b7be96019bf60a47512b5ba64c241906859e): #117 - exchange cleanup - Kamil Wojciechowski</sub> |
 | <sub>2020-09-18 12:04:56</sub> | <sub>demzet pushed to branch [exchange\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/832ec6f08cd8c01ad5cdb23426ef26d68bdfc930...a6be2dd9ca3a4a161410929e861b2826ec005778))</sub> | <sub>[a6be2dd9](https://gitlab.com/snowgem/snowpay-api/-/commit/a6be2dd9ca3a4a161410929e861b2826ec005778): #116 enhace kv security - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 1796 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-09-18 09:52:28</sub> | <sub>Filip Storkan pushed to branch [feature/debit\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/44887e1a6ac40ae4737d2f205701e774528414c9...5e0e75a2bd20b0186a6821529199a01b33a1f046))</sub> | <sub>[5e0e75a2](https://gitlab.com/snowgem/bitfrost/-/commit/5e0e75a2bd20b0186a6821529199a01b33a1f046): Personal page structure - Filip Storkan</sub> |
 | <sub>2020-09-18 09:35:07</sub> | <sub>demzet pushed new branch [exchange\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-17 21:34:55</sub> | <sub>demzet (aphex5) merged merge request [\!23 \*Exchange cleanup\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/23) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-09-17 21:34:54</sub> | <sub>demzet removed branch exchange_cleanup from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
