@@ -19090,5 +19090,15 @@
       "description": "[86025fa0](https://gitlab.com/snowgem/bitfrost/-/commit/86025fa00724dcb2a53078edc8c4bef9d25490f4): add jetifier to yml - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/86025fa00724dcb2a53078edc8c4bef9d25490f4...fd541692653dfdfa01422e228b92997fdb4e4629))",
+    "created_at": "2020-09-18 17:56:23.049000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[72efd629](https://gitlab.com/snowgem/bitfrost/-/commit/72efd629c1177b255b487686495d6af1d47043d9): update uglify code - Snowgem\n\n[fd541692](https://gitlab.com/snowgem/bitfrost/-/commit/fd541692653dfdfa01422e228b92997fdb4e4629): update version to 0.1.1 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
