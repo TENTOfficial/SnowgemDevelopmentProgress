@@ -19010,5 +19010,15 @@
       "description": "[8bb1416c](https://gitlab.com/snowgem/snowpay-api/-/commit/8bb1416ca34065ad1d10fe4f95b899fb710f1471): #116 - App Service should use MSI to access KeyVault - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7fdebcebe29dd3b86feaaa114a67a117cc6d9de4...7be6916ac9013343ead496c8c440936bac5022c9))",
+    "created_at": "2020-09-18 10:33:01.811000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7be6916a](https://gitlab.com/snowgem/bitfrost/-/commit/7be6916ac9013343ead496c8c440936bac5022c9): fix cordova=plugin-ionic package - Snowgem",
+      "type": "rich"
+    }
   }
 ]
