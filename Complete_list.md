@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-18 09:52:28</sub> | <sub>Filip Storkan pushed to branch [feature/debit\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/44887e1a6ac40ae4737d2f205701e774528414c9...5e0e75a2bd20b0186a6821529199a01b33a1f046))</sub> | <sub>[5e0e75a2](https://gitlab.com/snowgem/bitfrost/-/commit/5e0e75a2bd20b0186a6821529199a01b33a1f046): Personal page structure - Filip Storkan</sub> |
 | <sub>2020-09-18 09:35:07</sub> | <sub>demzet pushed new branch [exchange\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-17 21:34:55</sub> | <sub>demzet (aphex5) merged merge request [\!23 \*Exchange cleanup\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/23) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-17 21:34:54</sub> | <sub>demzet removed branch exchange_cleanup from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |

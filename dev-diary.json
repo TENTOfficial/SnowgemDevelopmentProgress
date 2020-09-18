@@ -18990,5 +18990,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [exchange\\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-09-18 09:35:07.195000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/44887e1a6ac40ae4737d2f205701e774528414c9...5e0e75a2bd20b0186a6821529199a01b33a1f046))",
+    "created_at": "2020-09-18 09:52:28.022000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5e0e75a2](https://gitlab.com/snowgem/bitfrost/-/commit/5e0e75a2bd20b0186a6821529199a01b33a1f046): Personal page structure - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
