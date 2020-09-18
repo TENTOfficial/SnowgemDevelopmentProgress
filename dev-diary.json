@@ -19100,5 +19100,15 @@
       "description": "[72efd629](https://gitlab.com/snowgem/bitfrost/-/commit/72efd629c1177b255b487686495d6af1d47043d9): update uglify code - Snowgem\n\n[fd541692](https://gitlab.com/snowgem/bitfrost/-/commit/fd541692653dfdfa01422e228b92997fdb4e4629): update version to 0.1.1 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [exchange\\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/fb3d910cfe79f4462ba40b6fb143b5f1b2a255ae...93a33eb6a74af831927c6d243d4bfdf41b96aacc))",
+    "created_at": "2020-09-18 21:39:35.121000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[93a33eb6](https://gitlab.com/snowgem/snowpay-api/-/commit/93a33eb6a74af831927c6d243d4bfdf41b96aacc): WIP - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
