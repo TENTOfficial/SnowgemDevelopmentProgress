@@ -19020,5 +19020,15 @@
       "description": "[7be6916a](https://gitlab.com/snowgem/bitfrost/-/commit/7be6916ac9013343ead496c8c440936bac5022c9): fix cordova=plugin-ionic package - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [exchange\\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8bb1416ca34065ad1d10fe4f95b899fb710f1471...832ec6f08cd8c01ad5cdb23426ef26d68bdfc930))",
+    "created_at": "2020-09-18 11:00:41.948000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[832ec6f0](https://gitlab.com/snowgem/snowpay-api/-/commit/832ec6f08cd8c01ad5cdb23426ef26d68bdfc930): #116 - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
