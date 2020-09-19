@@ -19120,5 +19120,15 @@
       "description": "[537f78c9](https://gitlab.com/snowgem/bitfrost/-/commit/537f78c906c495ef96329e4e13c38ee4655b4462): add node_modules to artifact - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [exchange\\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/93a33eb6a74af831927c6d243d4bfdf41b96aacc...2da18d7f7cb4ef48fe16ec09de5a31aa0022c365))",
+    "created_at": "2020-09-19 21:30:16.552000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2da18d7f](https://gitlab.com/snowgem/snowpay-api/-/commit/2da18d7f7cb4ef48fe16ec09de5a31aa0022c365): WIP - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
