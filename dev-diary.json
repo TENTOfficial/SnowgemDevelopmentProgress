@@ -19110,5 +19110,15 @@
       "description": "[93a33eb6](https://gitlab.com/snowgem/snowpay-api/-/commit/93a33eb6a74af831927c6d243d4bfdf41b96aacc): WIP - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fd541692653dfdfa01422e228b92997fdb4e4629...537f78c906c495ef96329e4e13c38ee4655b4462))",
+    "created_at": "2020-09-19 09:10:43.373000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[537f78c9](https://gitlab.com/snowgem/bitfrost/-/commit/537f78c906c495ef96329e4e13c38ee4655b4462): add node_modules to artifact - Snowgem",
+      "type": "rich"
+    }
   }
 ]
