@@ -19150,5 +19150,15 @@
       "description": "[9e56f4a3](https://gitlab.com/snowgem/bitfrost/-/commit/9e56f4a366bcde9255859048f9d02bfb3cfdf10b): update icons - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9e56f4a366bcde9255859048f9d02bfb3cfdf10b...709d88aac0ad72ccd5f086d3dcac41a3d337753a))",
+    "created_at": "2020-09-20 14:49:55.010000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[709d88aa](https://gitlab.com/snowgem/bitfrost/-/commit/709d88aac0ad72ccd5f086d3dcac41a3d337753a): correct app name - Snowgem",
+      "type": "rich"
+    }
   }
 ]
