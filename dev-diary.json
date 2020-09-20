@@ -19160,5 +19160,30 @@
       "description": "[709d88aa](https://gitlab.com/snowgem/bitfrost/-/commit/709d88aac0ad72ccd5f086d3dcac41a3d337753a): correct app name - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [exchange\\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/fcf9c683a7ba239ac2d3ced27ea0527aa9cff700...5d382f42c982460bdbee504af7720f91892c85e5))",
+    "created_at": "2020-09-20 21:25:22.689000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5d382f42](https://gitlab.com/snowgem/snowpay-api/-/commit/5d382f42c982460bdbee504af7720f91892c85e5): #119 - rollout plan - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!24 \\*Exchange cleanup\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/24) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-09-20 21:26:16.044000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [exchange\\_cleanup](https://gitlab.com/snowgem/snowpay-api/commits/exchange_cleanup) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5d382f42c982460bdbee504af7720f91892c85e5...4b9527dd86311ed39401badba0f61758b563ad4f))",
+    "created_at": "2020-09-20 21:28:09.822000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[64614c38](https://gitlab.com/snowgem/snowpay-api/-/commit/64614c3815bec52eda7de67cb104355b0767f119): #117 cleanup exchange code - Kamil Wojciechowski\n\n[0e6c5a6c](https://gitlab.com/snowgem/snowpay-api/-/commit/0e6c5a6c01da5ee06943ea9aed7760c8c65a4510): #116 enhace kv security - Kamil Wojciechowski\n\n[c7d1a93c](https://gitlab.com/snowgem/snowpay-api/-/commit/c7d1a93cafd7d3eb6b4d41082da878711a92a2c7): #117 - exchange cleanup - Kamil Wojciechowski\n\n[4b9527dd](https://gitlab.com/snowgem/snowpay-api/-/commit/4b9527dd86311ed39401badba0f61758b563ad4f): #119 - rollout plan - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
