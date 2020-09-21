@@ -19240,5 +19240,15 @@
       "description": "[d2d60405](https://gitlab.com/snowgem/bitfrost/-/commit/d2d604053a056a740b5abbd65acbd8e2fee32c50): ts to json language - Snowgem\n\n[ce958b07](https://gitlab.com/snowgem/bitfrost/-/commit/ce958b079b63e35875484116e7c0c61de6ce1df2): corect app icons - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ce958b079b63e35875484116e7c0c61de6ce1df2...ecbb308ff49f063c9dc7d9a79a1e571c065746ca))",
+    "created_at": "2020-09-21 14:58:30.888000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ecbb308f](https://gitlab.com/snowgem/bitfrost/-/commit/ecbb308ff49f063c9dc7d9a79a1e571c065746ca): load language from json file - Snowgem",
+      "type": "rich"
+    }
   }
 ]
