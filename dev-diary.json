@@ -19220,5 +19220,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [release\\_2020\\_09\\_25](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_09_25) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-09-21 06:23:45.372000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/709d88aac0ad72ccd5f086d3dcac41a3d337753a...59a5daaa2e8e802ee8ba9f101c6fb5fe53f615f0))",
+    "created_at": "2020-09-21 13:16:32.165000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f36679c4](https://gitlab.com/snowgem/bitfrost/-/commit/f36679c421f24fffc6c1123b2c889865784a7378): correct app name - Snowgem\n\n[c4e3efd7](https://gitlab.com/snowgem/bitfrost/-/commit/c4e3efd777e1dda398994ccee5ab4490ae623aea): update title android - Snowgem\n\n[38b5a022](https://gitlab.com/snowgem/bitfrost/-/commit/38b5a022b8619a7948c4a414b773313ba2511c3c): appname - Snowgem\n\n[59a5daaa](https://gitlab.com/snowgem/bitfrost/-/commit/59a5daaa2e8e802ee8ba9f101c6fb5fe53f615f0): add ru, zh language - Snowgem",
+      "type": "rich"
+    }
   }
 ]
