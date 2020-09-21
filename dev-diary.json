@@ -19230,5 +19230,15 @@
       "description": "[f36679c4](https://gitlab.com/snowgem/bitfrost/-/commit/f36679c421f24fffc6c1123b2c889865784a7378): correct app name - Snowgem\n\n[c4e3efd7](https://gitlab.com/snowgem/bitfrost/-/commit/c4e3efd777e1dda398994ccee5ab4490ae623aea): update title android - Snowgem\n\n[38b5a022](https://gitlab.com/snowgem/bitfrost/-/commit/38b5a022b8619a7948c4a414b773313ba2511c3c): appname - Snowgem\n\n[59a5daaa](https://gitlab.com/snowgem/bitfrost/-/commit/59a5daaa2e8e802ee8ba9f101c6fb5fe53f615f0): add ru, zh language - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/59a5daaa2e8e802ee8ba9f101c6fb5fe53f615f0...ce958b079b63e35875484116e7c0c61de6ce1df2))",
+    "created_at": "2020-09-21 14:39:02.676000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d2d60405](https://gitlab.com/snowgem/bitfrost/-/commit/d2d604053a056a740b5abbd65acbd8e2fee32c50): ts to json language - Snowgem\n\n[ce958b07](https://gitlab.com/snowgem/bitfrost/-/commit/ce958b079b63e35875484116e7c0c61de6ce1df2): corect app icons - Snowgem",
+      "type": "rich"
+    }
   }
 ]
