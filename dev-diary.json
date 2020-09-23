@@ -19250,5 +19250,15 @@
       "description": "[ecbb308f](https://gitlab.com/snowgem/bitfrost/-/commit/ecbb308ff49f063c9dc7d9a79a1e571c065746ca): load language from json file - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bedd12a4d3ad10fa05ee58d0f3693a8f8648945c...19ea070a304e90db90233c172712f6cd0de0696e))",
+    "created_at": "2020-09-23 07:31:40.838000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[19ea070a](https://gitlab.com/snowgem/bitfrost/-/commit/19ea070a304e90db90233c172712f6cd0de0696e): fix #169 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
