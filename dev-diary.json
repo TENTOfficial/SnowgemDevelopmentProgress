@@ -19260,5 +19260,15 @@
       "description": "[19ea070a](https://gitlab.com/snowgem/bitfrost/-/commit/19ea070a304e90db90233c172712f6cd0de0696e): fix #169 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/19ea070a304e90db90233c172712f6cd0de0696e...a4c8c605821dc9d183f3272e54e5af3d92b97e3c))",
+    "created_at": "2020-09-23 12:24:57.169000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a4c8c605](https://gitlab.com/snowgem/bitfrost/-/commit/a4c8c605821dc9d183f3272e54e5af3d92b97e3c): npm commads update - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
