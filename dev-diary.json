@@ -19325,5 +19325,15 @@
       "description": "[5a2a0388](https://gitlab.com/snowgem/bitfrost/-/commit/5a2a0388c0320850fca06a33dc8f222a46149892): injecing window dep - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [bug/auto\\-theme](https://gitlab.com/snowgem/bitfrost/commits/bug/auto-theme) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5a2a0388c0320850fca06a33dc8f222a46149892...e6d0b84362ddc29cd71292a871d8322d51f22abe))",
+    "created_at": "2020-09-24 19:27:01.109000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[890eba5e](https://gitlab.com/snowgem/bitfrost/-/commit/890eba5e101d4510e04ce3ce3c0d7422ab351ee6): adding default theme value for memory storage - Filip Storkan\n\n[dd440324](https://gitlab.com/snowgem/bitfrost/-/commit/dd4403244604c555261d3124a76eaa95e90c0e16): moving theme detection to the app component - Filip Storkan\n\n[e6d0b843](https://gitlab.com/snowgem/bitfrost/-/commit/e6d0b84362ddc29cd71292a871d8322d51f22abe): return value form public methods - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
