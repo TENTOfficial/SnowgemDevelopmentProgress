@@ -19295,5 +19295,15 @@
     "author": "GitLab",
     "content": "Filip Storkan pushed new branch [bug/auto\\-theme](https://gitlab.com/snowgem/bitfrost/commits/bug/auto-theme) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-09-24 09:31:55.935000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7c39bf158228d4310c6b5aefafeb0eb1ba1dad82...e77e2760cb174b06cd0470db9c859b5eda60eb66))",
+    "created_at": "2020-09-24 14:25:50.731000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8dee8dfd](https://gitlab.com/snowgem/bitfrost/-/commit/8dee8dfda285fd06c9dc82bb4f9ef4d2b66dcf96): check wallet name before editing - Snowgem\n\n[e77e2760](https://gitlab.com/snowgem/bitfrost/-/commit/e77e2760cb174b06cd0470db9c859b5eda60eb66): add start command back - Snowgem",
+      "type": "rich"
+    }
   }
 ]
