@@ -19305,5 +19305,15 @@
       "description": "[8dee8dfd](https://gitlab.com/snowgem/bitfrost/-/commit/8dee8dfda285fd06c9dc82bb4f9ef4d2b66dcf96): check wallet name before editing - Snowgem\n\n[e77e2760](https://gitlab.com/snowgem/bitfrost/-/commit/e77e2760cb174b06cd0470db9c859b5eda60eb66): add start command back - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e77e2760cb174b06cd0470db9c859b5eda60eb66...d9bab255f331b98ee80dbcddee67dfc6ae5525bd))",
+    "created_at": "2020-09-24 15:04:58.528000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d9bab255](https://gitlab.com/snowgem/bitfrost/-/commit/d9bab255f331b98ee80dbcddee67dfc6ae5525bd): update language - Snowgem",
+      "type": "rich"
+    }
   }
 ]
