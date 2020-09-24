@@ -19315,5 +19315,15 @@
       "description": "[d9bab255](https://gitlab.com/snowgem/bitfrost/-/commit/d9bab255f331b98ee80dbcddee67dfc6ae5525bd): update language - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [bug/auto\\-theme](https://gitlab.com/snowgem/bitfrost/commits/bug/auto-theme) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec3a00fde91d858b72273891c3c43024d27669dc...5a2a0388c0320850fca06a33dc8f222a46149892))",
+    "created_at": "2020-09-24 16:32:30.431000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5a2a0388](https://gitlab.com/snowgem/bitfrost/-/commit/5a2a0388c0320850fca06a33dc8f222a46149892): injecing window dep - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
