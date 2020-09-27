@@ -19425,5 +19425,15 @@
       "description": "[8481f6a5](https://gitlab.com/snowgem/bitfrost/-/commit/8481f6a573bdb0cabb160ebf4bd074280f2ddee1): update build.sh - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8481f6a573bdb0cabb160ebf4bd074280f2ddee1...66ffc5ece79ab11822698e7ed5bfeb21e8f03e86))",
+    "created_at": "2020-09-27 10:12:11.873000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[20878ca8](https://gitlab.com/snowgem/bitfrost/-/commit/20878ca8419c393210cef0816d5c20c3ffb76477): update libspec - Snowgem\n\n[66ffc5ec](https://gitlab.com/snowgem/bitfrost/-/commit/66ffc5ece79ab11822698e7ed5bfeb21e8f03e86): Merge branch 'master' of https://gitlab.com/snowgem/bitfrost - Snowgem",
+      "type": "rich"
+    }
   }
 ]
