@@ -19385,5 +19385,15 @@
       "description": "[310dafbc](https://gitlab.com/snowgem/bitfrost/-/commit/310dafbc9cc9ae08f877ff0d3a43c1086f7e0fc2): new build script for appflow - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/f183e94d9b5ce9d9aaf07b8752131682b9dd03d5...b7bfd273acca8f3506a09bcafb1e248239ab0a66))",
+    "created_at": "2020-09-27 08:04:57.091000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b7bfd273](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/b7bfd273acca8f3506a09bcafb1e248239ab0a66): increased version to 1.1.2 - ciripel",
+      "type": "rich"
+    }
   }
 ]
