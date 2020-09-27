@@ -19405,5 +19405,15 @@
       "description": "[ddd9d351](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/ddd9d3511cf388b85b215deb9ef5f1a591cec107): increased version to 1.1.2 - link fix - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/310dafbc9cc9ae08f877ff0d3a43c1086f7e0fc2...1647f3ba788b3b6d259b6224c83e96e5f7a4648f))",
+    "created_at": "2020-09-27 09:28:07.785000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1647f3ba](https://gitlab.com/snowgem/bitfrost/-/commit/1647f3ba788b3b6d259b6224c83e96e5f7a4648f): update build permission - Snowgem",
+      "type": "rich"
+    }
   }
 ]
