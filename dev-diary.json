@@ -19560,5 +19560,15 @@
       "description": "[3ce2f23b](https://gitlab.com/snowgem/bitfrost/-/commit/3ce2f23b2ea1721ee739d788982656622418eb4d): fix #173 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3ce2f23b2ea1721ee739d788982656622418eb4d...85cc9ad08ceb1142d29903670f3a37c658d4f583))",
+    "created_at": "2020-09-28 19:14:12.542000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[db5237c4](https://gitlab.com/snowgem/bitfrost/-/commit/db5237c4ffb277e6c66850ca9ba89201c1e9d260): fix create wallet multiple time - Snowgem\n\n[85cc9ad0](https://gitlab.com/snowgem/bitfrost/-/commit/85cc9ad08ceb1142d29903670f3a37c658d4f583): check empy when scanning address - Snowgem",
+      "type": "rich"
+    }
   }
 ]
