@@ -19495,5 +19495,15 @@
       "description": "[d55c1239](https://gitlab.com/snowgem/bitfrost/-/commit/d55c123956484b234e2f859348efc42ff124d9a7): add magle option - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d55c123956484b234e2f859348efc42ff124d9a7...893003b826d25016a6d76a77cce75710cbc1c143))",
+    "created_at": "2020-09-28 14:28:47.493000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[893003b8](https://gitlab.com/snowgem/bitfrost/-/commit/893003b826d25016a6d76a77cce75710cbc1c143): minor fix build - Snowgem",
+      "type": "rich"
+    }
   }
 ]
