@@ -19465,5 +19465,15 @@
       "description": "[dfaf5a78](https://gitlab.com/snowgem/snowpay-api/-/commit/dfaf5a78ed635da477b463e1194a2f1860c2260b): #119 - binance swap parameter calculations adjustments - Kamil Wojciechowski\n\n[86f2ed36](https://gitlab.com/snowgem/snowpay-api/-/commit/86f2ed365557887e9f93b8645d1699118e612dd1): Merge branch 'release_2020_09_25' of https://gitlab.com/snowgem/snowpay-api into release_2020_09_25 - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/66ffc5ece79ab11822698e7ed5bfeb21e8f03e86...bc563117e6063bf17d7df3e4519c15adaf3e8852))",
+    "created_at": "2020-09-28 12:41:55.240000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bc563117](https://gitlab.com/snowgem/bitfrost/-/commit/bc563117e6063bf17d7df3e4519c15adaf3e8852): update cap sync android + ios - Snowgem",
+      "type": "rich"
+    }
   }
 ]
