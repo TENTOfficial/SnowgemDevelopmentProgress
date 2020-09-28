@@ -19520,5 +19520,15 @@
       "description": "[091d5fdf](https://gitlab.com/snowgem/bitfrost/-/commit/091d5fdf2bbe75f92091301a06518667b5598dab): update uglify-es - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/091d5fdf2bbe75f92091301a06518667b5598dab...915d48b0c47e4ea598b7215a44d9813a89d9ede2))",
+    "created_at": "2020-09-28 16:05:34.273000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[915d48b0](https://gitlab.com/snowgem/bitfrost/-/commit/915d48b0c47e4ea598b7215a44d9813a89d9ede2): install uglifyes - Snowgem",
+      "type": "rich"
+    }
   }
 ]
