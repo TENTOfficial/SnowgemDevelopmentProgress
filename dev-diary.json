@@ -19475,5 +19475,15 @@
       "description": "[bc563117](https://gitlab.com/snowgem/bitfrost/-/commit/bc563117e6063bf17d7df3e4519c15adaf3e8852): update cap sync android + ios - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bc563117e6063bf17d7df3e4519c15adaf3e8852...da0f87e2f50f0009962990c9111404d2a168c6d2))",
+    "created_at": "2020-09-28 13:47:09.791000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[da0f87e2](https://gitlab.com/snowgem/bitfrost/-/commit/da0f87e2f50f0009962990c9111404d2a168c6d2): correct build command - Snowgem",
+      "type": "rich"
+    }
   }
 ]
