@@ -19445,5 +19445,15 @@
       "description": "[94145e0b](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/94145e0be37808a28d3ab72c7dfb7d764103fe87): added english fields to all untranslated languages - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c7d1a93cafd7d3eb6b4d41082da878711a92a2c7...02f4badbdae544dddb13188585864c06a3b666d7))",
+    "created_at": "2020-09-28 07:33:51.380000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[02f4badb](https://gitlab.com/snowgem/snowpay-api/-/commit/02f4badbdae544dddb13188585864c06a3b666d7): Merge branch 'exchange_cleanup' into 'master' - demzet\n\n[4b9527dd](https://gitlab.com/snowgem/snowpay-api/-/commit/4b9527dd86311ed39401badba0f61758b563ad4f): #119 - rollout plan - Kamil Wojciechowski\n\n[c7d1a93c](https://gitlab.com/snowgem/snowpay-api/-/commit/c7d1a93cafd7d3eb6b4d41082da878711a92a2c7): #117 - exchange cleanup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
