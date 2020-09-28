@@ -19580,5 +19580,15 @@
       "description": "[5fce4a79](https://gitlab.com/snowgem/bitfrost/-/commit/5fce4a799085fbbc8bcce9627db3274af7431983): fix rename wallet - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5fce4a799085fbbc8bcce9627db3274af7431983...7890b657fc40e37e89d092a4a1238b90b7625b0f))",
+    "created_at": "2020-09-28 22:05:58.804000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7890b657](https://gitlab.com/snowgem/bitfrost/-/commit/7890b657fc40e37e89d092a4a1238b90b7625b0f): add currency for overview page - Snowgem",
+      "type": "rich"
+    }
   }
 ]
