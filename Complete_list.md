@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-29 21:32:02</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!12 \*WIP: Start using prettier\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/12) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-09-29 21:31:27</sub> | <sub>Jan Vraštil pushed new branch [Use\_Prettier](https://gitlab.com/snowgem/bitfrost/commits/Use_Prettier) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-29 19:23:05</sub> | <sub>DaX pushed new branch [master](https://gitlab.com/snowgem/bitfrost-integrations/commits/master) to [snowgem / bitfrost\-integrations](https://gitlab.com/snowgem/bitfrost-integrations)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-29 19:16:14</sub> | <sub>John Smith pushed to branch [master](http://test.example.com/gitlab/gitlab/commits/master) of [snowgem / bitfrost\-integrations](http://test.example.com/gitlab/gitlab) ([Compare changes](http://test.example.com/gitlab/gitlab/compare/95790bf891e76fee5e1747ab589903a6a1f80f22...da1560886d4f094c3e6c9ef40349f7d38b5d27d7))</sub> | <sub>[c5feabde](https://test.example.com/gitlab/gitlab/-/commit/c5feabde2d8cd023215af4d2ceeb7a64839fc428): Add simple search to projects in public area - Test User</sub> |
 | <sub>2020-09-29 18:53:39</sub> | <sub>Txid (txid) merged merge request [\!11 \*update build for testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/11) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
