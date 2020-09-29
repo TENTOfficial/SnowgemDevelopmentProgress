@@ -19590,5 +19590,15 @@
       "description": "[7890b657](https://gitlab.com/snowgem/bitfrost/-/commit/7890b657fc40e37e89d092a4a1238b90b7625b0f): add currency for overview page - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7890b657fc40e37e89d092a4a1238b90b7625b0f...32444f48a832bcce1e2cc68f19ed240f3582efbf))",
+    "created_at": "2020-09-29 06:02:40.579000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ab0378dd](https://gitlab.com/snowgem/bitfrost/-/commit/ab0378dd0ee2c97f53ae75f938473660c36d1858): fix currency synbol after scrolling mainpage - Snowgem\n\n[32444f48](https://gitlab.com/snowgem/bitfrost/-/commit/32444f48a832bcce1e2cc68f19ed240f3582efbf): fix wallet deletion redirection - Snowgem",
+      "type": "rich"
+    }
   }
 ]
