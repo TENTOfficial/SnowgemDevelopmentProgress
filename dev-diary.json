@@ -19610,5 +19610,10 @@
       "description": "[daa66753](https://gitlab.com/snowgem/bitfrost/-/commit/daa66753a7d0731f0699238a25fd464bd3dfb9cb): update build command - Snowgem\n\n[5d3921fa](https://gitlab.com/snowgem/bitfrost/-/commit/5d3921fa366e67d32f77beeeea2e36dd81b04bb3): update api for appflow - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [bug/166\\#password\\-validation\\-and\\-cleanonedit](https://gitlab.com/snowgem/bitfrost/commits/bug/166#password-validation-and-cleanonedit) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-29 12:57:04.548000"
   }
 ]
