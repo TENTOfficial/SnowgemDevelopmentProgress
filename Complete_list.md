@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-29 15:51:45</sub> | <sub>Daniil Lisovskiy pushed to branch [cosmosdb\_sql\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/eba70fb88431ddffac968d33273a21b3e0ed91db...91a207e9ab7b0058ac1f20e10dd6e5c0b66cd72c))</sub> | <sub>[0e3507bd](https://gitlab.com/snowgem/snowpay-api/-/commit/0e3507bd6fccc2e45f8f1b1eae33eaa64095a39e): Revert "Shared.Wallets proj added, interface passed to WalletController" - Daniil Lisovskiy<br>[91a207e9](https://gitlab.com/snowgem/snowpay-api/-/commit/91a207e9ab7b0058ac1f20e10dd6e5c0b66cd72c): WalletRepository rolled back, WalletService implemented instead, SmokeTests... - Daniil Lisovskiy</sub> |
 | <sub>2020-09-29 13:26:50</sub> | <sub>Filip Storkan removed branch feature/language-api from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-29 13:17:26</sub> | <sub>Filip Storkan removed branch infrastructure/ionic-5 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-29 13:16:38</sub> | <sub>Filip Storkan removed branch v0.0.8-merge-v0.0.9 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
