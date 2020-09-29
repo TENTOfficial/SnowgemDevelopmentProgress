@@ -5,6 +5,11 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-29 13:17:26</sub> | <sub>Filip Storkan removed branch infrastructure/ionic-5 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-09-29 13:16:38</sub> | <sub>Filip Storkan removed branch v0.0.8-merge-v0.0.9 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-09-29 13:16:34</sub> | <sub>Filip Storkan removed branch v0.0.8 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-09-29 13:16:30</sub> | <sub>Filip Storkan removed branch v0.0.9 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-09-29 13:16:25</sub> | <sub>Filip Storkan removed branch release/0.0.6 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-29 13:09:47</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!8 \*Bug/166\#password validation and cleanonedit\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/8) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-29 12:57:04</sub> | <sub>Filip Storkan pushed new branch [bug/166\#password\-validation\-and\-cleanonedit](https://gitlab.com/snowgem/bitfrost/commits/bug/166#password-validation-and-cleanonedit) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-29 12:28:42</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/bitfrost/commits/master) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/32444f48a832bcce1e2cc68f19ed240f3582efbf...5d3921fa366e67d32f77beeeea2e36dd81b04bb3))</sub> | <sub>[daa66753](https://gitlab.com/snowgem/bitfrost/-/commit/daa66753a7d0731f0699238a25fd464bd3dfb9cb): update build command - Snowgem<br>[5d3921fa](https://gitlab.com/snowgem/bitfrost/-/commit/5d3921fa366e67d32f77beeeea2e36dd81b04bb3): update api for appflow - Snowgem</sub> |
