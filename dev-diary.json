@@ -19730,5 +19730,35 @@
       "description": "[8e1f2163](https://gitlab.com/snowgem/bitfrost/-/commit/8e1f2163d1cb692bb3d2964cc8268b2917f24b5f): update gitlab ci/cd - Snowgem\n\n[524bbcc7](https://gitlab.com/snowgem/bitfrost/-/commit/524bbcc7c775811efed26f6828822cd52f44eedf): Merge branch 'v0.1.1' of https://gitlab.com/snowgem/bitfrost into v0.1.1 - Snowgem\n\n[a988c6c4](https://gitlab.com/snowgem/bitfrost/-/commit/a988c6c45a0c893405ed127418b5f0a4126e27c2): Merge branch 'v0.1.1' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/524bbcc7c775811efed26f6828822cd52f44eedf...2350f8cfeae0ffc3b0f3226fe5be214564df1b5d))",
+    "created_at": "2020-09-29 18:52:58.693000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2350f8cf](https://gitlab.com/snowgem/bitfrost/-/commit/2350f8cfeae0ffc3b0f3226fe5be214564df1b5d): update build for testing - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!11 \\*update build for testing\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/11) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-29 18:53:32.611000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a988c6c45a0c893405ed127418b5f0a4126e27c2...a095af52439650dd59db99ec40d7583c9d2696ed))",
+    "created_at": "2020-09-29 18:53:39.028000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2350f8cf](https://gitlab.com/snowgem/bitfrost/-/commit/2350f8cfeae0ffc3b0f3226fe5be214564df1b5d): update build for testing - Snowgem\n\n[a095af52](https://gitlab.com/snowgem/bitfrost/-/commit/a095af52439650dd59db99ec40d7583c9d2696ed): Merge branch 'v0.1.1' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!11 \\*update build for testing\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/11) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-29 18:53:39.217000"
   }
 ]
