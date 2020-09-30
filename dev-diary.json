@@ -19840,5 +19840,25 @@
       "description": "[fae23e34](https://gitlab.com/snowgem/bitfrost/-/commit/fae23e34ce8dc9bb57407708047f6d3ce7564d68): update ios version - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!13 \\*update ios version\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/13) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-30 21:20:16.491000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a095af52439650dd59db99ec40d7583c9d2696ed...f1d3de40fde39b67180be955752f12f81f204d37))",
+    "created_at": "2020-09-30 21:20:22.069000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fae23e34](https://gitlab.com/snowgem/bitfrost/-/commit/fae23e34ce8dc9bb57407708047f6d3ce7564d68): update ios version - Snowgem\n\n[f1d3de40](https://gitlab.com/snowgem/bitfrost/-/commit/f1d3de40fde39b67180be955752f12f81f204d37): Merge branch 'v0.1.1' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!13 \\*update ios version\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/13) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-09-30 21:20:22.331000"
   }
 ]
