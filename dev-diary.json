@@ -19795,5 +19795,10 @@
     "author": "GitLab",
     "content": "demzet (aphex5) merged merge request [\\!26 \\*Release 2020 09 25\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/26) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-09-30 18:56:03.008000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [new\\_auth](https://gitlab.com/snowgem/snowpay-api/commits/new_auth) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-09-30 19:10:45.445000"
   }
 ]
