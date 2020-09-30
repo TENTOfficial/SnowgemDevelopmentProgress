@@ -19820,5 +19820,15 @@
       "description": "[aa985507](https://gitlab.com/snowgem/bitfrost/-/commit/aa985507ebf842e036ecee9bb8be4bcaa4f99abe): * Start using Prettier - jan.vrastil\n\n[83a9d705](https://gitlab.com/snowgem/bitfrost/-/commit/83a9d7056e6abbfcea9e555b08fc2e3d7ca21d8d): Apply prettier to whole codebase (reduce tslint errors from ~10k to 1.7k) - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [new\\_auth](https://gitlab.com/snowgem/snowpay-api/commits/new_auth) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4229a7936a7defed9086714bcbd8dbd8762091a5...352708ce044a1b654468b69a9d215946895aae69))",
+    "created_at": "2020-09-30 21:06:22.040000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[352708ce](https://gitlab.com/snowgem/snowpay-api/-/commit/352708ce044a1b654468b69a9d215946895aae69): #120 - move auth0 to mz auth - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]

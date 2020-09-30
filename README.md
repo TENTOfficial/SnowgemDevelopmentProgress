@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1887 commits since 20/01/2020. You can see the complete history in
+There is a total of 1888 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-09-30 21:06:22</sub> | <sub>demzet pushed to branch [new\_auth](https://gitlab.com/snowgem/snowpay-api/commits/new_auth) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4229a7936a7defed9086714bcbd8dbd8762091a5...352708ce044a1b654468b69a9d215946895aae69))</sub> | <sub>[352708ce](https://gitlab.com/snowgem/snowpay-api/-/commit/352708ce044a1b654468b69a9d215946895aae69): #120 - move auth0 to mz auth - Kamil Wojciechowski</sub> |
 | <sub>2020-09-30 19:23:50</sub> | <sub>Jan Vraštil pushed to branch [Use\_Prettier](https://gitlab.com/snowgem/bitfrost/commits/Use_Prettier) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7b0408276f4b9b1ac7704f0c3e6de58ea054dd24...83a9d7056e6abbfcea9e555b08fc2e3d7ca21d8d))</sub> | <sub>[aa985507](https://gitlab.com/snowgem/bitfrost/-/commit/aa985507ebf842e036ecee9bb8be4bcaa4f99abe): * Start using Prettier - jan.vrastil<br>[83a9d705](https://gitlab.com/snowgem/bitfrost/-/commit/83a9d7056e6abbfcea9e555b08fc2e3d7ca21d8d): Apply prettier to whole codebase (reduce tslint errors from ~10k to 1.7k) - jan.vrastil</sub> |
 | <sub>2020-09-30 19:15:20</sub> | <sub>Filip Storkan pushed to branch [feature/debit\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5e0e75a2bd20b0186a6821529199a01b33a1f046...7415d2e0fb06d38236384fa97a735f5e4d1985c1))</sub> | <sub>[c1d02642](https://gitlab.com/snowgem/bitfrost/-/commit/c1d0264225727f2b27f07ea30e480344dd5676a0): restructure account - Filip Storkan<br>[7415d2e0](https://gitlab.com/snowgem/bitfrost/-/commit/7415d2e0fb06d38236384fa97a735f5e4d1985c1): adding a browser for learn more - Filip Storkan</sub> |
 | <sub>2020-09-30 19:10:45</sub> | <sub>demzet pushed new branch [new\_auth](https://gitlab.com/snowgem/snowpay-api/commits/new_auth) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1887 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-09-29 21:31:27</sub> | <sub>Jan Vraštil pushed new branch [Use\_Prettier](https://gitlab.com/snowgem/bitfrost/commits/Use_Prettier) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-29 19:23:05</sub> | <sub>DaX pushed new branch [master](https://gitlab.com/snowgem/bitfrost-integrations/commits/master) to [snowgem / bitfrost\-integrations](https://gitlab.com/snowgem/bitfrost-integrations)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-09-29 19:16:14</sub> | <sub>John Smith pushed to branch [master](http://test.example.com/gitlab/gitlab/commits/master) of [snowgem / bitfrost\-integrations](http://test.example.com/gitlab/gitlab) ([Compare changes](http://test.example.com/gitlab/gitlab/compare/95790bf891e76fee5e1747ab589903a6a1f80f22...da1560886d4f094c3e6c9ef40349f7d38b5d27d7))</sub> | <sub>[c5feabde](https://test.example.com/gitlab/gitlab/-/commit/c5feabde2d8cd023215af4d2ceeb7a64839fc428): Add simple search to projects in public area - Test User</sub> |
-| <sub>2020-09-29 18:53:39</sub> | <sub>Txid (txid) merged merge request [\!11 \*update build for testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/11) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
