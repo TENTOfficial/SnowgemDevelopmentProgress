@@ -19860,5 +19860,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!13 \\*update ios version\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/13) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-09-30 21:20:22.331000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fae23e34ce8dc9bb57407708047f6d3ce7564d68...033ecd6d6a0bbacd8a4e7a584729e7d018677d90))",
+    "created_at": "2020-10-01 08:38:58.827000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[06e2efb0](https://gitlab.com/snowgem/bitfrost/-/commit/06e2efb0df9c3a1a486c7291f5bd5007879b9fbf): remove app config from ignore files - Snowgem\n\n[033ecd6d](https://gitlab.com/snowgem/bitfrost/-/commit/033ecd6d6a0bbacd8a4e7a584729e7d018677d90): Merge branch 'v0.1.1' of https://gitlab.com/snowgem/bitfrost into v0.1.1 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
