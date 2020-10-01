@@ -19970,5 +19970,23 @@
       "description": "[18252eea](https://gitlab.com/snowgem/snowpay-api/-/commit/18252eea9472b10a9c81bcb88515d5f2d83fb2c8): moving connections string into appconfig - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-10-01 19:06:26.139000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`5f867a5`](https://github.com/ciripel/Heimdall/commit/5f867a5060b44bdcc3d41ccd8d38042fa3ade349) Create codeql-analysis.yml - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/5f867a5060b44bdcc3d41ccd8d38042fa3ade349"
+    }
   }
 ]
