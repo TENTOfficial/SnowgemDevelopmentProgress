@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1900 commits since 20/01/2020. You can see the complete history in
+There is a total of 1901 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-01 09:19:49</sub> | <sub>Txid pushed to branch [v0\.1\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7f998038bbb94ed44ff1e530f90e03531b12eb7c...47276136d78cb06c7f89afb57a01dfadf96fd809))</sub> | <sub>[47276136](https://gitlab.com/snowgem/bitfrost/-/commit/47276136d78cb06c7f89afb57a01dfadf96fd809): update build command - Snowgem</sub> |
 | <sub>2020-10-01 09:01:07</sub> | <sub>Txid (txid) merged merge request [\!15 \*V0\.1\.1\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/15) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-01 09:01:07</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/019bd13d094181d055b34c45e8a423fe777d33a1...094da6dd731eba974b61a12be3ce235cfaef0ef0))</sub> | <sub>[688caffe](https://gitlab.com/snowgem/bitfrost/-/commit/688caffeb9cf8a118466c27443944be5976c55fa): update about page - Snowgem<br>[7f998038](https://gitlab.com/snowgem/bitfrost/-/commit/7f998038bbb94ed44ff1e530f90e03531b12eb7c): update ios build version - Snowgem<br>[094da6dd](https://gitlab.com/snowgem/bitfrost/-/commit/094da6dd731eba974b61a12be3ce235cfaef0ef0): Merge branch 'v0.1.1' into 'testing' - Txid</sub> |
 | <sub>2020-10-01 09:01:02</sub> | <sub>Txid (txid) opened merge request [\!15 \*V0\.1\.1\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/15) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 1900 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-01 08:43:53</sub> | <sub>Txid (txid) opened merge request [\!14 \*V0\.1\.1\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/14) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-01 08:38:58</sub> | <sub>Txid pushed to branch [v0\.1\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fae23e34ce8dc9bb57407708047f6d3ce7564d68...033ecd6d6a0bbacd8a4e7a584729e7d018677d90))</sub> | <sub>[06e2efb0](https://gitlab.com/snowgem/bitfrost/-/commit/06e2efb0df9c3a1a486c7291f5bd5007879b9fbf): remove app config from ignore files - Snowgem<br>[033ecd6d](https://gitlab.com/snowgem/bitfrost/-/commit/033ecd6d6a0bbacd8a4e7a584729e7d018677d90): Merge branch 'v0.1.1' of https://gitlab.com/snowgem/bitfrost into v0.1.1 - Snowgem</sub> |
 | <sub>2020-09-30 21:20:22</sub> | <sub>Txid (txid) merged merge request [\!13 \*update ios version\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/13) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-09-30 21:20:22</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a095af52439650dd59db99ec40d7583c9d2696ed...f1d3de40fde39b67180be955752f12f81f204d37))</sub> | <sub>[fae23e34](https://gitlab.com/snowgem/bitfrost/-/commit/fae23e34ce8dc9bb57407708047f6d3ce7564d68): update ios version - Snowgem<br>[f1d3de40](https://gitlab.com/snowgem/bitfrost/-/commit/f1d3de40fde39b67180be955752f12f81f204d37): Merge branch 'v0.1.1' into 'testing' - Txid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

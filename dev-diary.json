@@ -19920,5 +19920,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!15 \\*V0\\.1\\.1\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/15) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-01 09:01:07.832000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7f998038bbb94ed44ff1e530f90e03531b12eb7c...47276136d78cb06c7f89afb57a01dfadf96fd809))",
+    "created_at": "2020-10-01 09:19:49.832000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[47276136](https://gitlab.com/snowgem/bitfrost/-/commit/47276136d78cb06c7f89afb57a01dfadf96fd809): update build command - Snowgem",
+      "type": "rich"
+    }
   }
 ]
