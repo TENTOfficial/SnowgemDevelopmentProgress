@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1909 commits since 20/01/2020. You can see the complete history in
+There is a total of 1911 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-01 21:31:20</sub> | <sub>Txid (txid) merged merge request [\!17 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/17) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-10-01 21:31:05</sub> | <sub>Txid (txid) opened merge request [\!17 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/17) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-01 21:21:38</sub> | <sub>demzet pushed to branch [new\_auth](https://gitlab.com/snowgem/snowpay-api/commits/new_auth) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/352708ce044a1b654468b69a9d215946895aae69...268f73141a6af6460b43a3e54e1da1f4a122b413))</sub> | <sub>[268f7314](https://gitlab.com/snowgem/snowpay-api/-/commit/268f73141a6af6460b43a3e54e1da1f4a122b413): #120 - Kamil Wojciechowski</sub> |
 | <sub>2020-10-01 20:17:11</sub> | <sub>Filip Storkan pushed to branch [feature/debit\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7415d2e0fb06d38236384fa97a735f5e4d1985c1...f847c67298697cf8e238d87d66259c5b469a7255))</sub> | <sub>[f847c672](https://gitlab.com/snowgem/bitfrost/-/commit/f847c67298697cf8e238d87d66259c5b469a7255): Account registration hooked to API - Filip Storkan</sub> |
 | <sub>2020-10-01 19:06:26</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/5f867a5060b44bdcc3d41ccd8d38042fa3ade349)</sub> | <sub>[5f867a5](https://github.com/ciripel/Heimdall/commit/5f867a5060b44bdcc3d41ccd8d38042fa3ade349) Create codeql-analysis.yml - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 1909 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-01 09:20:44</sub> | <sub>Txid (txid) merged merge request [\!16 \*update build command\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/16) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-01 09:20:44</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/094da6dd731eba974b61a12be3ce235cfaef0ef0...5caa6dd7991418847985009bbc549656fe13b16a))</sub> | <sub>[47276136](https://gitlab.com/snowgem/bitfrost/-/commit/47276136d78cb06c7f89afb57a01dfadf96fd809): update build command - Snowgem<br>[5caa6dd7](https://gitlab.com/snowgem/bitfrost/-/commit/5caa6dd7991418847985009bbc549656fe13b16a): Merge branch 'v0.1.1' into 'testing' - Txid</sub> |
 | <sub>2020-10-01 09:20:39</sub> | <sub>Txid (txid) opened merge request [\!16 \*update build command\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/16) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-10-01 09:19:49</sub> | <sub>Txid pushed to branch [v0\.1\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7f998038bbb94ed44ff1e530f90e03531b12eb7c...47276136d78cb06c7f89afb57a01dfadf96fd809))</sub> | <sub>[47276136](https://gitlab.com/snowgem/bitfrost/-/commit/47276136d78cb06c7f89afb57a01dfadf96fd809): update build command - Snowgem</sub> |
-| <sub>2020-10-01 09:01:07</sub> | <sub>Txid (txid) merged merge request [\!15 \*V0\.1\.1\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/15) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
