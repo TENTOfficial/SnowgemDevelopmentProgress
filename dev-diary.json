@@ -19930,5 +19930,25 @@
       "description": "[47276136](https://gitlab.com/snowgem/bitfrost/-/commit/47276136d78cb06c7f89afb57a01dfadf96fd809): update build command - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!16 \\*update build command\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/16) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-01 09:20:39.363000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/094da6dd731eba974b61a12be3ce235cfaef0ef0...5caa6dd7991418847985009bbc549656fe13b16a))",
+    "created_at": "2020-10-01 09:20:44.349000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[47276136](https://gitlab.com/snowgem/bitfrost/-/commit/47276136d78cb06c7f89afb57a01dfadf96fd809): update build command - Snowgem\n\n[5caa6dd7](https://gitlab.com/snowgem/bitfrost/-/commit/5caa6dd7991418847985009bbc549656fe13b16a): Merge branch 'v0.1.1' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!16 \\*update build command\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/16) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-01 09:20:44.380000"
   }
 ]
