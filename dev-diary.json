@@ -19960,5 +19960,15 @@
       "description": "[b60f6dac](https://gitlab.com/snowgem/snowpay-api/-/commit/b60f6dac4b99d36e9edb9e5aa164d5c1ed181365): the very first real usage of azure tables - Daniil Lisovskiy\n\n[34ba8179](https://gitlab.com/snowgem/snowpay-api/-/commit/34ba8179401d9f5d7bf40739ff2bca64540c1277): UserAddress has been split to 2 azure tables - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [cosmosdb\\_sql\\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/34ba8179401d9f5d7bf40739ff2bca64540c1277...18252eea9472b10a9c81bcb88515d5f2d83fb2c8))",
+    "created_at": "2020-10-01 18:00:49.431000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[18252eea](https://gitlab.com/snowgem/snowpay-api/-/commit/18252eea9472b10a9c81bcb88515d5f2d83fb2c8): moving connections string into appconfig - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
