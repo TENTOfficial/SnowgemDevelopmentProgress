@@ -19890,5 +19890,35 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!14 \\*V0\\.1\\.1\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/14) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-01 08:44:04.493000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/033ecd6d6a0bbacd8a4e7a584729e7d018677d90...7f998038bbb94ed44ff1e530f90e03531b12eb7c))",
+    "created_at": "2020-10-01 09:00:31.003000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[688caffe](https://gitlab.com/snowgem/bitfrost/-/commit/688caffeb9cf8a118466c27443944be5976c55fa): update about page - Snowgem\n\n[7f998038](https://gitlab.com/snowgem/bitfrost/-/commit/7f998038bbb94ed44ff1e530f90e03531b12eb7c): update ios build version - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!15 \\*V0\\.1\\.1\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/15) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-01 09:01:02.807000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/019bd13d094181d055b34c45e8a423fe777d33a1...094da6dd731eba974b61a12be3ce235cfaef0ef0))",
+    "created_at": "2020-10-01 09:01:07.732000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[688caffe](https://gitlab.com/snowgem/bitfrost/-/commit/688caffeb9cf8a118466c27443944be5976c55fa): update about page - Snowgem\n\n[7f998038](https://gitlab.com/snowgem/bitfrost/-/commit/7f998038bbb94ed44ff1e530f90e03531b12eb7c): update ios build version - Snowgem\n\n[094da6dd](https://gitlab.com/snowgem/bitfrost/-/commit/094da6dd731eba974b61a12be3ce235cfaef0ef0): Merge branch 'v0.1.1' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!15 \\*V0\\.1\\.1\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/15) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-01 09:01:07.832000"
   }
 ]
