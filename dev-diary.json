@@ -20133,5 +20133,15 @@
       "description": "[6edbea1a](https://gitlab.com/snowgem/bitfrost/-/commit/6edbea1a6b8e099b05f05d724f075cce5ed6591b): updated package json - Filip Storkan\n\n[774c9538](https://gitlab.com/snowgem/bitfrost/-/commit/774c95383831f9c4d8fa541ecdca216fba5fd848): saving account to databaseO - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [new\\_auth](https://gitlab.com/snowgem/snowpay-api/commits/new_auth) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/478c094e97a060e178a95dea281e5caa0ce99a40...bc9a48c5587573b984289f171ba5952639801248))",
+    "created_at": "2020-10-02 20:55:59.979000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bc9a48c5](https://gitlab.com/snowgem/snowpay-api/-/commit/bc9a48c5587573b984289f171ba5952639801248): #120 block explorer fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
