@@ -20068,5 +20068,10 @@
       "description": "[0be30ad2](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/0be30ad295e8273314ba9bcd32bda69579b7c15e): add comment for decompress-zip library - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-02 09:54:53.789000"
   }
 ]
