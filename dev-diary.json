@@ -20113,5 +20113,15 @@
       "description": "[51a3ef07](https://gitlab.com/snowgem/snowpay-api/-/commit/51a3ef071f1d7925b7d9aed6503c72ea738c0e32): #120 smoke tests - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [new\\_auth](https://gitlab.com/snowgem/snowpay-api/commits/new_auth) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/51a3ef071f1d7925b7d9aed6503c72ea738c0e32...478c094e97a060e178a95dea281e5caa0ce99a40))",
+    "created_at": "2020-10-02 20:07:31.162000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[478c094e](https://gitlab.com/snowgem/snowpay-api/-/commit/478c094e97a060e178a95dea281e5caa0ce99a40): #120 build fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
