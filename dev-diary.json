@@ -20093,5 +20093,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!18 \\*V0\\.1\\.1\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/18) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-02 09:56:51.602000"
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/0be30ad295e8273314ba9bcd32bda69579b7c15e...10d4659573e45b849aa9bb3321c2f462b420b955))",
+    "created_at": "2020-10-02 11:10:47.881000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[10d46595](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/10d4659573e45b849aa9bb3321c2f462b420b955): use exactly decompress=0.3.1 and ignore future versions. - ciripel",
+      "type": "rich"
+    }
   }
 ]
