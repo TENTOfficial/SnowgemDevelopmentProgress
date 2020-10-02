@@ -20123,5 +20123,15 @@
       "description": "[478c094e](https://gitlab.com/snowgem/snowpay-api/-/commit/478c094e97a060e178a95dea281e5caa0ce99a40): #120 build fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c6b4f33e673c314eca2c4b03d699c43d04b7f0ae...774c95383831f9c4d8fa541ecdca216fba5fd848))",
+    "created_at": "2020-10-02 20:23:48.573000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6edbea1a](https://gitlab.com/snowgem/bitfrost/-/commit/6edbea1a6b8e099b05f05d724f075cce5ed6591b): updated package json - Filip Storkan\n\n[774c9538](https://gitlab.com/snowgem/bitfrost/-/commit/774c95383831f9c4d8fa541ecdca216fba5fd848): saving account to databaseO - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
