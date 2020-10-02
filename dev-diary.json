@@ -20048,5 +20048,15 @@
       "description": "[8e24a9b1](https://gitlab.com/snowgem/bitfrost/-/commit/8e24a9b19616e531a4df55a252ff6b62bee5e3f0): add try-catch on error check transaction - Snowgem\n\n[4c2c2138](https://gitlab.com/snowgem/bitfrost/-/commit/4c2c2138edf6cafed162e37d896f16862fd3fa37): fix default language issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/54dacca023d1c8f18d2d60e88b47b261a590d2e1...76dbd1e75d41c1a163dbfcc89e98463fec284cf4))",
+    "created_at": "2020-10-02 08:56:28.165000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[76dbd1e7](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/76dbd1e75d41c1a163dbfcc89e98463fec284cf4): fix extracting issue - Snowgem",
+      "type": "rich"
+    }
   }
 ]
