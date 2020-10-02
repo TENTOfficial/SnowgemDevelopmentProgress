@@ -20058,5 +20058,15 @@
       "description": "[76dbd1e7](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/76dbd1e75d41c1a163dbfcc89e98463fec284cf4): fix extracting issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/76dbd1e75d41c1a163dbfcc89e98463fec284cf4...0be30ad295e8273314ba9bcd32bda69579b7c15e))",
+    "created_at": "2020-10-02 09:01:17.220000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0be30ad2](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/0be30ad295e8273314ba9bcd32bda69579b7c15e): add comment for decompress-zip library - Snowgem",
+      "type": "rich"
+    }
   }
 ]
