@@ -20248,5 +20248,10 @@
       "description": "[947c4141](https://gitlab.com/snowgem/snowpay-api/-/commit/947c41412c9acb2793c2b912f5732bff7c51fd54): AzureTables Readme added - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new tag [0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.1) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-03 17:47:23.777000"
   }
 ]

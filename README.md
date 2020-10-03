@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 1938 commits since 20/01/2020. You can see the complete history in
+There is a total of 1939 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-03 17:47:23</sub> | <sub>Txid pushed new tag [0\.1\.1](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.1) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-03 12:10:43</sub> | <sub>Daniil Lisovskiy pushed to branch [cosmosdb\_sql\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7d7c0ded1933dbee8b0c78f0479e48ca345191e7...947c41412c9acb2793c2b912f5732bff7c51fd54))</sub> | <sub>[947c4141](https://gitlab.com/snowgem/snowpay-api/-/commit/947c41412c9acb2793c2b912f5732bff7c51fd54): AzureTables Readme added - Daniil Lisovskiy</sub> |
 | <sub>2020-10-03 11:22:31</sub> | <sub>Jan Vraštil pushed to branch [Fix\_tslint\_errors](https://gitlab.com/snowgem/bitfrost/commits/Fix_tslint_errors) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/737720b6da923237897c69db2ce4d83063d8db75...cb55d566af9bc8f24a9440a76749dc38e15986ae))</sub> | <sub>[cb55d566](https://gitlab.com/snowgem/bitfrost/-/commit/cb55d566af9bc8f24a9440a76749dc38e15986ae): Update gitlab build process - jan.vrastil</sub> |
 | <sub>2020-10-03 11:20:04</sub> | <sub>Daniil Lisovskiy pushed to branch [cosmosdb\_sql\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/aca50f649c9bd1a26032aad106095cb00688753f...7d7c0ded1933dbee8b0c78f0479e48ca345191e7))</sub> | <sub>[7d7c0ded](https://gitlab.com/snowgem/snowpay-api/-/commit/7d7c0ded1933dbee8b0c78f0479e48ca345191e7): bug fixes - Daniil Lisovskiy</sub> |
@@ -17,6 +18,5 @@ There is a total of 1938 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-03 10:46:01</sub> | <sub>Jan Vraštil pushed new branch [Fix\_tslint\_errors](https://gitlab.com/snowgem/bitfrost/commits/Fix_tslint_errors) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-03 10:30:16</sub> | <sub>Jan Vraštil removed branch Use_Prettier from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-03 10:30:16</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!12 \*Start using prettier\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/12) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-10-03 10:30:14</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4c2c2138edf6cafed162e37d896f16862fd3fa37...d74b13a7aa414ce294107add613118c40b6ac152))</sub> | <sub>[1b8b0db7](https://gitlab.com/snowgem/bitfrost/-/commit/1b8b0db76e3a35fe9294c69ec2972a0b6bdf70bf): Start using Prettier. Add pre-commit hooks in order to automatically apply prettier rules - jan.vrastil<br>[ef92eefd](https://gitlab.com/snowgem/bitfrost/-/commit/ef92eefd8843f1e319abd5f7b9a891ddda328a10): Apply prettier rules - jan.vrastil<br>[d74b13a7](https://gitlab.com/snowgem/bitfrost/-/commit/d74b13a7aa414ce294107add613118c40b6ac152): Merge branch 'Use_Prettier' into 'v0.1.2' - Jan Vraštil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
