@@ -20163,5 +20163,10 @@
       "description": "[95a3fa6f](https://gitlab.com/snowgem/snowpay-api/-/commit/95a3fa6ff531dfd8499b510dc270ccde9e05e96f): #120 unit test fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) approved merge request [\\!12 \\*Start using prettier\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/12) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-03 10:28:53.739000"
   }
 ]
