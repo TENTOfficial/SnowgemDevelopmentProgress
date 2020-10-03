@@ -20218,5 +20218,25 @@
       "description": "[2f87e0d1](https://gitlab.com/snowgem/snowpay-api/-/commit/2f87e0d1c6dffad5067d674dcd56fff9370e5b8b): sql-to-azure migration tool first implementation - Daniil Lisovskiy\n\n[ae052561](https://gitlab.com/snowgem/snowpay-api/-/commit/ae052561757581c38c00c6996032e40cdba12eac): minor imporvement - Daniil Lisovskiy\n\n[c6ab5bd6](https://gitlab.com/snowgem/snowpay-api/-/commit/c6ab5bd6f22c9aea44975e78d26023dc11ae831e): got rid of service and block explorer - Daniil Lisovskiy\n\n[aca50f64](https://gitlab.com/snowgem/snowpay-api/-/commit/aca50f649c9bd1a26032aad106095cb00688753f): refactoring - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [cosmosdb\\_sql\\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/aca50f649c9bd1a26032aad106095cb00688753f...7d7c0ded1933dbee8b0c78f0479e48ca345191e7))",
+    "created_at": "2020-10-03 11:20:04.405000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7d7c0ded](https://gitlab.com/snowgem/snowpay-api/-/commit/7d7c0ded1933dbee8b0c78f0479e48ca345191e7): bug fixes - Daniil Lisovskiy",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [Fix\\_tslint\\_errors](https://gitlab.com/snowgem/bitfrost/commits/Fix_tslint_errors) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/737720b6da923237897c69db2ce4d83063d8db75...cb55d566af9bc8f24a9440a76749dc38e15986ae))",
+    "created_at": "2020-10-03 11:22:31.892000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cb55d566](https://gitlab.com/snowgem/bitfrost/-/commit/cb55d566af9bc8f24a9440a76749dc38e15986ae): Update gitlab build process - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
