@@ -20208,5 +20208,15 @@
       "description": "[d74b13a7](https://gitlab.com/snowgem/bitfrost/-/commit/d74b13a7aa414ce294107add613118c40b6ac152): Merge branch 'Use_Prettier' into 'v0.1.2' - Jan Vra\u0161til\n\n[737720b6](https://gitlab.com/snowgem/bitfrost/-/commit/737720b6da923237897c69db2ce4d83063d8db75): Update gitlab build process - wip - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [cosmosdb\\_sql\\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/18252eea9472b10a9c81bcb88515d5f2d83fb2c8...aca50f649c9bd1a26032aad106095cb00688753f))",
+    "created_at": "2020-10-03 11:11:32.582000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2f87e0d1](https://gitlab.com/snowgem/snowpay-api/-/commit/2f87e0d1c6dffad5067d674dcd56fff9370e5b8b): sql-to-azure migration tool first implementation - Daniil Lisovskiy\n\n[ae052561](https://gitlab.com/snowgem/snowpay-api/-/commit/ae052561757581c38c00c6996032e40cdba12eac): minor imporvement - Daniil Lisovskiy\n\n[c6ab5bd6](https://gitlab.com/snowgem/snowpay-api/-/commit/c6ab5bd6f22c9aea44975e78d26023dc11ae831e): got rid of service and block explorer - Daniil Lisovskiy\n\n[aca50f64](https://gitlab.com/snowgem/snowpay-api/-/commit/aca50f649c9bd1a26032aad106095cb00688753f): refactoring - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
