@@ -20238,5 +20238,15 @@
       "description": "[cb55d566](https://gitlab.com/snowgem/bitfrost/-/commit/cb55d566af9bc8f24a9440a76749dc38e15986ae): Update gitlab build process - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [cosmosdb\\_sql\\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7d7c0ded1933dbee8b0c78f0479e48ca345191e7...947c41412c9acb2793c2b912f5732bff7c51fd54))",
+    "created_at": "2020-10-03 12:10:43.932000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[947c4141](https://gitlab.com/snowgem/snowpay-api/-/commit/947c41412c9acb2793c2b912f5732bff7c51fd54): AzureTables Readme added - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
