@@ -20168,5 +20168,25 @@
     "author": "GitLab",
     "content": "Filip Storkan (filipstrkn) approved merge request [\\!12 \\*Start using prettier\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/12) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-03 10:28:53.739000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4c2c2138edf6cafed162e37d896f16862fd3fa37...d74b13a7aa414ce294107add613118c40b6ac152))",
+    "created_at": "2020-10-03 10:30:14.667000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1b8b0db7](https://gitlab.com/snowgem/bitfrost/-/commit/1b8b0db76e3a35fe9294c69ec2972a0b6bdf70bf): Start using Prettier. Add pre-commit hooks in order to automatically apply prettier rules - jan.vrastil\n\n[ef92eefd](https://gitlab.com/snowgem/bitfrost/-/commit/ef92eefd8843f1e319abd5f7b9a891ddda328a10): Apply prettier rules - jan.vrastil\n\n[d74b13a7](https://gitlab.com/snowgem/bitfrost/-/commit/d74b13a7aa414ce294107add613118c40b6ac152): Merge branch 'Use_Prettier' into 'v0.1.2' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!12 \\*Start using prettier\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/12) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-03 10:30:16.486000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch Use_Prettier from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-03 10:30:16.846000"
   }
 ]
