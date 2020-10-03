@@ -20263,5 +20263,23 @@
       "description": "[bec443a2](https://gitlab.com/snowgem/snowpay-api/-/commit/bec443a26767586366395914d82bc27284f57045): #120 build fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-10-03 19:09:38.116000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`054ba72`](https://github.com/ciripel/Heimdall/commit/054ba72f4c21757cd9b12e5c107ba9f42f587f7b) fixed the new id of #bot-commands - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/054ba72f4c21757cd9b12e5c107ba9f42f587f7b"
+    }
   }
 ]
