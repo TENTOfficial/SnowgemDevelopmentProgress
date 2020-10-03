@@ -20281,5 +20281,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/054ba72f4c21757cd9b12e5c107ba9f42f587f7b"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [cosmosdb\\_sql\\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/947c41412c9acb2793c2b912f5732bff7c51fd54...69dce30c874953242fa83479c87837571794c953))",
+    "created_at": "2020-10-03 19:18:07.317000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[69dce30c](https://gitlab.com/snowgem/snowpay-api/-/commit/69dce30c874953242fa83479c87837571794c953): Readme fix - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
