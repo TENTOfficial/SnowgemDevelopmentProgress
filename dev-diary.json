@@ -20361,5 +20361,30 @@
     "author": "GitLab",
     "content": "demzet (aphex5) opened merge request [\\!28 \\*\\#120 binance api fix\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/28) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-04 11:20:47.469000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!28 \\*\\#120 binance api fix\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/28) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-04 11:59:12.367000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!28 \\*\\#120 binance api fix\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/28) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-04 11:59:25.439000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4229a7936a7defed9086714bcbd8dbd8762091a5...66b826cd63ef509b5bd1ec9c6c4515bcbf2c947d))",
+    "created_at": "2020-10-04 11:59:25.594000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0294c4cc](https://gitlab.com/snowgem/snowpay-api/-/commit/0294c4cc959ac06eeb9f62514718e22539b448ea): #120 binance api fix - Kamil Wojciechowski\n\n[66b826cd](https://gitlab.com/snowgem/snowpay-api/-/commit/66b826cd63ef509b5bd1ec9c6c4515bcbf2c947d): Merge branch 'new_auth' into 'master' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch new_auth from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-04 11:59:25.748000"
   }
 ]
