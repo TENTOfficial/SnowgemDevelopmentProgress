@@ -20386,5 +20386,15 @@
     "author": "GitLab",
     "content": "demzet removed branch new_auth from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-04 11:59:25.748000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [crypto\\_to\\_fiat\\_swaps](https://gitlab.com/snowgem/snowpay-api/commits/crypto_to_fiat_swaps) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cea5c188cdb577b6937cacda8263edc485e9e06a...90dff3c2234a50755b4010e75d116a9a6ce1d133))",
+    "created_at": "2020-10-04 13:26:09.171000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[90dff3c2](https://gitlab.com/snowgem/snowpay-api/-/commit/90dff3c2234a50755b4010e75d116a9a6ce1d133): #90 - [CryptoToFiat] API starts crypto to fiat swap saga - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
