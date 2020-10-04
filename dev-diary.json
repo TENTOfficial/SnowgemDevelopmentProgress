@@ -20301,5 +20301,10 @@
       "description": "[c9bc139d](https://gitlab.com/snowgem/snowpay-api/-/commit/c9bc139d910a1eb22b33790ef62a2758e687103a): #120 binance api fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy (d.lisovskiy) opened merge request [\\!27 \\*AzureTables implementation\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/27) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-04 09:52:29.237000"
   }
 ]
