@@ -20316,5 +20316,35 @@
       "description": "[931a3a11](https://gitlab.com/snowgem/bitfrost/-/commit/931a3a1183b1083de0be7facea72df1624af266e): check btc fee - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!20 \\*check btc fee\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/20) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-04 10:50:53.312000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e4a2b7922478d7968576c2e68a1afaaef3906b87...1154678e7bb932fe4e53c63edfd21ea5a949d824))",
+    "created_at": "2020-10-04 10:50:58.450000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[931a3a11](https://gitlab.com/snowgem/bitfrost/-/commit/931a3a1183b1083de0be7facea72df1624af266e): check btc fee - Snowgem\n\n[1154678e](https://gitlab.com/snowgem/bitfrost/-/commit/1154678e7bb932fe4e53c63edfd21ea5a949d824): Merge branch 'v0.1.1' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!20 \\*check btc fee\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/20) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-04 10:50:58.668000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/931a3a1183b1083de0be7facea72df1624af266e...0f2dad326a3941934b31e1f71c8c6bd5c7c53bd7))",
+    "created_at": "2020-10-04 10:53:21.669000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0f2dad32](https://gitlab.com/snowgem/bitfrost/-/commit/0f2dad326a3941934b31e1f71c8c6bd5c7c53bd7): proj version v0.1.1.2 for ios - Snowgem",
+      "type": "rich"
+    }
   }
 ]
