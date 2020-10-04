@@ -20396,5 +20396,15 @@
       "description": "[90dff3c2](https://gitlab.com/snowgem/snowpay-api/-/commit/90dff3c2234a50755b4010e75d116a9a6ce1d133): #90 - [CryptoToFiat] API starts crypto to fiat swap saga - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d74b13a7aa414ce294107add613118c40b6ac152...24504876d6a0d7793b09c5e36711b0e5bb343189))",
+    "created_at": "2020-10-04 14:49:43.362000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b66a596b](https://gitlab.com/snowgem/bitfrost/-/commit/b66a596b22265355a6dfeba2d68081b8ac6ff761): version 0.1.2 - Snowgem\n\n[24504876](https://gitlab.com/snowgem/bitfrost/-/commit/24504876d6a0d7793b09c5e36711b0e5bb343189): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
