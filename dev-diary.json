@@ -20406,5 +20406,15 @@
       "description": "[b66a596b](https://gitlab.com/snowgem/bitfrost/-/commit/b66a596b22265355a6dfeba2d68081b8ac6ff761): version 0.1.2 - Snowgem\n\n[24504876](https://gitlab.com/snowgem/bitfrost/-/commit/24504876d6a0d7793b09c5e36711b0e5bb343189): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/774c95383831f9c4d8fa541ecdca216fba5fd848...6cd048e88a079e2bf7e42191ab4f7b87b301e29e))",
+    "created_at": "2020-10-05 11:07:30.893000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b96c16a3](https://gitlab.com/snowgem/bitfrost/-/commit/b96c16a32207fc62cb2c153bdf25e8a826bed3f2): adding username to service account - Filip Storkan\n\n[5d5c1807](https://gitlab.com/snowgem/bitfrost/-/commit/5d5c18078784814e13b10c2968492758ced912e2): Platform info updated - Filip Storkan\n\n[6cd048e8](https://gitlab.com/snowgem/bitfrost/-/commit/6cd048e88a079e2bf7e42191ab4f7b87b301e29e): Custom account registration error - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
