@@ -20436,5 +20436,15 @@
       "description": "[5a4f6d68](https://gitlab.com/snowgem/bitfrost/-/commit/5a4f6d68ebf5085f46a0e00826dad37ba57b9ab0): generalizing code error - Filip Storkan\n\n[70abab0b](https://gitlab.com/snowgem/bitfrost/-/commit/70abab0bf213288f59f16e3dd7132bca222690c9): kyc getting access token for sumsub - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/70abab0bf213288f59f16e3dd7132bca222690c9...ae332240d059bba75de1a4cd3eec3d41e38cefc1))",
+    "created_at": "2020-10-05 16:45:51.916000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c1870ddc](https://gitlab.com/snowgem/bitfrost/-/commit/c1870ddc4ab79c2aa73b6d3034f3550a4cab993c): updating npmrc registry - Filip Storkan\n\n[bf02b242](https://gitlab.com/snowgem/bitfrost/-/commit/bf02b242324234996573832ff103d205361734e4): installing sumsub cordova plugin - Filip Storkan\n\n[ae332240](https://gitlab.com/snowgem/bitfrost/-/commit/ae332240d059bba75de1a4cd3eec3d41e38cefc1): removing duplicity from type - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
