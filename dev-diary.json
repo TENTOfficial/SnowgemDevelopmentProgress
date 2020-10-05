@@ -20416,5 +20416,15 @@
       "description": "[b96c16a3](https://gitlab.com/snowgem/bitfrost/-/commit/b96c16a32207fc62cb2c153bdf25e8a826bed3f2): adding username to service account - Filip Storkan\n\n[5d5c1807](https://gitlab.com/snowgem/bitfrost/-/commit/5d5c18078784814e13b10c2968492758ced912e2): Platform info updated - Filip Storkan\n\n[6cd048e8](https://gitlab.com/snowgem/bitfrost/-/commit/6cd048e88a079e2bf7e42191ab4f7b87b301e29e): Custom account registration error - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6cd048e88a079e2bf7e42191ab4f7b87b301e29e...c9704e91340d295213964db457160950404ca0af))",
+    "created_at": "2020-10-05 14:20:07.546000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c9704e91](https://gitlab.com/snowgem/bitfrost/-/commit/c9704e91340d295213964db457160950404ca0af): kyc prep - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
