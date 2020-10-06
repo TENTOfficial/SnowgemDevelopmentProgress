@@ -20466,5 +20466,15 @@
       "description": "[c2a40b78](https://gitlab.com/snowgem/bitfrost/-/commit/c2a40b78e03d21858cbf5354af366d5b9a7ee44b): Fix tslint errors in o*.ts - jan.vrastil\n\n[57d3be96](https://gitlab.com/snowgem/bitfrost/-/commit/57d3be9667ecd6b1d64dc40c0dd2a2391272d757): Fix tslint errors in p*.ts - jan.vrastil\n\n[88ec7c8e](https://gitlab.com/snowgem/bitfrost/-/commit/88ec7c8ebd08afa60da1bfaa19e373fee6053bae): Fix tslint errors in r*.ts - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/24504876d6a0d7793b09c5e36711b0e5bb343189...39f2cedc1944d406fb001c7e4f4d3c85a12114d5))",
+    "created_at": "2020-10-06 15:35:46.395000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[39f2cedc](https://gitlab.com/snowgem/bitfrost/-/commit/39f2cedc1944d406fb001c7e4f4d3c85a12114d5): splash screen timeout to 30 secs: - Snowgem",
+      "type": "rich"
+    }
   }
 ]
