@@ -20456,5 +20456,15 @@
       "description": "[07403cfe](https://gitlab.com/snowgem/bitfrost/-/commit/07403cfe1132a830d9c23b5f4979c5ee0fc9490a): Update tslint rules - jan.vrastil\n\n[6b5e96b3](https://gitlab.com/snowgem/bitfrost/-/commit/6b5e96b3aa90d596aa74e6ce3857e980ce51859a): Fix tslint errors in a*.ts - jan.vrastil\n\n[3c53d0d5](https://gitlab.com/snowgem/bitfrost/-/commit/3c53d0d5605083d078af7f8fcf75488074991c70): Fix tslint errors in b*.ts - jan.vrastil\n\n[77a50333](https://gitlab.com/snowgem/bitfrost/-/commit/77a50333d264805cf30e09f0b96270ef984b41fb): Fix tslint errors in c*.ts - jan.vrastil\n\n[30b32661](https://gitlab.com/snowgem/bitfrost/-/commit/30b32661c01ef4336f43bbe42a82dbf9852f4440): Fix tslint errors in d*.ts - jan.vrastil\n\n[3767282b](https://gitlab.com/snowgem/bitfrost/-/commit/3767282b317be5befb163f2d1fd8aba3586338f8): Fix tslint errors in e*.ts - jan.vrastil\n\n[80e38c0d](https://gitlab.com/snowgem/bitfrost/-/commit/80e38c0d9e074e19b0d6f0a32b8ce50950ca390d): Fix tslint errors in f*.ts - jan.vrastil\n\n[a076c121](https://gitlab.com/snowgem/bitfrost/-/commit/a076c121c166347311a075a2c81a868165a4bf11): Fix tslint errors in g*.ts - jan.vrastil\n\n[04f03ca7](https://gitlab.com/snowgem/bitfrost/-/commit/04f03ca747a68822ffbebd2093e3a39becaab17b): Fix tslint errors in h*.ts - jan.vrastil\n\n[60dcd872](https://gitlab.com/snowgem/bitfrost/-/commit/60dcd8729c9235d1d52a37fe542980286c6d078c): Fix tslint errors in i*.ts - jan.vrastil\n\n[393f8652](https://gitlab.com/snowgem/bitfrost/-/commit/393f86528fd4396dfaf2bc431c37479ce8c253a2): Fix tslint errors in l*.ts - jan.vrastil\n\n[7f824169](https://gitlab.com/snowgem/bitfrost/-/commit/7f824169972c9e6132a4ffc4dc00a820befc303e): Fix tslint errors in n*.ts - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [Fix\\_tslint\\_errors](https://gitlab.com/snowgem/bitfrost/commits/Fix_tslint_errors) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7f824169972c9e6132a4ffc4dc00a820befc303e...88ec7c8ebd08afa60da1bfaa19e373fee6053bae))",
+    "created_at": "2020-10-06 06:58:08.356000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c2a40b78](https://gitlab.com/snowgem/bitfrost/-/commit/c2a40b78e03d21858cbf5354af366d5b9a7ee44b): Fix tslint errors in o*.ts - jan.vrastil\n\n[57d3be96](https://gitlab.com/snowgem/bitfrost/-/commit/57d3be9667ecd6b1d64dc40c0dd2a2391272d757): Fix tslint errors in p*.ts - jan.vrastil\n\n[88ec7c8e](https://gitlab.com/snowgem/bitfrost/-/commit/88ec7c8ebd08afa60da1bfaa19e373fee6053bae): Fix tslint errors in r*.ts - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
