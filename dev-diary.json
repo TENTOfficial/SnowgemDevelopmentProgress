@@ -20476,5 +20476,23 @@
       "description": "[39f2cedc](https://gitlab.com/snowgem/bitfrost/-/commit/39f2cedc1944d406fb001c7e4f4d3c85a12114d5): splash screen timeout to 30 secs: - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-10-08 08:03:45.003000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b28acab`](https://github.com/ciripel/Heimdall/commit/b28acabcd589cf3ee2d9b53b371035fc7b5f0844) updated list of translators - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/b28acabcd589cf3ee2d9b53b371035fc7b5f0844"
+    }
   }
 ]
