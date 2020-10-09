@@ -20522,5 +20522,15 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [origin/feature/blockbook](https://gitlab.com/snowgem/bitfrost/commits/origin/feature/blockbook) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-09 17:18:36.055000"
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/10d4659573e45b849aa9bb3321c2f462b420b955...d10743144a1cf13da6d2301b6c5e5ecd22adcffe))",
+    "created_at": "2020-10-09 17:40:24.111000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f64e3bd3](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/f64e3bd3eb828faf14c1f4c2d160d50b9bcc5ef6): updated CZ translation for errors - ciripel\n\n[d1074314](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/d10743144a1cf13da6d2301b6c5e5ecd22adcffe): updated DE translation for errors - ciripel",
+      "type": "rich"
+    }
   }
 ]
