@@ -20570,5 +20570,15 @@
       "description": "[d2e9aab5](https://gitlab.com/snowgem/bitfrost/-/commit/d2e9aab5e94cd7da0df9dac1b41eacf260b1ee6f): support blockbook - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [origin/feature/blockbook](https://gitlab.com/snowgem/bitfrost/commits/origin/feature/blockbook) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d2e9aab5e94cd7da0df9dac1b41eacf260b1ee6f...16fd608d2c0afc95dab4f3995ebe5cb3727f9e48))",
+    "created_at": "2020-10-10 19:25:33.521000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[59982d84](https://gitlab.com/snowgem/bitfrost/-/commit/59982d84a2690a4dd6e9cdcdff3120718ff74bad): fix explorer api v2 - Snowgem\n\n[16fd608d](https://gitlab.com/snowgem/bitfrost/-/commit/16fd608d2c0afc95dab4f3995ebe5cb3727f9e48): parse tx v2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
