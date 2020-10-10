@@ -20542,5 +20542,23 @@
       "description": "[bfed9322](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/bfed9322d52ce2d608a2afeca8e595b6526d8981): small correction of DE - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-10-10 15:44:30.795000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`cc690f9`](https://github.com/ciripel/Heimdall/commit/cc690f916a323f572211c8022084a8e77ce19faa) updated the list of translators - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/cc690f916a323f572211c8022084a8e77ce19faa"
+    }
   }
 ]
