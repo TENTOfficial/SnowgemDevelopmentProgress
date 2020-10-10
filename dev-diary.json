@@ -20580,5 +20580,15 @@
       "description": "[59982d84](https://gitlab.com/snowgem/bitfrost/-/commit/59982d84a2690a4dd6e9cdcdff3120718ff74bad): fix explorer api v2 - Snowgem\n\n[16fd608d](https://gitlab.com/snowgem/bitfrost/-/commit/16fd608d2c0afc95dab4f3995ebe5cb3727f9e48): parse tx v2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [origin/feature/blockbook](https://gitlab.com/snowgem/bitfrost/commits/origin/feature/blockbook) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/16fd608d2c0afc95dab4f3995ebe5cb3727f9e48...9bbab4795a85cb23d2315f9bfd98b14c244685d4))",
+    "created_at": "2020-10-10 20:20:45.686000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[894bace8](https://gitlab.com/snowgem/bitfrost/-/commit/894bace864fec27884c420f31de5ab8987d4b745): fix get address balance v2 - Snowgem\n\n[9bbab479](https://gitlab.com/snowgem/bitfrost/-/commit/9bbab4795a85cb23d2315f9bfd98b14c244685d4): fix get balance - Snowgem",
+      "type": "rich"
+    }
   }
 ]
