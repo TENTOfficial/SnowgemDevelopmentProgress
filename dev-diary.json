@@ -20630,5 +20630,23 @@
       "description": "[c1942aee](https://gitlab.com/snowgem/bitfrost/-/commit/c1942aee1afedfd908fdb593f37c35354d63e46e): fix blockbook display value - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-10-11 11:51:13.758000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`893f4cd`](https://github.com/ciripel/Heimdall/commit/893f4cda6ea38feb4713ac8921e818fb5220de6f) update dependencies - ciripel\n[`47079c3`](https://github.com/ciripel/Heimdall/commit/47079c30d8bf89f64618b88cc8b2e741ecaf5f8c) implemented Verification functions on :xsg: emo... - ciripel",
+      "title": "[Heimdall:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/compare/cc690f916a32...47079c30d8bf"
+    }
   }
 ]
