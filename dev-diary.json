@@ -20600,5 +20600,15 @@
       "description": "[db19b279](https://gitlab.com/snowgem/snowpay-api/-/commit/db19b279f4a982729ef6e2372efd902e6c68e163): #124 Add swap routes for TopUpPayments - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/bfed9322d52ce2d608a2afeca8e595b6526d8981...673c348197f55130478a8653b43ff0f4427ebb8e))",
+    "created_at": "2020-10-11 06:45:59.559000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[673c3481](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/673c348197f55130478a8653b43ff0f4427ebb8e): updated IT translation for errors - ciripel",
+      "type": "rich"
+    }
   }
 ]
