@@ -20676,5 +20676,15 @@
       "description": "[c073b43a](https://gitlab.com/snowgem/bitfrost/-/commit/c073b43a529c4b9353e458884e64df9ad64fa1c2): create transaction for bcash - Snowgem\n\n[9849bc9c](https://gitlab.com/snowgem/bitfrost/-/commit/9849bc9cc6767e78798b59f551eedad9162b348b): correct blockbook tx data - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [origin/feature/blockbook](https://gitlab.com/snowgem/bitfrost/commits/origin/feature/blockbook) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9849bc9cc6767e78798b59f551eedad9162b348b...1a4cb5ffc3a0003a94ed39e55c7810cec5236d56))",
+    "created_at": "2020-10-11 19:25:54.952000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1a4cb5ff](https://gitlab.com/snowgem/bitfrost/-/commit/1a4cb5ffc3a0003a94ed39e55c7810cec5236d56): correct balance display in coin - Snowgem",
+      "type": "rich"
+    }
   }
 ]
