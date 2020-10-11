@@ -20686,5 +20686,15 @@
       "description": "[1a4cb5ff](https://gitlab.com/snowgem/bitfrost/-/commit/1a4cb5ffc3a0003a94ed39e55c7810cec5236d56): correct balance display in coin - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [origin/feature/blockbook](https://gitlab.com/snowgem/bitfrost/commits/origin/feature/blockbook) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1a4cb5ffc3a0003a94ed39e55c7810cec5236d56...c3c24e9f3a510c6f7c8b33c1670c05fc114ed785))",
+    "created_at": "2020-10-11 20:12:13.114000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c3c24e9f](https://gitlab.com/snowgem/bitfrost/-/commit/c3c24e9f3a510c6f7c8b33c1670c05fc114ed785): broadcast tx v2 response standardization - Snowgem",
+      "type": "rich"
+    }
   }
 ]
