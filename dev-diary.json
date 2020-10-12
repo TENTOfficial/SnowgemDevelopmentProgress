@@ -20869,5 +20869,10 @@
       "description": "[87b705b7](https://gitlab.com/snowgem/bitfrost/-/commit/87b705b71706bc3c04d92e951f4b3a4dd84ee101): fix eth and token transaction - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!24 \\*Origin/feature/blockbook\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/24) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-12 16:27:27.028000"
   }
 ]
