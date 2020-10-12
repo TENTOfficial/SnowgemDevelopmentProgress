@@ -20889,5 +20889,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!24 \\*Origin/feature/blockbook\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/24) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-12 16:58:26.597000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/88141f8358a80b6b9833d9c6978ad6adf3939d9a...94a9fd4cf72b8a91956400115225cd901bf3ba06))",
+    "created_at": "2020-10-12 17:31:21.584000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[94a9fd4c](https://gitlab.com/snowgem/bitfrost/-/commit/94a9fd4cf72b8a91956400115225cd901bf3ba06): fix tslint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
