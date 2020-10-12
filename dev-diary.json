@@ -20766,5 +20766,45 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [bugs/tx\\-refresher](https://gitlab.com/snowgem/bitfrost/commits/bugs/tx-refresher) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-12 15:04:38.134000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!21 \\*fix new transaction is not updated\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/21) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-12 15:06:18.415000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!19 \\*Apply tslint rules and require it\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/19) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-12 15:06:47.024000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.1](https://gitlab.com/snowgem/bitfrost/commits/v0.1.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0f2dad326a3941934b31e1f71c8c6bd5c7c53bd7...d34e61ecd4bf785f44d76b4f57b3eff1af2d2339))",
+    "created_at": "2020-10-12 15:07:07.866000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e56e0fa8](https://gitlab.com/snowgem/bitfrost/-/commit/e56e0fa8b48cc03807778c9c60515a9323f17140): fix new transaction is not updated - Snowgem\n\n[d34e61ec](https://gitlab.com/snowgem/bitfrost/-/commit/d34e61ecd4bf785f44d76b4f57b3eff1af2d2339): Merge branch 'bugs/tx-refresher' into 'v0.1.1' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!21 \\*fix new transaction is not updated\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/21) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-12 15:07:07.939000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!22 \\*fix new transaction is not updated\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/22) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-12 15:07:44.193000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!23 \\*fix new transaction is not updated\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/23) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-12 15:08:10.260000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) closed merge request [\\!23 \\*fix new transaction is not updated\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/23) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-12 15:09:36.845000"
   }
 ]
