@@ -20909,5 +20909,15 @@
       "description": "[395b36f2](https://gitlab.com/snowgem/bitfrost/-/commit/395b36f229c789cd1228a93771f7fe6b230b50ce): fix tslint 2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/395b36f229c789cd1228a93771f7fe6b230b50ce...b13b64afb5d9b4874ceec9bfe88c2420b4f1ea29))",
+    "created_at": "2020-10-12 18:02:09.567000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b13b64af](https://gitlab.com/snowgem/bitfrost/-/commit/b13b64afb5d9b4874ceec9bfe88c2420b4f1ea29): fix tslint 3 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
