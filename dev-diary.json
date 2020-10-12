@@ -20821,5 +20821,33 @@
       "description": "[e56e0fa8](https://gitlab.com/snowgem/bitfrost/-/commit/e56e0fa8b48cc03807778c9c60515a9323f17140): fix new transaction is not updated - Snowgem\n\n[71ebf05d](https://gitlab.com/snowgem/bitfrost/-/commit/71ebf05d7ea5834627963a731423ddd108e25aae): Merge commit 'e56e0fa8b48cc03807778c9c60515a9323f17140' into origin/feature/blockbook - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/mywallet/commits/master) of [snowgem / mywallet](https://gitlab.com/snowgem/mywallet) ([Compare changes](https://gitlab.com/snowgem/mywallet/compare/a7102fe920e27ed71d3305213552af63a3811497...c1c28cd44768fe6697dda58ea59fd48497731ea4))",
+    "created_at": "2020-10-12 15:45:55.857000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c1c28cd4](https://gitlab.com/snowgem/mywallet/-/commit/c1c28cd44768fe6697dda58ea59fd48497731ea4): Updated German Translation - ciripel",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-10-12 15:46:55.651000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`fe3729c`](https://github.com/Snowgem/SnowGemWebWallet/commit/fe3729cb64dbd308ffb90b9d3623ff1d3413211a) Updated German translation - ciripel",
+      "title": "[SnowGemWebWallet:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/SnowGemWebWallet/commit/fe3729cb64dbd308ffb90b9d3623ff1d3413211a"
+    }
   }
 ]
