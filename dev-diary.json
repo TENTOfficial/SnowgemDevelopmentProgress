@@ -20806,5 +20806,20 @@
     "author": "GitLab",
     "content": "Txid (txid) closed merge request [\\!23 \\*fix new transaction is not updated\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/23) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-12 15:09:36.845000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) closed merge request [\\!22 \\*fix new transaction is not updated\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/22) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-12 15:10:06.335000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [origin/feature/blockbook](https://gitlab.com/snowgem/bitfrost/commits/origin/feature/blockbook) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3a6946e992529f497a7d57daaca1fc1bd4c93aec...71ebf05d7ea5834627963a731423ddd108e25aae))",
+    "created_at": "2020-10-12 15:13:08.887000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e56e0fa8](https://gitlab.com/snowgem/bitfrost/-/commit/e56e0fa8b48cc03807778c9c60515a9323f17140): fix new transaction is not updated - Snowgem\n\n[71ebf05d](https://gitlab.com/snowgem/bitfrost/-/commit/71ebf05d7ea5834627963a731423ddd108e25aae): Merge commit 'e56e0fa8b48cc03807778c9c60515a9323f17140' into origin/feature/blockbook - Snowgem",
+      "type": "rich"
+    }
   }
 ]
