@@ -20706,5 +20706,15 @@
       "description": "[0e0721d3](https://gitlab.com/snowgem/snowpay-api/-/commit/0e0721d3eac3cecf9f656af6eabf94a11a1aba5a): WIP - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [crypto\\_to\\_fiat\\_swaps](https://gitlab.com/snowgem/snowpay-api/commits/crypto_to_fiat_swaps) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0e0721d3eac3cecf9f656af6eabf94a11a1aba5a...578056a107769af92f3dd2637cc67eb62045ca94))",
+    "created_at": "2020-10-12 07:25:50.099000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[578056a1](https://gitlab.com/snowgem/snowpay-api/-/commit/578056a107769af92f3dd2637cc67eb62045ca94): #124 added network to swap routes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
