@@ -20741,5 +20741,15 @@
       "description": "[2edebe1a](https://gitlab.com/snowgem/snowpay-api/-/commit/2edebe1a8dc4f96127de3c5ec8d8844064bff060): #125 get topup swap parameters - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/673c348197f55130478a8653b43ff0f4427ebb8e...daf18f35617f50eda34968eb6166f786740df8aa))",
+    "created_at": "2020-10-12 14:51:37.409000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[daf18f35](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/daf18f35617f50eda34968eb6166f786740df8aa): DE translation improvements on MW - thanks @AndyGSE#5796 - ciripel",
+      "type": "rich"
+    }
   }
 ]
