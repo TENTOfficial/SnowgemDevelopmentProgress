@@ -20884,5 +20884,10 @@
       "description": "[d71a7b4b](https://gitlab.com/snowgem/snowpay-api/-/commit/d71a7b4bee8e65d8b37cd76760ee97e81edb3607): Repository moved into Repository folder, namespaces are fixed - Daniil Lisovskiy\n\n[0a87f473](https://gitlab.com/snowgem/snowpay-api/-/commit/0a87f473c4b9559de100d4d17a52308583c78335): multi account structure tested - Daniil Lisovskiy\n\n[773a5de7](https://gitlab.com/snowgem/snowpay-api/-/commit/773a5de79f6ac8fa3c5995669356309e688fab37): UserWallet and UserAddress new structure implemented - Daniil Lisovskiy\n\n[fa482761](https://gitlab.com/snowgem/snowpay-api/-/commit/fa48276157d650bdac4680d6930e10eb78ef35a1): CoinSwappingContext replaced by WalletRepository in ProvisionAddressValidator, tests are fixed - Daniil Lisovskiy\n\n[dbf7db9d](https://gitlab.com/snowgem/snowpay-api/-/commit/dbf7db9da50e0e21df2f027f7999001bdd591486): Currency enum implemented instead of string values - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!24 \\*Origin/feature/blockbook\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/24) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-12 16:58:26.597000"
   }
 ]
