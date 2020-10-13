@@ -20954,5 +20954,15 @@
     "author": "GitLab",
     "content": "Txid removed branch origin/feature/addcoins from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-13 08:45:01.037000"
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1588972bebc50b85ed546f10c45c812d1bece33a...4fb5a17a5b384858165ae758bab5331c17d409fa))",
+    "created_at": "2020-10-13 19:26:52.382000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4fb5a17a](https://gitlab.com/snowgem/bitfrost/-/commit/4fb5a17a5b384858165ae758bab5331c17d409fa): corrected RO translation - ciripel",
+      "type": "rich"
+    }
   }
 ]
