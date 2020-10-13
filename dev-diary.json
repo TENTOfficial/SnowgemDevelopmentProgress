@@ -20964,5 +20964,15 @@
       "description": "[4fb5a17a](https://gitlab.com/snowgem/bitfrost/-/commit/4fb5a17a5b384858165ae758bab5331c17d409fa): corrected RO translation - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [crypto\\_to\\_fiat\\_swaps](https://gitlab.com/snowgem/snowpay-api/commits/crypto_to_fiat_swaps) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c20444581e41d22420fd6023a292a5ea62be5897...79700c17adf3c92fe95986cc11690d2fe00d3cc2))",
+    "created_at": "2020-10-13 19:37:07.399000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[79700c17](https://gitlab.com/snowgem/snowpay-api/-/commit/79700c17adf3c92fe95986cc11690d2fe00d3cc2): #129 - Implement FundProcessing - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
