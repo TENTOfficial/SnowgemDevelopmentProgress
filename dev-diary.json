@@ -20929,5 +20929,30 @@
       "description": "[c2044458](https://gitlab.com/snowgem/snowpay-api/-/commit/c20444581e41d22420fd6023a292a5ea62be5897): #126 swap reports - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!25 \\*Origin/feature/addcoins\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/25) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-13 08:43:53.990000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b13b64afb5d9b4874ceec9bfe88c2420b4f1ea29...1588972bebc50b85ed546f10c45c812d1bece33a))",
+    "created_at": "2020-10-13 08:44:59.568000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0118a491](https://gitlab.com/snowgem/bitfrost/-/commit/0118a491786d718c87a1bbec67e08b4ac99289f0): add doge coin - Snowgem\n\n[2c586e7c](https://gitlab.com/snowgem/bitfrost/-/commit/2c586e7c0ca24cc7490f308765bf109b210d1216): add doge - Snowgem\n\n[1588972b](https://gitlab.com/snowgem/bitfrost/-/commit/1588972bebc50b85ed546f10c45c812d1bece33a): Merge branch 'origin/feature/addcoins' into 'v0.1.2' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!25 \\*Origin/feature/addcoins\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/25) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-13 08:45:00.796000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid removed branch origin/feature/addcoins from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-13 08:45:01.037000"
   }
 ]
