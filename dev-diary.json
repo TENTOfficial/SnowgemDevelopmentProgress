@@ -20992,5 +20992,15 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/ModernWalletLangPack/commit/74d4ee977e65967d481e23f5ee027040566c51a3"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/daf18f35617f50eda34968eb6166f786740df8aa...9f14a538ecf388d66231b37fe1f9166b02290f27))",
+    "created_at": "2020-10-14 12:10:37.118000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9f14a538](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/9f14a538ecf388d66231b37fe1f9166b02290f27): updated AE translation for errors - ciripel",
+      "type": "rich"
+    }
   }
 ]
