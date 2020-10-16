@@ -21097,5 +21097,20 @@
     "author": "GitLab",
     "content": "Filip Storkan (filipstrkn) opened merge request [\\!26 \\*adding accessible ids for sending process\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/26) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-16 09:40:58.591000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4fb5a17a5b384858165ae758bab5331c17d409fa...1e86f0381c3cce57ba5398bd7a07137af218e2cd))",
+    "created_at": "2020-10-16 10:12:50.971000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[063f9c51](https://gitlab.com/snowgem/bitfrost/-/commit/063f9c51b5b9900721a8d36aabe3b029230beaca): adding accessible ids for sending process - Filip Storkan\n\n[1e86f038](https://gitlab.com/snowgem/bitfrost/-/commit/1e86f0381c3cce57ba5398bd7a07137af218e2cd): Merge branch 'feature/accessibility-identifiers-teaser' into 'v0.1.2' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!26 \\*adding accessible ids for sending process\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/26) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-16 10:12:52.276000"
   }
 ]
