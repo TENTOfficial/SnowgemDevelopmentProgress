@@ -21062,5 +21062,15 @@
       "description": "[8a3ef1dd](https://gitlab.com/snowgem/snowpay-api/-/commit/8a3ef1dd9388e7670321e33eeb702b6cb182483e): this keywork removed - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [crypto\\_to\\_fiat\\_swaps](https://gitlab.com/snowgem/snowpay-api/commits/crypto_to_fiat_swaps) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/98058775b2fae9704fab1f92df47bbf65dfcc790...283516bd74fa26caf7be96770334b6f33de3edb2))",
+    "created_at": "2020-10-16 07:54:16.573000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[283516bd](https://gitlab.com/snowgem/snowpay-api/-/commit/283516bd74fa26caf7be96770334b6f33de3edb2): #129 - Implement FundProcessing - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
