@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-16 09:40:58</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!26 \*adding accessible ids for sending process\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/26) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-16 09:21:47</sub> | <sub>Filip Storkan pushed new branch [feature/accessibility\-identifiers\-teaser](https://gitlab.com/snowgem/bitfrost/commits/feature/accessibility-identifiers-teaser) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-16 08:28:18</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/66b826cd63ef509b5bd1ec9c6c4515bcbf2c947d...b399163981964242fa00a3bd10d7156dfcb2187a))</sub> | <sub>[b3991639](https://gitlab.com/snowgem/snowpay-api/-/commit/b399163981964242fa00a3bd10d7156dfcb2187a): reverted user token endpoint - Kamil Wojciechowski</sub> |
 | <sub>2020-10-16 08:00:23</sub> | <sub>demzet pushed new branch [new\_auth](https://gitlab.com/snowgem/snowpay-api/commits/new_auth) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
