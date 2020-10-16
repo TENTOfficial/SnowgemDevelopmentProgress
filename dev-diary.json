@@ -21052,5 +21052,15 @@
       "description": "[c2a50752](https://gitlab.com/snowgem/snowpay-api/-/commit/c2a50752cae668c83ba5997b530020cd2be59cc1): ignore wallets tests by default - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [cosmosdb\\_sql\\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c2a50752cae668c83ba5997b530020cd2be59cc1...8a3ef1dd9388e7670321e33eeb702b6cb182483e))",
+    "created_at": "2020-10-16 07:36:32.673000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8a3ef1dd](https://gitlab.com/snowgem/snowpay-api/-/commit/8a3ef1dd9388e7670321e33eeb702b6cb182483e): this keywork removed - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
