@@ -21207,5 +21207,15 @@
       "description": "[03717abf](https://gitlab.com/snowgem/freyja/-/commit/03717abf8b5fee43a75aac6bfb9967c6c2692827): missing state.js - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/03717abf8b5fee43a75aac6bfb9967c6c2692827...c0c2a92ca5e5526e58a493c4d96f7439a31542f7))",
+    "created_at": "2020-10-18 13:00:11.079000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[893cd383](https://gitlab.com/snowgem/freyja/-/commit/893cd383365aa120ac9f01935050b85bdbe42b0d): removed unused dependencies - V\n\n[c0c2a92c](https://gitlab.com/snowgem/freyja/-/commit/c0c2a92ca5e5526e58a493c4d96f7439a31542f7): fixed node status api call - V",
+      "type": "rich"
+    }
   }
 ]
