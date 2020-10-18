@@ -21257,5 +21257,15 @@
       "description": "[b02b121c](https://gitlab.com/snowgem/snowpay-api/-/commit/b02b121cce43116365ffcdea716cc38bfd106d1c): #27 - solution fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [cosmosdb\\_sql\\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/b02b121cce43116365ffcdea716cc38bfd106d1c...f3acd46e26683a7e4aba95ab8565a8dc63fe8a42))",
+    "created_at": "2020-10-18 21:45:06.899000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f3acd46e](https://gitlab.com/snowgem/snowpay-api/-/commit/f3acd46e26683a7e4aba95ab8565a8dc63fe8a42): #27 - currency enum refactoring - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
