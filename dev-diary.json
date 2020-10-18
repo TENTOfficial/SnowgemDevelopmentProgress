@@ -21227,5 +21227,15 @@
       "description": "[2aa0edef](https://gitlab.com/snowgem/freyja/-/commit/2aa0edefa88273855b4a76c5e1bfa5276e805811): status database fixes - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [cosmosdb\\_sql\\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8a3ef1dd9388e7670321e33eeb702b6cb182483e...9e9c7c919403c00779b8a15743fdd27d3e40fd1e))",
+    "created_at": "2020-10-18 19:01:31.437000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9e9c7c91](https://gitlab.com/snowgem/snowpay-api/-/commit/9e9c7c919403c00779b8a15743fdd27d3e40fd1e): #27 - user wallet performance improvements - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
