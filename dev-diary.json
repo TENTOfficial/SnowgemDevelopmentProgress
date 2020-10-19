@@ -21267,5 +21267,15 @@
       "description": "[f3acd46e](https://gitlab.com/snowgem/snowpay-api/-/commit/f3acd46e26683a7e4aba95ab8565a8dc63fe8a42): #27 - currency enum refactoring - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1e86f0381c3cce57ba5398bd7a07137af218e2cd...03625a73f886eb4d608ffe9fb79c58b727f959c2))",
+    "created_at": "2020-10-19 06:15:10.591000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[71248680](https://gitlab.com/snowgem/bitfrost/-/commit/7124868048a2c7d968ce0b7c84886aaf0a27b71a): show toast when creating wallet failed - Snowgem\n\n[03625a73](https://gitlab.com/snowgem/bitfrost/-/commit/03625a73f886eb4d608ffe9fb79c58b727f959c2): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
