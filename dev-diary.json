@@ -21377,5 +21377,15 @@
       "description": "[fa38e557](https://gitlab.com/snowgem/snowpay-api/-/commit/fa38e557e511f47365b5726b330d35992f5c8e5b): #90 - API starts crypto to fiat swap saga - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/03625a73f886eb4d608ffe9fb79c58b727f959c2...71d7afa88fb05b1bc8a7b61466c579ee92ae9324))",
+    "created_at": "2020-10-19 14:31:31.607000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[510a0098](https://gitlab.com/snowgem/bitfrost/-/commit/510a009850646e04afea3d8902fef2fd99a8e1bf): Merge branch 'v0.1.1' into 'testing' - Txid\n\n[a988c6c4](https://gitlab.com/snowgem/bitfrost/-/commit/a988c6c45a0c893405ed127418b5f0a4126e27c2): Merge branch 'v0.1.1' into 'testing' - Txid\n\n[a095af52](https://gitlab.com/snowgem/bitfrost/-/commit/a095af52439650dd59db99ec40d7583c9d2696ed): Merge branch 'v0.1.1' into 'testing' - Txid\n\n[f1d3de40](https://gitlab.com/snowgem/bitfrost/-/commit/f1d3de40fde39b67180be955752f12f81f204d37): Merge branch 'v0.1.1' into 'testing' - Txid\n\n[019bd13d](https://gitlab.com/snowgem/bitfrost/-/commit/019bd13d094181d055b34c45e8a423fe777d33a1): Merge branch 'v0.1.1' into 'testing' - Txid\n\n[094da6dd](https://gitlab.com/snowgem/bitfrost/-/commit/094da6dd731eba974b61a12be3ce235cfaef0ef0): Merge branch 'v0.1.1' into 'testing' - Txid\n\n[5caa6dd7](https://gitlab.com/snowgem/bitfrost/-/commit/5caa6dd7991418847985009bbc549656fe13b16a): Merge branch 'v0.1.1' into 'testing' - Txid\n\n[e4a2b792](https://gitlab.com/snowgem/bitfrost/-/commit/e4a2b7922478d7968576c2e68a1afaaef3906b87): Merge branch 'v0.1.1' into 'testing' - Txid\n\n[931a3a11](https://gitlab.com/snowgem/bitfrost/-/commit/931a3a1183b1083de0be7facea72df1624af266e): check btc fee - Snowgem\n\n[1154678e](https://gitlab.com/snowgem/bitfrost/-/commit/1154678e7bb932fe4e53c63edfd21ea5a949d824): Merge branch 'v0.1.1' into 'testing' - Txid\n\n[71d7afa8](https://gitlab.com/snowgem/bitfrost/-/commit/71d7afa88fb05b1bc8a7b61466c579ee92ae9324): Merge branch 'testing' into 'v0.1.2' - Txid",
+      "type": "rich"
+    }
   }
 ]
