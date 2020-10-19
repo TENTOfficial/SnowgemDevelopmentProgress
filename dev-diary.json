@@ -21392,5 +21392,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!27 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/27) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-19 14:57:07.068000"
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/2aa0edefa88273855b4a76c5e1bfa5276e805811...16d5984b6e4d9f4a69fb18ba5d7f010275eeff47))",
+    "created_at": "2020-10-19 17:03:56.114000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[16d5984b](https://gitlab.com/snowgem/freyja/-/commit/16d5984b6e4d9f4a69fb18ba5d7f010275eeff47): possibility to return cached status of multiple nodes - V",
+      "type": "rich"
+    }
   }
 ]
