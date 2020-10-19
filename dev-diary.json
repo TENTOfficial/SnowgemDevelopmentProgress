@@ -21297,5 +21297,25 @@
       "description": "[064a333b](https://gitlab.com/snowgem/snowpay-api/-/commit/064a333bdfbc006ba8839c4b440a37c9b56f1165): #27 - user wallet performance improvements - Daniil Lisovskiy\n\n[074cf1f6](https://gitlab.com/snowgem/snowpay-api/-/commit/074cf1f6894222be1cc4e51bf62c478cb65900cd): #27 merge - Kamil Wojciechowski\n\n[fdc1b327](https://gitlab.com/snowgem/snowpay-api/-/commit/fdc1b3273fbf83db8b5080e9fc04034612c576f6): #27 - added docs - Kamil Wojciechowski\n\n[b02b121c](https://gitlab.com/snowgem/snowpay-api/-/commit/b02b121cce43116365ffcdea716cc38bfd106d1c): #27 - solution fix - Kamil Wojciechowski\n\n[f3acd46e](https://gitlab.com/snowgem/snowpay-api/-/commit/f3acd46e26683a7e4aba95ab8565a8dc63fe8a42): #27 - currency enum refactoring - Kamil Wojciechowski\n\n[f36803ce](https://gitlab.com/snowgem/snowpay-api/-/commit/f36803cedaf686b331caf64ba4bb4610fc3e0c9e): Merge branch 'cosmosdb_sql_replacement' into 'master' - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [cosmosdb\\_sql\\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f3acd46e26683a7e4aba95ab8565a8dc63fe8a42...737acbc9c7b9415e76c234122b31ec4fc64efeb2))",
+    "created_at": "2020-10-19 06:45:46.833000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[737acbc9](https://gitlab.com/snowgem/snowpay-api/-/commit/737acbc9c7b9415e76c234122b31ec4fc64efeb2): #27 - added remaining files - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!29 \\*\\#27 \\- added remaining files\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/29) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-19 06:46:37.790000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!29 \\*\\#27 \\- added remaining files\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/29) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-19 06:46:43.113000"
   }
 ]
