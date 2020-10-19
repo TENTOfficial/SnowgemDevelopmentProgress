@@ -21402,5 +21402,15 @@
       "description": "[16d5984b](https://gitlab.com/snowgem/freyja/-/commit/16d5984b6e4d9f4a69fb18ba5d7f010275eeff47): possibility to return cached status of multiple nodes - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/71d7afa88fb05b1bc8a7b61466c579ee92ae9324...bdf70e3966447875ddf5cfa02e148efd96fffa5d))",
+    "created_at": "2020-10-19 17:20:14.255000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0345be43](https://gitlab.com/snowgem/bitfrost/-/commit/0345be4383df00208c0cb6cd463a0248db33c5a4): Merge branch 'v0.1.2' into 'testing' - Txid\n\n[530d31c2](https://gitlab.com/snowgem/bitfrost/-/commit/530d31c26c5369612e5161d6ca28099b51a7067f): do not add balance if no new tx - Snowgem\n\n[bdf70e39](https://gitlab.com/snowgem/bitfrost/-/commit/bdf70e3966447875ddf5cfa02e148efd96fffa5d): return history after adding for debugging - Snowgem",
+      "type": "rich"
+    }
   }
 ]
