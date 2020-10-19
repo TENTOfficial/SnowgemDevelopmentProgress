@@ -21327,5 +21327,20 @@
       "description": "[0848a86b](https://gitlab.com/snowgem/snowpay-api/-/commit/0848a86b931b90f7923a92b9861ec7e30e184144): #27 - build setup - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!29 \\*\\#27 \\- added remaining files\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/29) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-19 07:17:28.753000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f36803cedaf686b331caf64ba4bb4610fc3e0c9e...b4d24241092a74a0841c2484e34524d57224a9e6))",
+    "created_at": "2020-10-19 07:17:29.057000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[737acbc9](https://gitlab.com/snowgem/snowpay-api/-/commit/737acbc9c7b9415e76c234122b31ec4fc64efeb2): #27 - added remaining files - Kamil Wojciechowski\n\n[0848a86b](https://gitlab.com/snowgem/snowpay-api/-/commit/0848a86b931b90f7923a92b9861ec7e30e184144): #27 - build setup - Kamil Wojciechowski\n\n[b4d24241](https://gitlab.com/snowgem/snowpay-api/-/commit/b4d24241092a74a0841c2484e34524d57224a9e6): Merge branch 'cosmosdb_sql_replacement' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
