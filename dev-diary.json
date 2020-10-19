@@ -21317,5 +21317,15 @@
     "author": "GitLab",
     "content": "demzet (aphex5) approved merge request [\\!29 \\*\\#27 \\- added remaining files\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/29) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-19 06:46:43.113000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [cosmosdb\\_sql\\_replacement](https://gitlab.com/snowgem/snowpay-api/commits/cosmosdb_sql_replacement) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/737acbc9c7b9415e76c234122b31ec4fc64efeb2...0848a86b931b90f7923a92b9861ec7e30e184144))",
+    "created_at": "2020-10-19 07:11:39.232000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0848a86b](https://gitlab.com/snowgem/snowpay-api/-/commit/0848a86b931b90f7923a92b9861ec7e30e184144): #27 - build setup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
