@@ -21482,5 +21482,10 @@
       "description": "[e8b52d86](https://gitlab.com/snowgem/bitfrost/-/commit/e8b52d864485bb9738a44aeb11d7eb4e2e65613f): Observable swap for isComplete check - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!30 \\*Crypto to fiat swaps\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/30) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-20 11:07:26.630000"
   }
 ]
