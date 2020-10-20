@@ -21452,5 +21452,15 @@
       "description": "[04af6a10](https://gitlab.com/snowgem/snowpay-api/-/commit/04af6a1036167208d30ccaa6aa1f2a63f0bd3ad9): #unit test fix - moved category attr to parent child classes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c8284754ea695182b386ed881a220fcc31d3c59c...376677af948750f4a892b9951430a0309d03ee9c))",
+    "created_at": "2020-10-20 10:53:15.119000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d9f149cb](https://gitlab.com/snowgem/bitfrost/-/commit/d9f149cb8b8aad9b3832f288aef07f43847a0bc1): global service account memory reset - Filip Storkan\n\n[bc4d3aed](https://gitlab.com/snowgem/bitfrost/-/commit/bc4d3aed39ba1417554926cece34a82751aaa56f): default service account verification value - Filip Storkan\n\n[a251dbbd](https://gitlab.com/snowgem/bitfrost/-/commit/a251dbbdacffc1229b3ab088988003e297a6fde7): card page mem leak fix, short-poll email verification - Filip Storkan\n\n[7841f17b](https://gitlab.com/snowgem/bitfrost/-/commit/7841f17bb851314d0f570de90c25ad80d6e2042f): adding complete prop to local service account - Filip Storkan\n\n[ae6bdff2](https://gitlab.com/snowgem/bitfrost/-/commit/ae6bdff2150889f7934119edfaba17695fd2b556): login page back router update - Filip Storkan\n\n[376677af](https://gitlab.com/snowgem/bitfrost/-/commit/376677af948750f4a892b9951430a0309d03ee9c): adding template translation for errors - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
