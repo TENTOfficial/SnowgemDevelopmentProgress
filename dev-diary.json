@@ -21487,5 +21487,25 @@
     "author": "GitLab",
     "content": "demzet (aphex5) opened merge request [\\!30 \\*Crypto to fiat swaps\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/30) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-20 11:07:26.630000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!30 \\*Crypto to fiat swaps\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/30) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-20 11:16:21.955000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!30 \\*Crypto to fiat swaps\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/30) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-20 11:16:25.171000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/b4d24241092a74a0841c2484e34524d57224a9e6...165e32a4f9a8cfb21a366c5a3ef181e1a8c6cb55))",
+    "created_at": "2020-10-20 11:16:25.194000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[09005f74](https://gitlab.com/snowgem/snowpay-api/-/commit/09005f74e991ba7f6a1f16157f002fae411e6e18): #90 - API starts crypto to fiat swap saga - Kamil Wojciechowski\n\n[55b20c07](https://gitlab.com/snowgem/snowpay-api/-/commit/55b20c0725ab2cc59e2af33e8602c5419a431018): #135 - internal nottifications - Kamil Wojciechowski\n\n[0d37841e](https://gitlab.com/snowgem/snowpay-api/-/commit/0d37841eab453e3271c6ee2d8e326f8e11351aa5): build fix - Kamil Wojciechowski\n\n[04af6a10](https://gitlab.com/snowgem/snowpay-api/-/commit/04af6a1036167208d30ccaa6aa1f2a63f0bd3ad9): #unit test fix - moved category attr to parent child classes - Kamil Wojciechowski\n\n[5af17e0e](https://gitlab.com/snowgem/snowpay-api/-/commit/5af17e0ed6bec3aa189169ff2c186de29e71ba90): test fix - Kamil Wojciechowski\n\n[165e32a4](https://gitlab.com/snowgem/snowpay-api/-/commit/165e32a4f9a8cfb21a366c5a3ef181e1a8c6cb55): Merge branch 'crypto_to_fiat_swaps' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
