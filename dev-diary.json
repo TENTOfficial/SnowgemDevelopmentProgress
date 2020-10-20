@@ -21442,5 +21442,15 @@
       "description": "[0d37841e](https://gitlab.com/snowgem/snowpay-api/-/commit/0d37841eab453e3271c6ee2d8e326f8e11351aa5): build fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [crypto\\_to\\_fiat\\_swaps](https://gitlab.com/snowgem/snowpay-api/commits/crypto_to_fiat_swaps) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0d37841eab453e3271c6ee2d8e326f8e11351aa5...04af6a1036167208d30ccaa6aa1f2a63f0bd3ad9))",
+    "created_at": "2020-10-20 10:10:40.361000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[04af6a10](https://gitlab.com/snowgem/snowpay-api/-/commit/04af6a1036167208d30ccaa6aa1f2a63f0bd3ad9): #unit test fix - moved category attr to parent child classes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
