@@ -21619,5 +21619,25 @@
       "description": "[01f36c06](https://gitlab.com/snowgem/bitfrost/-/commit/01f36c060665f18ca2409efd942563d5af2a410f): emptying card provider - Filip Storkan\n\n[8767e3bd](https://gitlab.com/snowgem/bitfrost/-/commit/8767e3bd58b215444f290f0cab84b9a7820be51e): mobile service account with verified prop - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/165e32a4f9a8cfb21a366c5a3ef181e1a8c6cb55...e7087d4c406f0b5a2990466c8a287d5f0472304e))",
+    "created_at": "2020-10-22 20:45:32.837000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7b3d4274](https://gitlab.com/snowgem/snowpay-api/-/commit/7b3d4274761295720e4871793fe17e2a51e43f49): #build reorganization - Kamil Wojciechowski\n\n[e7087d4c](https://gitlab.com/snowgem/snowpay-api/-/commit/e7087d4c406f0b5a2990466c8a287d5f0472304e): #build reorganization - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e7087d4c406f0b5a2990466c8a287d5f0472304e...608062eb30a7b023cf8df43dec3a18f1ec60628f))",
+    "created_at": "2020-10-22 20:47:37.657000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[608062eb](https://gitlab.com/snowgem/snowpay-api/-/commit/608062eb30a7b023cf8df43dec3a18f1ec60628f): #build reorganization - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
