@@ -21649,5 +21649,15 @@
       "description": "[16a25771](https://gitlab.com/snowgem/snowpay-api/-/commit/16a257717e772a16cc3880a0a47161b21fa61fd3): #docker image fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/16a257717e772a16cc3880a0a47161b21fa61fd3...c0021a002b13f6c95f68bb43ce834be627979e4e))",
+    "created_at": "2020-10-22 21:39:23.942000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c0021a00](https://gitlab.com/snowgem/snowpay-api/-/commit/c0021a002b13f6c95f68bb43ce834be627979e4e): #renamed servicebus configuration name - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
