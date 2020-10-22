@@ -21609,5 +21609,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/24613c23e50b3663747dceb0b287a8502ad42466"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-registration](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-registration) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/22a4b8e42389ef1d742d3c247ddf5b4a19c65d5d...8767e3bd58b215444f290f0cab84b9a7820be51e))",
+    "created_at": "2020-10-22 20:13:33.210000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[01f36c06](https://gitlab.com/snowgem/bitfrost/-/commit/01f36c060665f18ca2409efd942563d5af2a410f): emptying card provider - Filip Storkan\n\n[8767e3bd](https://gitlab.com/snowgem/bitfrost/-/commit/8767e3bd58b215444f290f0cab84b9a7820be51e): mobile service account with verified prop - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
