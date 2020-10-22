@@ -21537,5 +21537,23 @@
       "description": "[c75b7b24](https://gitlab.com/snowgem/bitfrost/-/commit/c75b7b2460df6d17abce61168c2de4c5c804fb71): fix #174, grant camera permission for scanning - Snowgem\n\n[6e0c47d8](https://gitlab.com/snowgem/bitfrost/-/commit/6e0c47d80ef1112e69d7ab35c8e7c225a096a18a): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-10-22 17:03:16.980000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ab0a21f`](https://github.com/ciripel/Heimdall/commit/ab0a21fc3b6185c8444ba9fca90f5ef35c429ed4) removed check of stex price check and fixed unk... - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/ab0a21fc3b6185c8444ba9fca90f5ef35c429ed4"
+    }
   }
 ]
