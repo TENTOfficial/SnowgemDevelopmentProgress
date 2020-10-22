@@ -3,7 +3,7 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2083 commits since 20/01/2020. You can see the complete history in
+There is a total of 16 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
