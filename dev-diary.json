@@ -21639,5 +21639,15 @@
       "description": "[608062eb](https://gitlab.com/snowgem/snowpay-api/-/commit/608062eb30a7b023cf8df43dec3a18f1ec60628f): #build reorganization - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/608062eb30a7b023cf8df43dec3a18f1ec60628f...16a257717e772a16cc3880a0a47161b21fa61fd3))",
+    "created_at": "2020-10-22 21:06:09.696000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[16a25771](https://gitlab.com/snowgem/snowpay-api/-/commit/16a257717e772a16cc3880a0a47161b21fa61fd3): #docker image fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
