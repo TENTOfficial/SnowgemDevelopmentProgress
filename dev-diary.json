@@ -21799,5 +21799,15 @@
       "description": "[69eab8f9](https://gitlab.com/snowgem/snowpay-api/-/commit/69eab8f979362fd1c68527b603271c75bc27f494): #136 unit test fixes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_136\\_blockexplorers\\_fallback](https://gitlab.com/snowgem/snowpay-api/commits/feature_136_blockexplorers_fallback) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/69eab8f979362fd1c68527b603271c75bc27f494...f08b65b5f42560df52fe587575b48ef17950bb7d))",
+    "created_at": "2020-10-23 19:58:29.055000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f08b65b5](https://gitlab.com/snowgem/snowpay-api/-/commit/f08b65b5f42560df52fe587575b48ef17950bb7d): #136 CI - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
