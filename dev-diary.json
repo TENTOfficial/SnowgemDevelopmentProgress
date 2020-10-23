@@ -21754,5 +21754,15 @@
       "description": "[5f2a0e48](https://gitlab.com/snowgem/bitfrost/-/commit/5f2a0e480e34ce2120affb8361cdbad24fa1e8d5): fix pipelines 2 - Snowgem\n\n[5b6553eb](https://gitlab.com/snowgem/bitfrost/-/commit/5b6553eb06b6cb07b0d6c6867d9233a791aa45ac): fix pipelines2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_136\\_blockexplorers\\_fallback](https://gitlab.com/snowgem/snowpay-api/commits/feature_136_blockexplorers_fallback) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5782522cdd9c3dfaeedb4f51263650eb2fc96899...fdedad3c31f99bd63c1d2a1fbe0269ce1472317c))",
+    "created_at": "2020-10-23 11:39:30.948000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[935821d3](https://gitlab.com/snowgem/snowpay-api/-/commit/935821d36692f93786a16634e54df49604f8451d): #136 test fix - Kamil Wojciechowski\n\n[fdedad3c](https://gitlab.com/snowgem/snowpay-api/-/commit/fdedad3c31f99bd63c1d2a1fbe0269ce1472317c): #136 added more unit tests - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
