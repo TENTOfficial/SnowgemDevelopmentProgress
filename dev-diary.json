@@ -21829,5 +21829,15 @@
       "description": "[56e9fa5e](https://gitlab.com/snowgem/bitfrost/-/commit/56e9fa5e03b8f88e5851b068df10efe23c9cdfd7): lint and prettier rules update - Filip Storkan\n\n[b2e6de2f](https://gitlab.com/snowgem/bitfrost/-/commit/b2e6de2f7f7adec9317fd4e2019093f094c9b778): linter update - Filip Storkan\n\n[2114bd55](https://gitlab.com/snowgem/bitfrost/-/commit/2114bd5548134459a3ea717401ef39f1149aa202): Applying linter rules - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/service\\-account](https://gitlab.com/snowgem/bitfrost/commits/feature/service-account) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2114bd5548134459a3ea717401ef39f1149aa202...d656b7d2e3ba729577a4ef4e674d8f8da8c70e6e))",
+    "created_at": "2020-10-23 23:03:34.269000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d656b7d2](https://gitlab.com/snowgem/bitfrost/-/commit/d656b7d2e3ba729577a4ef4e674d8f8da8c70e6e): linter fixes - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
