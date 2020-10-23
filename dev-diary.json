@@ -21739,5 +21739,10 @@
       "description": "[b8ca495a](https://gitlab.com/snowgem/bitfrost/-/commit/b8ca495af2855d100b4dddb4811fec876341d23b): fix pipelines language file - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [feature\\_136\\_blockexplorers\\_fallback](https://gitlab.com/snowgem/snowpay-api/commits/feature_136_blockexplorers_fallback) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-23 10:24:43.216000"
   }
 ]
