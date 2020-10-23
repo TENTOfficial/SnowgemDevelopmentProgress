@@ -21744,5 +21744,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature\\_136\\_blockexplorers\\_fallback](https://gitlab.com/snowgem/snowpay-api/commits/feature_136_blockexplorers_fallback) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-23 10:24:43.216000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b8ca495af2855d100b4dddb4811fec876341d23b...5b6553eb06b6cb07b0d6c6867d9233a791aa45ac))",
+    "created_at": "2020-10-23 10:58:19.088000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5f2a0e48](https://gitlab.com/snowgem/bitfrost/-/commit/5f2a0e480e34ce2120affb8361cdbad24fa1e8d5): fix pipelines 2 - Snowgem\n\n[5b6553eb](https://gitlab.com/snowgem/bitfrost/-/commit/5b6553eb06b6cb07b0d6c6867d9233a791aa45ac): fix pipelines2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
