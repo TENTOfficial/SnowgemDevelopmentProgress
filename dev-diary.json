@@ -21899,5 +21899,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!28 \\*Feature/service account\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/28) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-24 17:49:17.228000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_136\\_blockexplorers\\_fallback](https://gitlab.com/snowgem/snowpay-api/commits/feature_136_blockexplorers_fallback) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/55b38313422b0c5f9639d7f3b6996029ce7c963f...3d7accafaa5335abf8ce6a45187224f0cc77628c))",
+    "created_at": "2020-10-24 19:32:05.783000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3d7accaf](https://gitlab.com/snowgem/snowpay-api/-/commit/3d7accafaa5335abf8ce6a45187224f0cc77628c): #136 added default currency type and migrations - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
