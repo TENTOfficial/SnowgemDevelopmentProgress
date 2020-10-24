@@ -21889,5 +21889,10 @@
       "description": "[e2498ce7](https://gitlab.com/snowgem/bitfrost/-/commit/e2498ce745b0a23b1fa44993eaef261b3f6df8c4): updating method - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) opened merge request [\\!28 \\*Feature/service account\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/28) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-24 15:24:26.063000"
   }
 ]
