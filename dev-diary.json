@@ -21879,5 +21879,15 @@
       "description": "[e6d9e5e3](https://gitlab.com/snowgem/bitfrost/-/commit/e6d9e5e3d025e8ddf89c783221fe261695da242d): function spacing fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/service\\-account](https://gitlab.com/snowgem/bitfrost/commits/feature/service-account) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e6d9e5e3d025e8ddf89c783221fe261695da242d...e2498ce745b0a23b1fa44993eaef261b3f6df8c4))",
+    "created_at": "2020-10-24 15:17:05.689000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e2498ce7](https://gitlab.com/snowgem/bitfrost/-/commit/e2498ce745b0a23b1fa44993eaef261b3f6df8c4): updating method - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
