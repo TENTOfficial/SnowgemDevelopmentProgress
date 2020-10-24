@@ -21869,5 +21869,15 @@
       "description": "[da6ce56a](https://gitlab.com/snowgem/bitfrost/-/commit/da6ce56a60236179834d0446f0b29af61718f8aa): updating pipeline fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/service\\-account](https://gitlab.com/snowgem/bitfrost/commits/feature/service-account) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/da6ce56a60236179834d0446f0b29af61718f8aa...e6d9e5e3d025e8ddf89c783221fe261695da242d))",
+    "created_at": "2020-10-24 14:50:33.412000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e6d9e5e3](https://gitlab.com/snowgem/bitfrost/-/commit/e6d9e5e3d025e8ddf89c783221fe261695da242d): function spacing fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
