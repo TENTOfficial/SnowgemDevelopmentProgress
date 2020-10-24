@@ -21849,5 +21849,25 @@
       "description": "[98dd25ca](https://gitlab.com/snowgem/bitfrost/-/commit/98dd25cacb7d17ba385c3c715bb86449a37adadf): linter fixes - Filip Storkan\n\n[8e739f16](https://gitlab.com/snowgem/bitfrost/-/commit/8e739f169659d5dde8a30d9c72ce955b221cdc1b): linter update avoid escaping - Filip Storkan\n\n[a1739a3b](https://gitlab.com/snowgem/bitfrost/-/commit/a1739a3b2ec9b37ca1940f2c2593f33f85fb3a17): updating pipeline - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/service\\-account](https://gitlab.com/snowgem/bitfrost/commits/feature/service-account) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a1739a3b2ec9b37ca1940f2c2593f33f85fb3a17...ce0095995acc269e9b39b5eb5f5d8497cdd5a505))",
+    "created_at": "2020-10-24 14:42:55.150000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ce009599](https://gitlab.com/snowgem/bitfrost/-/commit/ce0095995acc269e9b39b5eb5f5d8497cdd5a505): updating pipeline fix - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/service\\-account](https://gitlab.com/snowgem/bitfrost/commits/feature/service-account) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ce0095995acc269e9b39b5eb5f5d8497cdd5a505...da6ce56a60236179834d0446f0b29af61718f8aa))",
+    "created_at": "2020-10-24 14:44:30.673000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[da6ce56a](https://gitlab.com/snowgem/bitfrost/-/commit/da6ce56a60236179834d0446f0b29af61718f8aa): updating pipeline fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
