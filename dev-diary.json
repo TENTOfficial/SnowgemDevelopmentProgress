@@ -21929,5 +21929,15 @@
       "description": "[3477cb6d](https://gitlab.com/snowgem/bitfrost/-/commit/3477cb6d1c1fb5822de12351c8e26b340fcc4e7a): fix - missing icon in tapbar button - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) opened merge request [\\!29 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/29) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-25 10:35:43.616000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) merged merge request [\\!29 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/29) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-25 10:36:02.143000"
   }
 ]
