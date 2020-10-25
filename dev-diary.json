@@ -21939,5 +21939,15 @@
     "author": "GitLab",
     "content": "Filip Storkan (filipstrkn) merged merge request [\\!29 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/29) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-25 10:36:02.143000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3477cb6d1c1fb5822de12351c8e26b340fcc4e7a...1b1e71f04c2349d6ef0dd30616dce6780253de93))",
+    "created_at": "2020-10-25 10:42:41.846000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1b1e71f0](https://gitlab.com/snowgem/bitfrost/-/commit/1b1e71f04c2349d6ef0dd30616dce6780253de93): updating pipeline triggers - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]

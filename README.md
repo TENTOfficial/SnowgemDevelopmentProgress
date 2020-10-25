@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2120 commits since 20/01/2020. You can see the complete history in
+There is a total of 2121 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-25 10:42:41</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3477cb6d1c1fb5822de12351c8e26b340fcc4e7a...1b1e71f04c2349d6ef0dd30616dce6780253de93))</sub> | <sub>[1b1e71f0](https://gitlab.com/snowgem/bitfrost/-/commit/1b1e71f04c2349d6ef0dd30616dce6780253de93): updating pipeline triggers - Filip Storkan</sub> |
 | <sub>2020-10-25 10:36:02</sub> | <sub>Filip Storkan (filipstrkn) merged merge request [\!29 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/29) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-25 10:35:43</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!29 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/29) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-25 10:21:39</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a8603fe15c9748e7989716ebef803ea1c4d42e8e...3477cb6d1c1fb5822de12351c8e26b340fcc4e7a))</sub> | <sub>[3477cb6d](https://gitlab.com/snowgem/bitfrost/-/commit/3477cb6d1c1fb5822de12351c8e26b340fcc4e7a): fix - missing icon in tapbar button - Filip Storkan</sub> |
@@ -17,6 +18,5 @@ There is a total of 2120 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-24 15:24:26</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!28 \*Feature/service account\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/28) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-24 15:17:05</sub> | <sub>Filip Storkan pushed to branch [feature/service\-account](https://gitlab.com/snowgem/bitfrost/commits/feature/service-account) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e6d9e5e3d025e8ddf89c783221fe261695da242d...e2498ce745b0a23b1fa44993eaef261b3f6df8c4))</sub> | <sub>[e2498ce7](https://gitlab.com/snowgem/bitfrost/-/commit/e2498ce745b0a23b1fa44993eaef261b3f6df8c4): updating method - Filip Storkan</sub> |
 | <sub>2020-10-24 14:50:33</sub> | <sub>Filip Storkan pushed to branch [feature/service\-account](https://gitlab.com/snowgem/bitfrost/commits/feature/service-account) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/da6ce56a60236179834d0446f0b29af61718f8aa...e6d9e5e3d025e8ddf89c783221fe261695da242d))</sub> | <sub>[e6d9e5e3](https://gitlab.com/snowgem/bitfrost/-/commit/e6d9e5e3d025e8ddf89c783221fe261695da242d): function spacing fix - Filip Storkan</sub> |
-| <sub>2020-10-24 14:44:30</sub> | <sub>Filip Storkan pushed to branch [feature/service\-account](https://gitlab.com/snowgem/bitfrost/commits/feature/service-account) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ce0095995acc269e9b39b5eb5f5d8497cdd5a505...da6ce56a60236179834d0446f0b29af61718f8aa))</sub> | <sub>[da6ce56a](https://gitlab.com/snowgem/bitfrost/-/commit/da6ce56a60236179834d0446f0b29af61718f8aa): updating pipeline fix - Filip Storkan</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
