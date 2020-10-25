@@ -21999,5 +21999,10 @@
       "description": "[2d4f8a84](https://gitlab.com/snowgem/bitfrost/-/commit/2d4f8a847fce73ea7fd58011b4957f368d0d8655): commenting out jobs from pipeline - Filip Storkan\n\n[1be103ef](https://gitlab.com/snowgem/bitfrost/-/commit/1be103efde4935570a43958073f3c141fc42107b): build job for master as well - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) opened merge request [\\!31 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/31) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-25 19:49:43.556000"
   }
 ]
