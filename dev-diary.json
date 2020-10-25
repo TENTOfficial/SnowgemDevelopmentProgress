@@ -21979,5 +21979,15 @@
       "description": "[1b1e71f0](https://gitlab.com/snowgem/bitfrost/-/commit/1b1e71f04c2349d6ef0dd30616dce6780253de93): updating pipeline triggers - Filip Storkan\n\n[6c7bf97b](https://gitlab.com/snowgem/bitfrost/-/commit/6c7bf97b9564f0bc67ec2b0b38cc0d64578b175b): adding missing methods - Filip Storkan\n\n[88c4ae6e](https://gitlab.com/snowgem/bitfrost/-/commit/88c4ae6e1ff4afc0a101b7a1a3355e69587a4b3c): Merge branch 'v0.1.2' into 'testing' - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6c7bf97b9564f0bc67ec2b0b38cc0d64578b175b...307568c962f94bcb312e5fe7aed8eaca62f03680))",
+    "created_at": "2020-10-25 19:28:55.942000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[307568c9](https://gitlab.com/snowgem/bitfrost/-/commit/307568c962f94bcb312e5fe7aed8eaca62f03680): commenting sync_ios and sync_android job from pipe - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
