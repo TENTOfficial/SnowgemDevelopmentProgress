@@ -22004,5 +22004,20 @@
     "author": "GitLab",
     "content": "Filip Storkan (filipstrkn) opened merge request [\\!31 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/31) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-25 19:49:43.556000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) merged merge request [\\!31 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/31) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-25 19:50:06.137000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/88c4ae6e1ff4afc0a101b7a1a3355e69587a4b3c...e847f4a279859422b2b7fb3ef325b6245911fa7a))",
+    "created_at": "2020-10-25 19:50:06.276000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[307568c9](https://gitlab.com/snowgem/bitfrost/-/commit/307568c962f94bcb312e5fe7aed8eaca62f03680): commenting sync_ios and sync_android job from pipe - Filip Storkan\n\n[2d4f8a84](https://gitlab.com/snowgem/bitfrost/-/commit/2d4f8a847fce73ea7fd58011b4957f368d0d8655): commenting out jobs from pipeline - Filip Storkan\n\n[1be103ef](https://gitlab.com/snowgem/bitfrost/-/commit/1be103efde4935570a43958073f3c141fc42107b): build job for master as well - Filip Storkan\n\n[e847f4a2](https://gitlab.com/snowgem/bitfrost/-/commit/e847f4a279859422b2b7fb3ef325b6245911fa7a): Merge branch 'v0.1.2' into 'testing' - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
