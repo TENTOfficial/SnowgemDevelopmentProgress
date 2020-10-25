@@ -22049,5 +22049,15 @@
       "description": "[85da240f](https://gitlab.com/snowgem/snowpay-api/-/commit/85da240fdf7b6e96656b49d657a9085f29af687d): #saga to deposit correlation fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_136\\_blockexplorers\\_fallback](https://gitlab.com/snowgem/snowpay-api/commits/feature_136_blockexplorers_fallback) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/85da240fdf7b6e96656b49d657a9085f29af687d...6332edbe6895da595f81f3f62a244dcfdfc0aa5c))",
+    "created_at": "2020-10-25 21:15:06.092000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6332edbe](https://gitlab.com/snowgem/snowpay-api/-/commit/6332edbe6895da595f81f3f62a244dcfdfc0aa5c): #uncommented wallet smoke tests - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
