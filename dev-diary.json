@@ -22029,5 +22029,15 @@
       "description": "[8273f5b8](https://gitlab.com/snowgem/snowpay-api/-/commit/8273f5b8501b7c72bce3ac09540dcf13ba4dc225): #136 migrations fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_136\\_blockexplorers\\_fallback](https://gitlab.com/snowgem/snowpay-api/commits/feature_136_blockexplorers_fallback) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8273f5b8501b7c72bce3ac09540dcf13ba4dc225...b59054891b2b7ff610f5b75dd1d625a6e5348c22))",
+    "created_at": "2020-10-25 20:44:55.386000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b5905489](https://gitlab.com/snowgem/snowpay-api/-/commit/b59054891b2b7ff610f5b75dd1d625a6e5348c22): #136 - reverted currency code default - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
