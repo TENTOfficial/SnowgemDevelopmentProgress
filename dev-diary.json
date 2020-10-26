@@ -22369,5 +22369,15 @@
       "description": "[8264ff66](https://gitlab.com/snowgem/bitfrost/-/commit/8264ff66ccaa1d6ccf5d3c3926672933b5b059d8): add more languages - Snowgem\n\n[391b0f54](https://gitlab.com/snowgem/bitfrost/-/commit/391b0f54940133ab13e633480c3e34647c248a5f): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem\n\n[01e9629d](https://gitlab.com/snowgem/bitfrost/-/commit/01e9629d3f6bf60910ef1702ed2fd7bfebe0cae2): fix build for translate - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!33 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/33) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-26 20:30:01.492000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!33 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/33) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-26 20:30:25.650000"
   }
 ]
