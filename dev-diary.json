@@ -22084,5 +22084,40 @@
     "author": "GitLab",
     "content": "Daniil Lisovskiy pushed new branch [feature\\_\\_112\\_\\_mv\\_user\\_data\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__112__mv_user_data_to_azure) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-26 06:30:47.836000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!31 \\*Feature 136 blockexplorers fallback\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/31) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-26 06:50:07.403000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!31 \\*Feature 136 blockexplorers fallback\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/31) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-26 06:51:10.222000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f0ab5054c389d59e093157e252e213d1e245dc36...6a644632d591bca8cd430436d7bff4516d1f411c))",
+    "created_at": "2020-10-26 06:51:10.353000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bcbce9f7](https://gitlab.com/snowgem/snowpay-api/-/commit/bcbce9f72cad86f40436965b11ec316d267e059d): #136 - fixed block explorers, unit tests, smoke tests, and others - demzet\n\n[6a644632](https://gitlab.com/snowgem/snowpay-api/-/commit/6a644632d591bca8cd430436d7bff4516d1f411c): Merge branch 'feature_136_blockexplorers_fallback' into 'master' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature_136_blockexplorers_fallback from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-26 06:51:10.634000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_112\\_\\_mv\\_user\\_data\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__112__mv_user_data_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f40136dfaaa0894bb1f644ae86918869cc1be71b...03763549cf22a600b27a896b9db87d3848849b7a))",
+    "created_at": "2020-10-26 06:54:27.780000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bcbce9f7](https://gitlab.com/snowgem/snowpay-api/-/commit/bcbce9f72cad86f40436965b11ec316d267e059d): #136 - fixed block explorers, unit tests, smoke tests, and others - demzet\n\n[6a644632](https://gitlab.com/snowgem/snowpay-api/-/commit/6a644632d591bca8cd430436d7bff4516d1f411c): Merge branch 'feature_136_blockexplorers_fallback' into 'master' - demzet\n\n[03763549](https://gitlab.com/snowgem/snowpay-api/-/commit/03763549cf22a600b27a896b9db87d3848849b7a): Merge branch 'master' into feature__112__mv_user_data_to_azure - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
