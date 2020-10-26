@@ -22299,5 +22299,15 @@
       "description": "[fbcefe36](https://gitlab.com/snowgem/bitfrost/-/commit/fbcefe360e079e6dc01886313e938ff4975b5bfd): fix build android - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fbcefe360e079e6dc01886313e938ff4975b5bfd...542d1bced2183e9457e19788ba76ea4f8476aaff))",
+    "created_at": "2020-10-26 18:29:35.959000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[542d1bce](https://gitlab.com/snowgem/bitfrost/-/commit/542d1bced2183e9457e19788ba76ea4f8476aaff): update register-agreement translate - Snowgem",
+      "type": "rich"
+    }
   }
 ]
