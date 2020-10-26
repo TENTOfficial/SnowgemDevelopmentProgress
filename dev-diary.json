@@ -22289,5 +22289,15 @@
       "description": "[4480d4ca](https://gitlab.com/snowgem/bitfrost/-/commit/4480d4caf9768a7767f568fe88b5bf8b65eaad4e): update translation for swap, fix translate module - Snowgem\n\n[f5270948](https://gitlab.com/snowgem/bitfrost/-/commit/f52709489eb28fc96c89d55cca6847dde59f9ffd): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f52709489eb28fc96c89d55cca6847dde59f9ffd...fbcefe360e079e6dc01886313e938ff4975b5bfd))",
+    "created_at": "2020-10-26 17:54:06.802000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fbcefe36](https://gitlab.com/snowgem/bitfrost/-/commit/fbcefe360e079e6dc01886313e938ff4975b5bfd): fix build android - Snowgem",
+      "type": "rich"
+    }
   }
 ]
