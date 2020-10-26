@@ -22149,5 +22149,20 @@
       "description": "[5d5521f1](https://gitlab.com/snowgem/snowpay-api/-/commit/5d5521f193aec1da656e99e391cd4b4893ab57ef): migrations sync - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f7415107b7f58a482b48050d892efe7312901171...6b7ce44b4a50385d187ea4874f77e88dd1bf06ba))",
+    "created_at": "2020-10-26 12:19:08.703000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9d9da82b](https://gitlab.com/snowgem/bitfrost/-/commit/9d9da82ba5fefc27e26a6a8bbe839b1bf5c535bb): update ignore file - Snowgem\n\n[c94fe559](https://gitlab.com/snowgem/bitfrost/-/commit/c94fe5595e1783679fc1ea5e952b1f0748f795ae): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem\n\n[6b7ce44b](https://gitlab.com/snowgem/bitfrost/-/commit/6b7ce44b4a50385d187ea4874f77e88dd1bf06ba): remove unneccesary script - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!32 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/32) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-26 12:19:50.398000"
   }
 ]
