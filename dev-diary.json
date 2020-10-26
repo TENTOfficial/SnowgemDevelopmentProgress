@@ -22124,5 +22124,10 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [release\\_candidate\\_2020\\_10\\_30](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2020_10_30) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-26 07:08:18.531000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [bug/updated\\-swap\\-api\\-urls\\-for\\-dev](https://gitlab.com/snowgem/bitfrost/commits/bug/updated-swap-api-urls-for-dev) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-26 08:53:51.409000"
   }
 ]
