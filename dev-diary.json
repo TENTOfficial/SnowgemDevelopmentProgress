@@ -22259,5 +22259,15 @@
       "description": "[ead454ca](https://gitlab.com/snowgem/bitfrost/-/commit/ead454ca2a165a2235c5deb42795378de0047e91): remove instant method - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ead454ca2a165a2235c5deb42795378de0047e91...75040a68aa9ea340f8841b3d176a4039a76fc1f5))",
+    "created_at": "2020-10-26 15:40:02.927000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[75040a68](https://gitlab.com/snowgem/bitfrost/-/commit/75040a68aa9ea340f8841b3d176a4039a76fc1f5): tent typo fix. - DaX",
+      "type": "rich"
+    }
   }
 ]
