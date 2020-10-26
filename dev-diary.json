@@ -22179,5 +22179,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!32 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/32) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-26 12:35:15.775000"
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6b7ce44b4a50385d187ea4874f77e88dd1bf06ba...cabf36c211d8285e8388b984b1d136de1c5e9337))",
+    "created_at": "2020-10-26 13:38:24.436000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fe618f43](https://gitlab.com/snowgem/bitfrost/-/commit/fe618f431e57f8685b7755325ee553747c14cc97): Edit registration process. - DaX\n\n[cabf36c2](https://gitlab.com/snowgem/bitfrost/-/commit/cabf36c211d8285e8388b984b1d136de1c5e9337): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - DaX",
+      "type": "rich"
+    }
   }
 ]
