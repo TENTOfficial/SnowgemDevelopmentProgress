@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2145 commits since 20/01/2020. You can see the complete history in
+There is a total of 2146 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-26 11:35:45</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6a644632d591bca8cd430436d7bff4516d1f411c...5d5521f193aec1da656e99e391cd4b4893ab57ef))</sub> | <sub>[5d5521f1](https://gitlab.com/snowgem/snowpay-api/-/commit/5d5521f193aec1da656e99e391cd4b4893ab57ef): migrations sync - Kamil Wojciechowski</sub> |
 | <sub>2020-10-26 09:22:52</sub> | <sub>DaX pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1be103efde4935570a43958073f3c141fc42107b...f7415107b7f58a482b48050d892efe7312901171))</sub> | <sub>[f7415107](https://gitlab.com/snowgem/bitfrost/-/commit/f7415107b7f58a482b48050d892efe7312901171): Edit swap header. - DaX</sub> |
 | <sub>2020-10-26 08:53:51</sub> | <sub>Filip Storkan pushed new branch [bug/updated\-swap\-api\-urls\-for\-dev](https://gitlab.com/snowgem/bitfrost/commits/bug/updated-swap-api-urls-for-dev) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-26 07:08:18</sub> | <sub>demzet pushed new branch [release\_candidate\_2020\_10\_30](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2020_10_30) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2145 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-26 06:51:10</sub> | <sub>demzet (aphex5) merged merge request [\!31 \*Feature 136 blockexplorers fallback\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/31) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-26 06:50:07</sub> | <sub>demzet (aphex5) opened merge request [\!31 \*Feature 136 blockexplorers fallback\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/31) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-26 06:30:47</sub> | <sub>Daniil Lisovskiy pushed new branch [feature\_\_112\_\_mv\_user\_data\_to\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__112__mv_user_data_to_azure) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-10-25 21:57:15</sub> | <sub>demzet pushed to branch [feature\_136\_blockexplorers\_fallback](https://gitlab.com/snowgem/snowpay-api/commits/feature_136_blockexplorers_fallback) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/11450e32a0f52ae167c777527a8b352c05a2eb21...1eade6543a0546e08cc01215b27a8aaf2fe6ac76))</sub> | <sub>[1eade654](https://gitlab.com/snowgem/snowpay-api/-/commit/1eade6543a0546e08cc01215b27a8aaf2fe6ac76): #fixed wallet smoke tests - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
