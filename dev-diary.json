@@ -22309,5 +22309,15 @@
       "description": "[542d1bce](https://gitlab.com/snowgem/bitfrost/-/commit/542d1bced2183e9457e19788ba76ea4f8476aaff): update register-agreement translate - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/542d1bced2183e9457e19788ba76ea4f8476aaff...0d34f8a2caae2287ae051c99d2f72b6e3adb4f5a))",
+    "created_at": "2020-10-26 18:53:36.578000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f6c37d34](https://gitlab.com/snowgem/bitfrost/-/commit/f6c37d34410efd78dc4790bbeeaf814cab922ee8): fix card, swap lock page translate - Snowgem\n\n[0d34f8a2](https://gitlab.com/snowgem/bitfrost/-/commit/0d34f8a2caae2287ae051c99d2f72b6e3adb4f5a): fix database for serviceaccount for mobile - Snowgem",
+      "type": "rich"
+    }
   }
 ]
