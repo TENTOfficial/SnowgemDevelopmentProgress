@@ -22409,5 +22409,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!34 \\*prepare for appflow\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/34) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-26 20:59:38.124000"
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2598e746bf872c1f6f95d77b18acce6b1c020a9d...f02a879ba7c4336a3f849392a52aa37c77e4143c))",
+    "created_at": "2020-10-26 21:23:32.530000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f02a879b](https://gitlab.com/snowgem/bitfrost/-/commit/f02a879ba7c4336a3f849392a52aa37c77e4143c): fixed existing languages to last version - ciripel",
+      "type": "rich"
+    }
   }
 ]
