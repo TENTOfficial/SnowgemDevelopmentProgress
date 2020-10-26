@@ -22229,5 +22229,15 @@
       "description": "[d04a6b68](https://gitlab.com/snowgem/bitfrost/-/commit/d04a6b6832a03b4bb159f4cbddc8a7770392ccd4): Added Btrash icon. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d04a6b6832a03b4bb159f4cbddc8a7770392ccd4...7fcf42e0b3cba551ee44bb2b50b5b2a2797caff7))",
+    "created_at": "2020-10-26 15:19:07.715000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7fcf42e0](https://gitlab.com/snowgem/bitfrost/-/commit/7fcf42e0b3cba551ee44bb2b50b5b2a2797caff7): Added CraighWraithIsGay coin logo. - DaX",
+      "type": "rich"
+    }
   }
 ]
