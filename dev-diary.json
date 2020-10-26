@@ -22119,5 +22119,10 @@
       "description": "[bcbce9f7](https://gitlab.com/snowgem/snowpay-api/-/commit/bcbce9f72cad86f40436965b11ec316d267e059d): #136 - fixed block explorers, unit tests, smoke tests, and others - demzet\n\n[6a644632](https://gitlab.com/snowgem/snowpay-api/-/commit/6a644632d591bca8cd430436d7bff4516d1f411c): Merge branch 'feature_136_blockexplorers_fallback' into 'master' - demzet\n\n[03763549](https://gitlab.com/snowgem/snowpay-api/-/commit/03763549cf22a600b27a896b9db87d3848849b7a): Merge branch 'master' into feature__112__mv_user_data_to_azure - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [release\\_candidate\\_2020\\_10\\_30](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2020_10_30) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-26 07:08:18.531000"
   }
 ]
