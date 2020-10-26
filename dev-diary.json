@@ -22329,5 +22329,15 @@
       "description": "[3714ee0c](https://gitlab.com/snowgem/snowpay-api/-/commit/3714ee0c791773f12128f2a28e26441e655b7958): added missing LINK currency - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0d34f8a2caae2287ae051c99d2f72b6e3adb4f5a...64d6e21699ef3c1cd0090579f65c6eee5c313d71))",
+    "created_at": "2020-10-26 19:47:20.692000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bbdbff61](https://gitlab.com/snowgem/bitfrost/-/commit/bbdbff61fae714600e1dfebbf122e7d12a76516d): fix load database for mobile - Snowgem\n\n[64d6e216](https://gitlab.com/snowgem/bitfrost/-/commit/64d6e21699ef3c1cd0090579f65c6eee5c313d71): settings service account translate - Snowgem",
+      "type": "rich"
+    }
   }
 ]
