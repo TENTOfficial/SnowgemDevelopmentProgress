@@ -22079,5 +22079,10 @@
       "description": "[1eade654](https://gitlab.com/snowgem/snowpay-api/-/commit/1eade6543a0546e08cc01215b27a8aaf2fe6ac76): #fixed wallet smoke tests - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed new branch [feature\\_\\_112\\_\\_mv\\_user\\_data\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__112__mv_user_data_to_azure) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-26 06:30:47.836000"
   }
 ]
