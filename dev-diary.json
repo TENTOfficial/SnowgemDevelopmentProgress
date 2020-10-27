@@ -22574,5 +22574,25 @@
       "description": "[d8a83a53](https://gitlab.com/snowgem/bitfrost/-/commit/d8a83a53bdcd807c0f9c4aeb11788266addb441f): completed and sorted CZ and RU - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [bug/updating\\-swap\\-api](https://gitlab.com/snowgem/bitfrost/commits/bug/updating-swap-api) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-27 10:30:06.055000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) opened merge request [\\!38 \\*Bug/updating swap api\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/38) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-27 10:31:09.199000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d8a83a53bdcd807c0f9c4aeb11788266addb441f...9091efdb66af113670f5f87edc00e4546156fa22))",
+    "created_at": "2020-10-27 10:33:29.121000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2cdb0041](https://gitlab.com/snowgem/bitfrost/-/commit/2cdb0041a544d22e25f817abc5f5f83f61bc624a): update config.xml - Snowgem\n\n[9091efdb](https://gitlab.com/snowgem/bitfrost/-/commit/9091efdb66af113670f5f87edc00e4546156fa22): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
