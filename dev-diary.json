@@ -22704,5 +22704,15 @@
       "description": "[c166ea95](https://gitlab.com/snowgem/bitfrost/-/commit/c166ea957890a2044538c7b5ea2be56c36aa6283): finished RO translation of additional text - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c166ea957890a2044538c7b5ea2be56c36aa6283...19e1f5d39e0d3188b56d6216ffa51b83cca147ed))",
+    "created_at": "2020-10-27 15:33:27.065000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d682f498](https://gitlab.com/snowgem/bitfrost/-/commit/d682f4989beab42b3ac3f45fc31b0a82a57978e0): fix config 3 - Snowgem\n\n[19e1f5d3](https://gitlab.com/snowgem/bitfrost/-/commit/19e1f5d39e0d3188b56d6216ffa51b83cca147ed): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
