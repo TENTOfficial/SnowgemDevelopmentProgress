@@ -22824,5 +22824,15 @@
     "author": "GitLab",
     "content": "demzet removed branch feature_137_payentcards from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-27 19:44:11.725000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7f4d3df0ee6c1a87cf6c1719f9d75879479f7900...358cee3488e66b3fece75beeb143961a89a8a280))",
+    "created_at": "2020-10-27 20:37:33.605000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[358cee34](https://gitlab.com/snowgem/bitfrost/-/commit/358cee3488e66b3fece75beeb143961a89a8a280): fix post request for native http - Snowgem",
+      "type": "rich"
+    }
   }
 ]
