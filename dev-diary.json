@@ -22514,5 +22514,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!37 \\*add nan for ios build\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/37) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-27 09:02:04.993000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_138\\_smoke\\_tests](https://gitlab.com/snowgem/snowpay-api/commits/feature__138_smoke_tests) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0021e28a9e1d72ca58a0d93d0736e95f67794083...6cde95a8a3dfe591f4a3628ae43cb1eb3f03175c))",
+    "created_at": "2020-10-27 09:06:30.281000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6cde95a8](https://gitlab.com/snowgem/snowpay-api/-/commit/6cde95a8a3dfe591f4a3628ae43cb1eb3f03175c): #138 - added single swap tests - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]

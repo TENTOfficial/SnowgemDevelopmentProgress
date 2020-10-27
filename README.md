@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2189 commits since 20/01/2020. You can see the complete history in
+There is a total of 2190 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-27 09:06:30</sub> | <sub>demzet pushed to branch [feature\_\_138\_smoke\_tests](https://gitlab.com/snowgem/snowpay-api/commits/feature__138_smoke_tests) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0021e28a9e1d72ca58a0d93d0736e95f67794083...6cde95a8a3dfe591f4a3628ae43cb1eb3f03175c))</sub> | <sub>[6cde95a8](https://gitlab.com/snowgem/snowpay-api/-/commit/6cde95a8a3dfe591f4a3628ae43cb1eb3f03175c): #138 - added single swap tests - Kamil Wojciechowski</sub> |
 | <sub>2020-10-27 09:02:04</sub> | <sub>Txid (txid) merged merge request [\!37 \*add nan for ios build\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/37) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-27 09:02:04</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/04ae759a237d8be89133d38b8d91a60c35c632c5...945c7a33b443fe8dd3074b991038064e34e5e3e8))</sub> | <sub>[d0c673e0](https://gitlab.com/snowgem/bitfrost/-/commit/d0c673e04fe37c9a4fe010c03c7e91ea674a8a5d): add nan for ios build - Snowgem<br>[945c7a33](https://gitlab.com/snowgem/bitfrost/-/commit/945c7a33b443fe8dd3074b991038064e34e5e3e8): Merge branch 'v0.1.2' into 'testing' - Txid</sub> |
 | <sub>2020-10-27 09:01:59</sub> | <sub>Txid (txid) opened merge request [\!37 \*add nan for ios build\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/37) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2189 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-27 08:11:20</sub> | <sub>Txid (txid) merged merge request [\!36 \*fix text data outside of root node\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/36) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-27 07:56:01</sub> | <sub>Txid (txid) opened merge request [\!36 \*fix text data outside of root node\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/36) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-27 07:55:38</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/90cd157902a0f1dae24b48a2912906a88e574ca0...004027b408a4bdea809a66f7a3dc1c8f3a1e9fd9))</sub> | <sub>[004027b4](https://gitlab.com/snowgem/bitfrost/-/commit/004027b408a4bdea809a66f7a3dc1c8f3a1e9fd9): fix text data outside of root node - Snowgem</sub> |
-| <sub>2020-10-27 07:41:27</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/57c5207a6b22b89d225aaaf9ce993dc578ff53a1...79754ff8c3bf0e9da865d6dfec04d14a28a59f49))</sub> | <sub>[f02a879b](https://gitlab.com/snowgem/bitfrost/-/commit/f02a879ba7c4336a3f849392a52aa37c77e4143c): fixed existing languages to last version - ciripel<br>[90cd1579](https://gitlab.com/snowgem/bitfrost/-/commit/90cd157902a0f1dae24b48a2912906a88e574ca0): fix build ios - Snowgem<br>[79754ff8](https://gitlab.com/snowgem/bitfrost/-/commit/79754ff8c3bf0e9da865d6dfec04d14a28a59f49): Merge branch 'v0.1.2' into 'testing' - Txid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
