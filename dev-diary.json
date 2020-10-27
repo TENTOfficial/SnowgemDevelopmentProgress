@@ -22419,5 +22419,15 @@
       "description": "[f02a879b](https://gitlab.com/snowgem/bitfrost/-/commit/f02a879ba7c4336a3f849392a52aa37c77e4143c): fixed existing languages to last version - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f02a879ba7c4336a3f849392a52aa37c77e4143c...90cd157902a0f1dae24b48a2912906a88e574ca0))",
+    "created_at": "2020-10-27 07:17:18.217000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[90cd1579](https://gitlab.com/snowgem/bitfrost/-/commit/90cd157902a0f1dae24b48a2912906a88e574ca0): fix build ios - Snowgem",
+      "type": "rich"
+    }
   }
 ]
