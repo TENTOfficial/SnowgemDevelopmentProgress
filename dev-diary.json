@@ -22534,5 +22534,25 @@
       "description": "[de094e5c](https://gitlab.com/snowgem/bitfrost/-/commit/de094e5cdddb3e33983f14c976e4ad6dfd3d50cc): update info.plist - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/de094e5cdddb3e33983f14c976e4ad6dfd3d50cc...73b3aeece606928dedaa703664d4efd0d873be2d))",
+    "created_at": "2020-10-27 10:05:05.808000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[73b3aeec](https://gitlab.com/snowgem/bitfrost/-/commit/73b3aeece606928dedaa703664d4efd0d873be2d): remove platform out of ignore - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_138\\_smoke\\_tests](https://gitlab.com/snowgem/snowpay-api/commits/feature__138_smoke_tests) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6cde95a8a3dfe591f4a3628ae43cb1eb3f03175c...12b7fbbecd989343b8e309ceb4a2e6972962d323))",
+    "created_at": "2020-10-27 10:09:49.031000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[12b7fbbe](https://gitlab.com/snowgem/snowpay-api/-/commit/12b7fbbecd989343b8e309ceb4a2e6972962d323): #138 - added single swap tests - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
