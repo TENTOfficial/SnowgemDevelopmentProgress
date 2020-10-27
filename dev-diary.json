@@ -22479,5 +22479,15 @@
       "description": "[004027b4](https://gitlab.com/snowgem/bitfrost/-/commit/004027b408a4bdea809a66f7a3dc1c8f3a1e9fd9): fix text data outside of root node - Snowgem\n\n[04ae759a](https://gitlab.com/snowgem/bitfrost/-/commit/04ae759a237d8be89133d38b8d91a60c35c632c5): Merge branch 'v0.1.2' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/004027b408a4bdea809a66f7a3dc1c8f3a1e9fd9...d0c673e04fe37c9a4fe010c03c7e91ea674a8a5d))",
+    "created_at": "2020-10-27 08:22:11.107000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d0c673e0](https://gitlab.com/snowgem/bitfrost/-/commit/d0c673e04fe37c9a4fe010c03c7e91ea674a8a5d): add nan for ios build - Snowgem",
+      "type": "rich"
+    }
   }
 ]
