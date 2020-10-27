@@ -22764,5 +22764,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!39 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/39) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-27 16:42:33.282000"
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ea77ce41935cf7fca14b3b86e5354ac21d05f109...611d68cdf70a595782473212d4eaf20c3d24c404))",
+    "created_at": "2020-10-27 18:38:38.484000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[611d68cd](https://gitlab.com/snowgem/bitfrost/-/commit/611d68cdf70a595782473212d4eaf20c3d24c404): small corrections on RO - ciripel",
+      "type": "rich"
+    }
   }
 ]
