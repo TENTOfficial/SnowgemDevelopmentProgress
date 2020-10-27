@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2185 commits since 20/01/2020. You can see the complete history in
+There is a total of 2186 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-27 08:45:11</sub> | <sub>demzet pushed new branch [feature\_\_138\_smoke\_tests](https://gitlab.com/snowgem/snowpay-api/commits/feature__138_smoke_tests) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-27 08:22:11</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/004027b408a4bdea809a66f7a3dc1c8f3a1e9fd9...d0c673e04fe37c9a4fe010c03c7e91ea674a8a5d))</sub> | <sub>[d0c673e0](https://gitlab.com/snowgem/bitfrost/-/commit/d0c673e04fe37c9a4fe010c03c7e91ea674a8a5d): add nan for ios build - Snowgem</sub> |
 | <sub>2020-10-27 08:11:20</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/79754ff8c3bf0e9da865d6dfec04d14a28a59f49...04ae759a237d8be89133d38b8d91a60c35c632c5))</sub> | <sub>[004027b4](https://gitlab.com/snowgem/bitfrost/-/commit/004027b408a4bdea809a66f7a3dc1c8f3a1e9fd9): fix text data outside of root node - Snowgem<br>[04ae759a](https://gitlab.com/snowgem/bitfrost/-/commit/04ae759a237d8be89133d38b8d91a60c35c632c5): Merge branch 'v0.1.2' into 'testing' - Txid</sub> |
 | <sub>2020-10-27 08:11:20</sub> | <sub>Txid (txid) merged merge request [\!36 \*fix text data outside of root node\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/36) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2185 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-27 07:41:26</sub> | <sub>Txid (txid) merged merge request [\!35 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/35) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-27 07:41:13</sub> | <sub>Txid (txid) opened merge request [\!35 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/35) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-27 07:17:18</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f02a879ba7c4336a3f849392a52aa37c77e4143c...90cd157902a0f1dae24b48a2912906a88e574ca0))</sub> | <sub>[90cd1579](https://gitlab.com/snowgem/bitfrost/-/commit/90cd157902a0f1dae24b48a2912906a88e574ca0): fix build ios - Snowgem</sub> |
-| <sub>2020-10-26 21:23:32</sub> | <sub>ciripel pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2598e746bf872c1f6f95d77b18acce6b1c020a9d...f02a879ba7c4336a3f849392a52aa37c77e4143c))</sub> | <sub>[f02a879b](https://gitlab.com/snowgem/bitfrost/-/commit/f02a879ba7c4336a3f849392a52aa37c77e4143c): fixed existing languages to last version - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

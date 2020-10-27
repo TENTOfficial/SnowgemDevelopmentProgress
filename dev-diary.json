@@ -22489,5 +22489,10 @@
       "description": "[d0c673e0](https://gitlab.com/snowgem/bitfrost/-/commit/d0c673e04fe37c9a4fe010c03c7e91ea674a8a5d): add nan for ios build - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [feature\\_\\_138\\_smoke\\_tests](https://gitlab.com/snowgem/snowpay-api/commits/feature__138_smoke_tests) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-27 08:45:11.353000"
   }
 ]
