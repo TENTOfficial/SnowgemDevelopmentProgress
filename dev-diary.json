@@ -22614,5 +22614,20 @@
       "description": "[d0796966](https://gitlab.com/snowgem/bitfrost/-/commit/d0796966b41de371e8cfade38f9210825568f478): modify config - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_138\\_smoke\\_tests](https://gitlab.com/snowgem/snowpay-api/commits/feature__138_smoke_tests) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0c38f456f0581915aa3c6fe09d4633e9878b6453...937a04ecca477438d335795c3b180c7f901641c9))",
+    "created_at": "2020-10-27 10:51:40.875000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[937a04ec](https://gitlab.com/snowgem/snowpay-api/-/commit/937a04ecca477438d335795c3b180c7f901641c9): #138 - added single swap tests - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!32 \\*Feature  138 smoke tests\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/32) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-27 10:53:38.465000"
   }
 ]
