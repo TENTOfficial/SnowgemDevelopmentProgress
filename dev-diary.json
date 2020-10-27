@@ -22604,5 +22604,15 @@
       "description": "[0c38f456](https://gitlab.com/snowgem/snowpay-api/-/commit/0c38f456f0581915aa3c6fe09d4633e9878b6453): #138 - added single swap tests - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9091efdb66af113670f5f87edc00e4546156fa22...d0796966b41de371e8cfade38f9210825568f478))",
+    "created_at": "2020-10-27 10:44:38.716000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d0796966](https://gitlab.com/snowgem/bitfrost/-/commit/d0796966b41de371e8cfade38f9210825568f478): modify config - Snowgem",
+      "type": "rich"
+    }
   }
 ]
