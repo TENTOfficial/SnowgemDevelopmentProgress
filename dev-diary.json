@@ -22629,5 +22629,35 @@
     "author": "GitLab",
     "content": "demzet (aphex5) opened merge request [\\!32 \\*Feature  138 smoke tests\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/32) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-27 10:53:38.465000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d0796966b41de371e8cfade38f9210825568f478...5009f33c62a2b0c57e373342facb29daf9e5cf14))",
+    "created_at": "2020-10-27 10:57:06.060000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5009f33c](https://gitlab.com/snowgem/bitfrost/-/commit/5009f33c62a2b0c57e373342facb29daf9e5cf14): update config 2 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!32 \\*Feature  138 smoke tests\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/32) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-27 10:57:39.096000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/3714ee0c791773f12128f2a28e26441e655b7958...472cc9b6974e9571c18662d97f8cdcb2614f8667))",
+    "created_at": "2020-10-27 10:57:39.357000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[af803901](https://gitlab.com/snowgem/snowpay-api/-/commit/af803901f0bfe924eb7d7a3ad90c25fbd7dbf7c6): Feature  138 smoke tests - demzet\n\n[472cc9b6](https://gitlab.com/snowgem/snowpay-api/-/commit/472cc9b6974e9571c18662d97f8cdcb2614f8667): Feature  138 smoke tests - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature__138_smoke_tests from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-27 10:57:39.560000"
   }
 ]
