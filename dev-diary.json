@@ -22684,5 +22684,15 @@
       "description": "[fda1400e](https://gitlab.com/snowgem/bitfrost/-/commit/fda1400e69a7ec1fde13672094df23499e586639): all the languages are the same now. Must be extra carefull in the future - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/472cc9b6974e9571c18662d97f8cdcb2614f8667...9e322359ae50503391b6023d8b44de55d1e9cb9d))",
+    "created_at": "2020-10-27 12:18:06.190000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9e322359](https://gitlab.com/snowgem/snowpay-api/-/commit/9e322359ae50503391b6023d8b44de55d1e9cb9d): cleanup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
