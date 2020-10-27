@@ -22784,5 +22784,10 @@
       "description": "[27654670](https://gitlab.com/snowgem/bitfrost/-/commit/27654670811af8d56caa6203143d7c929aa0baf8): added FR for the additional text - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [feature\\_137\\_payentcards](https://gitlab.com/snowgem/snowpay-api/commits/feature_137_payentcards) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-27 19:31:36.057000"
   }
 ]
