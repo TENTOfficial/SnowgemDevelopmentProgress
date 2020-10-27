@@ -22834,5 +22834,10 @@
       "description": "[358cee34](https://gitlab.com/snowgem/bitfrost/-/commit/358cee3488e66b3fece75beeb143961a89a8a280): fix post request for native http - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!40 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/40) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-27 20:48:30.526000"
   }
 ]
