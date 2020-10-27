@@ -22789,5 +22789,40 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature\\_137\\_payentcards](https://gitlab.com/snowgem/snowpay-api/commits/feature_137_payentcards) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-27 19:31:36.057000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/27654670811af8d56caa6203143d7c929aa0baf8...7f4d3df0ee6c1a87cf6c1719f9d75879479f7900))",
+    "created_at": "2020-10-27 19:42:30.376000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9d53e255](https://gitlab.com/snowgem/bitfrost/-/commit/9d53e255cead8137a84b3bde8424b7c34010a28c): fix coin balance in overview page - Snowgem\n\n[7f4d3df0](https://gitlab.com/snowgem/bitfrost/-/commit/7f4d3df0ee6c1a87cf6c1719f9d75879479f7900): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!33 \\*\\#138 \\- payment service docker image\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/33) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-27 19:44:05.975000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!33 \\*\\#138 \\- payment service docker image\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/33) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-27 19:44:11.320000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9e322359ae50503391b6023d8b44de55d1e9cb9d...ecf312c8b717557092aa5d8c791ad2b529ae6633))",
+    "created_at": "2020-10-27 19:44:11.462000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f3542baf](https://gitlab.com/snowgem/snowpay-api/-/commit/f3542bafd35d5a9586d5b8956a4d7f89109eb861): #138 - payment service docker image - Kamil Wojciechowski\n\n[ecf312c8](https://gitlab.com/snowgem/snowpay-api/-/commit/ecf312c8b717557092aa5d8c791ad2b529ae6633): Merge branch 'feature_137_payentcards' into 'master' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature_137_payentcards from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-27 19:44:11.725000"
   }
 ]
