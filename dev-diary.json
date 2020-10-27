@@ -22429,5 +22429,25 @@
       "description": "[90cd1579](https://gitlab.com/snowgem/bitfrost/-/commit/90cd157902a0f1dae24b48a2912906a88e574ca0): fix build ios - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!35 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/35) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-27 07:41:13.339000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!35 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/35) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-27 07:41:26.773000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/57c5207a6b22b89d225aaaf9ce993dc578ff53a1...79754ff8c3bf0e9da865d6dfec04d14a28a59f49))",
+    "created_at": "2020-10-27 07:41:27.002000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f02a879b](https://gitlab.com/snowgem/bitfrost/-/commit/f02a879ba7c4336a3f849392a52aa37c77e4143c): fixed existing languages to last version - ciripel\n\n[90cd1579](https://gitlab.com/snowgem/bitfrost/-/commit/90cd157902a0f1dae24b48a2912906a88e574ca0): fix build ios - Snowgem\n\n[79754ff8](https://gitlab.com/snowgem/bitfrost/-/commit/79754ff8c3bf0e9da865d6dfec04d14a28a59f49): Merge branch 'v0.1.2' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
