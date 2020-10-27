@@ -22774,5 +22774,15 @@
       "description": "[611d68cd](https://gitlab.com/snowgem/bitfrost/-/commit/611d68cdf70a595782473212d4eaf20c3d24c404): small corrections on RO - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/611d68cdf70a595782473212d4eaf20c3d24c404...27654670811af8d56caa6203143d7c929aa0baf8))",
+    "created_at": "2020-10-27 18:43:46.167000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[27654670](https://gitlab.com/snowgem/bitfrost/-/commit/27654670811af8d56caa6203143d7c929aa0baf8): added FR for the additional text - ciripel",
+      "type": "rich"
+    }
   }
 ]
