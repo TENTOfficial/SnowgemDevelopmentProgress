@@ -22734,5 +22734,15 @@
       "description": "[c025a91d](https://gitlab.com/snowgem/snowpay-api/-/commit/c025a91dc79ea943b07cf3a124184280f43a19fa): AzureTables for UserData are implemented, minor refactoring - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ab46eed93cd47130a11ce4fce6ab5f542f2d8b3d...edc14b268a8b9103b7744c391367bbd74fd3ad2c))",
+    "created_at": "2020-10-27 15:57:23.854000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[edc14b26](https://gitlab.com/snowgem/bitfrost/-/commit/edc14b268a8b9103b7744c391367bbd74fd3ad2c): remove config.xml 5 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
