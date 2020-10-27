@@ -22714,5 +22714,15 @@
       "description": "[d682f498](https://gitlab.com/snowgem/bitfrost/-/commit/d682f4989beab42b3ac3f45fc31b0a82a57978e0): fix config 3 - Snowgem\n\n[19e1f5d3](https://gitlab.com/snowgem/bitfrost/-/commit/19e1f5d39e0d3188b56d6216ffa51b83cca147ed): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/19e1f5d39e0d3188b56d6216ffa51b83cca147ed...ab46eed93cd47130a11ce4fce6ab5f542f2d8b3d))",
+    "created_at": "2020-10-27 15:45:01.048000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ab46eed9](https://gitlab.com/snowgem/bitfrost/-/commit/ab46eed93cd47130a11ce4fce6ab5f542f2d8b3d): config 4 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
