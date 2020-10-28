@@ -22944,5 +22944,30 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature\\_137\\_payentcards](https://gitlab.com/snowgem/snowpay-api/commits/feature_137_payentcards) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-28 11:59:41.856000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!34 \\*\\#exchange service swap route fixes\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/34) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-28 12:16:36.190000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!34 \\*\\#exchange service swap route fixes\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/34) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-28 12:16:42.402000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ecf312c8b717557092aa5d8c791ad2b529ae6633...deecda5eeecd156977c2cf4a710a54c4d7f2dc73))",
+    "created_at": "2020-10-28 12:16:42.397000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6b8a2ba3](https://gitlab.com/snowgem/snowpay-api/-/commit/6b8a2ba321fb47782826d13ba37a3fed74c96248): #exchange service swap route fixes - Kamil Wojciechowski\n\n[deecda5e](https://gitlab.com/snowgem/snowpay-api/-/commit/deecda5eeecd156977c2cf4a710a54c4d7f2dc73): Merge branch 'feature_137_payentcards' into 'master' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature_137_payentcards from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-28 12:16:42.680000"
   }
 ]
