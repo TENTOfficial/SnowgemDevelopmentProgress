@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2234 commits since 20/01/2020. You can see the complete history in
+There is a total of 2235 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-28 07:10:13</sub> | <sub>DaX pushed to branch [master](https://gitlab.com/snowgem/activation-tent/commits/master) of [snowgem / activation\-tent](https://gitlab.com/snowgem/activation-tent) ([Compare changes](https://gitlab.com/snowgem/activation-tent/compare/fe8d831e735ddde5f77d33d032195dc5e2ab4a3d...9542e5ef6a9994eb30457acdeb5bf11598c7549c))</sub> | <sub>[9542e5ef](https://gitlab.com/snowgem/activation-tent/-/commit/9542e5ef6a9994eb30457acdeb5bf11598c7549c): Clicklink message. - DaX</sub> |
 | <sub>2020-10-28 07:06:59</sub> | <sub>DaX pushed to branch [master](https://gitlab.com/snowgem/activation-tent/commits/master) of [snowgem / activation\-tent](https://gitlab.com/snowgem/activation-tent) ([Compare changes](https://gitlab.com/snowgem/activation-tent/compare/b6abed1b9ae84a8beceb15fe5b1af0e56663fdb7...fe8d831e735ddde5f77d33d032195dc5e2ab4a3d))</sub> | <sub>[fe8d831e](https://gitlab.com/snowgem/activation-tent/-/commit/fe8d831e735ddde5f77d33d032195dc5e2ab4a3d): Added favicon, meta, deleted refresh interval. - DaX</sub> |
 | <sub>2020-10-28 07:02:19</sub> | <sub>DaX pushed new branch [master](https://gitlab.com/snowgem/activation-tent/commits/master) to [snowgem / activation\-tent](https://gitlab.com/snowgem/activation-tent)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-28 07:01:17</sub> | <sub>DaX pushed to branch [master](https://gitlab.com/snowgem/activation-tent-microsite/commits/master) of [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/4860cd4d119efca84060d53d33aede72741377db...40b46565d26cb581a76ad07c34e214d09bf5a906))</sub> | <sub>[40b46565](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/40b46565d26cb581a76ad07c34e214d09bf5a906): Updated READ.ME file - DaX</sub> |
@@ -17,6 +18,5 @@ There is a total of 2234 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-27 20:48:30</sub> | <sub>Txid (txid) opened merge request [\!40 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/40) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-27 20:37:33</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7f4d3df0ee6c1a87cf6c1719f9d75879479f7900...358cee3488e66b3fece75beeb143961a89a8a280))</sub> | <sub>[358cee34](https://gitlab.com/snowgem/bitfrost/-/commit/358cee3488e66b3fece75beeb143961a89a8a280): fix post request for native http - Snowgem</sub> |
 | <sub>2020-10-27 19:44:11</sub> | <sub>demzet removed branch feature_137_payentcards from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-10-27 19:44:11</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9e322359ae50503391b6023d8b44de55d1e9cb9d...ecf312c8b717557092aa5d8c791ad2b529ae6633))</sub> | <sub>[f3542baf](https://gitlab.com/snowgem/snowpay-api/-/commit/f3542bafd35d5a9586d5b8956a4d7f89109eb861): #138 - payment service docker image - Kamil Wojciechowski<br>[ecf312c8](https://gitlab.com/snowgem/snowpay-api/-/commit/ecf312c8b717557092aa5d8c791ad2b529ae6633): Merge branch 'feature_137_payentcards' into 'master' - demzet</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
