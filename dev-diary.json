@@ -23064,5 +23064,15 @@
     "author": "GitLab",
     "content": "Filip Storkan pushed new branch [feature/beta\\-account\\-verification](https://gitlab.com/snowgem/bitfrost/commits/feature/beta-account-verification) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-28 16:57:43.820000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/beta\\-account\\-verification](https://gitlab.com/snowgem/bitfrost/commits/feature/beta-account-verification) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/99b16d883cd6fdc1ace0f62eb40893ed16b487e5...6ff8965aee7f6fc67be2d294d20ce77bfcfdf718))",
+    "created_at": "2020-10-28 17:02:54.424000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6ff8965a](https://gitlab.com/snowgem/bitfrost/-/commit/6ff8965aee7f6fc67be2d294d20ce77bfcfdf718): is service account verification value - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
