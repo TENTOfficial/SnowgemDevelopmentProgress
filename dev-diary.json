@@ -23004,5 +23004,15 @@
       "description": "[f2ab745e](https://gitlab.com/snowgem/snowpay-api/-/commit/f2ab745e058f3c24ea9ae1c5b12e9a06313117f8): UserDataContext, Migrations and \"this\" are removed - Daniil Lisovskiy\n\n[4d1356d3](https://gitlab.com/snowgem/snowpay-api/-/commit/4d1356d35cbac0ddaf8d7e83c7ea04374d97ac66): Api.Dockerfile updated - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug\\_187\\-cannot\\_login\\_to\\_SWAP\\_error](https://gitlab.com/snowgem/bitfrost/commits/bug_187-cannot_login_to_SWAP_error) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-28 16:07:10.520000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!42 \\*\\#187 \\- Require strong password on login to SWAP\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/42) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-28 16:08:04.101000"
   }
 ]
