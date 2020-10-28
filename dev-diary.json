@@ -23014,5 +23014,20 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!42 \\*\\#187 \\- Require strong password on login to SWAP\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/42) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-28 16:08:04.101000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!43 \\*Draft: Resolve \"Cannot login to SWAP error appear\"\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/43) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-28 16:10:08.665000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [187\\-cannot\\-login\\-to\\-swap\\-error\\-appear](https://gitlab.com/snowgem/bitfrost/commits/187-cannot-login-to-swap-error-appear) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-28 16:10:09.554000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) closed merge request [\\!43 \\*Draft: Resolve \"Cannot login to SWAP error appear\"\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/43) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-28 16:10:46.527000"
   }
 ]
