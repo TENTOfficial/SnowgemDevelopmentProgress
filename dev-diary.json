@@ -22994,5 +22994,15 @@
       "description": "[5d5521f1](https://gitlab.com/snowgem/snowpay-api/-/commit/5d5521f193aec1da656e99e391cd4b4893ab57ef): migrations sync - Kamil Wojciechowski\n\n[3714ee0c](https://gitlab.com/snowgem/snowpay-api/-/commit/3714ee0c791773f12128f2a28e26441e655b7958): added missing LINK currency - Kamil Wojciechowski\n\n[af803901](https://gitlab.com/snowgem/snowpay-api/-/commit/af803901f0bfe924eb7d7a3ad90c25fbd7dbf7c6): Feature  138 smoke tests - demzet\n\n[472cc9b6](https://gitlab.com/snowgem/snowpay-api/-/commit/472cc9b6974e9571c18662d97f8cdcb2614f8667): Feature  138 smoke tests - demzet\n\n[9e322359](https://gitlab.com/snowgem/snowpay-api/-/commit/9e322359ae50503391b6023d8b44de55d1e9cb9d): cleanup - Kamil Wojciechowski\n\n[f3542baf](https://gitlab.com/snowgem/snowpay-api/-/commit/f3542bafd35d5a9586d5b8956a4d7f89109eb861): #138 - payment service docker image - Kamil Wojciechowski\n\n[ecf312c8](https://gitlab.com/snowgem/snowpay-api/-/commit/ecf312c8b717557092aa5d8c791ad2b529ae6633): Merge branch 'feature_137_payentcards' into 'master' - demzet\n\n[6b8a2ba3](https://gitlab.com/snowgem/snowpay-api/-/commit/6b8a2ba321fb47782826d13ba37a3fed74c96248): #exchange service swap route fixes - Kamil Wojciechowski\n\n[deecda5e](https://gitlab.com/snowgem/snowpay-api/-/commit/deecda5eeecd156977c2cf4a710a54c4d7f2dc73): Merge branch 'feature_137_payentcards' into 'master' - demzet\n\n[6b020d78](https://gitlab.com/snowgem/snowpay-api/-/commit/6b020d782cf11a1194b89f872ee6d5655104ccaf): Merge branch 'master' into feature__112__mv_user_data_to_azure - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_112\\_\\_mv\\_user\\_data\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__112__mv_user_data_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6b020d782cf11a1194b89f872ee6d5655104ccaf...4d1356d35cbac0ddaf8d7e83c7ea04374d97ac66))",
+    "created_at": "2020-10-28 14:59:44.505000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f2ab745e](https://gitlab.com/snowgem/snowpay-api/-/commit/f2ab745e058f3c24ea9ae1c5b12e9a06313117f8): UserDataContext, Migrations and \"this\" are removed - Daniil Lisovskiy\n\n[4d1356d3](https://gitlab.com/snowgem/snowpay-api/-/commit/4d1356d35cbac0ddaf8d7e83c7ea04374d97ac66): Api.Dockerfile updated - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
