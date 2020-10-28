@@ -23124,5 +23124,15 @@
       "description": "[4aff3995](https://gitlab.com/snowgem/snowpay-activation/-/commit/4aff399546a78413dc10d833be8fbac7624812b7): Added TOS. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/snowpay-activation/commits/master) of [snowgem / tent\\-activation](https://gitlab.com/snowgem/snowpay-activation) ([Compare changes](https://gitlab.com/snowgem/snowpay-activation/compare/4aff399546a78413dc10d833be8fbac7624812b7...963eaee4343f95f9e529fe74443bba99bff88261))",
+    "created_at": "2020-10-28 21:24:29.768000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[963eaee4](https://gitlab.com/snowgem/snowpay-activation/-/commit/963eaee4343f95f9e529fe74443bba99bff88261): Mockup rebrand. - DaX",
+      "type": "rich"
+    }
   }
 ]
