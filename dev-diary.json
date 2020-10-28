@@ -22969,5 +22969,15 @@
     "author": "GitLab",
     "content": "demzet removed branch feature_137_payentcards from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-28 12:16:42.680000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_112\\_\\_mv\\_user\\_data\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__112__mv_user_data_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c025a91dc79ea943b07cf3a124184280f43a19fa...36b5d2acdac89dd83cfe5e51e647c5d394067a80))",
+    "created_at": "2020-10-28 13:04:07.710000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[42104dd4](https://gitlab.com/snowgem/snowpay-api/-/commit/42104dd4938e04d98badbe2ddb09b22420037fe1): migration tool is fixed - Daniil Lisovskiy\n\n[7dea950e](https://gitlab.com/snowgem/snowpay-api/-/commit/7dea950ee0de1ea0416363b2660206c1c218b406): migration for removing User_DataItems table added - Daniil Lisovskiy\n\n[36b5d2ac](https://gitlab.com/snowgem/snowpay-api/-/commit/36b5d2acdac89dd83cfe5e51e647c5d394067a80): db connection string rollback - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
