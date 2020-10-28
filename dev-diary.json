@@ -22854,5 +22854,10 @@
       "description": "[611d68cd](https://gitlab.com/snowgem/bitfrost/-/commit/611d68cdf70a595782473212d4eaf20c3d24c404): small corrections on RO - ciripel\n\n[27654670](https://gitlab.com/snowgem/bitfrost/-/commit/27654670811af8d56caa6203143d7c929aa0baf8): added FR for the additional text - ciripel\n\n[9d53e255](https://gitlab.com/snowgem/bitfrost/-/commit/9d53e255cead8137a84b3bde8424b7c34010a28c): fix coin balance in overview page - Snowgem\n\n[7f4d3df0](https://gitlab.com/snowgem/bitfrost/-/commit/7f4d3df0ee6c1a87cf6c1719f9d75879479f7900): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem\n\n[358cee34](https://gitlab.com/snowgem/bitfrost/-/commit/358cee3488e66b3fece75beeb143961a89a8a280): fix post request for native http - Snowgem\n\n[6dde6651](https://gitlab.com/snowgem/bitfrost/-/commit/6dde66513af5ec42cbf22934ea4bbdd78c5fb310): Merge branch 'v0.1.2' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed new branch [master](https://gitlab.com/snowgem/activation-tent-microsite/commits/master) to [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
+    "created_at": "2020-10-28 06:59:32.759000"
   }
 ]
