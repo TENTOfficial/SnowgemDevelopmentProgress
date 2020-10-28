@@ -23164,5 +23164,15 @@
       "description": "[21e62a82](https://gitlab.com/snowgem/snowpay-api/-/commit/21e62a82b6967cf8e20c29226ca5eec542fd4f02): Update SwapCancelConfirmation - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/21e62a82b6967cf8e20c29226ca5eec542fd4f02...f2cc114bb8e1295e1dd94f77b04c04014a7dcdb0))",
+    "created_at": "2020-10-28 22:00:16.946000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f2cc114b](https://gitlab.com/snowgem/snowpay-api/-/commit/f2cc114bb8e1295e1dd94f77b04c04014a7dcdb0): Update SwapConfirmation - DaX",
+      "type": "rich"
+    }
   }
 ]
