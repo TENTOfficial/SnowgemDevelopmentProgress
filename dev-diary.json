@@ -23074,5 +23074,15 @@
       "description": "[6ff8965a](https://gitlab.com/snowgem/bitfrost/-/commit/6ff8965aee7f6fc67be2d294d20ce77bfcfdf718): is service account verification value - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/snowpay-activation/commits/master) of [snowgem / tent\\-activation](https://gitlab.com/snowgem/snowpay-activation) ([Compare changes](https://gitlab.com/snowgem/snowpay-activation/compare/926b14f75ab8aa5c52244e946eeb7a2f0af3487b...6077584aa69d82b8fa7cec6987429dad3347271f))",
+    "created_at": "2020-10-28 19:41:02.450000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[123067f9](https://gitlab.com/snowgem/snowpay-activation/-/commit/123067f98413c8e6b35959a59aba7310400492f7): Success page navigation. - DaX\n\n[6077584a](https://gitlab.com/snowgem/snowpay-activation/-/commit/6077584aa69d82b8fa7cec6987429dad3347271f): Added basic templates for tos. - DaX",
+      "type": "rich"
+    }
   }
 ]
