@@ -22924,5 +22924,20 @@
     "author": "GitLab",
     "content": "Filip Storkan (filipstrkn) opened merge request [\\!41 \\*Fix/login registration fixes\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/41) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-28 08:16:08.536000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/358cee3488e66b3fece75beeb143961a89a8a280...4b4eb5f932aa6b0512722f337fe251927547f768))",
+    "created_at": "2020-10-28 08:35:45.576000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2ee88e29](https://gitlab.com/snowgem/bitfrost/-/commit/2ee88e29046df3721f541ba246236af4b903d7a8): wrapping input labels - Filip Storkan\n\n[b16b65d5](https://gitlab.com/snowgem/bitfrost/-/commit/b16b65d5ee224309c36b946cb1ba5c5ebbd9b4b7): adding forotten translate module to registartion - Filip Storkan\n\n[ac411842](https://gitlab.com/snowgem/bitfrost/-/commit/ac41184262cac020eda15240c02a1bcf7a80abe5): changing agreements data type - Filip Storkan\n\n[761e79b9](https://gitlab.com/snowgem/bitfrost/-/commit/761e79b9e7b633726503cd4e64787a5059ebb4b3): adding resend verification email - Filip Storkan\n\n[4b4eb5f9](https://gitlab.com/snowgem/bitfrost/-/commit/4b4eb5f932aa6b0512722f337fe251927547f768): Merge branch 'fix/login-registration-fixes' into 'v0.1.2' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!41 \\*Fix/login registration fixes\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/41) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-28 08:35:46.102000"
   }
 ]
