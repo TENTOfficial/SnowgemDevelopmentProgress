@@ -23029,5 +23029,35 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) closed merge request [\\!43 \\*Draft: Resolve \"Cannot login to SWAP error appear\"\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/43) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-28 16:10:46.527000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4b4eb5f932aa6b0512722f337fe251927547f768...1ec28d8cb4b7bbe52edefc886ae98da177792c21))",
+    "created_at": "2020-10-28 16:37:22.892000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1ec28d8c](https://gitlab.com/snowgem/bitfrost/-/commit/1ec28d8cb4b7bbe52edefc886ae98da177792c21): add src/assets/js/api.js to ignore - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!42 \\*\\#187 \\- Require strong password on login to SWAP\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/42) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-28 16:38:09.403000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1ec28d8cb4b7bbe52edefc886ae98da177792c21...f7a2014d0d535ce93e2ea20cd8ac6cb0b921a62b))",
+    "created_at": "2020-10-28 16:38:09.470000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5b1d9159](https://gitlab.com/snowgem/bitfrost/-/commit/5b1d9159c89a0471040fd58689584f9844f700ba): #187 - Require strong password on login to SWAP - jan.vrastil\n\n[f7a2014d](https://gitlab.com/snowgem/bitfrost/-/commit/f7a2014d0d535ce93e2ea20cd8ac6cb0b921a62b): Merge branch 'bug_187-cannot_login_to_SWAP_error' into 'v0.1.2' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch bug_187-cannot_login_to_SWAP_error from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-28 16:38:10.095000"
   }
 ]
