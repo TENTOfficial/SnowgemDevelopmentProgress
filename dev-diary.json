@@ -23144,5 +23144,25 @@
       "description": "[82473998](https://gitlab.com/snowgem/snowpay-activation/-/commit/8247399891c2f6afd38c35965ed5443fbf472fa3): Update links. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/deecda5eeecd156977c2cf4a710a54c4d7f2dc73...8d55b0f92ff61736f0cbccd8891f5556294bb9fb))",
+    "created_at": "2020-10-28 21:59:41.142000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8d55b0f9](https://gitlab.com/snowgem/snowpay-api/-/commit/8d55b0f92ff61736f0cbccd8891f5556294bb9fb): Update SwapCancel template - DaX",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8d55b0f92ff61736f0cbccd8891f5556294bb9fb...21e62a82b6967cf8e20c29226ca5eec542fd4f02))",
+    "created_at": "2020-10-28 22:00:00.267000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[21e62a82](https://gitlab.com/snowgem/snowpay-api/-/commit/21e62a82b6967cf8e20c29226ca5eec542fd4f02): Update SwapCancelConfirmation - DaX",
+      "type": "rich"
+    }
   }
 ]
