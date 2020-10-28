@@ -22939,5 +22939,10 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!41 \\*Fix/login registration fixes\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/41) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-28 08:35:46.102000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [feature\\_137\\_payentcards](https://gitlab.com/snowgem/snowpay-api/commits/feature_137_payentcards) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-28 11:59:41.856000"
   }
 ]
