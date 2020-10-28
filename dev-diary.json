@@ -23174,5 +23174,20 @@
       "description": "[f2cc114b](https://gitlab.com/snowgem/snowpay-api/-/commit/f2cc114bb8e1295e1dd94f77b04c04014a7dcdb0): Update SwapConfirmation - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!35 \\*Feature  112  mv user data to azure\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/35) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-28 22:07:08.050000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f2cc114bb8e1295e1dd94f77b04c04014a7dcdb0...250219732436104c23f4867d2f8964b0880ab11f))",
+    "created_at": "2020-10-28 22:07:08.285000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f40136df](https://gitlab.com/snowgem/snowpay-api/-/commit/f40136dfaaa0894bb1f644ae86918869cc1be71b): IUserDataRepository implementation - Daniil Lisovskiy\n\n[03763549](https://gitlab.com/snowgem/snowpay-api/-/commit/03763549cf22a600b27a896b9db87d3848849b7a): Merge branch 'master' into feature__112__mv_user_data_to_azure - Daniil Lisovskiy\n\n[c025a91d](https://gitlab.com/snowgem/snowpay-api/-/commit/c025a91dc79ea943b07cf3a124184280f43a19fa): AzureTables for UserData are implemented, minor refactoring - Daniil Lisovskiy\n\n[42104dd4](https://gitlab.com/snowgem/snowpay-api/-/commit/42104dd4938e04d98badbe2ddb09b22420037fe1): migration tool is fixed - Daniil Lisovskiy\n\n[7dea950e](https://gitlab.com/snowgem/snowpay-api/-/commit/7dea950ee0de1ea0416363b2660206c1c218b406): migration for removing User_DataItems table added - Daniil Lisovskiy\n\n[36b5d2ac](https://gitlab.com/snowgem/snowpay-api/-/commit/36b5d2acdac89dd83cfe5e51e647c5d394067a80): db connection string rollback - Daniil Lisovskiy\n\n[6b020d78](https://gitlab.com/snowgem/snowpay-api/-/commit/6b020d782cf11a1194b89f872ee6d5655104ccaf): Merge branch 'master' into feature__112__mv_user_data_to_azure - Daniil Lisovskiy\n\n[f2ab745e](https://gitlab.com/snowgem/snowpay-api/-/commit/f2ab745e058f3c24ea9ae1c5b12e9a06313117f8): UserDataContext, Migrations and \"this\" are removed - Daniil Lisovskiy\n\n[4d1356d3](https://gitlab.com/snowgem/snowpay-api/-/commit/4d1356d35cbac0ddaf8d7e83c7ea04374d97ac66): Api.Dockerfile updated - Daniil Lisovskiy\n\n[25021973](https://gitlab.com/snowgem/snowpay-api/-/commit/250219732436104c23f4867d2f8964b0880ab11f): Merge branch 'feature__112__mv_user_data_to_azure' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
