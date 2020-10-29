@@ -23679,5 +23679,15 @@
     "author": "GitLab",
     "content": "Filip Storkan removed branch fix/swap-api-params from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-29 21:08:19.704000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec74eaf319f6b4ba6f8590a6ad50323fc7236507...f19a580398d1af9c71a541f9c08b70f91048a282))",
+    "created_at": "2020-10-29 21:24:42.978000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f19a5803](https://gitlab.com/snowgem/bitfrost/-/commit/f19a580398d1af9c71a541f9c08b70f91048a282): debit card disabled style - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
