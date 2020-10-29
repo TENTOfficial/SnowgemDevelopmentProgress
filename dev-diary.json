@@ -23629,5 +23629,15 @@
     "author": "GitLab",
     "content": "Filip Storkan (filipstrkn) opened merge request [\\!52 \\*Fix/swap api params\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/52) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-29 20:28:25.931000"
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/64fd46fe85f4e7c65bb8037e8453122980995ee7...b039785e7e36da1e0e7f8f19baeeb71947734495))",
+    "created_at": "2020-10-29 20:32:50.058000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b039785e](https://gitlab.com/snowgem/bitfrost/-/commit/b039785e7e36da1e0e7f8f19baeeb71947734495): Fix number of TOS. - DaX",
+      "type": "rich"
+    }
   }
 ]
