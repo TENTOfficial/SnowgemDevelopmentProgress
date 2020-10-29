@@ -23534,5 +23534,35 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!50 \\*Get verified user from api\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/50) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-29 18:58:30.921000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fedb05bd1f7276e58b59354c8c6dada437b4cc4e...c3eb2e3ab6c535132972580015e8cd4864e3e1d8))",
+    "created_at": "2020-10-29 19:25:49.560000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c3eb2e3a](https://gitlab.com/snowgem/bitfrost/-/commit/c3eb2e3ab6c535132972580015e8cd4864e3e1d8): update env files - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c3eb2e3ab6c535132972580015e8cd4864e3e1d8...d334bc0f0f159a00594a510f683c9e20eda23666))",
+    "created_at": "2020-10-29 19:26:53.148000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[96534918](https://gitlab.com/snowgem/bitfrost/-/commit/965349188ba0aa949d2d3e939f48059b9c3ff3dd): Get verified user from api - jan.vrastil\n\n[d334bc0f](https://gitlab.com/snowgem/bitfrost/-/commit/d334bc0f0f159a00594a510f683c9e20eda23666): Merge branch 'Fix_verification_loading_screen' into 'v0.1.2' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!50 \\*Get verified user from api\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/50) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 19:26:53.199000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch Fix_verification_loading_screen from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 19:26:53.722000"
   }
 ]
