@@ -23689,5 +23689,15 @@
       "description": "[f19a5803](https://gitlab.com/snowgem/bitfrost/-/commit/f19a580398d1af9c71a541f9c08b70f91048a282): debit card disabled style - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f19a580398d1af9c71a541f9c08b70f91048a282...e8dcd2417fa915dfbe602dbd52a2df4f0382e9d6))",
+    "created_at": "2020-10-29 21:37:30.548000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e8dcd241](https://gitlab.com/snowgem/bitfrost/-/commit/e8dcd2417fa915dfbe602dbd52a2df4f0382e9d6): adding credentials for swap - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
