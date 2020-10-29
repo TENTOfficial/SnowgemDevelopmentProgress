@@ -23324,5 +23324,15 @@
     "author": "GitLab",
     "content": "Filip Storkan removed branch feature/beta-account-verification from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-29 11:05:51.219000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/92f0261ba567440f84edf844507e7f710d8032ed...6968861e07e9967c9c419f73f53a3567e0fafc4c))",
+    "created_at": "2020-10-29 11:28:17.285000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4762ce59](https://gitlab.com/snowgem/bitfrost/-/commit/4762ce594ca2786200eacbb603628df89332400d): Merge branch 'feature/beta-account-verification' into 'v0.1.2' - Filip Storkan\n\n[1b2ccb42](https://gitlab.com/snowgem/bitfrost/-/commit/1b2ccb420945d2070d99b024c2c0d4bf0ec7e0bf): dding missing translation keys - Filip Storkan\n\n[6968861e](https://gitlab.com/snowgem/bitfrost/-/commit/6968861e07e9967c9c419f73f53a3567e0fafc4c): Merge remote-tracking branch 'origin/v0.1.2' into v0.1.2 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
