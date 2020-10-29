@@ -23424,5 +23424,30 @@
       "description": "[74133a9e](https://gitlab.com/snowgem/bitfrost/-/commit/74133a9ea3835f5e241bb1df7ced916acdab627f): prepare for appflow - Snowgem\n\n[68bc5bf1](https://gitlab.com/snowgem/bitfrost/-/commit/68bc5bf1a88c79346518075a508cde0241af1a2f): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) approved merge request [\\!47 \\*Update date of terms of service\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/47) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 14:26:01.931000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/68bc5bf1a88c79346518075a508cde0241af1a2f...3c9b21d305f0aa8b4c7af37495c5d6317c2becf5))",
+    "created_at": "2020-10-29 14:30:01.630000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ce26ed78](https://gitlab.com/snowgem/bitfrost/-/commit/ce26ed78d8726811da4834033caff7ea5386fdaf): Update date of terms of service - jan.vrastil\n\n[3c9b21d3](https://gitlab.com/snowgem/bitfrost/-/commit/3c9b21d305f0aa8b4c7af37495c5d6317c2becf5): Merge branch 'bug_190-about_page_date' into 'v0.1.2' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!47 \\*Update date of terms of service\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/47) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 14:30:01.758000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch bug_190-about_page_date from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 14:30:03.286000"
   }
 ]
