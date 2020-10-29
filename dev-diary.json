@@ -23314,5 +23314,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [release\\_2020\\_10\\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-29 10:24:46.430000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) merged merge request [\\!45 \\*Feature/beta account verification\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/45) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 11:05:49.810000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch feature/beta-account-verification from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 11:05:51.219000"
   }
 ]
