@@ -23564,5 +23564,25 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch Fix_verification_loading_screen from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-29 19:26:53.722000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!51 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/51) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 19:44:42.960000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/223fc70d67d4a1dc8849f0dc6323d7d72acc3e80...02c927d616fceb5affdcfa5ba894d181195e9170))",
+    "created_at": "2020-10-29 19:44:50.086000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[96534918](https://gitlab.com/snowgem/bitfrost/-/commit/965349188ba0aa949d2d3e939f48059b9c3ff3dd): Get verified user from api - jan.vrastil\n\n[c3eb2e3a](https://gitlab.com/snowgem/bitfrost/-/commit/c3eb2e3ab6c535132972580015e8cd4864e3e1d8): update env files - Snowgem\n\n[d334bc0f](https://gitlab.com/snowgem/bitfrost/-/commit/d334bc0f0f159a00594a510f683c9e20eda23666): Merge branch 'Fix_verification_loading_screen' into 'v0.1.2' - Txid\n\n[02c927d6](https://gitlab.com/snowgem/bitfrost/-/commit/02c927d616fceb5affdcfa5ba894d181195e9170): Merge branch 'v0.1.2' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!51 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/51) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 19:44:50.247000"
   }
 ]
