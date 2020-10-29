@@ -23354,5 +23354,45 @@
       "description": "[7b15a677](https://gitlab.com/snowgem/snowpay-api/-/commit/7b15a677855d179e37802fcc804025f84127b32b): #112 test adjustments - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_112\\_\\_mv\\_user\\_data\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__112__mv_user_data_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7b15a677855d179e37802fcc804025f84127b32b...531348cd8f4440406d26d48e433adbb52ed28520))",
+    "created_at": "2020-10-29 12:26:36.933000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[531348cd](https://gitlab.com/snowgem/snowpay-api/-/commit/531348cd8f4440406d26d48e433adbb52ed28520): Update BaseTest.cs - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!37 \\*Feature  112  mv user data to azure\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/37) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-29 12:27:34.793000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!37 \\*Feature  112  mv user data to azure\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/37) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-29 12:27:38.685000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!37 \\*Feature  112  mv user data to azure\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/37) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-29 12:27:40.780000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature__112__mv_user_data_to_azure from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-10-29 12:27:41.088000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_10\\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/464898f7bc6489c051de55bf1640a8e5c91edc80...1692655ea096c519bf944bbc04f3b1e8ad388b02))",
+    "created_at": "2020-10-29 12:27:41.112000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ea96a40e](https://gitlab.com/snowgem/snowpay-api/-/commit/ea96a40e88a21550a54a760ed6fc132f638ce25b): #112 connection string change - Kamil Wojciechowski\n\n[7b15a677](https://gitlab.com/snowgem/snowpay-api/-/commit/7b15a677855d179e37802fcc804025f84127b32b): #112 test adjustments - Kamil Wojciechowski\n\n[531348cd](https://gitlab.com/snowgem/snowpay-api/-/commit/531348cd8f4440406d26d48e433adbb52ed28520): Update BaseTest.cs - demzet\n\n[1692655e](https://gitlab.com/snowgem/snowpay-api/-/commit/1692655ea096c519bf944bbc04f3b1e8ad388b02): Merge branch 'feature__112__mv_user_data_to_azure' into 'release_2020_10_31' - demzet",
+      "type": "rich"
+    }
   }
 ]
