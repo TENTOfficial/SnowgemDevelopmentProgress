@@ -23404,5 +23404,25 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!46 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/46) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-29 14:16:23.648000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug\\_190\\-about\\_page\\_date](https://gitlab.com/snowgem/bitfrost/commits/bug_190-about_page_date) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 14:23:06.266000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!47 \\*Update date of terms of service\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/47) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 14:23:41.797000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6968861e07e9967c9c419f73f53a3567e0fafc4c...68bc5bf1a88c79346518075a508cde0241af1a2f))",
+    "created_at": "2020-10-29 14:24:25.013000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[74133a9e](https://gitlab.com/snowgem/bitfrost/-/commit/74133a9ea3835f5e241bb1df7ced916acdab627f): prepare for appflow - Snowgem\n\n[68bc5bf1](https://gitlab.com/snowgem/bitfrost/-/commit/68bc5bf1a88c79346518075a508cde0241af1a2f): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
