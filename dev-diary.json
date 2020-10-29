@@ -23259,5 +23259,15 @@
       "description": "[12adc391](https://gitlab.com/snowgem/bitfrost/-/commit/12adc39177414d6909aaa0dea9ad1539b5a2b78c): fix #188 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/beta\\-account\\-verification](https://gitlab.com/snowgem/bitfrost/commits/feature/beta-account-verification) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d841e836ad02b1837b1388d91417a0ffa1f32df3...3f80ea9b21032927442d9edb6e24ababd4028498))",
+    "created_at": "2020-10-29 10:11:24.682000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3f80ea9b](https://gitlab.com/snowgem/bitfrost/-/commit/3f80ea9b21032927442d9edb6e24ababd4028498): linter fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
