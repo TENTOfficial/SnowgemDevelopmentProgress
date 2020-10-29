@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2342 commits since 20/01/2020. You can see the complete history in
+There is a total of 2343 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-29 21:52:29</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e8dcd2417fa915dfbe602dbd52a2df4f0382e9d6...0641dd4b7b2c1f48ac20537c1e3b0ae8549ad823))</sub> | <sub>[0641dd4b](https://gitlab.com/snowgem/bitfrost/-/commit/0641dd4b7b2c1f48ac20537c1e3b0ae8549ad823): swap response change - Filip Storkan</sub> |
 | <sub>2020-10-29 21:37:30</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f19a580398d1af9c71a541f9c08b70f91048a282...e8dcd2417fa915dfbe602dbd52a2df4f0382e9d6))</sub> | <sub>[e8dcd241](https://gitlab.com/snowgem/bitfrost/-/commit/e8dcd2417fa915dfbe602dbd52a2df4f0382e9d6): adding credentials for swap - Filip Storkan</sub> |
 | <sub>2020-10-29 21:24:42</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec74eaf319f6b4ba6f8590a6ad50323fc7236507...f19a580398d1af9c71a541f9c08b70f91048a282))</sub> | <sub>[f19a5803](https://gitlab.com/snowgem/bitfrost/-/commit/f19a580398d1af9c71a541f9c08b70f91048a282): debit card disabled style - Filip Storkan</sub> |
 | <sub>2020-10-29 21:08:19</sub> | <sub>Filip Storkan removed branch fix/swap-api-params from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2342 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-29 20:38:25</sub> | <sub>DaX pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b039785e7e36da1e0e7f8f19baeeb71947734495...332528b2380b8046f6e2ab834114b4a8f75a0878))</sub> | <sub>[332528b2](https://gitlab.com/snowgem/bitfrost/-/commit/332528b2380b8046f6e2ab834114b4a8f75a0878): Fix TOS. - DaX</sub> |
 | <sub>2020-10-29 20:32:50</sub> | <sub>DaX pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/64fd46fe85f4e7c65bb8037e8453122980995ee7...b039785e7e36da1e0e7f8f19baeeb71947734495))</sub> | <sub>[b039785e](https://gitlab.com/snowgem/bitfrost/-/commit/b039785e7e36da1e0e7f8f19baeeb71947734495): Fix number of TOS. - DaX</sub> |
 | <sub>2020-10-29 20:28:25</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!52 \*Fix/swap api params\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/52) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-10-29 20:22:03</sub> | <sub>Filip Storkan pushed to branch [fix/swap\-api\-params](https://gitlab.com/snowgem/bitfrost/commits/fix/swap-api-params) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/981be3c22a6f89016a7073f1de29b98b1f224258...2e6beef231712ac04874d916ed2caf725368173c))</sub> | <sub>[2e6beef2](https://gitlab.com/snowgem/bitfrost/-/commit/2e6beef231712ac04874d916ed2caf725368173c): lint fix - Filip Storkan</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

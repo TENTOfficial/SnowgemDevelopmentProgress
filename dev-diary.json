@@ -23699,5 +23699,15 @@
       "description": "[e8dcd241](https://gitlab.com/snowgem/bitfrost/-/commit/e8dcd2417fa915dfbe602dbd52a2df4f0382e9d6): adding credentials for swap - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e8dcd2417fa915dfbe602dbd52a2df4f0382e9d6...0641dd4b7b2c1f48ac20537c1e3b0ae8549ad823))",
+    "created_at": "2020-10-29 21:52:29.006000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0641dd4b](https://gitlab.com/snowgem/bitfrost/-/commit/0641dd4b7b2c1f48ac20537c1e3b0ae8549ad823): swap response change - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
