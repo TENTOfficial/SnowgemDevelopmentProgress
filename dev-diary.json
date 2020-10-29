@@ -23594,5 +23594,25 @@
       "description": "[dee321d0](https://gitlab.com/snowgem/bitfrost/-/commit/dee321d070f4895df768a26e8775096feb51c5aa): update CI/CD: build for only master and testing - Snowgem\n\n[59aaf7f8](https://gitlab.com/snowgem/bitfrost/-/commit/59aaf7f8873232bae4e2c325043ddcd449988202): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [fix/swap\\-api\\-params](https://gitlab.com/snowgem/bitfrost/commits/fix/swap-api-params) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e5b3a15f1734483982a8db4a167777570291187e...981be3c22a6f89016a7073f1de29b98b1f224258))",
+    "created_at": "2020-10-29 20:16:19.312000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[35940f08](https://gitlab.com/snowgem/bitfrost/-/commit/35940f089edb6c61190e9c9df72ece535fb53f4c): advanced login - Filip Storkan\n\n[981be3c2](https://gitlab.com/snowgem/bitfrost/-/commit/981be3c22a6f89016a7073f1de29b98b1f224258): fixing swap routes in summary page - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/59aaf7f8873232bae4e2c325043ddcd449988202...64fd46fe85f4e7c65bb8037e8453122980995ee7))",
+    "created_at": "2020-10-29 20:19:07.361000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[64fd46fe](https://gitlab.com/snowgem/bitfrost/-/commit/64fd46fe85f4e7c65bb8037e8453122980995ee7): Edit TOS. - DaX",
+      "type": "rich"
+    }
   }
 ]
