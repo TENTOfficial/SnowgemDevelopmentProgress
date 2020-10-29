@@ -23504,5 +23504,25 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!49 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/49) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-29 18:12:32.771000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [fix/swap\\-api\\-params](https://gitlab.com/snowgem/bitfrost/commits/fix/swap-api-params) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 18:15:54.836000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!49 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/49) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-29 18:18:00.671000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e0e53b2027bc46f6a2b97e0b9c0527cd37d23ee4...223fc70d67d4a1dc8849f0dc6323d7d72acc3e80))",
+    "created_at": "2020-10-29 18:18:01.031000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4c0a01be](https://gitlab.com/snowgem/bitfrost/-/commit/4c0a01be3a22639a454ed2ec1def938c9e4caf0d): additional text for zh completed - ciripel\n\n[4553028b](https://gitlab.com/snowgem/bitfrost/-/commit/4553028b957651e0bb8b12fa312d9c82c176d06f): fix registration duplicate message - Snowgem\n\n[9bf290f3](https://gitlab.com/snowgem/bitfrost/-/commit/9bf290f361281d82295991d7fd920f31e60c03c0): clear registration status after toast - Snowgem\n\n[7978f6b3](https://gitlab.com/snowgem/bitfrost/-/commit/7978f6b3b22e1dd40a53a0c5e26ff21dd4996022): fix object from entry issue - Snowgem\n\n[6cddb4e9](https://gitlab.com/snowgem/bitfrost/-/commit/6cddb4e94a513a716667a96ec8e99cd0dad04e88): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem\n\n[fedb05bd](https://gitlab.com/snowgem/bitfrost/-/commit/fedb05bd1f7276e58b59354c8c6dada437b4cc4e): fix lint - Snowgem\n\n[223fc70d](https://gitlab.com/snowgem/bitfrost/-/commit/223fc70d67d4a1dc8849f0dc6323d7d72acc3e80): Merge branch 'v0.1.2' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
