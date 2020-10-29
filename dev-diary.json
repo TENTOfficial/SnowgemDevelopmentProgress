@@ -23344,5 +23344,15 @@
       "description": "[ea96a40e](https://gitlab.com/snowgem/snowpay-api/-/commit/ea96a40e88a21550a54a760ed6fc132f638ce25b): #112 connection string change - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_112\\_\\_mv\\_user\\_data\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__112__mv_user_data_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ea96a40e88a21550a54a760ed6fc132f638ce25b...7b15a677855d179e37802fcc804025f84127b32b))",
+    "created_at": "2020-10-29 12:18:31.073000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7b15a677](https://gitlab.com/snowgem/snowpay-api/-/commit/7b15a677855d179e37802fcc804025f84127b32b): #112 test adjustments - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
