@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2278 commits since 20/01/2020. You can see the complete history in
+There is a total of 2279 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-29 09:20:29</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5b5a93ec00769eaa4dc1003850ff88e39c0e8397...c80dc9b4fb9296031943ea8277e21709f7529e5e))</sub> | <sub>[5b2b56d3](https://gitlab.com/snowgem/bitfrost/-/commit/5b2b56d36db918896888863687922b4c9ad13fcf): remove sumsub - Snowgem<br>[c80dc9b4](https://gitlab.com/snowgem/bitfrost/-/commit/c80dc9b4fb9296031943ea8277e21709f7529e5e): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem</sub> |
 | <sub>2020-10-29 08:22:01</sub> | <sub>Jan Vraštil removed branch bug_183-lorem_ipsum_in_recovery_page from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-29 08:22:00</sub> | <sub>Txid (txid) merged merge request [\!44 \*fixed \#183\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/44) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-29 08:21:56</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4923450c2b46b3bbc6bfc9b1ee5d2729a0564e6d...5b5a93ec00769eaa4dc1003850ff88e39c0e8397))</sub> | <sub>[ae8f6c48](https://gitlab.com/snowgem/bitfrost/-/commit/ae8f6c48b47bfa82486116f895ee93cc58a7dc12): fixed #183 - jan.vrastil<br>[5b5a93ec](https://gitlab.com/snowgem/bitfrost/-/commit/5b5a93ec00769eaa4dc1003850ff88e39c0e8397): Merge branch 'bug_183-lorem_ipsum_in_recovery_page' into 'v0.1.2' - Txid</sub> |
@@ -17,6 +18,5 @@ There is a total of 2278 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-28 22:07:08</sub> | <sub>demzet (aphex5) merged merge request [\!35 \*Feature  112  mv user data to azure\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/35) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-28 22:00:16</sub> | <sub>DaX pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/21e62a82b6967cf8e20c29226ca5eec542fd4f02...f2cc114bb8e1295e1dd94f77b04c04014a7dcdb0))</sub> | <sub>[f2cc114b](https://gitlab.com/snowgem/snowpay-api/-/commit/f2cc114bb8e1295e1dd94f77b04c04014a7dcdb0): Update SwapConfirmation - DaX</sub> |
 | <sub>2020-10-28 22:00:00</sub> | <sub>DaX pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8d55b0f92ff61736f0cbccd8891f5556294bb9fb...21e62a82b6967cf8e20c29226ca5eec542fd4f02))</sub> | <sub>[21e62a82](https://gitlab.com/snowgem/snowpay-api/-/commit/21e62a82b6967cf8e20c29226ca5eec542fd4f02): Update SwapCancelConfirmation - DaX</sub> |
-| <sub>2020-10-28 21:59:41</sub> | <sub>DaX pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/deecda5eeecd156977c2cf4a710a54c4d7f2dc73...8d55b0f92ff61736f0cbccd8891f5556294bb9fb))</sub> | <sub>[8d55b0f9](https://gitlab.com/snowgem/snowpay-api/-/commit/8d55b0f92ff61736f0cbccd8891f5556294bb9fb): Update SwapCancel template - DaX</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

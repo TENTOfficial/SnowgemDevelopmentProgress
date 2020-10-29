@@ -23219,5 +23219,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch bug_183-lorem_ipsum_in_recovery_page from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-29 08:22:01.813000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5b5a93ec00769eaa4dc1003850ff88e39c0e8397...c80dc9b4fb9296031943ea8277e21709f7529e5e))",
+    "created_at": "2020-10-29 09:20:29.314000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5b2b56d3](https://gitlab.com/snowgem/bitfrost/-/commit/5b2b56d36db918896888863687922b4c9ad13fcf): remove sumsub - Snowgem\n\n[c80dc9b4](https://gitlab.com/snowgem/bitfrost/-/commit/c80dc9b4fb9296031943ea8277e21709f7529e5e): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
