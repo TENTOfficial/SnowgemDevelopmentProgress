@@ -24044,5 +24044,15 @@
       "description": "[1534dc23](https://gitlab.com/snowgem/bitfrost/-/commit/1534dc23b6e55df3e525656e6b3dd824b790f50e): Fixed agreement page. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1534dc23b6e55df3e525656e6b3dd824b790f50e...9dc296d59cfb473164ddca7a17125708f6dca0b3))",
+    "created_at": "2020-10-30 20:07:21.365000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9dc296d5](https://gitlab.com/snowgem/bitfrost/-/commit/9dc296d59cfb473164ddca7a17125708f6dca0b3): update lang file for login page - Snowgem",
+      "type": "rich"
+    }
   }
 ]
