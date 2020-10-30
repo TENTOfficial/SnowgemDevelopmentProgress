@@ -23759,5 +23759,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!53 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/53) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-30 08:39:40.757000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_10\\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1692655ea096c519bf944bbc04f3b1e8ad388b02...9fa80615ab1c59d15dda32f44298db31ce51447d))",
+    "created_at": "2020-10-30 08:55:26.777000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9fa80615](https://gitlab.com/snowgem/snowpay-api/-/commit/9fa80615ab1c59d15dda32f44298db31ce51447d): #Regression bug fix - wallet repository - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]

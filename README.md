@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2349 commits since 20/01/2020. You can see the complete history in
+There is a total of 2350 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-30 08:55:26</sub> | <sub>demzet pushed to branch [release\_2020\_10\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1692655ea096c519bf944bbc04f3b1e8ad388b02...9fa80615ab1c59d15dda32f44298db31ce51447d))</sub> | <sub>[9fa80615](https://gitlab.com/snowgem/snowpay-api/-/commit/9fa80615ab1c59d15dda32f44298db31ce51447d): #Regression bug fix - wallet repository - Kamil Wojciechowski</sub> |
 | <sub>2020-10-30 08:39:40</sub> | <sub>Txid (txid) merged merge request [\!53 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/53) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-30 08:38:59</sub> | <sub>Txid (txid) opened merge request [\!53 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/53) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-30 08:16:25</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0a8121b1f0278927585bffa3d470ce6a6237bffa...b5844e90fdaf8cb0ff06f8ee7e80726f897b1321))</sub> | <sub>[b5844e90](https://gitlab.com/snowgem/bitfrost/-/commit/b5844e90fdaf8cb0ff06f8ee7e80726f897b1321): fix lint 2 - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 2349 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-29 21:52:29</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e8dcd2417fa915dfbe602dbd52a2df4f0382e9d6...0641dd4b7b2c1f48ac20537c1e3b0ae8549ad823))</sub> | <sub>[0641dd4b](https://gitlab.com/snowgem/bitfrost/-/commit/0641dd4b7b2c1f48ac20537c1e3b0ae8549ad823): swap response change - Filip Storkan</sub> |
 | <sub>2020-10-29 21:37:30</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f19a580398d1af9c71a541f9c08b70f91048a282...e8dcd2417fa915dfbe602dbd52a2df4f0382e9d6))</sub> | <sub>[e8dcd241](https://gitlab.com/snowgem/bitfrost/-/commit/e8dcd2417fa915dfbe602dbd52a2df4f0382e9d6): adding credentials for swap - Filip Storkan</sub> |
 | <sub>2020-10-29 21:24:42</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec74eaf319f6b4ba6f8590a6ad50323fc7236507...f19a580398d1af9c71a541f9c08b70f91048a282))</sub> | <sub>[f19a5803](https://gitlab.com/snowgem/bitfrost/-/commit/f19a580398d1af9c71a541f9c08b70f91048a282): debit card disabled style - Filip Storkan</sub> |
-| <sub>2020-10-29 21:08:19</sub> | <sub>Filip Storkan removed branch fix/swap-api-params from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
