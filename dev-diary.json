@@ -23909,5 +23909,15 @@
       "description": "[d6ef6e89](https://gitlab.com/snowgem/bitfrost/-/commit/d6ef6e89ea91be5edc896e3ba795f90d2854070a): floating footer with background - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d6ef6e89ea91be5edc896e3ba795f90d2854070a...79655cd93af19dcf6d7ff537ae7671c951edd861))",
+    "created_at": "2020-10-30 16:01:57.239000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2e0710da](https://gitlab.com/snowgem/bitfrost/-/commit/2e0710daaec5a6004ced5aa41440841832a06c6b): fix import wallet - Snowgem\n\n[4a5d9500](https://gitlab.com/snowgem/bitfrost/-/commit/4a5d95009c9603957d760ebc513cd43613d250d0): fix transaction data, transaction api subscription - Snowgem\n\n[79655cd9](https://gitlab.com/snowgem/bitfrost/-/commit/79655cd93af19dcf6d7ff537ae7671c951edd861): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
