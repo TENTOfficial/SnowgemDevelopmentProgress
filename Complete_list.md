@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-30 18:36:30</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2be8ec70a9a93f079e761072b83ea48962e0a8bd...6821322126f4bb8a7d1a2f14a5e7f22b5b397a36))</sub> | <sub>[68213221](https://gitlab.com/snowgem/bitfrost/-/commit/6821322126f4bb8a7d1a2f14a5e7f22b5b397a36): update env prod - Snowgem</sub> |
 | <sub>2020-10-30 18:13:09</sub> | <sub>Txid (txid) merged merge request [\!56 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/56) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-30 18:09:42</sub> | <sub>Txid (txid) opened merge request [\!56 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/56) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-30 18:08:56</sub> | <sub>Txid (txid) merged merge request [\!55 \*Bug/auto theme\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/55) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
