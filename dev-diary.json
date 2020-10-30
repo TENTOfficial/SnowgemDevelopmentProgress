@@ -23899,5 +23899,15 @@
     "author": "GitLab",
     "content": "Daniil Lisovskiy pushed new branch [feature\\_\\_122\\_\\_mv\\_user\\_connections\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-10-30 14:28:36.018000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b718cb0a64cf59351e7143a851fdcce80b9c61cd...d6ef6e89ea91be5edc896e3ba795f90d2854070a))",
+    "created_at": "2020-10-30 14:47:11.431000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d6ef6e89](https://gitlab.com/snowgem/bitfrost/-/commit/d6ef6e89ea91be5edc896e3ba795f90d2854070a): floating footer with background - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
