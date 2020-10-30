@@ -23804,5 +23804,15 @@
     "author": "GitLab",
     "content": "Filip Storkan pushed new branch [feature/service\\-account\\-reset](https://gitlab.com/snowgem/bitfrost/commits/feature/service-account-reset) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-10-30 12:05:44.123000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) opened merge request [\\!54 \\*Feature/service account reset\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/54) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-30 12:11:35.236000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) opened merge request [\\!55 \\*Bug/auto theme\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/55) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-30 12:14:12.477000"
   }
 ]
