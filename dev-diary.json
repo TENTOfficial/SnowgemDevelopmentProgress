@@ -24064,5 +24064,25 @@
       "description": "[f714a163](https://gitlab.com/snowgem/bitfrost/-/commit/f714a163bdfecd1af22ed2c6747ecac4bf65d387): padding bottom for footer floating - Snowgem\n\n[c8121eb5](https://gitlab.com/snowgem/bitfrost/-/commit/c8121eb5d3554b10d313b141b682d31536e3df54): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c8121eb5d3554b10d313b141b682d31536e3df54...c704418aebecf51ef44243885ecbfed7c3334000))",
+    "created_at": "2020-10-30 20:22:25.994000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[612d4e45](https://gitlab.com/snowgem/bitfrost/-/commit/612d4e454d844dfee19fc7b37cb40daa299088b7): Login page edit. - DaX\n\n[c704418a](https://gitlab.com/snowgem/bitfrost/-/commit/c704418aebecf51ef44243885ecbfed7c3334000): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - DaX",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c704418aebecf51ef44243885ecbfed7c3334000...594e4ee32b967c167d76d68e7e5fce4687277eda))",
+    "created_at": "2020-10-30 20:22:42.217000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7498b1df](https://gitlab.com/snowgem/bitfrost/-/commit/7498b1dfa68ed86e1dc84995d2f3ff9e13357864): prepare appflow - Snowgem\n\n[594e4ee3](https://gitlab.com/snowgem/bitfrost/-/commit/594e4ee32b967c167d76d68e7e5fce4687277eda): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
