@@ -23799,5 +23799,10 @@
       "description": "[bdf06b9e](https://gitlab.com/snowgem/snowpay-api/-/commit/bdf06b9e72a13956b70c2c38bd54ae7252e7970f): #added logging in case of failed email sending - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [feature/service\\-account\\-reset](https://gitlab.com/snowgem/bitfrost/commits/feature/service-account-reset) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-30 12:05:44.123000"
   }
 ]
