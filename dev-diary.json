@@ -24014,5 +24014,15 @@
       "description": "[59424f26](https://gitlab.com/snowgem/bitfrost/-/commit/59424f264b9703a91a544670d53d2996d6bea385): corected en.json file - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/59424f264b9703a91a544670d53d2996d6bea385...8d6c9ce768254fda527d365f02cc55f388ffcf4a))",
+    "created_at": "2020-10-30 19:16:20.311000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8d6c9ce7](https://gitlab.com/snowgem/bitfrost/-/commit/8d6c9ce768254fda527d365f02cc55f388ffcf4a): completed en.ts to be like en.json - ciripel",
+      "type": "rich"
+    }
   }
 ]
