@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2363 commits since 20/01/2020. You can see the complete history in
+There is a total of 2364 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-30 13:50:37</sub> | <sub>DaX pushed to branch [master](https://gitlab.com/snowgem/snowpay-activation/commits/master) of [snowgem / tent\-activation](https://gitlab.com/snowgem/snowpay-activation) ([Compare changes](https://gitlab.com/snowgem/snowpay-activation/compare/036e1cbf02153f26dee50af489571ff4a863da0b...598d3f55bd0c95101a78583d88ad024539c11dd3))</sub> | <sub>[598d3f55](https://gitlab.com/snowgem/snowpay-activation/-/commit/598d3f55bd0c95101a78583d88ad024539c11dd3): Added operational company information. - DaX</sub> |
 | <sub>2020-10-30 13:47:37</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/deaf186c4e1adc789abe93588c9199e47695a614...b718cb0a64cf59351e7143a851fdcce80b9c61cd))</sub> | <sub>[b718cb0a](https://gitlab.com/snowgem/bitfrost/-/commit/b718cb0a64cf59351e7143a851fdcce80b9c61cd): updated email template env var - Filip Storkan</sub> |
 | <sub>2020-10-30 13:42:01</sub> | <sub>DaX pushed to branch [master](https://gitlab.com/snowgem/activation-tent/commits/master) of [snowgem / activation\-tent](https://gitlab.com/snowgem/activation-tent) ([Compare changes](https://gitlab.com/snowgem/activation-tent/compare/9542e5ef6a9994eb30457acdeb5bf11598c7549c...a6846ceea971fe01f1ab7bfa72d48fd84a0f3e76))</sub> | <sub>[a6846cee](https://gitlab.com/snowgem/activation-tent/-/commit/a6846ceea971fe01f1ab7bfa72d48fd84a0f3e76): Reset password recovery. - DaX</sub> |
 | <sub>2020-10-30 12:54:10</sub> | <sub>Filip Storkan removed branch feature/service-account-reset from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2363 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-30 12:21:28</sub> | <sub>demzet pushed to branch [release\_2020\_10\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bdf06b9e72a13956b70c2c38bd54ae7252e7970f...0799ac0921c0720a9cb9451da4e2e85763c919bd))</sub> | <sub>[0799ac09](https://gitlab.com/snowgem/snowpay-api/-/commit/0799ac0921c0720a9cb9451da4e2e85763c919bd): #added notification integration tests - Kamil Wojciechowski</sub> |
 | <sub>2020-10-30 12:14:12</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!55 \*Bug/auto theme\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/55) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-30 12:11:35</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!54 \*Feature/service account reset\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/54) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-10-30 12:05:44</sub> | <sub>Filip Storkan pushed new branch [feature/service\-account\-reset](https://gitlab.com/snowgem/bitfrost/commits/feature/service-account-reset) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
