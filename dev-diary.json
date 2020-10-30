@@ -23789,5 +23789,15 @@
       "description": "[8000fc10](https://gitlab.com/snowgem/bitfrost/-/commit/8000fc1075e241acacd94ea590e6b9856231f373): lint fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_10\\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9fa80615ab1c59d15dda32f44298db31ce51447d...bdf06b9e72a13956b70c2c38bd54ae7252e7970f))",
+    "created_at": "2020-10-30 11:11:09.352000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bdf06b9e](https://gitlab.com/snowgem/snowpay-api/-/commit/bdf06b9e72a13956b70c2c38bd54ae7252e7970f): #added logging in case of failed email sending - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
