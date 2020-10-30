@@ -23834,5 +23834,25 @@
       "description": "[eb05d6b4](https://gitlab.com/snowgem/snowpay-api/-/commit/eb05d6b4ef634d271f045336262af275df8dbdfb): #changed text - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) merged merge request [\\!54 \\*Feature/service account reset\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/54) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-30 12:54:10.421000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8000fc1075e241acacd94ea590e6b9856231f373...deaf186c4e1adc789abe93588c9199e47695a614))",
+    "created_at": "2020-10-30 12:54:10.456000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c6716e85](https://gitlab.com/snowgem/bitfrost/-/commit/c6716e856243190823963fbe27ce443f6aef764b): reset password endpoint - Filip Storkan\n\n[8dd48a7a](https://gitlab.com/snowgem/bitfrost/-/commit/8dd48a7acb3b0241f25b6c50a1d9edcbe58d3508): reset password translations - Filip Storkan\n\n[78f3faab](https://gitlab.com/snowgem/bitfrost/-/commit/78f3faabfe12fdec86c860ede072879dd7c5640b): reset password specific error - Filip Storkan\n\n[7b5ffb12](https://gitlab.com/snowgem/bitfrost/-/commit/7b5ffb1213f3c18966a5a87dcf337cf85717a4b8): reset password form - Filip Storkan\n\n[deaf186c](https://gitlab.com/snowgem/bitfrost/-/commit/deaf186c4e1adc789abe93588c9199e47695a614): Merge branch 'feature/service-account-reset' into 'v0.1.2' - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch feature/service-account-reset from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-30 12:54:10.672000"
   }
 ]
