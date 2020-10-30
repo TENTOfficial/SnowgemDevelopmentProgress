@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-30 21:21:01</sub> | <sub>DaX pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/594e4ee32b967c167d76d68e7e5fce4687277eda...5c59f88525ab2210c6a41f93521a9a26b4316b3e))</sub> | <sub>[5c59f885](https://gitlab.com/snowgem/bitfrost/-/commit/5c59f88525ab2210c6a41f93521a9a26b4316b3e): Birthday fix. - DaX</sub> |
 | <sub>2020-10-30 20:48:08</sub> | <sub>demzet pushed new tag [release\_2020\_10\_31\_1](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_10_31_1) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-30 20:33:44</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!1 \*Add \.gitlab\-ci\.yml and updat content\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/1) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-30 20:33:27</sub> | <sub>Jan Vraštil pushed new branch [gilab\_build](https://gitlab.com/snowgem/activation-tent-microsite/commits/gilab_build) to [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
