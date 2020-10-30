@@ -24164,5 +24164,15 @@
       "description": "[963965c3](https://gitlab.com/snowgem/bitfrost/-/commit/963965c37a559238adab75e5ac999a456c6aeef6): updated last version of translation files... waiting for translators now - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/activation-tent-microsite/commits/master) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/7740647c71cea7c8620532ab83cc4ab57081a0a8...ea1ffa4d20f7ba0258d86814225af131e70823ae))",
+    "created_at": "2020-10-30 23:01:52.804000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ea1ffa4d](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/ea1ffa4d20f7ba0258d86814225af131e70823ae): Edit translations. - DaX",
+      "type": "rich"
+    }
   }
 ]
