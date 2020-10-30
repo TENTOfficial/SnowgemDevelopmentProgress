@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2382 commits since 20/01/2020. You can see the complete history in
+There is a total of 2383 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-30 20:00:47</sub> | <sub>DaX pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/28c406a17067e82d440468ec3423acc39ac6f378...1534dc23b6e55df3e525656e6b3dd824b790f50e))</sub> | <sub>[1534dc23](https://gitlab.com/snowgem/bitfrost/-/commit/1534dc23b6e55df3e525656e6b3dd824b790f50e): Fixed agreement page. - DaX</sub> |
 | <sub>2020-10-30 19:46:13</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8d6c9ce768254fda527d365f02cc55f388ffcf4a...28c406a17067e82d440468ec3423acc39ac6f378))</sub> | <sub>[1af03c22](https://gitlab.com/snowgem/bitfrost/-/commit/1af03c22e09649024b81e98ace4869254ef71ee5): update ios icon - Snowgem<br>[ed6f6f06](https://gitlab.com/snowgem/bitfrost/-/commit/ed6f6f0612ce93a729c747c2a3798f8b16595683): update ios build - Snowgem<br>[28c406a1](https://gitlab.com/snowgem/bitfrost/-/commit/28c406a17067e82d440468ec3423acc39ac6f378): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem</sub> |
 | <sub>2020-10-30 19:16:20</sub> | <sub>ciripel pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/59424f264b9703a91a544670d53d2996d6bea385...8d6c9ce768254fda527d365f02cc55f388ffcf4a))</sub> | <sub>[8d6c9ce7](https://gitlab.com/snowgem/bitfrost/-/commit/8d6c9ce768254fda527d365f02cc55f388ffcf4a): completed en.ts to be like en.json - ciripel</sub> |
 | <sub>2020-10-30 19:10:34</sub> | <sub>ciripel pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6821322126f4bb8a7d1a2f14a5e7f22b5b397a36...59424f264b9703a91a544670d53d2996d6bea385))</sub> | <sub>[59424f26](https://gitlab.com/snowgem/bitfrost/-/commit/59424f264b9703a91a544670d53d2996d6bea385): corected en.json file - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2382 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-30 18:36:30</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2be8ec70a9a93f079e761072b83ea48962e0a8bd...6821322126f4bb8a7d1a2f14a5e7f22b5b397a36))</sub> | <sub>[68213221](https://gitlab.com/snowgem/bitfrost/-/commit/6821322126f4bb8a7d1a2f14a5e7f22b5b397a36): update env prod - Snowgem</sub> |
 | <sub>2020-10-30 18:13:09</sub> | <sub>Txid (txid) merged merge request [\!56 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/56) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-30 18:09:42</sub> | <sub>Txid (txid) opened merge request [\!56 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/56) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-10-30 18:08:56</sub> | <sub>Txid (txid) merged merge request [\!55 \*Bug/auto theme\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/55) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
