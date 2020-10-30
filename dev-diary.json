@@ -23719,5 +23719,15 @@
       "description": "[c2ad4434](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/c2ad4434ec8f317b6b82510f85296cbdb6b71db0): Microsite for activation and password reset - Jakub Michna",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0641dd4b7b2c1f48ac20537c1e3b0ae8549ad823...54c173953b7ad43bb32948365bb09fc3d0db0d97))",
+    "created_at": "2020-10-30 07:55:27.524000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0bae392f](https://gitlab.com/snowgem/bitfrost/-/commit/0bae392f7d1342390a4be370c376748e8823a642): rescanning transaction after using recovery seed - Snowgem\n\n[54c17395](https://gitlab.com/snowgem/bitfrost/-/commit/54c173953b7ad43bb32948365bb09fc3d0db0d97): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
