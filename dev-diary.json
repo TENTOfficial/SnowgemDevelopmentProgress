@@ -23939,5 +23939,15 @@
       "description": "[1a746f5e](https://gitlab.com/snowgem/bitfrost/-/commit/1a746f5eb8e3c2e6fdf926bb2f815f67c339b4ed): updated splash icon - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1a746f5eb8e3c2e6fdf926bb2f815f67c339b4ed...0a75476efcfe36cfc5850f719f90238bbe6a3d47))",
+    "created_at": "2020-10-30 17:44:55.774000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6271daa7](https://gitlab.com/snowgem/bitfrost/-/commit/6271daa76d0047a24977138260c5049b9edffed7): update android icons - Snowgem\n\n[41abe736](https://gitlab.com/snowgem/bitfrost/-/commit/41abe73639771bebc43bf4d4321eb5bec2b08a9f): Tent to TENT - Snowgem\n\n[0a75476e](https://gitlab.com/snowgem/bitfrost/-/commit/0a75476efcfe36cfc5850f719f90238bbe6a3d47): update android splash screen - Snowgem",
+      "type": "rich"
+    }
   }
 ]
