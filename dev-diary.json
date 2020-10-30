@@ -23709,5 +23709,15 @@
       "description": "[0641dd4b](https://gitlab.com/snowgem/bitfrost/-/commit/0641dd4b7b2c1f48ac20537c1e3b0ae8549ad823): swap response change - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jakub Michna pushed to branch [master](https://gitlab.com/snowgem/activation-tent-microsite/commits/master) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/40b46565d26cb581a76ad07c34e214d09bf5a906...c2ad4434ec8f317b6b82510f85296cbdb6b71db0))",
+    "created_at": "2020-10-30 00:51:13.297000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c2ad4434](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/c2ad4434ec8f317b6b82510f85296cbdb6b71db0): Microsite for activation and password reset - Jakub Michna",
+      "type": "rich"
+    }
   }
 ]
