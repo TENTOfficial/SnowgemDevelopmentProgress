@@ -23779,5 +23779,15 @@
       "description": "[9ad0d39c](https://gitlab.com/snowgem/bitfrost/-/commit/9ad0d39c7ae9b2b101da14c86c2b2f10c908f8a1): Adding agreement links - Filip Storkan\n\n[8d267de6](https://gitlab.com/snowgem/bitfrost/-/commit/8d267de69d3a29b7bcc209cb8d181263affc2976): updating sms mask - Filip Storkan\n\n[95079c30](https://gitlab.com/snowgem/bitfrost/-/commit/95079c30ac034c7f41847053e47ee38adc3f64df): Merge remote-tracking branch 'origin/v0.1.2' into v0.1.2 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/95079c30ac034c7f41847053e47ee38adc3f64df...8000fc1075e241acacd94ea590e6b9856231f373))",
+    "created_at": "2020-10-30 10:56:04.037000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8000fc10](https://gitlab.com/snowgem/bitfrost/-/commit/8000fc1075e241acacd94ea590e6b9856231f373): lint fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
