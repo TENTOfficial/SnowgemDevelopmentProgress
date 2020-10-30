@@ -24154,5 +24154,15 @@
       "description": "[cd5aaba7](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/cd5aaba7c7aa7c4de3b70b342712a6b808027b85): Add .gitlab-ci.yml and updat content - Jan Vrastil\n\n[7740647c](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/7740647c71cea7c8620532ab83cc4ab57081a0a8): Merge branch 'gilab_build' into 'master' - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a216b03aec8512e0b7ca840037698f248e1b3289...963965c37a559238adab75e5ac999a456c6aeef6))",
+    "created_at": "2020-10-30 22:31:12.959000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[963965c3](https://gitlab.com/snowgem/bitfrost/-/commit/963965c37a559238adab75e5ac999a456c6aeef6): updated last version of translation files... waiting for translators now - ciripel",
+      "type": "rich"
+    }
   }
 ]
