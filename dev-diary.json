@@ -23864,5 +23864,15 @@
       "description": "[a6846cee](https://gitlab.com/snowgem/activation-tent/-/commit/a6846ceea971fe01f1ab7bfa72d48fd84a0f3e76): Reset password recovery. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/deaf186c4e1adc789abe93588c9199e47695a614...b718cb0a64cf59351e7143a851fdcce80b9c61cd))",
+    "created_at": "2020-10-30 13:47:37.927000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b718cb0a](https://gitlab.com/snowgem/bitfrost/-/commit/b718cb0a64cf59351e7143a851fdcce80b9c61cd): updated email template env var - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
