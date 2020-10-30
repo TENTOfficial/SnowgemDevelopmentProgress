@@ -24024,5 +24024,15 @@
       "description": "[8d6c9ce7](https://gitlab.com/snowgem/bitfrost/-/commit/8d6c9ce768254fda527d365f02cc55f388ffcf4a): completed en.ts to be like en.json - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8d6c9ce768254fda527d365f02cc55f388ffcf4a...28c406a17067e82d440468ec3423acc39ac6f378))",
+    "created_at": "2020-10-30 19:46:13.590000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1af03c22](https://gitlab.com/snowgem/bitfrost/-/commit/1af03c22e09649024b81e98ace4869254ef71ee5): update ios icon - Snowgem\n\n[ed6f6f06](https://gitlab.com/snowgem/bitfrost/-/commit/ed6f6f0612ce93a729c747c2a3798f8b16595683): update ios build - Snowgem\n\n[28c406a1](https://gitlab.com/snowgem/bitfrost/-/commit/28c406a17067e82d440468ec3423acc39ac6f378): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
