@@ -24340,5 +24340,15 @@
       "description": "[96586fc3](https://gitlab.com/snowgem/bitfrost/-/commit/96586fc37b47ded2488b0bd1098df42cb07e02b4): getting access on swap cancel fix - Filip Storkan\n\n[5b8328e9](https://gitlab.com/snowgem/bitfrost/-/commit/5b8328e97845f6b6aa111cb63775a1860aea7a23): fix footer floating - Snowgem\n\n[a59301b5](https://gitlab.com/snowgem/bitfrost/-/commit/a59301b57fa2ce1f6e1e180af24bfe29b304dac9): update ios app ver - Snowgem\n\n[235f3748](https://gitlab.com/snowgem/bitfrost/-/commit/235f37486caa73d765a57bafde5ec6db76909c5f): Merge branch 'v0.1.2' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [build\\_fix](https://gitlab.com/snowgem/activation-tent-microsite/commits/build_fix) to [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
+    "created_at": "2020-10-31 12:18:52.060000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!2 \\*wip:Fix gitlab build\\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/2) in [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
+    "created_at": "2020-10-31 12:19:09.953000"
   }
 ]
