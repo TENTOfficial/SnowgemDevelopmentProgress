@@ -24350,5 +24350,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!2 \\*wip:Fix gitlab build\\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/2) in [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
     "created_at": "2020-10-31 12:19:09.953000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [build\\_fix](https://gitlab.com/snowgem/activation-tent-microsite/commits/build_fix) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/98c9148cbd54f2931e4a3374ad3b4533c4102236...ba5bfd5481d52764d35a763d216896387a11725d))",
+    "created_at": "2020-10-31 12:22:23.715000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ba5bfd54](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/ba5bfd5481d52764d35a763d216896387a11725d): Fix gitlab build - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
