@@ -24515,5 +24515,25 @@
       "description": "[e28a845f](https://gitlab.com/snowgem/bitfrost/-/commit/e28a845f08e2d11ef6a5549b864afe2cbcfec865): increasing version number for ios - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) opened merge request [\\!64 \\*increasing version number for ios\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/64) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-31 22:40:06.113000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) merged merge request [\\!64 \\*increasing version number for ios\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/64) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-31 22:44:11.308000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/29aa7c13b189cbc9960e27c09456a7bc318d3f55...a5659ec6844f46b8be5f754205cb6fc93c212247))",
+    "created_at": "2020-10-31 22:44:11.299000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e28a845f](https://gitlab.com/snowgem/bitfrost/-/commit/e28a845f08e2d11ef6a5549b864afe2cbcfec865): increasing version number for ios - Filip Storkan\n\n[a5659ec6](https://gitlab.com/snowgem/bitfrost/-/commit/a5659ec6844f46b8be5f754205cb6fc93c212247): Merge branch 'v0.1.2' into 'testing' - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
