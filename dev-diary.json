@@ -24405,5 +24405,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch build_fix from [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
     "created_at": "2020-10-31 15:10:42.132000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4587609b4f5ad9fcf34f3e5fa686ab0f8da76888...fe8b2432dad735926cf1ef3300c609bd02db5231))",
+    "created_at": "2020-10-31 18:09:01.350000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fe8b2432](https://gitlab.com/snowgem/bitfrost/-/commit/fe8b2432dad735926cf1ef3300c609bd02db5231): add kyc-sms duplicate error - Snowgem",
+      "type": "rich"
+    }
   }
 ]
