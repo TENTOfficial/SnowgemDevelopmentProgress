@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2429 commits since 20/01/2020. You can see the complete history in
+There is a total of 2430 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-31 18:14:10</sub> | <sub>ciripel pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fe8b2432dad735926cf1ef3300c609bd02db5231...0586b63dec65bb33a965758d26018b6d747e35f4))</sub> | <sub>[0586b63d](https://gitlab.com/snowgem/bitfrost/-/commit/0586b63dec65bb33a965758d26018b6d747e35f4): Added last versions of translations - ciripel</sub> |
 | <sub>2020-10-31 18:09:01</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4587609b4f5ad9fcf34f3e5fa686ab0f8da76888...fe8b2432dad735926cf1ef3300c609bd02db5231))</sub> | <sub>[fe8b2432](https://gitlab.com/snowgem/bitfrost/-/commit/fe8b2432dad735926cf1ef3300c609bd02db5231): add kyc-sms duplicate error - Snowgem</sub> |
 | <sub>2020-10-31 15:10:42</sub> | <sub>Jan Vraštil removed branch build_fix from [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-31 15:10:41</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!2 \*Fix gitlab build\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/2) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2429 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-31 12:38:20</sub> | <sub>DaX (kompletit) approved merge request [\!2 \*wip:Fix gitlab build\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/2) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-31 12:22:23</sub> | <sub>Jan Vraštil pushed to branch [build\_fix](https://gitlab.com/snowgem/activation-tent-microsite/commits/build_fix) of [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/98c9148cbd54f2931e4a3374ad3b4533c4102236...ba5bfd5481d52764d35a763d216896387a11725d))</sub> | <sub>[ba5bfd54](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/ba5bfd5481d52764d35a763d216896387a11725d): Fix gitlab build - Jan Vrastil</sub> |
 | <sub>2020-10-31 12:19:09</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!2 \*wip:Fix gitlab build\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/2) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-10-31 12:18:52</sub> | <sub>Jan Vraštil pushed new branch [build\_fix](https://gitlab.com/snowgem/activation-tent-microsite/commits/build_fix) to [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

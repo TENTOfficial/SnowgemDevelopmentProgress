@@ -24415,5 +24415,15 @@
       "description": "[fe8b2432](https://gitlab.com/snowgem/bitfrost/-/commit/fe8b2432dad735926cf1ef3300c609bd02db5231): add kyc-sms duplicate error - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fe8b2432dad735926cf1ef3300c609bd02db5231...0586b63dec65bb33a965758d26018b6d747e35f4))",
+    "created_at": "2020-10-31 18:14:10.707000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0586b63d](https://gitlab.com/snowgem/bitfrost/-/commit/0586b63dec65bb33a965758d26018b6d747e35f4): Added last versions of translations - ciripel",
+      "type": "rich"
+    }
   }
 ]
