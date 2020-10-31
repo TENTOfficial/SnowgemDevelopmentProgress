@@ -24300,5 +24300,30 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/475d844c7a70ea7ed8f0b7d8a1b1b30bc44d4194"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/96586fc37b47ded2488b0bd1098df42cb07e02b4...5b8328e97845f6b6aa111cb63775a1860aea7a23))",
+    "created_at": "2020-10-31 09:23:00.095000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5b8328e9](https://gitlab.com/snowgem/bitfrost/-/commit/5b8328e97845f6b6aa111cb63775a1860aea7a23): fix footer floating - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5b8328e97845f6b6aa111cb63775a1860aea7a23...a59301b57fa2ce1f6e1e180af24bfe29b304dac9))",
+    "created_at": "2020-10-31 09:24:13.978000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a59301b5](https://gitlab.com/snowgem/bitfrost/-/commit/a59301b57fa2ce1f6e1e180af24bfe29b304dac9): update ios app ver - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!62 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/62) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-31 09:24:33.244000"
   }
 ]
