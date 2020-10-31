@@ -24435,5 +24435,15 @@
       "description": "[6a74b270](https://gitlab.com/snowgem/bitfrost/-/commit/6a74b2707d519f7b753bc51080389abba828e28c): fix 8-digit translation - Snowgem\n\n[b955415a](https://gitlab.com/snowgem/bitfrost/-/commit/b955415ae9da25746c7c7ccf7b3048782d189c63): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem\n\n[174c4691](https://gitlab.com/snowgem/bitfrost/-/commit/174c4691a1fe869f6b48c56750b6bacb62b283c0): fix 8-digit translation for cz - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/174c4691a1fe869f6b48c56750b6bacb62b283c0...09a430d8f73d7b0723b04a47688ba5b5bcdb05ed))",
+    "created_at": "2020-10-31 18:43:16.003000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[09a430d8](https://gitlab.com/snowgem/bitfrost/-/commit/09a430d8f73d7b0723b04a47688ba5b5bcdb05ed): update eight digit code - Snowgem",
+      "type": "rich"
+    }
   }
 ]
