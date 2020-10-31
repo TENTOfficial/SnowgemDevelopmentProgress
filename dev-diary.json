@@ -24264,5 +24264,23 @@
       "description": "[96586fc3](https://gitlab.com/snowgem/bitfrost/-/commit/96586fc37b47ded2488b0bd1098df42cb07e02b4): getting access on swap cancel fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-10-31 08:26:40.265000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`a1906da`](https://github.com/ciripel/Heimdall/commit/a1906da797f1e31404e5163fa88f9c923147fbc1) implemented CoreTeam impersonators Protection - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/a1906da797f1e31404e5163fa88f9c923147fbc1"
+    }
   }
 ]
