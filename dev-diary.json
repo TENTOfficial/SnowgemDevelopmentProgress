@@ -24475,5 +24475,15 @@
       "description": "[63bab122](https://gitlab.com/snowgem/bitfrost/-/commit/63bab122522b46540157c7aecb5e2e7e6127a09f): add SMS_TOO_MANY_ATTEMPTS error - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/63bab122522b46540157c7aecb5e2e7e6127a09f...500da24c4ebe0dfb7190f477ac677698725bb731))",
+    "created_at": "2020-10-31 21:09:22.407000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f5453a7f](https://gitlab.com/snowgem/bitfrost/-/commit/f5453a7f9d173434822c1d09ffb323be0a55bbdf): formated input with default select range - Filip Storkan\n\n[500da24c](https://gitlab.com/snowgem/bitfrost/-/commit/500da24c4ebe0dfb7190f477ac677698725bb731): Merge remote-tracking branch 'origin/v0.1.2' into v0.1.2 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
