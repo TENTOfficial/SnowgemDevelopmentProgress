@@ -24375,5 +24375,15 @@
       "description": "[05fa1d39](https://gitlab.com/snowgem/bitfrost/-/commit/05fa1d39640101b33d1bd6a866fa5007b45f3346): adding padding for smaller screens - Filip Storkan\n\n[ab08ac25](https://gitlab.com/snowgem/bitfrost/-/commit/ab08ac252781bca5bf1e8d5b0600d1068dba5ba3): street input type text fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ab08ac252781bca5bf1e8d5b0600d1068dba5ba3...4587609b4f5ad9fcf34f3e5fa686ab0f8da76888))",
+    "created_at": "2020-10-31 14:16:59.266000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4587609b](https://gitlab.com/snowgem/bitfrost/-/commit/4587609b4f5ad9fcf34f3e5fa686ab0f8da76888): fixing missing error message on password change - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
