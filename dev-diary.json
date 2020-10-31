@@ -24282,5 +24282,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/a1906da797f1e31404e5163fa88f9c923147fbc1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-10-31 08:31:57.938000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`475d844`](https://github.com/ciripel/Heimdall/commit/475d844c7a70ea7ed8f0b7d8a1b1b30bc44d4194) added second demzet account - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/475d844c7a70ea7ed8f0b7d8a1b1b30bc44d4194"
+    }
   }
 ]
