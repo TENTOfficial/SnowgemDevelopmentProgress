@@ -24465,5 +24465,15 @@
       "description": "[715911a0](https://gitlab.com/snowgem/bitfrost/-/commit/715911a0884ccb3fb8a2c5b143e57c5f46ee1861): add CANNOT_SEND_SMS error - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/715911a0884ccb3fb8a2c5b143e57c5f46ee1861...63bab122522b46540157c7aecb5e2e7e6127a09f))",
+    "created_at": "2020-10-31 20:05:31.596000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[63bab122](https://gitlab.com/snowgem/bitfrost/-/commit/63bab122522b46540157c7aecb5e2e7e6127a09f): add SMS_TOO_MANY_ATTEMPTS error - Snowgem",
+      "type": "rich"
+    }
   }
 ]
