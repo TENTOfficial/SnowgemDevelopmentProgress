@@ -24174,5 +24174,15 @@
       "description": "[ea1ffa4d](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/ea1ffa4d20f7ba0258d86814225af131e70823ae): Edit translations. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/963965c37a559238adab75e5ac999a456c6aeef6...f006c62a2d9b424acda8b4ea429907e636757a52))",
+    "created_at": "2020-10-31 06:12:28.492000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cdaebd96](https://gitlab.com/snowgem/bitfrost/-/commit/cdaebd96e7fa6d9feade1fd72269b1d0b0699c3d): update ios icons - Snowgem\n\n[f006c62a](https://gitlab.com/snowgem/bitfrost/-/commit/f006c62a2d9b424acda8b4ea429907e636757a52): Merge branch 'v0.1.2' of https://gitlab.com/snowgem/bitfrost into v0.1.2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
