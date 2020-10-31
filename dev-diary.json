@@ -24254,5 +24254,15 @@
       "description": "[37a8c532](https://gitlab.com/snowgem/bitfrost/-/commit/37a8c532ca35428985bee97f6cc227e4f058e2d4): update ios icon - Snowgem\n\n[64854bb2](https://gitlab.com/snowgem/bitfrost/-/commit/64854bb21be421a5707a210ab70f3b9ecd040406): update ios build ver - Snowgem\n\n[09a8c4be](https://gitlab.com/snowgem/bitfrost/-/commit/09a8c4bee6affe0051fb085d122bc30b99b14078): Merge branch 'v0.1.2' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/64854bb21be421a5707a210ab70f3b9ecd040406...96586fc37b47ded2488b0bd1098df42cb07e02b4))",
+    "created_at": "2020-10-31 08:09:37.906000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[96586fc3](https://gitlab.com/snowgem/bitfrost/-/commit/96586fc37b47ded2488b0bd1098df42cb07e02b4): getting access on swap cancel fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
