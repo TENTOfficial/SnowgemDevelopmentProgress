@@ -24365,5 +24365,15 @@
     "author": "GitLab",
     "content": "DaX (kompletit) approved merge request [\\!2 \\*wip:Fix gitlab build\\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/2) in [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
     "created_at": "2020-10-31 12:38:20.255000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a59301b57fa2ce1f6e1e180af24bfe29b304dac9...ab08ac252781bca5bf1e8d5b0600d1068dba5ba3))",
+    "created_at": "2020-10-31 13:05:59.258000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[05fa1d39](https://gitlab.com/snowgem/bitfrost/-/commit/05fa1d39640101b33d1bd6a866fa5007b45f3346): adding padding for smaller screens - Filip Storkan\n\n[ab08ac25](https://gitlab.com/snowgem/bitfrost/-/commit/ab08ac252781bca5bf1e8d5b0600d1068dba5ba3): street input type text fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]

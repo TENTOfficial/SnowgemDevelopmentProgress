@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2423 commits since 20/01/2020. You can see the complete history in
+There is a total of 2424 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-10-31 13:05:59</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a59301b57fa2ce1f6e1e180af24bfe29b304dac9...ab08ac252781bca5bf1e8d5b0600d1068dba5ba3))</sub> | <sub>[05fa1d39](https://gitlab.com/snowgem/bitfrost/-/commit/05fa1d39640101b33d1bd6a866fa5007b45f3346): adding padding for smaller screens - Filip Storkan<br>[ab08ac25](https://gitlab.com/snowgem/bitfrost/-/commit/ab08ac252781bca5bf1e8d5b0600d1068dba5ba3): street input type text fix - Filip Storkan</sub> |
 | <sub>2020-10-31 12:38:20</sub> | <sub>DaX (kompletit) approved merge request [\!2 \*wip:Fix gitlab build\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/2) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-31 12:22:23</sub> | <sub>Jan Vraštil pushed to branch [build\_fix](https://gitlab.com/snowgem/activation-tent-microsite/commits/build_fix) of [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/98c9148cbd54f2931e4a3374ad3b4533c4102236...ba5bfd5481d52764d35a763d216896387a11725d))</sub> | <sub>[ba5bfd54](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/ba5bfd5481d52764d35a763d216896387a11725d): Fix gitlab build - Jan Vrastil</sub> |
 | <sub>2020-10-31 12:19:09</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!2 \*wip:Fix gitlab build\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/2) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2423 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-10-31 09:24:33</sub> | <sub>Txid (txid) opened merge request [\!62 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/62) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-10-31 09:24:13</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5b8328e97845f6b6aa111cb63775a1860aea7a23...a59301b57fa2ce1f6e1e180af24bfe29b304dac9))</sub> | <sub>[a59301b5](https://gitlab.com/snowgem/bitfrost/-/commit/a59301b57fa2ce1f6e1e180af24bfe29b304dac9): update ios app ver - Snowgem</sub> |
 | <sub>2020-10-31 09:23:00</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/96586fc37b47ded2488b0bd1098df42cb07e02b4...5b8328e97845f6b6aa111cb63775a1860aea7a23))</sub> | <sub>[5b8328e9](https://gitlab.com/snowgem/bitfrost/-/commit/5b8328e97845f6b6aa111cb63775a1860aea7a23): fix footer floating - Snowgem</sub> |
-| <sub>2020-10-31 08:31:57</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/475d844c7a70ea7ed8f0b7d8a1b1b30bc44d4194)</sub> | <sub>[475d844](https://github.com/ciripel/Heimdall/commit/475d844c7a70ea7ed8f0b7d8a1b1b30bc44d4194) added second demzet account - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
