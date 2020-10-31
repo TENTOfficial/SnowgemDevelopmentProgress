@@ -24214,5 +24214,25 @@
       "description": "[37a8c532](https://gitlab.com/snowgem/bitfrost/-/commit/37a8c532ca35428985bee97f6cc227e4f058e2d4): update ios icon - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!60 \\*update ios icon\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/60) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-31 07:46:03.592000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/37a8c532ca35428985bee97f6cc227e4f058e2d4...64854bb21be421a5707a210ab70f3b9ecd040406))",
+    "created_at": "2020-10-31 07:47:12.995000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[64854bb2](https://gitlab.com/snowgem/bitfrost/-/commit/64854bb21be421a5707a210ab70f3b9ecd040406): update ios build ver - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) closed merge request [\\!60 \\*update ios icon\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/60) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-10-31 07:47:41.553000"
   }
 ]
