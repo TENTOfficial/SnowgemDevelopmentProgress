@@ -24360,5 +24360,10 @@
       "description": "[ba5bfd54](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/ba5bfd5481d52764d35a763d216896387a11725d): Fix gitlab build - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX (kompletit) approved merge request [\\!2 \\*wip:Fix gitlab build\\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/2) in [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
+    "created_at": "2020-10-31 12:38:20.255000"
   }
 ]
