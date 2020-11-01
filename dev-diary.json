@@ -24815,5 +24815,15 @@
     "author": "GitLab",
     "content": "demzet pushed new tag [release\\_2020\\_10\\_31\\_3](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_10_31_3) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-01 21:15:02.292000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1d710e06b909a368957b2a529f3be365d9b27c2c...0e35bd9a108eccf49804d10bc0f6a4066c6e7e57))",
+    "created_at": "2020-11-01 21:50:34.033000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0e35bd9a](https://gitlab.com/snowgem/bitfrost/-/commit/0e35bd9a108eccf49804d10bc0f6a4066c6e7e57): update zcash consensus branchid - Snowgem",
+      "type": "rich"
+    }
   }
 ]
