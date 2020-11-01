@@ -24615,5 +24615,20 @@
       "description": "[04371f86](https://gitlab.com/snowgem/bitfrost/-/commit/04371f865ccb1c354c33f370b1431c0c26dac646): load wallet again for swap when loading - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/04371f865ccb1c354c33f370b1431c0c26dac646...110f2bc6e9bc83034cbc0c86bd962af051dd8207))",
+    "created_at": "2020-11-01 11:28:53.754000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[110f2bc6](https://gitlab.com/snowgem/bitfrost/-/commit/110f2bc6e9bc83034cbc0c86bd962af051dd8207): fix load service account on mobile - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!67 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/67) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-01 11:29:28.898000"
   }
 ]
