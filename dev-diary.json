@@ -24800,5 +24800,15 @@
     "author": "GitLab",
     "content": "demzet pushed new tag [release\\_2020\\_10\\_31\\_2](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_10_31_2) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-01 20:41:01.921000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_10\\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/37ff65f330140dd28b44c21a75bd254959052276...cca207af1725a484802bdcd4e71ee5f5f12f5ae7))",
+    "created_at": "2020-11-01 21:10:33.208000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cca207af](https://gitlab.com/snowgem/snowpay-api/-/commit/cca207af1725a484802bdcd4e71ee5f5f12f5ae7): #swap routes updater fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
