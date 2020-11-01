@@ -24825,5 +24825,20 @@
       "description": "[0e35bd9a](https://gitlab.com/snowgem/bitfrost/-/commit/0e35bd9a108eccf49804d10bc0f6a4066c6e7e57): update zcash consensus branchid - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0e35bd9a108eccf49804d10bc0f6a4066c6e7e57...1bba796066f445e10a06c81dc2e13ab191d408aa))",
+    "created_at": "2020-11-01 22:03:49.623000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1bba7960](https://gitlab.com/snowgem/bitfrost/-/commit/1bba796066f445e10a06c81dc2e13ab191d408aa): update ios version - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!71 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/71) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-01 22:04:34.425000"
   }
 ]
