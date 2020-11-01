@@ -24640,5 +24640,15 @@
       "description": "[ec082749](https://gitlab.com/snowgem/bitfrost/-/commit/ec082749890020565a957f50c5887e8c9a35dbbf): remove log - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec082749890020565a957f50c5887e8c9a35dbbf...b5aea5b12e04252c38f69da11299593358e56bc1))",
+    "created_at": "2020-11-01 13:26:42.999000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b5aea5b1](https://gitlab.com/snowgem/bitfrost/-/commit/b5aea5b12e04252c38f69da11299593358e56bc1): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
