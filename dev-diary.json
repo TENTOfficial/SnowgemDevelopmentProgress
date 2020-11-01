@@ -24680,5 +24680,15 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [bugs/fix\\-ios\\-keyboard](https://gitlab.com/snowgem/bitfrost/commits/bugs/fix-ios-keyboard) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-01 16:20:03.804000"
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/16d5984b6e4d9f4a69fb18ba5d7f010275eeff47...b1d576f1e3f94f85bdb84fd311a8de3a7b26465d))",
+    "created_at": "2020-11-01 16:41:26.166000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b1d576f1](https://gitlab.com/snowgem/freyja/-/commit/b1d576f1e3f94f85bdb84fd311a8de3a7b26465d): allow local only reporting - V",
+      "type": "rich"
+    }
   }
 ]
