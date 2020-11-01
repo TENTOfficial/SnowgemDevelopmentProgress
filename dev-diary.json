@@ -24755,5 +24755,20 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!69 \\*Bugs/fix ios keyboard\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/69) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-01 19:14:32.391000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/338d5b325c608e0494a1fb4546e4da4fb2e6e445...1d710e06b909a368957b2a529f3be365d9b27c2c))",
+    "created_at": "2020-11-01 19:23:40.798000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1d710e06](https://gitlab.com/snowgem/bitfrost/-/commit/1d710e06b909a368957b2a529f3be365d9b27c2c): do not load data service automatically 2 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!70 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/70) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-01 19:24:15.275000"
   }
 ]
