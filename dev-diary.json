@@ -24590,5 +24590,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!66 \\*update ios ver\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/66) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-01 08:07:58.068000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b1c9b41106f1380ebef93517ce0fa9dcaa1c1f86...a276a7a66a83c2c1e3f7c798c03c6e1e8f8c7c71))",
+    "created_at": "2020-11-01 08:10:53.268000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1588c6d5](https://gitlab.com/snowgem/bitfrost/-/commit/1588c6d56d0f6472422f3523b79142f01a682720): update ios ver - Snowgem\n\n[a276a7a6](https://gitlab.com/snowgem/bitfrost/-/commit/a276a7a66a83c2c1e3f7c798c03c6e1e8f8c7c71): Merge branch 'v0.1.2' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!66 \\*update ios ver\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/66) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-01 08:10:53.387000"
   }
 ]
