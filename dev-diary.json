@@ -24810,5 +24810,10 @@
       "description": "[cca207af](https://gitlab.com/snowgem/snowpay-api/-/commit/cca207af1725a484802bdcd4e71ee5f5f12f5ae7): #swap routes updater fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new tag [release\\_2020\\_10\\_31\\_3](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_10_31_3) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-01 21:15:02.292000"
   }
 ]
