@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2462 commits since 20/01/2020. You can see the complete history in
+There is a total of 2463 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-01 18:08:27</sub> | <sub>Txid pushed new branch [feature/es2015](https://gitlab.com/snowgem/bitfrost/commits/feature/es2015) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-01 16:41:26</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/16d5984b6e4d9f4a69fb18ba5d7f010275eeff47...b1d576f1e3f94f85bdb84fd311a8de3a7b26465d))</sub> | <sub>[b1d576f1](https://gitlab.com/snowgem/freyja/-/commit/b1d576f1e3f94f85bdb84fd311a8de3a7b26465d): allow local only reporting - V</sub> |
 | <sub>2020-11-01 16:20:03</sub> | <sub>Txid pushed new branch [bugs/fix\-ios\-keyboard](https://gitlab.com/snowgem/bitfrost/commits/bugs/fix-ios-keyboard) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-01 13:54:34</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b5aea5b12e04252c38f69da11299593358e56bc1...1f39ea9f68ff5c7627ad695cc7ec22dd6d9a73ba))</sub> | <sub>[1f39ea9f](https://gitlab.com/snowgem/bitfrost/-/commit/1f39ea9f68ff5c7627ad695cc7ec22dd6d9a73ba): switch to es2015 - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 2462 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-01 12:10:54</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/110f2bc6e9bc83034cbc0c86bd962af051dd8207...ec082749890020565a957f50c5887e8c9a35dbbf))</sub> | <sub>[ec082749](https://gitlab.com/snowgem/bitfrost/-/commit/ec082749890020565a957f50c5887e8c9a35dbbf): remove log - Snowgem</sub> |
 | <sub>2020-11-01 11:29:28</sub> | <sub>Txid (txid) opened merge request [\!67 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/67) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-01 11:28:53</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/04371f865ccb1c354c33f370b1431c0c26dac646...110f2bc6e9bc83034cbc0c86bd962af051dd8207))</sub> | <sub>[110f2bc6](https://gitlab.com/snowgem/bitfrost/-/commit/110f2bc6e9bc83034cbc0c86bd962af051dd8207): fix load service account on mobile - Snowgem</sub> |
-| <sub>2020-11-01 10:12:03</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1588c6d56d0f6472422f3523b79142f01a682720...04371f865ccb1c354c33f370b1431c0c26dac646))</sub> | <sub>[04371f86](https://gitlab.com/snowgem/bitfrost/-/commit/04371f865ccb1c354c33f370b1431c0c26dac646): load wallet again for swap when loading - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
