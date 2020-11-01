@@ -24725,5 +24725,15 @@
       "description": "[fe89aeec](https://gitlab.com/snowgem/bitfrost/-/commit/fe89aeec9f00eb2ab2fd288b77eef55b8c2866a7): do not load data service automatically - Snowgem\n\n[c45791c2](https://gitlab.com/snowgem/bitfrost/-/commit/c45791c23efbdd0e7773cc1024af45d0e43cbbb5): Merge branch 'v0.1.2' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [bugs/fix\\-ios\\-keyboard](https://gitlab.com/snowgem/bitfrost/commits/bugs/fix-ios-keyboard) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9e4e3ee114c38689d4bc60ddb939240f2dc75912...2a53a8ba48c83cac46fed74789e221c5bb28527a))",
+    "created_at": "2020-11-01 19:08:47.815000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5804a917](https://gitlab.com/snowgem/bitfrost/-/commit/5804a91751d247374b5bda988c232c841745854b): update capacitor - Snowgem\n\n[2a53a8ba](https://gitlab.com/snowgem/bitfrost/-/commit/2a53a8ba48c83cac46fed74789e221c5bb28527a): remove ngSubmit for form - ios 14 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
