@@ -25055,5 +25055,15 @@
       "description": "[956f3a3a](https://gitlab.com/snowgem/snowpay-api/-/commit/956f3a3a97cef0c92aa09ecadd1d650874454985): #reverted swarm deployer - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_10\\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/956f3a3a97cef0c92aa09ecadd1d650874454985...b805a2a790f8d1ff4db36cebcad478a151ab84ac))",
+    "created_at": "2020-11-02 10:09:32.410000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b805a2a7](https://gitlab.com/snowgem/snowpay-api/-/commit/b805a2a790f8d1ff4db36cebcad478a151ab84ac): #reverted swarm deployer - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
