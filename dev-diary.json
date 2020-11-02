@@ -24865,5 +24865,80 @@
       "description": "[b5e403d6](https://gitlab.com/snowgem/bitfrost/-/commit/b5e403d66d0987fa5b92a98254b5f50bf5085b14): patch swap pair after adding new wallet - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch crypto_to_fiat_swaps from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:00:23.859000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch release_candidate_2020_10_30 from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:00:26.550000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch bittrex_ethereum_deposits_refactor from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:01:02.798000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch release_2020_07_17 from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:01:55.830000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch release_candidate_1 from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:01:58.222000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch bittrex_integration from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:02:05.816000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch release_2 from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:02:10.554000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch release_1 from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:02:12.649000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch release_2020_10_23 from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:02:23.654000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch cosmosdb_sql_replacement from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:02:31.766000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch new_auth from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:02:35.628000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch binance_integration from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:02:41.091000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch double_swaps from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:02:50.610000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch release_2020_07_27 from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:03:18.744000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch release_2020_08_12 from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-02 09:03:22.267000"
   }
 ]
