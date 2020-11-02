@@ -24855,5 +24855,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!71 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/71) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-01 22:07:52.205000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1bba796066f445e10a06c81dc2e13ab191d408aa...b5e403d66d0987fa5b92a98254b5f50bf5085b14))",
+    "created_at": "2020-11-02 07:06:32.298000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b5e403d6](https://gitlab.com/snowgem/bitfrost/-/commit/b5e403d66d0987fa5b92a98254b5f50bf5085b14): patch swap pair after adding new wallet - Snowgem",
+      "type": "rich"
+    }
   }
 ]
