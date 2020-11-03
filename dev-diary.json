@@ -25265,5 +25265,25 @@
       "description": "[f449f754](https://gitlab.com/snowgem/bitfrost/-/commit/f449f754dae434816723ecce1f6b4300c32ef6e1): fix register button on ios - Snowgem\n\n[ab73206f](https://gitlab.com/snowgem/bitfrost/-/commit/ab73206f6756a5bce7494258a9f8e7fc129a9a91): update ios build ver - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!75 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/75) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-03 13:10:28.064000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b53d6dce2e589467028e8f8a572cebafb1652fed...ad01756e3df8a3a6827f85c43d7f82be6f5d14e5))",
+    "created_at": "2020-11-03 13:10:31.940000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[93ce8261](https://gitlab.com/snowgem/bitfrost/-/commit/93ce8261a65633244d3e1711d1fc9f41d6fd3e00): update send-wallt list when new wallet is created - Snowgem\n\n[f449f754](https://gitlab.com/snowgem/bitfrost/-/commit/f449f754dae434816723ecce1f6b4300c32ef6e1): fix register button on ios - Snowgem\n\n[ab73206f](https://gitlab.com/snowgem/bitfrost/-/commit/ab73206f6756a5bce7494258a9f8e7fc129a9a91): update ios build ver - Snowgem\n\n[ad01756e](https://gitlab.com/snowgem/bitfrost/-/commit/ad01756e3df8a3a6827f85c43d7f82be6f5d14e5): Merge branch 'v0.1.2' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!75 \\*V0\\.1\\.2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/75) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-03 13:10:32.017000"
   }
 ]
