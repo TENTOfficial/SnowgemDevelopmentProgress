@@ -25255,5 +25255,15 @@
     "author": "GitLab",
     "content": "demzet (aphex5) approved merge request [\\!38 \\*Release 2020 10 31\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/38) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-03 09:14:11.482000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/93ce8261a65633244d3e1711d1fc9f41d6fd3e00...ab73206f6756a5bce7494258a9f8e7fc129a9a91))",
+    "created_at": "2020-11-03 12:39:55.733000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f449f754](https://gitlab.com/snowgem/bitfrost/-/commit/f449f754dae434816723ecce1f6b4300c32ef6e1): fix register button on ios - Snowgem\n\n[ab73206f](https://gitlab.com/snowgem/bitfrost/-/commit/ab73206f6756a5bce7494258a9f8e7fc129a9a91): update ios build ver - Snowgem",
+      "type": "rich"
+    }
   }
 ]
