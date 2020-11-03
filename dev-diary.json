@@ -25230,5 +25230,30 @@
       "description": "[93ce8261](https://gitlab.com/snowgem/bitfrost/-/commit/93ce8261a65633244d3e1711d1fc9f41d6fd3e00): update send-wallt list when new wallet is created - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!38 \\*Release 2020 10 31\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/38) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-03 09:13:29.531000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4ba96a35ddce465ddf50693eacbce77f045fa09b...eb2e3dff1ae0e130fdb15af4eb34e83c7ba2015c))",
+    "created_at": "2020-11-03 09:14:10.674000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ea96a40e](https://gitlab.com/snowgem/snowpay-api/-/commit/ea96a40e88a21550a54a760ed6fc132f638ce25b): #112 connection string change - Kamil Wojciechowski\n\n[7b15a677](https://gitlab.com/snowgem/snowpay-api/-/commit/7b15a677855d179e37802fcc804025f84127b32b): #112 test adjustments - Kamil Wojciechowski\n\n[531348cd](https://gitlab.com/snowgem/snowpay-api/-/commit/531348cd8f4440406d26d48e433adbb52ed28520): Update BaseTest.cs - demzet\n\n[1692655e](https://gitlab.com/snowgem/snowpay-api/-/commit/1692655ea096c519bf944bbc04f3b1e8ad388b02): Merge branch 'feature__112__mv_user_data_to_azure' into 'release_2020_10_31' - demzet\n\n[9fa80615](https://gitlab.com/snowgem/snowpay-api/-/commit/9fa80615ab1c59d15dda32f44298db31ce51447d): #Regression bug fix - wallet repository - Kamil Wojciechowski\n\n[bdf06b9e](https://gitlab.com/snowgem/snowpay-api/-/commit/bdf06b9e72a13956b70c2c38bd54ae7252e7970f): #added logging in case of failed email sending - Kamil Wojciechowski\n\n[0799ac09](https://gitlab.com/snowgem/snowpay-api/-/commit/0799ac0921c0720a9cb9451da4e2e85763c919bd): #added notification integration tests - Kamil Wojciechowski\n\n[eb05d6b4](https://gitlab.com/snowgem/snowpay-api/-/commit/eb05d6b4ef634d271f045336262af275df8dbdfb): #changed text - Kamil Wojciechowski\n\n[37ff65f3](https://gitlab.com/snowgem/snowpay-api/-/commit/37ff65f330140dd28b44c21a75bd254959052276): #swap routes updater fix - Kamil Wojciechowski\n\n[cca207af](https://gitlab.com/snowgem/snowpay-api/-/commit/cca207af1725a484802bdcd4e71ee5f5f12f5ae7): #swap routes updater fix - Kamil Wojciechowski\n\n[d11acd4f](https://gitlab.com/snowgem/snowpay-api/-/commit/d11acd4fbeba286aacec9a701a0beb3fc5d58aa3): # swarm deploy-er - Kamil Wojciechowski\n\n[eb2e3dff](https://gitlab.com/snowgem/snowpay-api/-/commit/eb2e3dff1ae0e130fdb15af4eb34e83c7ba2015c): Merge branch 'release_2020_10_31' into 'master' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!38 \\*Release 2020 10 31\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/38) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-03 09:14:10.783000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!38 \\*Release 2020 10 31\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/38) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-03 09:14:11.482000"
   }
 ]
