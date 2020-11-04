@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2549 commits since 20/01/2020. You can see the complete history in
+There is a total of 2550 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-04 20:49:40</sub> | <sub>demzet pushed new tag [release\_2020\_10\_31\_5](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_10_31_5) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-04 19:57:26</sub> | <sub>ciripel pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ab73206f6756a5bce7494258a9f8e7fc129a9a91...f6a9977e5a0b672ba268bd32fe160a26ff0d9dee))</sub> | <sub>[f6a9977e](https://gitlab.com/snowgem/bitfrost/-/commit/f6a9977e5a0b672ba268bd32fe160a26ff0d9dee): Finished all languages except last 2 sms lines - ciripel</sub> |
 | <sub>2020-11-04 13:04:42</sub> | <sub>demzet pushed to branch [release\_2020\_10\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d11acd4fbeba286aacec9a701a0beb3fc5d58aa3...f7cbdd8c59be2e12e623a11a05966c6671c2cd11))</sub> | <sub>[4d0ddb6e](https://gitlab.com/snowgem/snowpay-api/-/commit/4d0ddb6eeb665cb7f2180efe86952b19f722b923): #143 fix withdrawal rounding - Kamil Wojciechowski<br>[f7cbdd8c](https://gitlab.com/snowgem/snowpay-api/-/commit/f7cbdd8c59be2e12e623a11a05966c6671c2cd11): #143 fix withdrawal rounding - Kamil Wojciechowski</sub> |
 | <sub>2020-11-04 12:48:59</sub> | <sub>demzet (aphex5) opened merge request [\!39 \*Draft: Release 2020 10 31\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/39) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2549 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-03 13:10:28</sub> | <sub>Txid (txid) opened merge request [\!75 \*V0\.1\.2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/75) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-03 12:39:55</sub> | <sub>Txid pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/93ce8261a65633244d3e1711d1fc9f41d6fd3e00...ab73206f6756a5bce7494258a9f8e7fc129a9a91))</sub> | <sub>[f449f754](https://gitlab.com/snowgem/bitfrost/-/commit/f449f754dae434816723ecce1f6b4300c32ef6e1): fix register button on ios - Snowgem<br>[ab73206f](https://gitlab.com/snowgem/bitfrost/-/commit/ab73206f6756a5bce7494258a9f8e7fc129a9a91): update ios build ver - Snowgem</sub> |
 | <sub>2020-11-03 09:14:11</sub> | <sub>demzet (aphex5) approved merge request [\!38 \*Release 2020 10 31\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/38) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-11-03 09:14:10</sub> | <sub>demzet (aphex5) merged merge request [\!38 \*Release 2020 10 31\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/38) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
