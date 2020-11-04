@@ -25300,5 +25300,15 @@
     "author": "GitLab",
     "content": "demzet (aphex5) opened merge request [\\!39 \\*Draft: Release 2020 10 31\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/39) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-04 12:48:59.169000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_10\\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d11acd4fbeba286aacec9a701a0beb3fc5d58aa3...f7cbdd8c59be2e12e623a11a05966c6671c2cd11))",
+    "created_at": "2020-11-04 13:04:42.713000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4d0ddb6e](https://gitlab.com/snowgem/snowpay-api/-/commit/4d0ddb6eeb665cb7f2180efe86952b19f722b923): #143 fix withdrawal rounding - Kamil Wojciechowski\n\n[f7cbdd8c](https://gitlab.com/snowgem/snowpay-api/-/commit/f7cbdd8c59be2e12e623a11a05966c6671c2cd11): #143 fix withdrawal rounding - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
