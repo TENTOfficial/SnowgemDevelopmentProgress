@@ -25325,5 +25325,15 @@
     "author": "GitLab",
     "content": "demzet pushed new tag [release\\_2020\\_10\\_31\\_5](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_10_31_5) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-04 20:49:40.642000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_10\\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f7cbdd8c59be2e12e623a11a05966c6671c2cd11...af60f77015fac5d65adb1a032089d0f08bbcefef))",
+    "created_at": "2020-11-04 21:18:20.915000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[af60f770](https://gitlab.com/snowgem/snowpay-api/-/commit/af60f77015fac5d65adb1a032089d0f08bbcefef): #144 - Added ZEC Swaps - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
