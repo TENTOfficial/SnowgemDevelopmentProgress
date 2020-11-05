@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2561 commits since 20/01/2020. You can see the complete history in
+There is a total of 2562 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-05 21:17:25</sub> | <sub>demzet pushed new tag [release\_2020\_10\_31\_6](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_10_31_6) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-05 20:27:11</sub> | <sub>V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/8bd085c21d494522233767c2a16094eb5f984ee8...7b51fe09493d22035b6879cba211fd96e0ad1d99))</sub> | <sub>[7b51fe09](https://gitlab.com/snowgem/asgard/-/commit/7b51fe09493d22035b6879cba211fd96e0ad1d99): initial commit - asg2 demo - V</sub> |
 | <sub>2020-11-05 20:23:24</sub> | <sub>V 010 pushed new branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) to [snowgem / asgard](https://gitlab.com/snowgem/asgard)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-05 19:55:35</sub> | <sub>ciripel pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f6a9977e5a0b672ba268bd32fe160a26ff0d9dee...422a87e9f08ebe06998fd3469b411c3462bbfe41))</sub> | <sub>[422a87e9](https://gitlab.com/snowgem/bitfrost/-/commit/422a87e9f08ebe06998fd3469b411c3462bbfe41): some corrections in CZ and RO - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2561 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-05 10:14:12</sub> | <sub>Daniil Lisovskiy pushed to branch [feature\_\_122\_\_mv\_user\_connections\_to\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d3c04141f7f2c51274d612fd61c23283df6e2011...cb624225b80a9f0023e5f5e849b4bf10965f0aa4))</sub> | <sub>[cb624225](https://gitlab.com/snowgem/snowpay-api/-/commit/cb624225b80a9f0023e5f5e849b4bf10965f0aa4): Smoke test checking SinglnalR connection persistence added, appsettings file... - Daniil Lisovskiy</sub> |
 | <sub>2020-11-05 10:06:31</sub> | <sub>demzet pushed to branch [release\_2020\_10\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/af60f77015fac5d65adb1a032089d0f08bbcefef...5a860f8a14889916364efbed8ee6f50c56150e0f))</sub> | <sub>[5a860f8a](https://gitlab.com/snowgem/snowpay-api/-/commit/5a860f8a14889916364efbed8ee6f50c56150e0f): #144 - zec swaps, swap param calculation notional filter fix - Kamil Wojciechowski</sub> |
 | <sub>2020-11-05 09:49:21</sub> | <sub>Txid pushed new tag [0\.1\.2](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.2) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-11-05 06:23:28</sub> | <sub>Daniil Lisovskiy pushed to branch [feature\_\_122\_\_mv\_user\_connections\_to\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9f2f954d4168728dbb9b3e66b6d3382cbd5d722b...d3c04141f7f2c51274d612fd61c23283df6e2011))</sub> | <sub>[d3c04141](https://gitlab.com/snowgem/snowpay-api/-/commit/d3c04141f7f2c51274d612fd61c23283df6e2011): UserConnectionsAzureREpository integration tests added - Daniil Lisovskiy</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
