@@ -25360,5 +25360,15 @@
       "description": "[5a860f8a](https://gitlab.com/snowgem/snowpay-api/-/commit/5a860f8a14889916364efbed8ee6f50c56150e0f): #144 - zec swaps, swap param calculation notional filter fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_122\\_\\_mv\\_user\\_connections\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d3c04141f7f2c51274d612fd61c23283df6e2011...cb624225b80a9f0023e5f5e849b4bf10965f0aa4))",
+    "created_at": "2020-11-05 10:14:12.573000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cb624225](https://gitlab.com/snowgem/snowpay-api/-/commit/cb624225b80a9f0023e5f5e849b4bf10965f0aa4): Smoke test checking SinglnalR connection persistence added, appsettings file... - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
