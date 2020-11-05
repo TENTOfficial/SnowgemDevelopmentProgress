@@ -25350,5 +25350,15 @@
     "author": "GitLab",
     "content": "Txid pushed new tag [0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.2) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-05 09:49:21.389000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_2020\\_10\\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/af60f77015fac5d65adb1a032089d0f08bbcefef...5a860f8a14889916364efbed8ee6f50c56150e0f))",
+    "created_at": "2020-11-05 10:06:31.741000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5a860f8a](https://gitlab.com/snowgem/snowpay-api/-/commit/5a860f8a14889916364efbed8ee6f50c56150e0f): #144 - zec swaps, swap param calculation notional filter fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
