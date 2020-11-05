@@ -25400,5 +25400,15 @@
       "description": "[3383e6f2](https://gitlab.com/snowgem/freyja/-/commit/3383e6f293a06b8a764a54ca3a0790c3fd90a709): formatting - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f6a9977e5a0b672ba268bd32fe160a26ff0d9dee...422a87e9f08ebe06998fd3469b411c3462bbfe41))",
+    "created_at": "2020-11-05 19:55:35.995000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[422a87e9](https://gitlab.com/snowgem/bitfrost/-/commit/422a87e9f08ebe06998fd3469b411c3462bbfe41): some corrections in CZ and RO - ciripel",
+      "type": "rich"
+    }
   }
 ]
