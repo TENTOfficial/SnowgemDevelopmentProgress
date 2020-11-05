@@ -25415,5 +25415,15 @@
     "author": "GitLab",
     "content": "V 010 pushed new branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) to [snowgem / asgard](https://gitlab.com/snowgem/asgard)",
     "created_at": "2020-11-05 20:23:24.739000"
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/8bd085c21d494522233767c2a16094eb5f984ee8...7b51fe09493d22035b6879cba211fd96e0ad1d99))",
+    "created_at": "2020-11-05 20:27:11.224000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7b51fe09](https://gitlab.com/snowgem/asgard/-/commit/7b51fe09493d22035b6879cba211fd96e0ad1d99): initial commit - asg2 demo - V",
+      "type": "rich"
+    }
   }
 ]
