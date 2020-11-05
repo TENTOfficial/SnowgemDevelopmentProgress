@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2559 commits since 20/01/2020. You can see the complete history in
+There is a total of 2560 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-05 20:23:24</sub> | <sub>V 010 pushed new branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) to [snowgem / asgard](https://gitlab.com/snowgem/asgard)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-05 19:55:35</sub> | <sub>ciripel pushed to branch [v0\.1\.2](https://gitlab.com/snowgem/bitfrost/commits/v0.1.2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f6a9977e5a0b672ba268bd32fe160a26ff0d9dee...422a87e9f08ebe06998fd3469b411c3462bbfe41))</sub> | <sub>[422a87e9](https://gitlab.com/snowgem/bitfrost/-/commit/422a87e9f08ebe06998fd3469b411c3462bbfe41): some corrections in CZ and RO - ciripel</sub> |
 | <sub>2020-11-05 19:33:30</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/d9430756cb6619bb3a130441bba3fe14374a1d30...3383e6f293a06b8a764a54ca3a0790c3fd90a709))</sub> | <sub>[3383e6f2](https://gitlab.com/snowgem/freyja/-/commit/3383e6f293a06b8a764a54ca3a0790c3fd90a709): formatting - V</sub> |
 | <sub>2020-11-05 18:59:15</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/b1d576f1e3f94f85bdb84fd311a8de3a7b26465d...d9430756cb6619bb3a130441bba3fe14374a1d30))</sub> | <sub>[d9430756](https://gitlab.com/snowgem/freyja/-/commit/d9430756cb6619bb3a130441bba3fe14374a1d30): calculate status avg + get-asg-node-status - V</sub> |
@@ -17,6 +18,5 @@ There is a total of 2559 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-05 09:49:21</sub> | <sub>Txid pushed new tag [0\.1\.2](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.2) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-05 06:23:28</sub> | <sub>Daniil Lisovskiy pushed to branch [feature\_\_122\_\_mv\_user\_connections\_to\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9f2f954d4168728dbb9b3e66b6d3382cbd5d722b...d3c04141f7f2c51274d612fd61c23283df6e2011))</sub> | <sub>[d3c04141](https://gitlab.com/snowgem/snowpay-api/-/commit/d3c04141f7f2c51274d612fd61c23283df6e2011): UserConnectionsAzureREpository integration tests added - Daniil Lisovskiy</sub> |
 | <sub>2020-11-04 21:18:20</sub> | <sub>demzet pushed to branch [release\_2020\_10\_31](https://gitlab.com/snowgem/snowpay-api/commits/release_2020_10_31) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f7cbdd8c59be2e12e623a11a05966c6671c2cd11...af60f77015fac5d65adb1a032089d0f08bbcefef))</sub> | <sub>[af60f770](https://gitlab.com/snowgem/snowpay-api/-/commit/af60f77015fac5d65adb1a032089d0f08bbcefef): #144 - Added ZEC Swaps - Kamil Wojciechowski</sub> |
-| <sub>2020-11-04 20:49:40</sub> | <sub>demzet pushed new tag [release\_2020\_10\_31\_5](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_10_31_5) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
