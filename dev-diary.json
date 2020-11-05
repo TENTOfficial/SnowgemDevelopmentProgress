@@ -25335,5 +25335,15 @@
       "description": "[af60f770](https://gitlab.com/snowgem/snowpay-api/-/commit/af60f77015fac5d65adb1a032089d0f08bbcefef): #144 - Added ZEC Swaps - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_122\\_\\_mv\\_user\\_connections\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9f2f954d4168728dbb9b3e66b6d3382cbd5d722b...d3c04141f7f2c51274d612fd61c23283df6e2011))",
+    "created_at": "2020-11-05 06:23:28.394000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d3c04141](https://gitlab.com/snowgem/snowpay-api/-/commit/d3c04141f7f2c51274d612fd61c23283df6e2011): UserConnectionsAzureREpository integration tests added - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
