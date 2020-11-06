@@ -25640,5 +25640,25 @@
       "description": "[97845e29](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/97845e29dd856980a5573c84aa4a11e5b32cc5a1): wip - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [automatic\\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/97845e29dd856980a5573c84aa4a11e5b32cc5a1...e4e1be03848c83452b6ff939bdb56bd2cc2310be))",
+    "created_at": "2020-11-06 22:31:03.783000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e4e1be03](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/e4e1be03848c83452b6ff939bdb56bd2cc2310be): wip - Jan Vrastil",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [automatic\\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/e4e1be03848c83452b6ff939bdb56bd2cc2310be...3d96760194a7eac1cd60f480884829992376a11f))",
+    "created_at": "2020-11-06 22:34:28.422000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3d967601](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/3d96760194a7eac1cd60f480884829992376a11f): Update .gitlab-ci.yml - Jan Vra\u0161til",
+      "type": "rich"
+    }
   }
 ]
