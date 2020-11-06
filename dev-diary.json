@@ -25620,5 +25620,15 @@
       "description": "[9dc4bc4f](https://gitlab.com/snowgem/asgard/-/commit/9dc4bc4f1829105f90425578fc3bf31f53bf1c24): updated api config.json - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [automatic\\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/b1c4f6b705bddaf8eeba2acfde586c9173adb0c7...4ceecd9295a0e848e4014759bec54400a0c8830e))",
+    "created_at": "2020-11-06 22:09:44.657000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4ceecd92](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/4ceecd9295a0e848e4014759bec54400a0c8830e): wip - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
