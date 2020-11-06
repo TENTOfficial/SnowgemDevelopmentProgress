@@ -25565,5 +25565,15 @@
       "description": "[23ca6f2b](https://gitlab.com/snowgem/snowpay-api/-/commit/23ca6f2b5932471fd4da8c96dabfb25af88871aa): user connections heartbeat monitoring and cleaning added - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [hotfix/v0\\.1\\.2\\.1](https://gitlab.com/snowgem/bitfrost/commits/hotfix/v0.1.2.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bf79cf8e7f8aede9796f2ff80856d905e2fcc1b4...6c7a56eb654c38610e751b66ded8d32a59d1d7d8))",
+    "created_at": "2020-11-06 18:06:47.396000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6c7a56eb](https://gitlab.com/snowgem/bitfrost/-/commit/6c7a56eb654c38610e751b66ded8d32a59d1d7d8): fix lint 3 - Snowgem",
+      "type": "rich"
+    }
   }
 ]

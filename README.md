@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2580 commits since 20/01/2020. You can see the complete history in
+There is a total of 2581 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-06 18:06:47</sub> | <sub>Txid pushed to branch [hotfix/v0\.1\.2\.1](https://gitlab.com/snowgem/bitfrost/commits/hotfix/v0.1.2.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bf79cf8e7f8aede9796f2ff80856d905e2fcc1b4...6c7a56eb654c38610e751b66ded8d32a59d1d7d8))</sub> | <sub>[6c7a56eb](https://gitlab.com/snowgem/bitfrost/-/commit/6c7a56eb654c38610e751b66ded8d32a59d1d7d8): fix lint 3 - Snowgem</sub> |
 | <sub>2020-11-06 17:47:32</sub> | <sub>Daniil Lisovskiy pushed to branch [feature\_\_122\_\_mv\_user\_connections\_to\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cb624225b80a9f0023e5f5e849b4bf10965f0aa4...23ca6f2b5932471fd4da8c96dabfb25af88871aa))</sub> | <sub>[23ca6f2b](https://gitlab.com/snowgem/snowpay-api/-/commit/23ca6f2b5932471fd4da8c96dabfb25af88871aa): user connections heartbeat monitoring and cleaning added - Daniil Lisovskiy</sub> |
 | <sub>2020-11-06 14:42:21</sub> | <sub>V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/7cc0147bb4d40d91406f05b6b0b07e0e4da5624c...20abf6b276999dcc728e2a3f71021f81d7af3019))</sub> | <sub>[20abf6b2](https://gitlab.com/snowgem/asgard/-/commit/20abf6b276999dcc728e2a3f71021f81d7af3019): fixed api startup path - V</sub> |
 | <sub>2020-11-06 14:41:21</sub> | <sub>V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/7b51fe09493d22035b6879cba211fd96e0ad1d99...7cc0147bb4d40d91406f05b6b0b07e0e4da5624c))</sub> | <sub>[7cc0147b](https://gitlab.com/snowgem/asgard/-/commit/7cc0147bb4d40d91406f05b6b0b07e0e4da5624c): initial commit - asg2 demo - V</sub> |
@@ -17,6 +18,5 @@ There is a total of 2580 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-06 14:07:07</sub> | <sub>Txid pushed new branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-06 14:05:52</sub> | <sub>Txid pushed new branch [hotfix/v0\.1\.2\.1](https://gitlab.com/snowgem/bitfrost/commits/hotfix/v0.1.2.1) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-06 13:37:04</sub> | <sub>demzet pushed new branch [feature\_\_146\_\_topup](https://gitlab.com/snowgem/snowpay-api/commits/feature__146__topup) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-11-06 09:04:24</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a735e632a2c1756e65f6f5ec97d19acab6b12bac...af4d7a82b8ed08e4f102735bdfbff352722e67ef))</sub> | <sub>[af4d7a82](https://gitlab.com/snowgem/snowpay-api/-/commit/af4d7a82b8ed08e4f102735bdfbff352722e67ef): #build fix - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
