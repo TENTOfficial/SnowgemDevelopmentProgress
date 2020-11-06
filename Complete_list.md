@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-06 07:39:05</sub> | <sub>Txid (txid) merged merge request [\!76 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/76) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-11-06 07:38:54</sub> | <sub>Txid (txid) opened merge request [\!76 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/76) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-06 07:04:35</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!3 \*Automatic deployment\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/3) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-06 07:03:42</sub> | <sub>Jan Vraštil pushed new branch [automatic\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) to [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-05 21:17:25</sub> | <sub>demzet pushed new tag [release\_2020\_10\_31\_6](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_10_31_6) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
