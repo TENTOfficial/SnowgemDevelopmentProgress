@@ -25555,5 +25555,15 @@
       "description": "[20abf6b2](https://gitlab.com/snowgem/asgard/-/commit/20abf6b276999dcc728e2a3f71021f81d7af3019): fixed api startup path - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_122\\_\\_mv\\_user\\_connections\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cb624225b80a9f0023e5f5e849b4bf10965f0aa4...23ca6f2b5932471fd4da8c96dabfb25af88871aa))",
+    "created_at": "2020-11-06 17:47:32.929000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[23ca6f2b](https://gitlab.com/snowgem/snowpay-api/-/commit/23ca6f2b5932471fd4da8c96dabfb25af88871aa): user connections heartbeat monitoring and cleaning added - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
