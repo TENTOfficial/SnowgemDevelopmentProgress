@@ -25450,5 +25450,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!76 \\*Testing\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/76) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-06 07:39:05.486000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [automatic\\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/d32ba9dafa9ede445fb9a7b53a2e36575f17c131...bb8c0867e16ef901c77950de8f2d5672ae36208d))",
+    "created_at": "2020-11-06 08:28:41.507000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bb8c0867](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/bb8c0867e16ef901c77950de8f2d5672ae36208d): add known_hosts - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
