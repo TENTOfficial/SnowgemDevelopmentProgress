@@ -25600,5 +25600,25 @@
       "description": "[a2883ed0](https://gitlab.com/snowgem/asgard/-/commit/a2883ed0bcef33b238ef4dc3db29c0a2b1a27c7d): built fe + setup scripts - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/a2883ed0bcef33b238ef4dc3db29c0a2b1a27c7d...f5c4e87f822f46a2164b74cf8821394d0fc75d02))",
+    "created_at": "2020-11-06 22:00:08.065000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f5c4e87f](https://gitlab.com/snowgem/asgard/-/commit/f5c4e87f822f46a2164b74cf8821394d0fc75d02): exposed /public/version & fixed install.prod - V",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/f5c4e87f822f46a2164b74cf8821394d0fc75d02...9dc4bc4f1829105f90425578fc3bf31f53bf1c24))",
+    "created_at": "2020-11-06 22:01:52.553000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9dc4bc4f](https://gitlab.com/snowgem/asgard/-/commit/9dc4bc4f1829105f90425578fc3bf31f53bf1c24): updated api config.json - V",
+      "type": "rich"
+    }
   }
 ]
