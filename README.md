@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2575 commits since 20/01/2020. You can see the complete history in
+There is a total of 2576 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-06 14:13:48</sub> | <sub>Txid pushed to branch [hotfix/v0\.1\.2\.1](https://gitlab.com/snowgem/bitfrost/commits/hotfix/v0.1.2.1) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8683ebda19fea95f408acf2ef2cecd097076e13e...e09e21abbfac0118b70ebdd81f34476be88d36f4))</sub> | <sub>[e09e21ab](https://gitlab.com/snowgem/bitfrost/-/commit/e09e21abbfac0118b70ebdd81f34476be88d36f4): fix lint - Snowgem</sub> |
 | <sub>2020-11-06 14:08:15</sub> | <sub>Txid (txid) opened merge request [\!77 \*show error if exchange failed\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/77) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-06 14:07:07</sub> | <sub>Txid pushed new branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-06 14:05:52</sub> | <sub>Txid pushed new branch [hotfix/v0\.1\.2\.1](https://gitlab.com/snowgem/bitfrost/commits/hotfix/v0.1.2.1) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2575 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-06 08:51:24</sub> | <sub>demzet (aphex5) merged merge request [\!39 \*Release 2020 10 31\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/39) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-06 08:31:05</sub> | <sub>Jan Vraštil pushed to branch [automatic\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) of [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/bb8c0867e16ef901c77950de8f2d5672ae36208d...b1c4f6b705bddaf8eeba2acfde586c9173adb0c7))</sub> | <sub>[b1c4f6b7](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/b1c4f6b705bddaf8eeba2acfde586c9173adb0c7): wip - Jan Vrastil</sub> |
 | <sub>2020-11-06 08:28:41</sub> | <sub>Jan Vraštil pushed to branch [automatic\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) of [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/d32ba9dafa9ede445fb9a7b53a2e36575f17c131...bb8c0867e16ef901c77950de8f2d5672ae36208d))</sub> | <sub>[bb8c0867](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/bb8c0867e16ef901c77950de8f2d5672ae36208d): add known_hosts - Jan Vrastil</sub> |
-| <sub>2020-11-06 07:39:05</sub> | <sub>Txid (txid) merged merge request [\!76 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/76) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
