@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2571 commits since 20/01/2020. You can see the complete history in
+There is a total of 2572 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-06 13:37:04</sub> | <sub>demzet pushed new branch [feature\_\_146\_\_topup](https://gitlab.com/snowgem/snowpay-api/commits/feature__146__topup) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-06 09:04:24</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a735e632a2c1756e65f6f5ec97d19acab6b12bac...af4d7a82b8ed08e4f102735bdfbff352722e67ef))</sub> | <sub>[af4d7a82](https://gitlab.com/snowgem/snowpay-api/-/commit/af4d7a82b8ed08e4f102735bdfbff352722e67ef): #build fix - Kamil Wojciechowski</sub> |
 | <sub>2020-11-06 08:51:24</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/eb2e3dff1ae0e130fdb15af4eb34e83c7ba2015c...a735e632a2c1756e65f6f5ec97d19acab6b12bac))</sub> | <sub>[4d0ddb6e](https://gitlab.com/snowgem/snowpay-api/-/commit/4d0ddb6eeb665cb7f2180efe86952b19f722b923): #143 fix withdrawal rounding - Kamil Wojciechowski<br>[f7cbdd8c](https://gitlab.com/snowgem/snowpay-api/-/commit/f7cbdd8c59be2e12e623a11a05966c6671c2cd11): #143 fix withdrawal rounding - Kamil Wojciechowski<br>[af60f770](https://gitlab.com/snowgem/snowpay-api/-/commit/af60f77015fac5d65adb1a032089d0f08bbcefef): #144 - Added ZEC Swaps - Kamil Wojciechowski<br>[5a860f8a](https://gitlab.com/snowgem/snowpay-api/-/commit/5a860f8a14889916364efbed8ee6f50c56150e0f): #144 - zec swaps, swap param calculation notional filter fix - Kamil Wojciechowski<br>[41a8f24c](https://gitlab.com/snowgem/snowpay-api/-/commit/41a8f24cf78d3c9230c076fb96265397f501eff1): #144 - added zec block explorer, unified trezor based block explorers - Kamil Wojciechowski<br>[a735e632](https://gitlab.com/snowgem/snowpay-api/-/commit/a735e632a2c1756e65f6f5ec97d19acab6b12bac): Merge branch 'release_2020_10_31' into 'master' - demzet</sub> |
 | <sub>2020-11-06 08:51:24</sub> | <sub>demzet (aphex5) merged merge request [\!39 \*Release 2020 10 31\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/39) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2571 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-06 07:38:54</sub> | <sub>Txid (txid) opened merge request [\!76 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/76) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-06 07:04:35</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!3 \*Automatic deployment\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/3) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-06 07:03:42</sub> | <sub>Jan Vraštil pushed new branch [automatic\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) to [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-11-05 21:17:25</sub> | <sub>demzet pushed new tag [release\_2020\_10\_31\_6](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_10_31_6) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
