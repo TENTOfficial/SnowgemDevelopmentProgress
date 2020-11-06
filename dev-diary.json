@@ -25590,5 +25590,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!77 \\*show error if exchange failed\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/77) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-06 18:13:11.478000"
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/20abf6b276999dcc728e2a3f71021f81d7af3019...a2883ed0bcef33b238ef4dc3db29c0a2b1a27c7d))",
+    "created_at": "2020-11-06 20:09:02.167000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a2883ed0](https://gitlab.com/snowgem/asgard/-/commit/a2883ed0bcef33b238ef4dc3db29c0a2b1a27c7d): built fe + setup scripts - V",
+      "type": "rich"
+    }
   }
 ]
