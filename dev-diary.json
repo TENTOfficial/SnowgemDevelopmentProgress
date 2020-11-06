@@ -25535,5 +25535,25 @@
       "description": "[bf79cf8e](https://gitlab.com/snowgem/bitfrost/-/commit/bf79cf8e7f8aede9796f2ff80856d905e2fcc1b4): fix lint 2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/7b51fe09493d22035b6879cba211fd96e0ad1d99...7cc0147bb4d40d91406f05b6b0b07e0e4da5624c))",
+    "created_at": "2020-11-06 14:41:21.304000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7cc0147b](https://gitlab.com/snowgem/asgard/-/commit/7cc0147bb4d40d91406f05b6b0b07e0e4da5624c): initial commit - asg2 demo - V",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/7cc0147bb4d40d91406f05b6b0b07e0e4da5624c...20abf6b276999dcc728e2a3f71021f81d7af3019))",
+    "created_at": "2020-11-06 14:42:21.486000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[20abf6b2](https://gitlab.com/snowgem/asgard/-/commit/20abf6b276999dcc728e2a3f71021f81d7af3019): fixed api startup path - V",
+      "type": "rich"
+    }
   }
 ]
