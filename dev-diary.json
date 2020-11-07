@@ -25970,5 +25970,15 @@
       "description": "[dafef31c](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/dafef31cd92fdb8115ac87e2849ab63348dd9548): fix build - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [automatic\\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/dafef31cd92fdb8115ac87e2849ab63348dd9548...ee69ffc896bbf18b4ca36d25d9fcae4c61661ff3))",
+    "created_at": "2020-11-07 21:10:09.130000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ee69ffc8](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/ee69ffc896bbf18b4ca36d25d9fcae4c61661ff3): fix build - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
