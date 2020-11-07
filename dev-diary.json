@@ -25790,5 +25790,15 @@
       "description": "[c800fda9](https://gitlab.com/snowgem/snowpay-api/-/commit/c800fda9933cfb962b0864ff589177b118e28a9b): UserDataRepository refactoring - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_122\\_\\_mv\\_user\\_connections\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c800fda9933cfb962b0864ff589177b118e28a9b...165344a954cd89e8fbe2beefc6e0c307fa75011f))",
+    "created_at": "2020-11-07 11:10:37.572000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[165344a9](https://gitlab.com/snowgem/snowpay-api/-/commit/165344a954cd89e8fbe2beefc6e0c307fa75011f): solution fix - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
