@@ -25690,5 +25690,15 @@
       "description": "[f9854961](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/f98549611b1e96b9e81b35be64746b3f674ea6f2): Update .gitlab-ci.yml - Jan Vra\u0161til",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [automatic\\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/f98549611b1e96b9e81b35be64746b3f674ea6f2...b3a671f87ec5cff48b77c218a8a76c994d93e7a5))",
+    "created_at": "2020-11-07 07:26:31.217000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b3a671f8](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/b3a671f87ec5cff48b77c218a8a76c994d93e7a5): Update .gitlab-ci.yml - Jan Vra\u0161til",
+      "type": "rich"
+    }
   }
 ]
