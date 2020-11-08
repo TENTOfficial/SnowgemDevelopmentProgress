@@ -26100,5 +26100,25 @@
       "description": "[7d3cd0b7](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/7d3cd0b71d1436d6b8c883a844d722eb9f64047a): Automatic build upload - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_122\\_\\_mv\\_user\\_connections\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/165344a954cd89e8fbe2beefc6e0c307fa75011f...7a25737e737c5bae7fc36b5cae47b8c0f3490319))",
+    "created_at": "2020-11-08 11:03:02.233000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7a25737e](https://gitlab.com/snowgem/snowpay-api/-/commit/7a25737e737c5bae7fc36b5cae47b8c0f3490319): User connections monitoring unit tests added - Daniil Lisovskiy",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_122\\_\\_mv\\_user\\_connections\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7a25737e737c5bae7fc36b5cae47b8c0f3490319...2a06973edfb9e908c4e55da02f3c9f39ea1b398b))",
+    "created_at": "2020-11-08 11:04:59.204000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2a06973e](https://gitlab.com/snowgem/snowpay-api/-/commit/2a06973edfb9e908c4e55da02f3c9f39ea1b398b): test attributes added - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
