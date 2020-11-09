@@ -26270,5 +26270,15 @@
       "description": "[2469169e](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/2469169efdbf887ef1d944bb41f6293d1c6a114e): production test - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [automatic\\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/2469169efdbf887ef1d944bb41f6293d1c6a114e...7ab69aa4dec16afda0565d309b97c095c4a8126c))",
+    "created_at": "2020-11-09 22:21:13.997000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7ab69aa4](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/7ab69aa4dec16afda0565d309b97c095c4a8126c): production test - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
