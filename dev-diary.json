@@ -26150,5 +26150,15 @@
       "description": "[bfd60075](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/bfd6007503588983cb7e57c4f08af62327300577): update artifact name - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [automatic\\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/bfd6007503588983cb7e57c4f08af62327300577...cad1bbc369467c1ecd669f0bdcd237f6fc66e6a1))",
+    "created_at": "2020-11-09 07:57:50.593000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9d692df2](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/9d692df2e3cfd7dc4d9abc4beec032a6aa08e236): update artifact name - Jan Vrastil\n\n[cad1bbc3](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/cad1bbc369467c1ecd669f0bdcd237f6fc66e6a1): update artifact name - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
