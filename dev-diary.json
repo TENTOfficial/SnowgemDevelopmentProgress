@@ -26320,5 +26320,35 @@
       "description": "[cf60c7d2](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/cf60c7d27216301891d1fb27b267251bdcf3cec8): Automatic build upload - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [automatic\\_deployment](https://gitlab.com/snowgem/activation-tent-microsite/commits/automatic_deployment) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/cf60c7d27216301891d1fb27b267251bdcf3cec8...0a84ced574af119b658b89a588c1d9af862b11eb))",
+    "created_at": "2020-11-09 22:45:41.500000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0a84ced5](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/0a84ced574af119b658b89a588c1d9af862b11eb): production test - Jan Vrastil",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [master](https://gitlab.com/snowgem/activation-tent-microsite/commits/master) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/1a60abc52d394677097be8a2bb90ca2078aaebfd...3c2a3b6d62bbe9ea7d4a73ccd582fedfe276d313))",
+    "created_at": "2020-11-09 22:49:58.493000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7abd9411](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/7abd941169164d6bd2dc78bd3a646e1f0fb265e5): Implement automatic deployment of both dev and production builds - Jan Vra\u0161til\n\n[3c2a3b6d](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/3c2a3b6d62bbe9ea7d4a73ccd582fedfe276d313): Merge branch 'automatic_deployment' into 'master' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!3 \\*Automatic deployment\\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/3) in [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
+    "created_at": "2020-11-09 22:49:58.971000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch automatic_deployment from [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
+    "created_at": "2020-11-09 22:49:59.204000"
   }
 ]
