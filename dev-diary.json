@@ -26350,5 +26350,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch automatic_deployment from [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
     "created_at": "2020-11-09 22:49:59.204000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_122\\_\\_mv\\_user\\_connections\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2a06973edfb9e908c4e55da02f3c9f39ea1b398b...a6b1ab7639ee98eaab769cf00b3bc6dbb1fb618c))",
+    "created_at": "2020-11-10 13:47:07.636000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[46444f23](https://gitlab.com/snowgem/snowpay-api/-/commit/46444f23490a2a99a1640d91f6e990f20de7d07c): user connections cleaner parametrization from config - Daniil Lisovskiy\n\n[a6b1ab76](https://gitlab.com/snowgem/snowpay-api/-/commit/a6b1ab7639ee98eaab769cf00b3bc6dbb1fb618c): user connections integration tests and rollout instructions added - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
