@@ -26375,5 +26375,15 @@
     "author": "GitLab",
     "content": "Daniil Lisovskiy (d.lisovskiy) opened merge request [\\!40 \\*Migration user connections to azure\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/40) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-11 08:14:41.872000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_146\\_\\_topup](https://gitlab.com/snowgem/snowpay-api/commits/feature__146__topup) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2a49e050b267b3cf251eac1812bf10345f841769...c281cdcf228f770c3e1d2a89f475d6bd5f7e869a))",
+    "created_at": "2020-11-11 09:12:01.394000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c281cdcf](https://gitlab.com/snowgem/snowpay-api/-/commit/c281cdcf228f770c3e1d2a89f475d6bd5f7e869a): #146 - added webhook for payment processing - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
