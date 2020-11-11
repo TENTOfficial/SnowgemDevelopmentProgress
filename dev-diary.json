@@ -26385,5 +26385,15 @@
       "description": "[c281cdcf](https://gitlab.com/snowgem/snowpay-api/-/commit/c281cdcf228f770c3e1d2a89f475d6bd5f7e869a): #146 - added webhook for payment processing - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_146\\_\\_topup](https://gitlab.com/snowgem/snowpay-api/commits/feature__146__topup) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c281cdcf228f770c3e1d2a89f475d6bd5f7e869a...a3894ca192134c8352053371dcb975e6f519fe8c))",
+    "created_at": "2020-11-11 14:34:24.006000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a3894ca1](https://gitlab.com/snowgem/snowpay-api/-/commit/a3894ca192134c8352053371dcb975e6f519fe8c): #146 - added webhook for payment processing - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
