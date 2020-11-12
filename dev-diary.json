@@ -26485,5 +26485,15 @@
       "description": "[d04d27a4](https://gitlab.com/snowgem/snowpay-api/-/commit/d04d27a49610c56e6c90420eac7b4a496d4b9322): #added some impl notes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [185\\_bug\\_fix\\_coin\\_sorting](https://gitlab.com/snowgem/bitfrost/commits/185_bug_fix_coin_sorting) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-12 21:52:55.112000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [!78 *[Fix 185] Add sorting by name on no-wallets page*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/78) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-12 21:53:22.863000"
   }
 ]
