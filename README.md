@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2675 commits since 20/01/2020. You can see the complete history in
+There is a total of 2676 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-12 17:17:21</sub> | <sub>Filip Storkan pushed new branch [feature/identity\-verification\-with\-pin](https://gitlab.com/snowgem/bitfrost/commits/feature/identity-verification-with-pin) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-11 20:45:14</sub> | <sub>demzet (aphex5) merged merge request [\!40 \*Migration user connections to azure\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/40) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-11 20:29:17</sub> | <sub>demzet pushed to branch [feature\_\_122\_\_mv\_user\_connections\_to\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__122__mv_user_connections_to_azure) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a71bddaf97a782767e959aaba0526f4d275fed6b...7f5c7f902119fc3cfcbd2f6d534401c677c254b7))</sub> | <sub>[7f5c7f90](https://gitlab.com/snowgem/snowpay-api/-/commit/7f5c7f902119fc3cfcbd2f6d534401c677c254b7): #merge fix - Kamil Wojciechowski</sub> |
 | <sub>2020-11-11 20:14:32</sub> | <sub>demzet (aphex5) approved merge request [\!40 \*Migration user connections to azure\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/40) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2675 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-11 20:04:16</sub> | <sub>demzet (aphex5) merged merge request [\!41 \*Feature  146  topup\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/41) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-11 20:04:07</sub> | <sub>demzet (aphex5) approved merge request [\!41 \*Feature  146  topup\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/41) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-11 20:03:53</sub> | <sub>demzet (aphex5) opened merge request [\!41 \*Feature  146  topup\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/41) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-11-11 19:49:49</sub> | <sub>demzet pushed to branch [feature\_\_146\_\_topup](https://gitlab.com/snowgem/snowpay-api/commits/feature__146__topup) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a3894ca192134c8352053371dcb975e6f519fe8c...4671617d6b372b698e1d84a134f17a72e845fe93))</sub> | <sub>[4671617d](https://gitlab.com/snowgem/snowpay-api/-/commit/4671617d6b372b698e1d84a134f17a72e845fe93): #146 - docker images on diet - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
