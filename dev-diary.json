@@ -26510,5 +26510,25 @@
       "description": "[9b53b5b1](https://gitlab.com/snowgem/snowpay-api/-/commit/9b53b5b16d95a65bce133dbc9a4eaef47d81ff14): #148 - cleanup - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_148\\_\\_coldwallet\\_confirmation](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__coldwallet_confirmation) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9b53b5b16d95a65bce133dbc9a4eaef47d81ff14...15237644e75d0d3198a518c2b1d513d158a81e28))",
+    "created_at": "2020-11-13 09:18:54.485000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[15237644](https://gitlab.com/snowgem/snowpay-api/-/commit/15237644e75d0d3198a518c2b1d513d158a81e28): #148 - updated topup saga - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_148\\_\\_coldwallet\\_confirmation](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__coldwallet_confirmation) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/15237644e75d0d3198a518c2b1d513d158a81e28...e32a3d1bb7bce177ad606f7946c44a5ddc8b115b))",
+    "created_at": "2020-11-13 09:19:57.148000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e32a3d1b](https://gitlab.com/snowgem/snowpay-api/-/commit/e32a3d1bb7bce177ad606f7946c44a5ddc8b115b): #148 - updated topup saga - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
