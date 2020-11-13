@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2688 commits since 20/01/2020. You can see the complete history in
+There is a total of 2689 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-13 20:12:44</sub> | <sub>demzet pushed to branch [feature\_\_148\_\_coldwallet\_confirmation](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__coldwallet_confirmation) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9324cdbd4d7fc55e1a827eaa87feefcbe7335776...6c4719a8cc069b0fa66b59ac57159bde3367e6ae))</sub> | <sub>[6c4719a8](https://gitlab.com/snowgem/snowpay-api/-/commit/6c4719a8cc069b0fa66b59ac57159bde3367e6ae): #updated roll-out plan - Kamil Wojciechowski</sub> |
 | <sub>2020-11-13 13:06:19</sub> | <sub>demzet pushed to branch [feature\_\_148\_\_coldwallet\_confirmation](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__coldwallet_confirmation) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/141fe0067a86aab9ff1c1d59ccd89e53f226499f...9324cdbd4d7fc55e1a827eaa87feefcbe7335776))</sub> | <sub>[9324cdbd](https://gitlab.com/snowgem/snowpay-api/-/commit/9324cdbd4d7fc55e1a827eaa87feefcbe7335776): #148 -  added missing migration - Kamil Wojciechowski</sub> |
 | <sub>2020-11-13 12:38:31</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/Snowgem/Snowgem/compare/85799d7b4aee...cb0284e95b46)</sub> |
 | <sub>2020-11-13 12:33:25</sub> | <sub>[[Snowgem:feature/wakanda] 2 new commits](https://github.com/Snowgem/Snowgem/compare/8533da0f1151^...85799d7b4aee)</sub> | <sub>[8533da0](https://github.com/Snowgem/Snowgem/commit/8533da0f115195fe4548f860f0ae313f623d828b) limit minimum block time - pttinh<br>[85799d7](https://github.com/Snowgem/Snowgem/commit/85799d7b4aeeec950b1c8cc9dcb7010d4a8454fa) clean code - pttinh</sub> |
@@ -17,6 +18,5 @@ There is a total of 2688 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-13 08:36:48</sub> | <sub>demzet pushed to branch [feature\_\_148\_\_coldwallet\_confirmation](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__coldwallet_confirmation) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/aa839c75a54aa7a7c9b2a32c785611f80b5a98d1...9b53b5b16d95a65bce133dbc9a4eaef47d81ff14))</sub> | <sub>[9b53b5b1](https://gitlab.com/snowgem/snowpay-api/-/commit/9b53b5b16d95a65bce133dbc9a4eaef47d81ff14): #148 - cleanup - Kamil Wojciechowski</sub> |
 | <sub>2020-11-12 22:03:06</sub> | <sub>demzet pushed new branch [feature\_\_148\_\_coldwallet\_confirmation](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__coldwallet_confirmation) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-12 21:53:22</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [!78 *[Fix 185] Add sorting by name on no-wallets page*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/78) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-11-12 21:52:55</sub> | <sub>Jan Vraštil pushed new branch [185\_bug\_fix\_coin\_sorting](https://gitlab.com/snowgem/bitfrost/commits/185_bug_fix_coin_sorting) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
