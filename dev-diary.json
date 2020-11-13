@@ -26615,5 +26615,35 @@
       "description": "[7e955074](https://gitlab.com/snowgem/snowpay-api/-/commit/7e95507443623c8f589b7b1537697094a6f9850c): #ci - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!42 \\*Feature  148  coldwallet confirmation\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/42) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-13 21:50:47.999000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!42 \\*Feature  148  coldwallet confirmation\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/42) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-13 21:50:53.603000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!42 \\*Feature  148  coldwallet confirmation\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/42) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-13 21:51:03.985000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature__148__coldwallet_confirmation from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-13 21:51:04.179000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0b7f578d52d8ef0144cf62450e6444d6478b7274...e15578a49a9f094a4039eac81fccd7a39eaec101))",
+    "created_at": "2020-11-13 21:51:04.367000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[736781f6](https://gitlab.com/snowgem/snowpay-api/-/commit/736781f6467cb4cecbad7e8c397e7c8b886ac721): Feature  148  coldwallet confirmation - demzet\n\n[e15578a4](https://gitlab.com/snowgem/snowpay-api/-/commit/e15578a49a9f094a4039eac81fccd7a39eaec101): Merge branch 'feature__148__coldwallet_confirmation' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
