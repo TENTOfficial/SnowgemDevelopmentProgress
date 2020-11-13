@@ -26500,5 +26500,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature\\_\\_148\\_\\_coldwallet\\_confirmation](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__coldwallet_confirmation) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-12 22:03:06.607000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_148\\_\\_coldwallet\\_confirmation](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__coldwallet_confirmation) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/aa839c75a54aa7a7c9b2a32c785611f80b5a98d1...9b53b5b16d95a65bce133dbc9a4eaef47d81ff14))",
+    "created_at": "2020-11-13 08:36:48.920000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9b53b5b1](https://gitlab.com/snowgem/snowpay-api/-/commit/9b53b5b16d95a65bce133dbc9a4eaef47d81ff14): #148 - cleanup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]

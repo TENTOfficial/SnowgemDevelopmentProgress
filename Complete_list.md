@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-13 08:36:48</sub> | <sub>demzet pushed to branch [feature\_\_148\_\_coldwallet\_confirmation](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__coldwallet_confirmation) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/aa839c75a54aa7a7c9b2a32c785611f80b5a98d1...9b53b5b16d95a65bce133dbc9a4eaef47d81ff14))</sub> | <sub>[9b53b5b1](https://gitlab.com/snowgem/snowpay-api/-/commit/9b53b5b16d95a65bce133dbc9a4eaef47d81ff14): #148 - cleanup - Kamil Wojciechowski</sub> |
 | <sub>2020-11-12 22:03:06</sub> | <sub>demzet pushed new branch [feature\_\_148\_\_coldwallet\_confirmation](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__coldwallet_confirmation) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-12 21:53:22</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [!78 *[Fix 185] Add sorting by name on no-wallets page*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/78) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-12 21:52:55</sub> | <sub>Jan Vraštil pushed new branch [185\_bug\_fix\_coin\_sorting](https://gitlab.com/snowgem/bitfrost/commits/185_bug_fix_coin_sorting) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
