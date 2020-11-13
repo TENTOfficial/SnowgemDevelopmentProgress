@@ -26575,5 +26575,15 @@
       "title": "[Snowgem] Branch feature/wakanda was force-pushed to `cb0284e`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_148\\_\\_coldwallet\\_confirmation](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__coldwallet_confirmation) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/141fe0067a86aab9ff1c1d59ccd89e53f226499f...9324cdbd4d7fc55e1a827eaa87feefcbe7335776))",
+    "created_at": "2020-11-13 13:06:19.276000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9324cdbd](https://gitlab.com/snowgem/snowpay-api/-/commit/9324cdbd4d7fc55e1a827eaa87feefcbe7335776): #148 -  added missing migration - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
