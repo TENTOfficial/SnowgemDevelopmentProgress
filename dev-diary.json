@@ -26745,5 +26745,15 @@
       "description": "[4e238dd2](https://gitlab.com/snowgem/snowpay-api/-/commit/4e238dd2e26bf381f591d49a1857a31962b306f6): swap reports repository implementation, refactoring, concurrency improvements - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [Create\\_sum\\_sub\\_wrapper](https://gitlab.com/snowgem/bitfrost/commits/Create_sum_sub_wrapper) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-14 19:31:51.368000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!79 \\*WIP: Create sum sub wrapper\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/79) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-14 19:32:49.714000"
   }
 ]
