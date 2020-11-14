@@ -26680,5 +26680,25 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature\\_\\_155\\_\\_currencynetwork\\_wallets](https://gitlab.com/snowgem/snowpay-api/commits/feature__155__currencynetwork_wallets) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-14 10:35:28.649000"
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/31f927ad5838e1f9683b73ff7e6a2f8148918003...ddac686fd2362677482aa504a9a00b1b61cef2a8))",
+    "created_at": "2020-11-14 10:42:30.462000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2c29e9bc](https://gitlab.com/snowgem/asgard/-/commit/2c29e9bc6e0f5383238d8ba22689720882bee5dc): missing coma init.sql - V\n\n[ddac686f](https://gitlab.com/snowgem/asgard/-/commit/ddac686fd2362677482aa504a9a00b1b61cef2a8): auto refresh accounts during acc management - V",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/ddac686fd2362677482aa504a9a00b1b61cef2a8...1985dac85c6695da805558abe697e32a73d7f12c))",
+    "created_at": "2020-11-14 10:44:48.409000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1985dac8](https://gitlab.com/snowgem/asgard/-/commit/1985dac85c6695da805558abe697e32a73d7f12c): auto refresh accounts during acc management - V",
+      "type": "rich"
+    }
   }
 ]

@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2701 commits since 20/01/2020. You can see the complete history in
+There is a total of 2703 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-14 10:44:48</sub> | <sub>V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/ddac686fd2362677482aa504a9a00b1b61cef2a8...1985dac85c6695da805558abe697e32a73d7f12c))</sub> | <sub>[1985dac8](https://gitlab.com/snowgem/asgard/-/commit/1985dac85c6695da805558abe697e32a73d7f12c): auto refresh accounts during acc management - V</sub> |
+| <sub>2020-11-14 10:42:30</sub> | <sub>V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/31f927ad5838e1f9683b73ff7e6a2f8148918003...ddac686fd2362677482aa504a9a00b1b61cef2a8))</sub> | <sub>[2c29e9bc](https://gitlab.com/snowgem/asgard/-/commit/2c29e9bc6e0f5383238d8ba22689720882bee5dc): missing coma init.sql - V<br>[ddac686f](https://gitlab.com/snowgem/asgard/-/commit/ddac686fd2362677482aa504a9a00b1b61cef2a8): auto refresh accounts during acc management - V</sub> |
 | <sub>2020-11-14 10:35:28</sub> | <sub>demzet pushed new branch [feature\_\_155\_\_currencynetwork\_wallets](https://gitlab.com/snowgem/snowpay-api/commits/feature__155__currencynetwork_wallets) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-14 08:30:58</sub> | <sub>Jan Vraštil removed branch 185_bug_fix_coin_sorting from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-14 08:30:57</sub> | <sub>Txid (txid) merged merge request [!78 *[Fix 185] Add sorting by name on no-wallets page*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/78) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -16,7 +18,5 @@ There is a total of 2701 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-13 21:51:04</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0b7f578d52d8ef0144cf62450e6444d6478b7274...e15578a49a9f094a4039eac81fccd7a39eaec101))</sub> | <sub>[736781f6](https://gitlab.com/snowgem/snowpay-api/-/commit/736781f6467cb4cecbad7e8c397e7c8b886ac721): Feature  148  coldwallet confirmation - demzet<br>[e15578a4](https://gitlab.com/snowgem/snowpay-api/-/commit/e15578a49a9f094a4039eac81fccd7a39eaec101): Merge branch 'feature__148__coldwallet_confirmation' into 'master' - demzet</sub> |
 | <sub>2020-11-13 21:51:04</sub> | <sub>demzet removed branch feature__148__coldwallet_confirmation from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-13 21:51:03</sub> | <sub>demzet (aphex5) merged merge request [\!42 \*Feature  148  coldwallet confirmation\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/42) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-11-13 21:50:53</sub> | <sub>demzet (aphex5) approved merge request [\!42 \*Feature  148  coldwallet confirmation\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/42) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-11-13 21:50:47</sub> | <sub>demzet (aphex5) opened merge request [\!42 \*Feature  148  coldwallet confirmation\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/42) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
