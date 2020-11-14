@@ -26645,5 +26645,15 @@
       "description": "[736781f6](https://gitlab.com/snowgem/snowpay-api/-/commit/736781f6467cb4cecbad7e8c397e7c8b886ac721): Feature  148  coldwallet confirmation - demzet\n\n[e15578a4](https://gitlab.com/snowgem/snowpay-api/-/commit/e15578a49a9f094a4039eac81fccd7a39eaec101): Merge branch 'feature__148__coldwallet_confirmation' into 'master' - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [185\\_bug\\_fix\\_coin\\_sorting](https://gitlab.com/snowgem/bitfrost/commits/185_bug_fix_coin_sorting) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4a4cbf87c294e08b906b8abd17c30db774fce16d...77f011e2e9899c525f59ef35e403a27b9b32b39d))",
+    "created_at": "2020-11-14 08:06:27.543000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[77f011e2](https://gitlab.com/snowgem/bitfrost/-/commit/77f011e2e9899c525f59ef35e403a27b9b32b39d): Update package-lock.json - Jan Vra\u0161til",
+      "type": "rich"
+    }
   }
 ]
