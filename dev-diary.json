@@ -26715,5 +26715,25 @@
     "author": "GitLab",
     "content": "demzet (aphex5) opened merge request [\\!43 \\*\\#155 \\- added currency network to wallet endpoint\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/43) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-14 10:53:28.497000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!43 \\*\\#155 \\- added currency network to wallet endpoint\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/43) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-14 10:55:07.751000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature__155__currencynetwork_wallets from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-14 10:55:07.998000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e15578a49a9f094a4039eac81fccd7a39eaec101...ac48c29333a7a9c39cdc14b76713eea1e3dd5359))",
+    "created_at": "2020-11-14 10:55:08.117000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[61e3d335](https://gitlab.com/snowgem/snowpay-api/-/commit/61e3d335ee2aadec9a8b7378a38432c5b35566b3): #155 - added currency network to wallet endpoint - Kamil Wojciechowski\n\n[ac48c293](https://gitlab.com/snowgem/snowpay-api/-/commit/ac48c29333a7a9c39cdc14b76713eea1e3dd5359): Merge branch 'feature__155__currencynetwork_wallets' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
