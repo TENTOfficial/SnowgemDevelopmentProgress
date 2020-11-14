@@ -26760,5 +26760,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature\\_\\_148\\_\\_busd](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__busd) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-14 22:00:05.566000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/identity\\-verification\\-with\\-pin](https://gitlab.com/snowgem/bitfrost/commits/feature/identity-verification-with-pin) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/05ec953de0dc53b3dc39b13619b0220abe8e092e...11b372f55e19f1756832cf86b00339d2c2d90c77))",
+    "created_at": "2020-11-14 22:44:17.289000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[abd84278](https://gitlab.com/snowgem/bitfrost/-/commit/abd84278ca0dad5e025a44405ab19d92b09e9f7a): sqlite update - Filip Storkan\n\n[61b591ea](https://gitlab.com/snowgem/bitfrost/-/commit/61b591ea8acf649d0a95a260ef563937a28a2571): lint fix - Filip Storkan\n\n[11b372f5](https://gitlab.com/snowgem/bitfrost/-/commit/11b372f55e19f1756832cf86b00339d2c2d90c77): lint - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
