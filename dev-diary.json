@@ -26700,5 +26700,15 @@
       "description": "[1985dac8](https://gitlab.com/snowgem/asgard/-/commit/1985dac85c6695da805558abe697e32a73d7f12c): auto refresh accounts during acc management - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/1985dac85c6695da805558abe697e32a73d7f12c...74acb986291b99734160b98c6cd6f77862fa6433))",
+    "created_at": "2020-11-14 10:45:54.100000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[74acb986](https://gitlab.com/snowgem/asgard/-/commit/74acb986291b99734160b98c6cd6f77862fa6433): auto refresh accounts during acc management - V",
+      "type": "rich"
+    }
   }
 ]
