@@ -26710,5 +26710,10 @@
       "description": "[74acb986](https://gitlab.com/snowgem/asgard/-/commit/74acb986291b99734160b98c6cd6f77862fa6433): auto refresh accounts during acc management - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!43 \\*\\#155 \\- added currency network to wallet endpoint\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/43) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-14 10:53:28.497000"
   }
 ]
