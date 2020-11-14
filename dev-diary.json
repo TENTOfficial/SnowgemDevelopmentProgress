@@ -26675,5 +26675,10 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch 185_bug_fix_coin_sorting from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-14 08:30:58.793000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [feature\\_\\_155\\_\\_currencynetwork\\_wallets](https://gitlab.com/snowgem/snowpay-api/commits/feature__155__currencynetwork_wallets) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-14 10:35:28.649000"
   }
 ]
