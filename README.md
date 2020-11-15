@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2713 commits since 20/01/2020. You can see the complete history in
+There is a total of 2714 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-15 12:41:16</sub> | <sub>demzet pushed to branch [feature\_\_148\_\_busd](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__busd) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/dc180cfd1a65429699fe694852cc70aef5e5744c...e6fdaca847f252fc485098f19945a767415f2820))</sub> | <sub>[e6fdaca8](https://gitlab.com/snowgem/snowpay-api/-/commit/e6fdaca847f252fc485098f19945a767415f2820): #148 block explorer refactoring - Kamil Wojciechowski</sub> |
 | <sub>2020-11-14 22:44:17</sub> | <sub>Filip Storkan pushed to branch [feature/identity\-verification\-with\-pin](https://gitlab.com/snowgem/bitfrost/commits/feature/identity-verification-with-pin) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/05ec953de0dc53b3dc39b13619b0220abe8e092e...11b372f55e19f1756832cf86b00339d2c2d90c77))</sub> | <sub>[abd84278](https://gitlab.com/snowgem/bitfrost/-/commit/abd84278ca0dad5e025a44405ab19d92b09e9f7a): sqlite update - Filip Storkan<br>[61b591ea](https://gitlab.com/snowgem/bitfrost/-/commit/61b591ea8acf649d0a95a260ef563937a28a2571): lint fix - Filip Storkan<br>[11b372f5](https://gitlab.com/snowgem/bitfrost/-/commit/11b372f55e19f1756832cf86b00339d2c2d90c77): lint - Filip Storkan</sub> |
 | <sub>2020-11-14 22:00:05</sub> | <sub>demzet pushed new branch [feature\_\_148\_\_busd](https://gitlab.com/snowgem/snowpay-api/commits/feature__148__busd) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-14 19:32:49</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!79 \*WIP: Create sum sub wrapper\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/79) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2713 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-14 10:55:07</sub> | <sub>demzet removed branch feature__155__currencynetwork_wallets from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-14 10:55:07</sub> | <sub>demzet (aphex5) merged merge request [\!43 \*\#155 \- added currency network to wallet endpoint\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/43) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-14 10:53:28</sub> | <sub>demzet (aphex5) opened merge request [\!43 \*\#155 \- added currency network to wallet endpoint\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/43) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-11-14 10:45:54</sub> | <sub>V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/1985dac85c6695da805558abe697e32a73d7f12c...74acb986291b99734160b98c6cd6f77862fa6433))</sub> | <sub>[74acb986](https://gitlab.com/snowgem/asgard/-/commit/74acb986291b99734160b98c6cd6f77862fa6433): auto refresh accounts during acc management - V</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
