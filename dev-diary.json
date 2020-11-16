@@ -26815,5 +26815,30 @@
       "description": "[f9dd5405](https://gitlab.com/snowgem/bitfrost/-/commit/f9dd54052445b37fec860ac5442dd77dc15cf767): wip - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!44 \\*Feature  148  busd\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/44) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-16 18:23:30.655000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!44 \\*Feature  148  busd\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/44) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-16 18:23:40.538000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ac48c29333a7a9c39cdc14b76713eea1e3dd5359...6d682d66b2d05638ed30b5c33168f9bdeaaae378))",
+    "created_at": "2020-11-16 18:23:40.659000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8fc4c0ef](https://gitlab.com/snowgem/snowpay-api/-/commit/8fc4c0efccf54f857b53fabfbcee528e6957ac46): Feature  148  busd - demzet\n\n[6d682d66](https://gitlab.com/snowgem/snowpay-api/-/commit/6d682d66b2d05638ed30b5c33168f9bdeaaae378): Merge branch 'feature__148__busd' into 'master' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature__148__busd from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-16 18:23:41.136000"
   }
 ]
