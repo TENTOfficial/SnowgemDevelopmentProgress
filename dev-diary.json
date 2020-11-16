@@ -26805,5 +26805,15 @@
       "description": "[c93e76bf](https://gitlab.com/snowgem/bitfrost/-/commit/c93e76bfb3b6b82787dd2d5c40adae39d1afa68e): adding translations - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [Create\\_sum\\_sub\\_wrapper](https://gitlab.com/snowgem/bitfrost/commits/Create_sum_sub_wrapper) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/145c9e827208486365c90c66c1b1c3285a534253...f9dd54052445b37fec860ac5442dd77dc15cf767))",
+    "created_at": "2020-11-16 18:12:51.952000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f9dd5405](https://gitlab.com/snowgem/bitfrost/-/commit/f9dd54052445b37fec860ac5442dd77dc15cf767): wip - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
