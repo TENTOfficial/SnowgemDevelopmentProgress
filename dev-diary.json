@@ -26795,5 +26795,15 @@
     "author": "GitLab",
     "content": "Filip Storkan (filipstrkn) opened merge request [\\!80 \\*Feature/identity verification with pin\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/80) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-16 10:07:26.961000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/identity\\-verification\\-with\\-pin](https://gitlab.com/snowgem/bitfrost/commits/feature/identity-verification-with-pin) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5a66810e5c2140ec48d547269df21d67e0f58856...c93e76bfb3b6b82787dd2d5c40adae39d1afa68e))",
+    "created_at": "2020-11-16 10:58:21.364000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c93e76bf](https://gitlab.com/snowgem/bitfrost/-/commit/c93e76bfb3b6b82787dd2d5c40adae39d1afa68e): adding translations - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
