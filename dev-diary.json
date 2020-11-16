@@ -26840,5 +26840,15 @@
     "author": "GitLab",
     "content": "demzet removed branch feature__148__busd from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-16 18:23:41.136000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6d682d66b2d05638ed30b5c33168f9bdeaaae378...6412309da9a3de1c32721d6767a76d75389dff0a))",
+    "created_at": "2020-11-16 18:52:09.715000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6412309d](https://gitlab.com/snowgem/snowpay-api/-/commit/6412309da9a3de1c32721d6767a76d75389dff0a): #build fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
