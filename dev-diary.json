@@ -26860,5 +26860,10 @@
       "description": "[08f4ad54](https://gitlab.com/snowgem/snowpay-api/-/commit/08f4ad547d38f850edd948a355a6f6be085aeb8d): #fixed tests - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [feature\\_\\_159\\_\\_bittrex](https://gitlab.com/snowgem/snowpay-api/commits/feature__159__bittrex) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-16 21:15:37.556000"
   }
 ]
