@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2725 commits since 20/01/2020. You can see the complete history in
+There is a total of 2726 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-17 14:51:03</sub> | <sub>[[Snowgem:feature/wakanda] 3 new commits](https://github.com/Snowgem/Snowgem/compare/cb0284e95b46...530faddd482d)</sub> | <sub>[d3e180b](https://github.com/Snowgem/Snowgem/commit/d3e180b8e5db0c4762be07491290ccdb41585915) fork block in main net - Snowgem<br>[286c001](https://github.com/Snowgem/Snowgem/commit/286c00189e34ae5bcb89a8cff337eb21f84e7711) increase build ver - Snowgem<br>[530fadd](https://github.com/Snowgem/Snowgem/commit/530faddd482d79293d5b5c87cffd1b1eceae38ce) SnowGem to TENT - Snowgem</sub> |
 | <sub>2020-11-16 21:15:37</sub> | <sub>demzet pushed new branch [feature\_\_159\_\_bittrex](https://gitlab.com/snowgem/snowpay-api/commits/feature__159__bittrex) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-16 19:03:19</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6412309da9a3de1c32721d6767a76d75389dff0a...08f4ad547d38f850edd948a355a6f6be085aeb8d))</sub> | <sub>[08f4ad54](https://gitlab.com/snowgem/snowpay-api/-/commit/08f4ad547d38f850edd948a355a6f6be085aeb8d): #fixed tests - Kamil Wojciechowski</sub> |
 | <sub>2020-11-16 18:52:09</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6d682d66b2d05638ed30b5c33168f9bdeaaae378...6412309da9a3de1c32721d6767a76d75389dff0a))</sub> | <sub>[6412309d](https://gitlab.com/snowgem/snowpay-api/-/commit/6412309da9a3de1c32721d6767a76d75389dff0a): #build fix - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 2725 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-16 18:23:30</sub> | <sub>demzet (aphex5) opened merge request [\!44 \*Feature  148  busd\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/44) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-16 18:12:51</sub> | <sub>Jan Vraštil pushed to branch [Create\_sum\_sub\_wrapper](https://gitlab.com/snowgem/bitfrost/commits/Create_sum_sub_wrapper) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/145c9e827208486365c90c66c1b1c3285a534253...f9dd54052445b37fec860ac5442dd77dc15cf767))</sub> | <sub>[f9dd5405](https://gitlab.com/snowgem/bitfrost/-/commit/f9dd54052445b37fec860ac5442dd77dc15cf767): wip - jan.vrastil</sub> |
 | <sub>2020-11-16 10:58:21</sub> | <sub>Filip Storkan pushed to branch [feature/identity\-verification\-with\-pin](https://gitlab.com/snowgem/bitfrost/commits/feature/identity-verification-with-pin) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5a66810e5c2140ec48d547269df21d67e0f58856...c93e76bfb3b6b82787dd2d5c40adae39d1afa68e))</sub> | <sub>[c93e76bf](https://gitlab.com/snowgem/bitfrost/-/commit/c93e76bfb3b6b82787dd2d5c40adae39d1afa68e): adding translations - Filip Storkan</sub> |
-| <sub>2020-11-16 10:07:26</sub> | <sub>Filip Storkan (filipstrkn) opened merge request [\!80 \*Feature/identity verification with pin\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/80) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
