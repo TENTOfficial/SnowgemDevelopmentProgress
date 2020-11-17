@@ -26893,5 +26893,15 @@
       "description": "[2f6dfb65](https://gitlab.com/snowgem/snowpay-api/-/commit/2f6dfb65808bd3ec0f780ca1a0263a4da338b452): #159 - bittrex processing tuning - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_159\\_\\_bittrex](https://gitlab.com/snowgem/snowpay-api/commits/feature__159__bittrex) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2f6dfb65808bd3ec0f780ca1a0263a4da338b452...3c8065b2b6f5ff77779744ccf3cf6847898ae4ff))",
+    "created_at": "2020-11-17 20:07:08.749000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3c8065b2](https://gitlab.com/snowgem/snowpay-api/-/commit/3c8065b2b6f5ff77779744ccf3cf6847898ae4ff): #159 - CurrencyNetwork BNB fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
