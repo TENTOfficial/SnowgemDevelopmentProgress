@@ -26913,5 +26913,30 @@
     "author": "GitLab",
     "content": "demzet (aphex5) approved merge request [\\!45 \\*Feature  159  bittrex\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/45) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-17 20:15:16.155000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) unapproved merge request [\\!45 \\*Feature  159  bittrex\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/45) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-17 20:24:13.389000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!45 \\*Feature  159  bittrex\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/45) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-17 20:24:19.468000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature__159__bittrex from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-17 20:24:19.678000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/08f4ad547d38f850edd948a355a6f6be085aeb8d...72363ab4b6abfd186b3a6a09d9403aa8d04aa122))",
+    "created_at": "2020-11-17 20:24:20.184000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[99831016](https://gitlab.com/snowgem/snowpay-api/-/commit/99831016a50d46421214d697be0f00c21ba6d8b1): Feature  159  bittrex - demzet\n\n[72363ab4](https://gitlab.com/snowgem/snowpay-api/-/commit/72363ab4b6abfd186b3a6a09d9403aa8d04aa122): Merge branch 'feature__159__bittrex' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
