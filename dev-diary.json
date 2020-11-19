@@ -27121,5 +27121,23 @@
       "description": "[c6a8b243](https://gitlab.com/snowgem/snowpay-api/-/commit/c6a8b243f98b34318b55cd63f5e3490fa9352769): can't stop writing tests - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-11-19 19:52:18.075000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ad37b8d`](https://github.com/ciripel/Heimdall/commit/ad37b8d66a413ca489eca0528f0833ec82915355) updated mn_count fallback to 2000 - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/ad37b8d66a413ca489eca0528f0833ec82915355"
+    }
   }
 ]
