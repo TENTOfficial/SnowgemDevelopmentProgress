@@ -26988,5 +26988,15 @@
       "description": "[dc180cfd](https://gitlab.com/snowgem/snowpay-api/-/commit/dc180cfd1a65429699fe694852cc70aef5e5744c): #148 - added binance chain support - Kamil Wojciechowski\n\n[e6fdaca8](https://gitlab.com/snowgem/snowpay-api/-/commit/e6fdaca847f252fc485098f19945a767415f2820): #148 block explorer refactoring - Kamil Wojciechowski\n\n[53417dbd](https://gitlab.com/snowgem/snowpay-api/-/commit/53417dbd5426a11ec9a3de65776c5ccf804274fc): index on feature__148__busd: e6fdaca #148 block explorer refactoring - Kamil Wojciechowski\n\n[76705eb4](https://gitlab.com/snowgem/snowpay-api/-/commit/76705eb4904e5b3b8298b258da582b33f932fdb2): WIP on feature__148__busd: e6fdaca #148 block explorer refactoring - Kamil Wojciechowski\n\n[4ffc31d6](https://gitlab.com/snowgem/snowpay-api/-/commit/4ffc31d6b95695e96da0e0de9772798dc206f150): WIP - Kamil Wojciechowski\n\n[acd6b475](https://gitlab.com/snowgem/snowpay-api/-/commit/acd6b475509d04c13cd58c81de9e281882ad4bcd): Merge commit '76705eb4904e5b3b8298b258da582b33f932fdb2' into feature__151__BNB_BUSD_TopUp - Kamil Wojciechowski\n\n[532f9657](https://gitlab.com/snowgem/snowpay-api/-/commit/532f9657ed176c11d2223115d61d4c42f8229063): #151 - added bnb, busd, for single swaps, topup, swap route refactoring - Kamil Wojciechowski\n\n[dce6a7ba](https://gitlab.com/snowgem/snowpay-api/-/commit/dce6a7baf30d0b3cde598946eaaa7d4364813e60): Merge branch 'feature__151__BNB_BUSD_TopUp' into 'master' - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/identity\\-verification\\-with\\-pin](https://gitlab.com/snowgem/bitfrost/commits/feature/identity-verification-with-pin) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c93e76bfb3b6b82787dd2d5c40adae39d1afa68e...da426805da0d245f500517fa44d3be3d583e7025))",
+    "created_at": "2020-11-19 10:23:04.341000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[da426805](https://gitlab.com/snowgem/bitfrost/-/commit/da426805da0d245f500517fa44d3be3d583e7025): code review chnages - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
