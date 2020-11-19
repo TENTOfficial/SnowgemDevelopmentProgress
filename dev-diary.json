@@ -27056,5 +27056,30 @@
       "description": "[483190b3](https://gitlab.com/snowgem/snowpay-api/-/commit/483190b3521953724a04c524deeb22aa596e4259): minor fixes and improvements - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [v0\\.1\\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2720f1ef53ddaaa98da718f7478549bf6373bbfe...3d366a6d634910c7d1fc9c8480dad53fc6fe8860))",
+    "created_at": "2020-11-19 12:15:31.299000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[05ec953d](https://gitlab.com/snowgem/bitfrost/-/commit/05ec953de0dc53b3dc39b13619b0220abe8e092e): pin implementation - Filip Storkan\n\n[abd84278](https://gitlab.com/snowgem/bitfrost/-/commit/abd84278ca0dad5e025a44405ab19d92b09e9f7a): sqlite update - Filip Storkan\n\n[61b591ea](https://gitlab.com/snowgem/bitfrost/-/commit/61b591ea8acf649d0a95a260ef563937a28a2571): lint fix - Filip Storkan\n\n[11b372f5](https://gitlab.com/snowgem/bitfrost/-/commit/11b372f55e19f1756832cf86b00339d2c2d90c77): lint - Filip Storkan\n\n[5a66810e](https://gitlab.com/snowgem/bitfrost/-/commit/5a66810e5c2140ec48d547269df21d67e0f58856): Merge remote-tracking branch 'origin/v0.1.3' into feature/identity-verification-with-pin - Filip Storkan\n\n[c93e76bf](https://gitlab.com/snowgem/bitfrost/-/commit/c93e76bfb3b6b82787dd2d5c40adae39d1afa68e): adding translations - Filip Storkan\n\n[da426805](https://gitlab.com/snowgem/bitfrost/-/commit/da426805da0d245f500517fa44d3be3d583e7025): code review chnages - Filip Storkan\n\n[3d366a6d](https://gitlab.com/snowgem/bitfrost/-/commit/3d366a6d634910c7d1fc9c8480dad53fc6fe8860): Merge branch 'feature/identity-verification-with-pin' into 'v0.1.3' - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) merged merge request [\\!80 \\*Feature/identity verification with pin\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/80) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-19 12:15:32.722000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan removed branch feature/identity-verification-with-pin from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-19 12:15:33.131000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy (d.lisovskiy) opened merge request [\\!47 \\*Feature  130  mv swap reports to azure\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/47) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-19 12:16:17.936000"
   }
 ]
