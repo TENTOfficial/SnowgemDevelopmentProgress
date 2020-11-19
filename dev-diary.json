@@ -27091,5 +27091,15 @@
       "description": "[5aa87681](https://gitlab.com/snowgem/bitfrost/-/commit/5aa876811fc18126ff093622c85aa0d7ea1c394d): fix: removing remaininng interceptor imports - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_130\\_\\_mv\\_swap\\_reports\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__130__mv_swap_reports_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/04be3f1cfd158ccc6ca75865dbd500361c5d9ce0...a9a7176a5051d170e058a53edb89379d4a95c01d))",
+    "created_at": "2020-11-19 13:05:59.901000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a9a7176a](https://gitlab.com/snowgem/snowpay-api/-/commit/a9a7176a5051d170e058a53edb89379d4a95c01d): di config fixed - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
