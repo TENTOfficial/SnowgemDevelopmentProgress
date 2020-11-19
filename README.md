@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2746 commits since 20/01/2020. You can see the complete history in
+There is a total of 2747 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-19 12:06:51</sub> | <sub>Daniil Lisovskiy pushed to branch [feature\_\_130\_\_mv\_swap\_reports\_to\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__130__mv_swap_reports_to_azure) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c3f2ddfcaf93d2b09500727a7ac37f444f9ef3dc...483190b3521953724a04c524deeb22aa596e4259))</sub> | <sub>[483190b3](https://gitlab.com/snowgem/snowpay-api/-/commit/483190b3521953724a04c524deeb22aa596e4259): minor fixes and improvements - Daniil Lisovskiy</sub> |
 | <sub>2020-11-19 11:59:20</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/b3ac7bf50de06547e5f2938a41ae67f8708b5f3a...a5fabb6a8313b4b3fcc5969e06531388b500aa21))</sub> | <sub>[a5fabb6a](https://gitlab.com/snowgem/snowpay-api/-/commit/a5fabb6a8313b4b3fcc5969e06531388b500aa21): #payment system ioc fix - Kamil Wojciechowski</sub> |
 | <sub>2020-11-19 11:46:11</sub> | <sub>[[Snowgem:master] 5 new commits](https://github.com/Snowgem/Snowgem/compare/400220ac1d5b...1450d7b542b5)</sub> | <sub>[cb0284e](https://github.com/Snowgem/Snowgem/commit/cb0284e95b46468bb5317c6e900d8443f311f7ec) limit minimum block time, clean code - Snowgem<br>[d3e180b](https://github.com/Snowgem/Snowgem/commit/d3e180b8e5db0c4762be07491290ccdb41585915) fork block in main net - Snowgem<br>[286c001](https://github.com/Snowgem/Snowgem/commit/286c00189e34ae5bcb89a8cff337eb21f84e7711) increase build ver - Snowgem<br>[530fadd](https://github.com/Snowgem/Snowgem/commit/530faddd482d79293d5b5c87cffd1b1eceae38ce) SnowGem to TENT - Snowgem<br>[1450d7b](https://github.com/Snowgem/Snowgem/commit/1450d7b542b53de28053db118e1029437dbd4e3c) merge with wakanda - Snowgem</sub> |
 | <sub>2020-11-19 10:48:51</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/dce6a7baf30d0b3cde598946eaaa7d4364813e60...b3ac7bf50de06547e5f2938a41ae67f8708b5f3a))</sub> | <sub>[b3ac7bf5](https://gitlab.com/snowgem/snowpay-api/-/commit/b3ac7bf50de06547e5f2938a41ae67f8708b5f3a): #unit test fix - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 2746 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-19 10:02:07</sub> | <sub>demzet removed branch feature__151__BNB_BUSD_TopUp from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-19 10:02:07</sub> | <sub>demzet (aphex5) merged merge request [\!46 \*Feature  151  bnb busd top up\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/46) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-19 10:01:57</sub> | <sub>demzet (aphex5) opened merge request [\!46 \*Feature  151  bnb busd top up\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/46) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-11-19 10:00:31</sub> | <sub>demzet pushed new branch [feature\_\_151\_\_BNB\_BUSD\_TopUp](https://gitlab.com/snowgem/snowpay-api/commits/feature__151__BNB_BUSD_TopUp) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
