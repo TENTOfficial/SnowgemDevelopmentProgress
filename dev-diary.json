@@ -26998,5 +26998,15 @@
       "description": "[da426805](https://gitlab.com/snowgem/bitfrost/-/commit/da426805da0d245f500517fa44d3be3d583e7025): code review chnages - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_130\\_\\_mv\\_swap\\_reports\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__130__mv_swap_reports_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/615d002b52961091010d1b03d7c6127ff63d3664...c3f2ddfcaf93d2b09500727a7ac37f444f9ef3dc))",
+    "created_at": "2020-11-19 10:28:12.381000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fb6fdb67](https://gitlab.com/snowgem/snowpay-api/-/commit/fb6fdb6748f553939692c66b90e84770e2112b3c): pagination implementation - Daniil Lisovskiy\n\n[c3f2ddfc](https://gitlab.com/snowgem/snowpay-api/-/commit/c3f2ddfcaf93d2b09500727a7ac37f444f9ef3dc): swap reports pagination optimized, filter fixed, more tests added - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
