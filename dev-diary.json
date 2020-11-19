@@ -27008,5 +27008,15 @@
       "description": "[fb6fdb67](https://gitlab.com/snowgem/snowpay-api/-/commit/fb6fdb6748f553939692c66b90e84770e2112b3c): pagination implementation - Daniil Lisovskiy\n\n[c3f2ddfc](https://gitlab.com/snowgem/snowpay-api/-/commit/c3f2ddfcaf93d2b09500727a7ac37f444f9ef3dc): swap reports pagination optimized, filter fixed, more tests added - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/dce6a7baf30d0b3cde598946eaaa7d4364813e60...b3ac7bf50de06547e5f2938a41ae67f8708b5f3a))",
+    "created_at": "2020-11-19 10:48:51.779000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b3ac7bf5](https://gitlab.com/snowgem/snowpay-api/-/commit/b3ac7bf50de06547e5f2938a41ae67f8708b5f3a): #unit test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
