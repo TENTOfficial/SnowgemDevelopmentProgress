@@ -27185,5 +27185,23 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [!81 *[Fix #230] Send / Swap button changes language*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/81) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-19 20:27:47.415000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-11-19 21:00:36.359000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8db9a54`](https://github.com/ciripel/Heimdall/commit/8db9a54528a08287f2315ba3594602c67c44a721) converted params values to numbers - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/8db9a54528a08287f2315ba3594602c67c44a721"
+    }
   }
 ]

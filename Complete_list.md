@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-19 21:00:36</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/8db9a54528a08287f2315ba3594602c67c44a721)</sub> | <sub>[8db9a54](https://github.com/ciripel/Heimdall/commit/8db9a54528a08287f2315ba3594602c67c44a721) converted params values to numbers - ciripel</sub> |
 | <sub>2020-11-19 20:27:47</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [!81 *[Fix #230] Send / Swap button changes language*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/81) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-19 20:27:12</sub> | <sub>Jan Vraštil pushed new branch [bug/send\_swap\_btn\_are\_not\_localised](https://gitlab.com/snowgem/bitfrost/commits/bug/send_swap_btn_are_not_localised) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-19 20:10:06</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/fc647daeac847326715bb211ddb8a80474787aa6)</sub> | <sub>[fc647da](https://github.com/ciripel/Heimdall/commit/fc647daeac847326715bb211ddb8a80474787aa6) converted params values to numbers - ciripel</sub> |

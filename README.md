@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2760 commits since 20/01/2020. You can see the complete history in
+There is a total of 2761 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-19 21:00:36</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/8db9a54528a08287f2315ba3594602c67c44a721)</sub> | <sub>[8db9a54](https://github.com/ciripel/Heimdall/commit/8db9a54528a08287f2315ba3594602c67c44a721) converted params values to numbers - ciripel</sub> |
 | <sub>2020-11-19 20:27:47</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [!81 *[Fix #230] Send / Swap button changes language*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/81) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-19 20:27:12</sub> | <sub>Jan Vraštil pushed new branch [bug/send\_swap\_btn\_are\_not\_localised](https://gitlab.com/snowgem/bitfrost/commits/bug/send_swap_btn_are_not_localised) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-19 20:10:06</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/fc647daeac847326715bb211ddb8a80474787aa6)</sub> | <sub>[fc647da](https://github.com/ciripel/Heimdall/commit/fc647daeac847326715bb211ddb8a80474787aa6) converted params values to numbers - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2760 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-19 14:15:28</sub> | <sub>Daniil Lisovskiy pushed to branch [feature\_\_130\_\_mv\_swap\_reports\_to\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__130__mv_swap_reports_to_azure) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a9a7176a5051d170e058a53edb89379d4a95c01d...e59149807fcb3eaeffb8556bd5bb236be28d4491))</sub> | <sub>[e5914980](https://gitlab.com/snowgem/snowpay-api/-/commit/e59149807fcb3eaeffb8556bd5bb236be28d4491): a bug fix and more tests - Daniil Lisovskiy</sub> |
 | <sub>2020-11-19 13:05:59</sub> | <sub>Daniil Lisovskiy pushed to branch [feature\_\_130\_\_mv\_swap\_reports\_to\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__130__mv_swap_reports_to_azure) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/04be3f1cfd158ccc6ca75865dbd500361c5d9ce0...a9a7176a5051d170e058a53edb89379d4a95c01d))</sub> | <sub>[a9a7176a](https://gitlab.com/snowgem/snowpay-api/-/commit/a9a7176a5051d170e058a53edb89379d4a95c01d): di config fixed - Daniil Lisovskiy</sub> |
 | <sub>2020-11-19 12:55:45</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3d366a6d634910c7d1fc9c8480dad53fc6fe8860...5aa876811fc18126ff093622c85aa0d7ea1c394d))</sub> | <sub>[5aa87681](https://gitlab.com/snowgem/bitfrost/-/commit/5aa876811fc18126ff093622c85aa0d7ea1c394d): fix: removing remaininng interceptor imports - Filip Storkan</sub> |
-| <sub>2020-11-19 12:16:17</sub> | <sub>Daniil Lisovskiy (d.lisovskiy) opened merge request [\!47 \*Feature  130  mv swap reports to azure\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/47) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
