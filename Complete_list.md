@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-19 12:55:45</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3d366a6d634910c7d1fc9c8480dad53fc6fe8860...5aa876811fc18126ff093622c85aa0d7ea1c394d))</sub> | <sub>[5aa87681](https://gitlab.com/snowgem/bitfrost/-/commit/5aa876811fc18126ff093622c85aa0d7ea1c394d): fix: removing remaininng interceptor imports - Filip Storkan</sub> |
 | <sub>2020-11-19 12:16:17</sub> | <sub>Daniil Lisovskiy (d.lisovskiy) opened merge request [\!47 \*Feature  130  mv swap reports to azure\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/47) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-19 12:15:33</sub> | <sub>Filip Storkan removed branch feature/identity-verification-with-pin from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-19 12:15:32</sub> | <sub>Filip Storkan (filipstrkn) merged merge request [\!80 \*Feature/identity verification with pin\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/80) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
