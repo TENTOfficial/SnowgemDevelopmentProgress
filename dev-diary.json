@@ -27157,5 +27157,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/424bd587ad241a4ea8ddac049a657e761dd1d068"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-11-19 20:10:06.914000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`fc647da`](https://github.com/ciripel/Heimdall/commit/fc647daeac847326715bb211ddb8a80474787aa6) converted params values to numbers - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/fc647daeac847326715bb211ddb8a80474787aa6"
+    }
   }
 ]
