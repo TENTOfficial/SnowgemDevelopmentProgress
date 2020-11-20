@@ -27288,5 +27288,10 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [bug/send\\_recovery\\_email\\_only\\_once](https://gitlab.com/snowgem/bitfrost/commits/bug/send_recovery_email_only_once) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-20 19:59:12.176000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [!83 *[Fix #231] Send recovery email only once per session*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/83) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-20 20:00:09.048000"
   }
 ]
