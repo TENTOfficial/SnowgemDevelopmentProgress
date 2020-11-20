@@ -27273,5 +27273,15 @@
     "author": "GitLab",
     "content": "Daniil Lisovskiy pushed new branch [fix\\_\\_162\\_\\_user\\_saga\\_access](https://gitlab.com/snowgem/snowpay-api/commits/fix__162__user_saga_access) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-20 11:58:59.300000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_130\\_\\_mv\\_swap\\_reports\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__130__mv_swap_reports_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/477d749aa9b26d2eeaf0d3360c281e33c9fb73bb...320293b1ba17634929539715e32186d4a56e93d0))",
+    "created_at": "2020-11-20 12:41:06.222000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[320293b1](https://gitlab.com/snowgem/snowpay-api/-/commit/320293b1ba17634929539715e32186d4a56e93d0): migration tool is extended for swap reports, rollup instructions added - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
