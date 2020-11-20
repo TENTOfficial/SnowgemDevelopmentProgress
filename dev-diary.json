@@ -27268,5 +27268,10 @@
       "description": "[e90dbb85](https://gitlab.com/snowgem/bitfrost/-/commit/e90dbb85b717f21ea6b1f1b86042f21e6085a808): removing auto theme - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed new branch [fix\\_\\_162\\_\\_user\\_saga\\_access](https://gitlab.com/snowgem/snowpay-api/commits/fix__162__user_saga_access) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-20 11:58:59.300000"
   }
 ]
