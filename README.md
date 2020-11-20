@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2774 commits since 20/01/2020. You can see the complete history in
+There is a total of 2775 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-20 21:26:58</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/9f14a538ecf388d66231b37fe1f9166b02290f27...c5c85122d2516bc68f64e97ab81e12c8a128a274))</sub> | <sub>[c5c85122](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/c5c85122d2516bc68f64e97ab81e12c8a128a274): implemented price and pricechange for VDL - ciripel</sub> |
 | <sub>2020-11-20 21:20:52</sub> | <sub>demzet (aphex5) merged merge request [\!47 \*Feature  130  mv swap reports to azure\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/47) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-20 20:00:09</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [!83 *[Fix #231] Send recovery email only once per session*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/83) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-20 19:59:12</sub> | <sub>Jan Vraštil pushed new branch [bug/send\_recovery\_email\_only\_once](https://gitlab.com/snowgem/bitfrost/commits/bug/send_recovery_email_only_once) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2774 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-20 10:30:01</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ed4ef253cb65fb10d28bff146b265061fca6d075...a29230fdc3bebce0ad7bff8eaf5810506463c702))</sub> | <sub>[a29230fd](https://gitlab.com/snowgem/bitfrost/-/commit/a29230fdc3bebce0ad7bff8eaf5810506463c702): adding default value for service account from db - Filip Storkan</sub> |
 | <sub>2020-11-20 06:45:09</sub> | <sub>Daniil Lisovskiy pushed to branch [feature\_\_130\_\_mv\_swap\_reports\_to\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__130__mv_swap_reports_to_azure) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/01bd30a5c794a528dbc5d18eb6f31aa263e868a7...477d749aa9b26d2eeaf0d3360c281e33c9fb73bb))</sub> | <sub>[477d749a](https://gitlab.com/snowgem/snowpay-api/-/commit/477d749aa9b26d2eeaf0d3360c281e33c9fb73bb): more tests - Daniil Lisovskiy</sub> |
 | <sub>2020-11-20 06:33:26</sub> | <sub>Txid (txid) opened merge request [\!82 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/82) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-11-20 06:32:04</sub> | <sub>Jan Vraštil removed branch bug/send_swap_btn_are_not_localised from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
