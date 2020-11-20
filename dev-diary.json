@@ -27213,5 +27213,30 @@
       "description": "[01bd30a5](https://gitlab.com/snowgem/snowpay-api/-/commit/01bd30a5c794a528dbc5d18eb6f31aa263e868a7): delimiter fix and tests improvements - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5aa876811fc18126ff093622c85aa0d7ea1c394d...ed4ef253cb65fb10d28bff146b265061fca6d075))",
+    "created_at": "2020-11-20 06:32:03.961000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[511fe54e](https://gitlab.com/snowgem/bitfrost/-/commit/511fe54e84dd73d8b08d43d28d0b6cccc824a9f2): [Fix #230] Send / Swap button changes language - jan.vrastil\n\n[ed4ef253](https://gitlab.com/snowgem/bitfrost/-/commit/ed4ef253cb65fb10d28bff146b265061fca6d075): Merge branch 'bug/send_swap_btn_are_not_localised' into 'v0.1.3' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [!81 *[Fix #230] Send / Swap button changes language*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/81) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-20 06:32:04.112000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch bug/send_swap_btn_are_not_localised from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-20 06:32:04.544000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!82 \\*V0\\.1\\.3\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/82) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-20 06:33:26.951000"
   }
 ]
