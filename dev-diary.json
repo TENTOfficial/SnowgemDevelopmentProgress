@@ -27308,5 +27308,20 @@
       "description": "[c5c85122](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/c5c85122d2516bc68f64e97ab81e12c8a128a274): implemented price and pricechange for VDL - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_130\\_\\_mv\\_swap\\_reports\\_to\\_azure](https://gitlab.com/snowgem/snowpay-api/commits/feature__130__mv_swap_reports_to_azure) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/320293b1ba17634929539715e32186d4a56e93d0...48867df300efb926b4b172aa4a0eb2751c54e9b0))",
+    "created_at": "2020-11-21 10:47:49.053000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[48867df3](https://gitlab.com/snowgem/snowpay-api/-/commit/48867df300efb926b4b172aa4a0eb2751c54e9b0): saga locking mechanism has been fixed - Daniil Lisovskiy",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy (d.lisovskiy) opened merge request [\\!48 \\*Feature 130 Saga locking mechanism has been fixed\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/48) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-21 10:48:54.579000"
   }
 ]
