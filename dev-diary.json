@@ -27343,5 +27343,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch bug/send_recovery_email_only_once from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-21 12:50:08.412000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [fix\\_\\_162\\_\\_user\\_saga\\_access](https://gitlab.com/snowgem/snowpay-api/commits/fix__162__user_saga_access) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c208f6116a9b7cd41928c0d3cada19617772293b...d50f3744fd11a3f4814fb2a9ae41d990ff474363))",
+    "created_at": "2020-11-21 13:48:21.251000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[320293b1](https://gitlab.com/snowgem/snowpay-api/-/commit/320293b1ba17634929539715e32186d4a56e93d0): migration tool is extended for swap reports, rollup instructions added - Daniil Lisovskiy\n\n[48867df3](https://gitlab.com/snowgem/snowpay-api/-/commit/48867df300efb926b4b172aa4a0eb2751c54e9b0): saga locking mechanism has been fixed - Daniil Lisovskiy\n\n[d50f3744](https://gitlab.com/snowgem/snowpay-api/-/commit/d50f3744fd11a3f4814fb2a9ae41d990ff474363): Merge branch 'feature__130__mv_swap_reports_to_azure' into fix__162__user_saga_access - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
