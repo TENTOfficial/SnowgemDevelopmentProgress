@@ -27373,5 +27373,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-22 09:30:28.614000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bff710896d34a62ec90551a57ef8ff2bf388a6ab...562d0387267a1ec70c6c982aa08ca0d10976b545))",
+    "created_at": "2020-11-22 10:44:10.832000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[562d0387](https://gitlab.com/snowgem/snowpay-api/-/commit/562d0387267a1ec70c6c982aa08ca0d10976b545): ci.skip - update rollout plan - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
