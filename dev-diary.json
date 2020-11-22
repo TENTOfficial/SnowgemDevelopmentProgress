@@ -27403,5 +27403,15 @@
       "description": "[2bf074c4](https://gitlab.com/snowgem/snowpay-api/-/commit/2bf074c40aa1b657b56155ed414d7d95efe67c75): #added missing bnb and busd to payment integration endpoint - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2bf074c40aa1b657b56155ed414d7d95efe67c75...24843a9e86a877bb27444e9f19debe089e0282e2))",
+    "created_at": "2020-11-22 13:28:37.238000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[24843a9e](https://gitlab.com/snowgem/snowpay-api/-/commit/24843a9e86a877bb27444e9f19debe089e0282e2): #ci cfg file fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
