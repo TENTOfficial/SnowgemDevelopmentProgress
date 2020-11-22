@@ -27393,5 +27393,15 @@
       "description": "[6707aabe](https://gitlab.com/snowgem/snowpay-api/-/commit/6707aabe89f9683c42b339616c4742b40e0aad94): #added bittrex service cfg - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6707aabe89f9683c42b339616c4742b40e0aad94...2bf074c40aa1b657b56155ed414d7d95efe67c75))",
+    "created_at": "2020-11-22 13:14:45.416000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2bf074c4](https://gitlab.com/snowgem/snowpay-api/-/commit/2bf074c40aa1b657b56155ed414d7d95efe67c75): #added missing bnb and busd to payment integration endpoint - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
