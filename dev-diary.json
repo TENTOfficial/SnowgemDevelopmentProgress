@@ -27368,5 +27368,10 @@
       "description": "[48867df3](https://gitlab.com/snowgem/snowpay-api/-/commit/48867df300efb926b4b172aa4a0eb2751c54e9b0): saga locking mechanism has been fixed - Daniil Lisovskiy\n\n[bff71089](https://gitlab.com/snowgem/snowpay-api/-/commit/bff710896d34a62ec90551a57ef8ff2bf388a6ab): Merge branch 'feature__130__mv_swap_reports_to_azure' into 'master' - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-22 09:30:28.614000"
   }
 ]
