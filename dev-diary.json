@@ -27383,5 +27383,15 @@
       "description": "[562d0387](https://gitlab.com/snowgem/snowpay-api/-/commit/562d0387267a1ec70c6c982aa08ca0d10976b545): ci.skip - update rollout plan - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/562d0387267a1ec70c6c982aa08ca0d10976b545...6707aabe89f9683c42b339616c4742b40e0aad94))",
+    "created_at": "2020-11-22 12:22:59.655000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6707aabe](https://gitlab.com/snowgem/snowpay-api/-/commit/6707aabe89f9683c42b339616c4742b40e0aad94): #added bittrex service cfg - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
