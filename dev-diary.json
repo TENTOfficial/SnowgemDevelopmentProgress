@@ -27413,5 +27413,10 @@
       "description": "[24843a9e](https://gitlab.com/snowgem/snowpay-api/-/commit/24843a9e86a877bb27444e9f19debe089e0282e2): #ci cfg file fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed new branch [feature/debit\\-card\\-creation](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-card-creation) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-22 14:29:24.976000"
   }
 ]
