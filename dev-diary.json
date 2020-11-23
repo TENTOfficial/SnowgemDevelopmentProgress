@@ -27535,5 +27535,23 @@
       "type": "rich",
       "url": "https://github.com/Snowgem/Snowgem/commit/4b94b7a027eee09309bf57e32470e99eab6f76cd"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-11-23 17:32:57.003000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8f54d66`](https://github.com/ciripel/Heimdall/commit/8f54d667f4de60d51d2e74ced96bf637954d25dd) updated to correct fork_block - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/8f54d667f4de60d51d2e74ced96bf637954d25dd"
+    }
   }
 ]
