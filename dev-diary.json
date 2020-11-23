@@ -27453,5 +27453,15 @@
       "description": "[e6ae6b97](https://gitlab.com/snowgem/snowpay-api/-/commit/e6ae6b977f17f969ce1c161914b19b4f62d42d2b): single swaps security enhancements - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [fix\\_\\_162\\_\\_user\\_saga\\_access](https://gitlab.com/snowgem/snowpay-api/commits/fix__162__user_saga_access) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e6ae6b977f17f969ce1c161914b19b4f62d42d2b...eb362e30e6fed697d5f229bc937f9c98a46c4804))",
+    "created_at": "2020-11-23 13:23:07.994000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eb362e30](https://gitlab.com/snowgem/snowpay-api/-/commit/eb362e30e6fed697d5f229bc937f9c98a46c4804): unit tests fix - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
