@@ -27463,5 +27463,23 @@
       "description": "[eb362e30](https://gitlab.com/snowgem/snowpay-api/-/commit/eb362e30e6fed697d5f229bc937f9c98a46c4804): unit tests fix - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-11-23 14:33:38.358000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars0.githubusercontent.com/u/34765060?v=4",
+        "name": "Snowgem",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/vdGAaTPy7Messds4i0tUo-ZtbEA2fFE1cmlFCJ_BsKM/%3Fv%3D4/https/avatars0.githubusercontent.com/u/34765060",
+        "url": "https://github.com/Snowgem"
+      },
+      "color": 7506394,
+      "description": "[`2063334`](https://github.com/Snowgem/Snowgem/commit/206333415f1cff2d8cd5475b9fe9b27a1b07c309) update fork block - Snowgem",
+      "title": "[Snowgem:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/Snowgem/Snowgem/commit/206333415f1cff2d8cd5475b9fe9b27a1b07c309"
+    }
   }
 ]
