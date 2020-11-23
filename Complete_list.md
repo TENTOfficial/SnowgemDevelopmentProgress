@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-23 12:54:02</sub> | <sub>Filip Storkan pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c47fbbfd94ad3f784f2d624f777d9a4f7fa3683c...eeec8318c1f1209808a55bca13a6f7a82fda65cf))</sub> | <sub>[eeec8318](https://gitlab.com/snowgem/bitfrost/-/commit/eeec8318c1f1209808a55bca13a6f7a82fda65cf): Fix: service account logout cleans db - Filip Storkan</sub> |
 | <sub>2020-11-23 08:24:49</sub> | <sub>Jan Vraštil removed branch Create_sum_sub_wrapper from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-23 08:24:39</sub> | <sub>Jan Vraštil (jan.vrastil) closed merge request [\!79 \*WIP: Create sum sub wrapper\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/79) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-23 08:20:54</sub> | <sub>Txid (txid) merged merge request [\!82 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/82) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
