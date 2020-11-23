@@ -27443,5 +27443,15 @@
       "description": "[eeec8318](https://gitlab.com/snowgem/bitfrost/-/commit/eeec8318c1f1209808a55bca13a6f7a82fda65cf): Fix: service account logout cleans db - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [fix\\_\\_162\\_\\_user\\_saga\\_access](https://gitlab.com/snowgem/snowpay-api/commits/fix__162__user_saga_access) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d50f3744fd11a3f4814fb2a9ae41d990ff474363...e6ae6b977f17f969ce1c161914b19b4f62d42d2b))",
+    "created_at": "2020-11-23 12:56:47.873000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e6ae6b97](https://gitlab.com/snowgem/snowpay-api/-/commit/e6ae6b977f17f969ce1c161914b19b4f62d42d2b): single swaps security enhancements - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
