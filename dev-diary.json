@@ -27711,5 +27711,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/masternode-setup/commit/5fb52b003401f45e83b8a8b97742fc94aa2be284"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-11-24 21:39:00.495000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b14d331`](https://github.com/TENTOfficial/masternode-upgrade/commit/b14d33148257c410adedd372b17a9791fdba116f) Update README.md - ciripel",
+      "title": "[masternode-upgrade:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/masternode-upgrade/commit/b14d33148257c410adedd372b17a9791fdba116f"
+    }
   }
 ]
