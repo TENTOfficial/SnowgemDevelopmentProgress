@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-24 06:34:03</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [!84 *[Fix #222] Show delivery path when backuping wallet*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/84) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-11-24 06:33:31</sub> | <sub>Jan Vraštil pushed new branch [bug/222\-delivery\_path\_not\_displayed](https://gitlab.com/snowgem/bitfrost/commits/bug/222-delivery_path_not_displayed) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-23 17:32:57</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/8f54d667f4de60d51d2e74ced96bf637954d25dd)</sub> | <sub>[8f54d66](https://github.com/ciripel/Heimdall/commit/8f54d667f4de60d51d2e74ced96bf637954d25dd) updated to correct fork_block - ciripel</sub> |
 | <sub>2020-11-23 17:00:00</sub> | <sub>[[Snowgem:master] 1 new commit](https://github.com/Snowgem/Snowgem/commit/4b94b7a027eee09309bf57e32470e99eab6f76cd)</sub> | <sub>[4b94b7a](https://github.com/Snowgem/Snowgem/commit/4b94b7a027eee09309bf57e32470e99eab6f76cd) update fork block - 1545000 - Snowgem</sub> |
 | <sub>2020-11-23 15:11:13</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/b1f3b5e64869461f2a9da2211568f733211d5da3)</sub> | <sub>[b1f3b5e](https://github.com/ciripel/Heimdall/commit/b1f3b5e64869461f2a9da2211568f733211d5da3) increasing daemon ver - ciripel</sub> |
