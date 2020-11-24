@@ -27583,5 +27583,25 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch bug/222-delivery_path_not_displayed from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-24 07:07:44.945000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) opened merge request [\\!85 \\*V0\\.1\\.3\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/85) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-24 09:43:06.355000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) merged merge request [\\!85 \\*V0\\.1\\.3\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/85) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-24 09:43:31.662000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3de161e3b1f2b72d310df562df3ca48f91eb04fe...e09a586d5a001925466b4f2fe735e3a1cdd3fd93))",
+    "created_at": "2020-11-24 09:43:31.745000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eeec8318](https://gitlab.com/snowgem/bitfrost/-/commit/eeec8318c1f1209808a55bca13a6f7a82fda65cf): Fix: service account logout cleans db - Filip Storkan\n\n[9e6a70a8](https://gitlab.com/snowgem/bitfrost/-/commit/9e6a70a8fb91dc13c1e485fa96e614dd3d7b4cf0): [Fix #222] Show delivery path when backuping wallet - jan.vrastil\n\n[f8d2c3d4](https://gitlab.com/snowgem/bitfrost/-/commit/f8d2c3d46f9474565188c237aa6a28941d6042d2): Merge branch 'bug/222-delivery_path_not_displayed' into 'v0.1.3' - Txid\n\n[e09a586d](https://gitlab.com/snowgem/bitfrost/-/commit/e09a586d5a001925466b4f2fe735e3a1cdd3fd93): Merge branch 'v0.1.3' into 'testing' - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
