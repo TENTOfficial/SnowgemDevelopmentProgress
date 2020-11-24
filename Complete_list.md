@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-24 21:15:20</sub> | <sub>[[masternode-upgrade:master] 1 new commit](https://github.com/TENTOfficial/masternode-upgrade/commit/741ad15d6612f34ecb57638c47eae47f0dd2e39f)</sub> | <sub>[741ad15](https://github.com/TENTOfficial/masternode-upgrade/commit/741ad15d6612f34ecb57638c47eae47f0dd2e39f) Delete knowhere_update.sh - ciripel</sub> |
 | <sub>2020-11-24 17:08:50</sub> | <sub>[[masternode-setup:master] 1 new commit](https://github.com/TENTOfficial/masternode-setup/commit/2c0a60b8b3ff7de39130832df9c00f6163e041c9)</sub> | <sub>[2c0a60b](https://github.com/TENTOfficial/masternode-setup/commit/2c0a60b8b3ff7de39130832df9c00f6163e041c9) Update part2.sh - ciripel</sub> |
 | <sub>2020-11-24 17:04:04</sub> | <sub>[[masternode-setup:master] 1 new commit](https://github.com/TENTOfficial/masternode-setup/commit/168f249975458a761fbc3e6f8bf88c6d97a276e5)</sub> | <sub>[168f249](https://github.com/TENTOfficial/masternode-setup/commit/168f249975458a761fbc3e6f8bf88c6d97a276e5) Update readme.md - ciripel</sub> |
 | <sub>2020-11-24 17:03:03</sub> | <sub>[[masternode-setup:master] 1 new commit](https://github.com/TENTOfficial/masternode-setup/commit/48b19b6e2a660633c33385a2cbdbce062bc9ffb3)</sub> | <sub>[48b19b6](https://github.com/TENTOfficial/masternode-setup/commit/48b19b6e2a660633c33385a2cbdbce062bc9ffb3) Update part1.sh - ciripel</sub> |

@@ -27657,5 +27657,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/masternode-setup/commit/2c0a60b8b3ff7de39130832df9c00f6163e041c9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-11-24 21:15:20.184000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`741ad15`](https://github.com/TENTOfficial/masternode-upgrade/commit/741ad15d6612f34ecb57638c47eae47f0dd2e39f) Delete knowhere_update.sh - ciripel",
+      "title": "[masternode-upgrade:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/masternode-upgrade/commit/741ad15d6612f34ecb57638c47eae47f0dd2e39f"
+    }
   }
 ]
