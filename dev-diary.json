@@ -27832,5 +27832,10 @@
       "description": "[562cd964](https://gitlab.com/snowgem/snowpay-api/-/commit/562cd9640f4d2d2c86bb210d572f5234ce137cbe): single swaps security fix applied for TopUp swaps, unit tests added - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy (d.lisovskiy) opened merge request [\\!49 \\*Fix  162  user saga access\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/49) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-25 13:10:19.451000"
   }
 ]
