@@ -27822,5 +27822,15 @@
       "description": "[68cbadb6](https://gitlab.com/snowgem/bitfrost/-/commit/68cbadb6faa6822a1a2516ea2c028d38659f118d): disable verify button while waiting server response - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [fix\\_\\_162\\_\\_user\\_saga\\_access](https://gitlab.com/snowgem/snowpay-api/commits/fix__162__user_saga_access) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/eb362e30e6fed697d5f229bc937f9c98a46c4804...562cd9640f4d2d2c86bb210d572f5234ce137cbe))",
+    "created_at": "2020-11-25 12:39:00.092000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[562cd964](https://gitlab.com/snowgem/snowpay-api/-/commit/562cd9640f4d2d2c86bb210d572f5234ce137cbe): single swaps security fix applied for TopUp swaps, unit tests added - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
