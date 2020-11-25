@@ -27777,5 +27777,20 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch bug/239-sending_recovery_email_multiple_time from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-11-25 06:24:40.796000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug/234\\-back\\_button\\_should\\_not\\_work](https://gitlab.com/snowgem/bitfrost/commits/bug/234-back_button_should_not_work) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-25 07:32:36.254000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [!87 *[FIX #234] Disable back button for Android devices*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/87) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-25 07:33:20.497000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan (filipstrkn) approved merge request [!87 *[FIX #234] Disable back button for Android devices*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/87) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-25 07:34:48.940000"
   }
 ]
