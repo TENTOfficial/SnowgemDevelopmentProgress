@@ -27747,5 +27747,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/masternode-setup/commit/a7ce6274e42facc4e449b23a0453bbf2fb873ba7"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug/239\\-sending\\_recovery\\_email\\_multiple\\_time](https://gitlab.com/snowgem/bitfrost/commits/bug/239-sending_recovery_email_multiple_time) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-25 06:02:42.467000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [!86 *[FIX 239] Enable sending recovery email in case previous one does not exist*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/86) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-11-25 06:03:45.916000"
   }
 ]
