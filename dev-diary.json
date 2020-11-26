@@ -27940,5 +27940,15 @@
       "description": "[c208f611](https://gitlab.com/snowgem/snowpay-api/-/commit/c208f6116a9b7cd41928c0d3cada19617772293b): swap updating and cancelling validation is extended and tested, minor improvements - Daniil Lisovskiy\n\n[d50f3744](https://gitlab.com/snowgem/snowpay-api/-/commit/d50f3744fd11a3f4814fb2a9ae41d990ff474363): Merge branch 'feature__130__mv_swap_reports_to_azure' into fix__162__user_saga_access - Daniil Lisovskiy\n\n[e6ae6b97](https://gitlab.com/snowgem/snowpay-api/-/commit/e6ae6b977f17f969ce1c161914b19b4f62d42d2b): single swaps security enhancements - Daniil Lisovskiy\n\n[eb362e30](https://gitlab.com/snowgem/snowpay-api/-/commit/eb362e30e6fed697d5f229bc937f9c98a46c4804): unit tests fix - Daniil Lisovskiy\n\n[562cd964](https://gitlab.com/snowgem/snowpay-api/-/commit/562cd9640f4d2d2c86bb210d572f5234ce137cbe): single swaps security fix applied for TopUp swaps, unit tests added - Daniil Lisovskiy\n\n[55ff74d0](https://gitlab.com/snowgem/snowpay-api/-/commit/55ff74d0c1acf564e517529e0421da69750ac777): Merge branch 'fix__162__user_saga_access' into 'master' - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [master](https://gitlab.com/snowgem/activation-tent-microsite/commits/master) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/3c2a3b6d62bbe9ea7d4a73ccd582fedfe276d313...eb90d5e6d0880bfa49f4c5c82992fc4ee04dc154))",
+    "created_at": "2020-11-26 08:46:58.043000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eb90d5e6](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/eb90d5e6d0880bfa49f4c5c82992fc4ee04dc154): TENT black logo for email notifications. - DaX",
+      "type": "rich"
+    }
   }
 ]
