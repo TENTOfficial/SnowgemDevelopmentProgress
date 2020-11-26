@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2837 commits since 20/01/2020. You can see the complete history in
+There is a total of 2838 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-26 06:10:16</sub> | <sub>Jan Vraštil pushed to branch [bug/234\-back\_button\_should\_not\_work](https://gitlab.com/snowgem/bitfrost/commits/bug/234-back_button_should_not_work) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/15b1ff198b5b35b50b0fd8d694573d1731657fb7...7eb9c52fa5d6c659061081d938185dc2fef3d3cb))</sub> | <sub>[7eb9c52f](https://gitlab.com/snowgem/bitfrost/-/commit/7eb9c52fa5d6c659061081d938185dc2fef3d3cb): [FIX #234] Disable back button for home page - jan.vrastil</sub> |
 | <sub>2020-11-26 06:08:44</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [!89 *[FIX #234] Disable back button for home page*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/89) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-26 06:08:16</sub> | <sub>Jan Vraštil pushed new branch [bug/234\-back\_button\_should\_not\_work](https://gitlab.com/snowgem/bitfrost/commits/bug/234-back_button_should_not_work) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-25 21:57:31</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/a227f67ce708f62c00b6963ca60e4195ad4ab4bd)</sub> | <sub>[a227f67](https://github.com/ciripel/Heimdall/commit/a227f67ce708f62c00b6963ca60e4195ad4ab4bd) Rebranding to TENT - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2837 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-25 16:34:28</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/68cbadb6faa6822a1a2516ea2c028d38659f118d...f4e3f6fcac9661120dd1ae610a030540823fe5e4))</sub> | <sub>[f4e3f6fc](https://gitlab.com/snowgem/bitfrost/-/commit/f4e3f6fcac9661120dd1ae610a030540823fe5e4): fix lint - Snowgem</sub> |
 | <sub>2020-11-25 13:10:19</sub> | <sub>Daniil Lisovskiy (d.lisovskiy) opened merge request [\!49 \*Fix  162  user saga access\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/49) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-25 12:39:00</sub> | <sub>Daniil Lisovskiy pushed to branch [fix\_\_162\_\_user\_saga\_access](https://gitlab.com/snowgem/snowpay-api/commits/fix__162__user_saga_access) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/eb362e30e6fed697d5f229bc937f9c98a46c4804...562cd9640f4d2d2c86bb210d572f5234ce137cbe))</sub> | <sub>[562cd964](https://gitlab.com/snowgem/snowpay-api/-/commit/562cd9640f4d2d2c86bb210d572f5234ce137cbe): single swaps security fix applied for TopUp swaps, unit tests added - Daniil Lisovskiy</sub> |
-| <sub>2020-11-25 09:47:07</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/34a3100d4a626966c4abd5b8827d822820bcde3c...68cbadb6faa6822a1a2516ea2c028d38659f118d))</sub> | <sub>[68cbadb6](https://gitlab.com/snowgem/bitfrost/-/commit/68cbadb6faa6822a1a2516ea2c028d38659f118d): disable verify button while waiting server response - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
