@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-28 01:10:59</sub> | <sub>[[TENT:feature/wakanda] 1 new commit](https://github.com/TENTOfficial/TENT/commit/1b50da7a5d077a2a52f274f768dcf4c57f606529)</sub> | <sub>[1b50da7](https://github.com/TENTOfficial/TENT/commit/1b50da7a5d077a2a52f274f768dcf4c57f606529) update APPROX_RELEASE_HEIGHT block - TENTOfficial</sub> |
 | <sub>2020-11-27 22:04:54</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!91 \*wip: Sumsub\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/91) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-27 22:04:24</sub> | <sub>Jan Vraštil pushed new branch [sumsub](https://gitlab.com/snowgem/bitfrost/commits/sumsub) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-26 17:26:31</sub> | <sub>Txid (txid) merged merge request [\!90 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/90) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
