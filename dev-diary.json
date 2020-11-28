@@ -28158,5 +28158,30 @@
       "description": "[880ede87](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/880ede87e9df0b15d879ac5e80466c9747c34487): prepared tent.css - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!50 \\*Relase 2020 11 30\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/50) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-28 20:23:12.818000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!50 \\*Relase 2020 11 30\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/50) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-28 20:23:18.168000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!50 \\*Relase 2020 11 30\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/50) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-28 20:23:20.735000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/55ff74d0c1acf564e517529e0421da69750ac777...543073a2846519b9fbb833bee8dd6e12624cfcb4))",
+    "created_at": "2020-11-28 20:23:21.224000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[562d0387](https://gitlab.com/snowgem/snowpay-api/-/commit/562d0387267a1ec70c6c982aa08ca0d10976b545): ci.skip - update rollout plan - Kamil Wojciechowski\n\n[6707aabe](https://gitlab.com/snowgem/snowpay-api/-/commit/6707aabe89f9683c42b339616c4742b40e0aad94): #added bittrex service cfg - Kamil Wojciechowski\n\n[2bf074c4](https://gitlab.com/snowgem/snowpay-api/-/commit/2bf074c40aa1b657b56155ed414d7d95efe67c75): #added missing bnb and busd to payment integration endpoint - Kamil Wojciechowski\n\n[24843a9e](https://gitlab.com/snowgem/snowpay-api/-/commit/24843a9e86a877bb27444e9f19debe089e0282e2): #ci cfg file fix - Kamil Wojciechowski\n\n[543073a2](https://gitlab.com/snowgem/snowpay-api/-/commit/543073a2846519b9fbb833bee8dd6e12624cfcb4): Merge branch 'relase_2020_11_30' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
