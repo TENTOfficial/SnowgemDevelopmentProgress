@@ -28054,5 +28054,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/commit/d77b503de4059f677f6820c522c4c6358b88adb4"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel removed branch translate from [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular)",
+    "created_at": "2020-11-28 10:28:24.048000"
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel removed branch movesettings from [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular)",
+    "created_at": "2020-11-28 10:28:57.685000"
   }
 ]

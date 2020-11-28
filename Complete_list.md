@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-28 10:28:57</sub> | <sub>ciripel removed branch movesettings from [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-11-28 10:28:24</sub> | <sub>ciripel removed branch translate from [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-28 01:24:46</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/d77b503de4059f677f6820c522c4c6358b88adb4)</sub> | <sub>[d77b503](https://github.com/TENTOfficial/TENT/commit/d77b503de4059f677f6820c522c4c6358b88adb4) increase build version - TENTOfficial</sub> |
 | <sub>2020-11-28 01:17:47</sub> | <sub>[[TENT:master] 2 new commits](https://github.com/TENTOfficial/TENT/compare/4b94b7a027ee...856d7d8ec7fd)</sub> | <sub>[1b50da7](https://github.com/TENTOfficial/TENT/commit/1b50da7a5d077a2a52f274f768dcf4c57f606529) update APPROX_RELEASE_HEIGHT block - TENTOfficial<br>[856d7d8](https://github.com/TENTOfficial/TENT/commit/856d7d8ec7fd8b7318862799451bd8635da450f4) Merge pull request #27 from TENTOfficial/featur... - TENTOfficial</sub> |
 | <sub>2020-11-28 01:10:59</sub> | <sub>[[TENT:feature/wakanda] 1 new commit](https://github.com/TENTOfficial/TENT/commit/1b50da7a5d077a2a52f274f768dcf4c57f606529)</sub> | <sub>[1b50da7](https://github.com/TENTOfficial/TENT/commit/1b50da7a5d077a2a52f274f768dcf4c57f606529) update APPROX_RELEASE_HEIGHT block - TENTOfficial</sub> |
