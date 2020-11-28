@@ -28193,5 +28193,23 @@
       "description": "[a03118c8](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/a03118c8218f463297510ac5d0773284cd385d78): changed background colors and tent logos - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-11-28 22:25:18.369000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e164fb8`](https://github.com/TENTOfficial/ServerConfig/commit/e164fb81bb2c5992c343a4fc9f683e41940de95b) added TENT to beta and dropped BitZec and Comme... - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/e164fb81bb2c5992c343a4fc9f683e41940de95b"
+    }
   }
 ]
