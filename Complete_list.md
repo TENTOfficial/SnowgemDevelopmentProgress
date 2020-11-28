@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-28 10:33:05</sub> | <sub>ciripel removed branch lightversion from [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-28 10:28:57</sub> | <sub>ciripel removed branch movesettings from [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-28 10:28:24</sub> | <sub>ciripel removed branch translate from [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-28 01:24:46</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/d77b503de4059f677f6820c522c4c6358b88adb4)</sub> | <sub>[d77b503](https://github.com/TENTOfficial/TENT/commit/d77b503de4059f677f6820c522c4c6358b88adb4) increase build version - TENTOfficial</sub> |
