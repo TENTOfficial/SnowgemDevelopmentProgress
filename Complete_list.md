@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-28 15:12:21</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/10473cf7e795745d8e21db4be16bf5a198d54cde)</sub> | <sub>[10473cf](https://github.com/TENTOfficial/ServerConfig/commit/10473cf7e795745d8e21db4be16bf5a198d54cde) Updated beta - ciripel</sub> |
 | <sub>2020-11-28 15:03:52</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/add0232eff1a8893886103d9125eed6a1d42a24e)</sub> | <sub>[add0232](https://github.com/TENTOfficial/ServerConfig/commit/add0232eff1a8893886103d9125eed6a1d42a24e) TentGithub correction - ciripel</sub> |
 | <sub>2020-11-28 11:51:03</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/fa020a256048aa65eb455c580df932311bf3e1dd)</sub> | <sub>[fa020a2](https://github.com/TENTOfficial/ServerConfig/commit/fa020a256048aa65eb455c580df932311bf3e1dd) initial commit - ciripel</sub> |
 | <sub>2020-11-28 10:33:05</sub> | <sub>ciripel removed branch lightversion from [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular)</sub> | <sub>_No Commits_</sub> |
