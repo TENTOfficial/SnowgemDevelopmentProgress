@@ -28148,5 +28148,15 @@
       "description": "[ccbae787](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/ccbae7873863cc88bc0e064de6b913be6ab33925): fixed tentTeam field - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [Rebrand\\_to\\_TENT](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/Rebrand_to_TENT) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/ccbae7873863cc88bc0e064de6b913be6ab33925...880ede87e9df0b15d879ac5e80466c9747c34487))",
+    "created_at": "2020-11-28 17:25:25.656000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[880ede87](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/880ede87e9df0b15d879ac5e80466c9747c34487): prepared tent.css - ciripel",
+      "type": "rich"
+    }
   }
 ]
