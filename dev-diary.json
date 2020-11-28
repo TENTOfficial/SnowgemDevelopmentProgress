@@ -28138,5 +28138,15 @@
       "description": "[b70cd211](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/b70cd211d15612c2b3def896e301a73bc226923c): fixed translation - need only link in BadTxnsOversize when we have it from webdesigners - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [Rebrand\\_to\\_TENT](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/Rebrand_to_TENT) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/b70cd211d15612c2b3def896e301a73bc226923c...ccbae7873863cc88bc0e064de6b913be6ab33925))",
+    "created_at": "2020-11-28 15:30:49.639000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ccbae787](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/ccbae7873863cc88bc0e064de6b913be6ab33925): fixed tentTeam field - ciripel",
+      "type": "rich"
+    }
   }
 ]
