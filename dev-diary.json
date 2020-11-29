@@ -28349,5 +28349,10 @@
       "description": "[f71b82f2](https://gitlab.com/snowgem/snowpay-api/-/commit/f71b82f2abf5c079333d50a5a12aca60e4a146d5): #170 - added fiat to crypto swaps list - Kamil Wojciechowski\n\n[8dadabe2](https://gitlab.com/snowgem/snowpay-api/-/commit/8dadabe246c4158d39a64d21f0d51dbc536d2cbf): Merge branch 'feature__170__get_list_of_fiat_swaps' into 'master' - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed new branch [feature\\_\\_171\\_\\_fiat\\_to\\_crypto\\_params\\_list](https://gitlab.com/snowgem/snowpay-api/commits/feature__171__fiat_to_crypto_params_list) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-29 22:12:18.805000"
   }
 ]
