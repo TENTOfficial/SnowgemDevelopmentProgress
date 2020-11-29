@@ -28354,5 +28354,35 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature\\_\\_171\\_\\_fiat\\_to\\_crypto\\_params\\_list](https://gitlab.com/snowgem/snowpay-api/commits/feature__171__fiat_to_crypto_params_list) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-29 22:12:18.805000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!53 \\*\\#171 \\- added FIAT to stable coins swap params calculations\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/53) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-29 22:15:15.741000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!53 \\*\\#171 \\- added FIAT to stable coins swap params calculations\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/53) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-29 22:15:22.556000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature__171__fiat_to_crypto_params_list from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-29 22:15:23.007000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!53 \\*\\#171 \\- added FIAT to stable coins swap params calculations\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/53) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-29 22:15:23.014000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8dadabe246c4158d39a64d21f0d51dbc536d2cbf...f59944834ef29160123671e2cf1c21a21d895339))",
+    "created_at": "2020-11-29 22:15:23.174000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6160e112](https://gitlab.com/snowgem/snowpay-api/-/commit/6160e11239f1b8a4941538c6cb86e963c93b99ba): #171 - added FIAT to stable coins swap params calculations - Kamil Wojciechowski\n\n[f5994483](https://gitlab.com/snowgem/snowpay-api/-/commit/f59944834ef29160123671e2cf1c21a21d895339): Merge branch 'feature__171__fiat_to_crypto_params_list' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
