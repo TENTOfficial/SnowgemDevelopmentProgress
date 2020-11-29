@@ -28259,5 +28259,25 @@
     "author": "GitLab",
     "content": "demzet (aphex5) opened merge request [\\!51 \\*Feature  131  topup client\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/51) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-29 15:42:57.458000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!51 \\*Feature  131  topup client\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/51) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-29 15:45:08.064000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet removed branch feature__131__topup_client from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-29 15:45:08.521000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/543073a2846519b9fbb833bee8dd6e12624cfcb4...c9dc7e44e5215e33bd5205296ab1f0d1bbc5100f))",
+    "created_at": "2020-11-29 15:45:08.851000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[21ba0ba8](https://gitlab.com/snowgem/snowpay-api/-/commit/21ba0ba8907db8670b95488b451668a504d7df9e): #131 - implemented topup integration client - Kamil Wojciechowski\n\n[9c6c229d](https://gitlab.com/snowgem/snowpay-api/-/commit/9c6c229d5c3b049bdd39f73a2f4ededf00c2edf1): #131 - moved en-queue card payment to payment cards service - Kamil Wojciechowski\n\n[c9dc7e44](https://gitlab.com/snowgem/snowpay-api/-/commit/c9dc7e44e5215e33bd5205296ab1f0d1bbc5100f): Merge branch 'feature__131__topup_client' into 'master' - demzet",
+      "type": "rich"
+    }
   }
 ]
