@@ -28304,5 +28304,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature\\_\\_170\\_\\_get\\_list\\_of\\_fiat\\_swaps](https://gitlab.com/snowgem/snowpay-api/commits/feature__170__get_list_of_fiat_swaps) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-29 19:50:44.817000"
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/74acb986291b99734160b98c6cd6f77862fa6433...b2ee382c1432cb2954dc5fccbe9487678b883640))",
+    "created_at": "2020-11-29 20:05:54.155000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b2ee382c](https://gitlab.com/snowgem/asgard/-/commit/b2ee382c1432cb2954dc5fccbe9487678b883640): paypal integration part1 - V",
+      "type": "rich"
+    }
   }
 ]
