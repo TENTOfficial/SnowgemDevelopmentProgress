@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2872 commits since 20/01/2020. You can see the complete history in
+There is a total of 2873 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-11-29 08:40:32</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/3383e6f293a06b8a764a54ca3a0790c3fd90a709...beb39890b3b46bc1d10bde36c3b98da9468cbfeb))</sub> | <sub>[beb39890](https://gitlab.com/snowgem/freyja/-/commit/beb39890b3b46bc1d10bde36c3b98da9468cbfeb): API change to support multi operations - V</sub> |
 | <sub>2020-11-28 22:49:54</sub> | <sub>demzet pushed new branch [feature\_\_131\_\_topup\_client](https://gitlab.com/snowgem/snowpay-api/commits/feature__131__topup_client) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-28 22:36:00</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/957ffd108a66d1fd094b53a4b64969a1651b67a9)</sub> | <sub>[957ffd1](https://github.com/TENTOfficial/ServerConfig/commit/957ffd108a66d1fd094b53a4b64969a1651b67a9) Droped SnowGem, Commercium and BitZec Completel... - ciripel</sub> |
 | <sub>2020-11-28 22:25:18</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/e164fb81bb2c5992c343a4fc9f683e41940de95b)</sub> | <sub>[e164fb8](https://github.com/TENTOfficial/ServerConfig/commit/e164fb81bb2c5992c343a4fc9f683e41940de95b) added TENT to beta and dropped BitZec and Comme... - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2872 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-11-28 20:23:18</sub> | <sub>demzet (aphex5) approved merge request [\!50 \*Relase 2020 11 30\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/50) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-28 20:23:12</sub> | <sub>demzet (aphex5) opened merge request [\!50 \*Relase 2020 11 30\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/50) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-11-28 17:25:25</sub> | <sub>ciripel pushed to branch [Rebrand\_to\_TENT](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/Rebrand_to_TENT) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/ccbae7873863cc88bc0e064de6b913be6ab33925...880ede87e9df0b15d879ac5e80466c9747c34487))</sub> | <sub>[880ede87](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/880ede87e9df0b15d879ac5e80466c9747c34487): prepared tent.css - ciripel</sub> |
-| <sub>2020-11-28 15:30:49</sub> | <sub>ciripel pushed to branch [Rebrand\_to\_TENT](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/Rebrand_to_TENT) of [snowgem / modernwallet\_desktop\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/b70cd211d15612c2b3def896e301a73bc226923c...ccbae7873863cc88bc0e064de6b913be6ab33925))</sub> | <sub>[ccbae787](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/ccbae7873863cc88bc0e064de6b913be6ab33925): fixed tentTeam field - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

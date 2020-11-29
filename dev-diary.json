@@ -28234,5 +28234,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature\\_\\_131\\_\\_topup\\_client](https://gitlab.com/snowgem/snowpay-api/commits/feature__131__topup_client) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-28 22:49:54.141000"
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/3383e6f293a06b8a764a54ca3a0790c3fd90a709...beb39890b3b46bc1d10bde36c3b98da9468cbfeb))",
+    "created_at": "2020-11-29 08:40:32.889000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[beb39890](https://gitlab.com/snowgem/freyja/-/commit/beb39890b3b46bc1d10bde36c3b98da9468cbfeb): API change to support multi operations - V",
+      "type": "rich"
+    }
   }
 ]
