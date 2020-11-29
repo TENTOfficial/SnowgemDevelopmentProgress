@@ -28254,5 +28254,10 @@
       "description": "[9c6c229d](https://gitlab.com/snowgem/snowpay-api/-/commit/9c6c229d5c3b049bdd39f73a2f4ededf00c2edf1): #131 - moved en-queue card payment to payment cards service - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!51 \\*Feature  131  topup client\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/51) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-11-29 15:42:57.458000"
   }
 ]
