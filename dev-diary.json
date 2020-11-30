@@ -28438,5 +28438,15 @@
     "author": "GitLab",
     "content": "demzet pushed new branch [feature\\_\\_fiat\\_gateway](https://gitlab.com/snowgem/snowpay-api/commits/feature__fiat_gateway) to [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2020-11-30 09:03:13.895000"
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/b2ee382c1432cb2954dc5fccbe9487678b883640...5e0edc1c2e857cce55e439311adc14bd9a0a4099))",
+    "created_at": "2020-11-30 09:49:05.221000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5e0edc1c](https://gitlab.com/snowgem/asgard/-/commit/5e0edc1c2e857cce55e439311adc14bd9a0a4099): automatically use dev config in dev env - V",
+      "type": "rich"
+    }
   }
 ]
