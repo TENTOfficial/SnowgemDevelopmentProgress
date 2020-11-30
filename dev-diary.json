@@ -28508,5 +28508,15 @@
       "description": "[b1069b16](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/b1069b167aa0d460040dfa7a8bc4130c5d42aa39): Applied global.commands to multiple places - fixed #15 - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/b1069b167aa0d460040dfa7a8bc4130c5d42aa39...ad7cc62c906e5805a5fc45a130ed720d4a228af5))",
+    "created_at": "2020-11-30 13:01:46.995000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ad7cc62c](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/ad7cc62c906e5805a5fc45a130ed720d4a228af5): fixed Address Book menu - ciripel",
+      "type": "rich"
+    }
   }
 ]
