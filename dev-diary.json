@@ -28690,5 +28690,33 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!4 \\*Use shared configuration for passwords\\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/4) in [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
     "created_at": "2020-11-30 21:19:00.767000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-11-30 21:37:31.976000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`3109aa2`](https://github.com/TENTOfficial/ModernWalletLangPack/commit/3109aa25fbf3c420afc4a23ead89cd475b8185df) updated last translation files... added shielde... - ciripel",
+      "title": "[ModernWalletLangPack:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ModernWalletLangPack/commit/3109aa25fbf3c420afc4a23ead89cd475b8185df"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_fiat\\_gateway](https://gitlab.com/snowgem/snowpay-api/commits/feature__fiat_gateway) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9cc32b5658fff75387a86829cfc3c5f6396e9018...99dbae2d8896de6aebe1dd2bf6c6a11aa2f56520))",
+    "created_at": "2020-11-30 21:37:34.293000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[99dbae2d](https://gitlab.com/snowgem/snowpay-api/-/commit/99dbae2d8896de6aebe1dd2bf6c6a11aa2f56520): #175  CoinSwapping (saga) receives command starting fiat to crypto saga - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
