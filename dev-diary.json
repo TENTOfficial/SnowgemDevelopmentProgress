@@ -28528,5 +28528,15 @@
       "description": "[92a9d54e](https://gitlab.com/snowgem/asgard/-/commit/92a9d54e1f986a36d979942681ff09534672867f): paypal integration part 2 - V\n\n[689866c9](https://gitlab.com/snowgem/asgard/-/commit/689866c977cb65a5332fd73e016b52d85a88bd55): fixed order confirmation - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/689866c977cb65a5332fd73e016b52d85a88bd55...aa4f8fdb53f41ff6b57c4066d43dfe8af3d53a55))",
+    "created_at": "2020-11-30 14:41:10.388000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[aa4f8fdb](https://gitlab.com/snowgem/asgard/-/commit/aa4f8fdb53f41ff6b57c4066d43dfe8af3d53a55): real balance in header - V",
+      "type": "rich"
+    }
   }
 ]
