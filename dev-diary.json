@@ -28604,5 +28604,15 @@
       "description": "[9cc32b56](https://gitlab.com/snowgem/snowpay-api/-/commit/9cc32b5658fff75387a86829cfc3c5f6396e9018): #174 - API receives webhook notification about order state - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/ad7cc62c906e5805a5fc45a130ed720d4a228af5...ef55103b775294e608036b0d2b0768a13b391b01))",
+    "created_at": "2020-11-30 20:34:26.099000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ef55103b](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/ef55103b775294e608036b0d2b0768a13b391b01): implemented translations for shield buttons tips - fixed #13 - ciripel",
+      "type": "rich"
+    }
   }
 ]
