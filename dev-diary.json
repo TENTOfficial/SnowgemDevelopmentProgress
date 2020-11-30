@@ -28670,5 +28670,25 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/masternode-upgrade/commit/230e929bf037ea22a6610d1398c96f3c711f60cd"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [master](https://gitlab.com/snowgem/tent-configuration/commits/master) of [snowgem / tent\\-configuration](https://gitlab.com/snowgem/tent-configuration) ([Compare changes](https://gitlab.com/snowgem/tent-configuration/compare/e9af616750f798818e32fcb36c3d61c6d534fe66...7d33e3f1448b545abdeb7838c8059ac664edcdf8))",
+    "created_at": "2020-11-30 21:16:35.241000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7d33e3f1](https://gitlab.com/snowgem/tent-configuration/-/commit/7d33e3f1448b545abdeb7838c8059ac664edcdf8): Add password validators - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug/223\\-different\\_rules\\_for\\_passwords](https://gitlab.com/snowgem/activation-tent-microsite/commits/bug/223-different_rules_for_passwords) to [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
+    "created_at": "2020-11-30 21:17:28.532000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!4 \\*Use shared configuration for passwords\\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/4) in [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
+    "created_at": "2020-11-30 21:19:00.767000"
   }
 ]
