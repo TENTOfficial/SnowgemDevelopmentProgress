@@ -28458,5 +28458,15 @@
       "description": "[e9023743](https://gitlab.com/snowgem/snowpay-api/-/commit/e90237433e5d4193d11889c78ed44bf6b997a734): #172 - User gets swap reports for FiatToCrypto swap type - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [Rebrand\\_to\\_TENT](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/Rebrand_to_TENT) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/a03118c8218f463297510ac5d0773284cd385d78...60ad95cdd9486aef55faf062a78aea93242cb59a))",
+    "created_at": "2020-11-30 12:01:27.421000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[60ad95cd](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/60ad95cdd9486aef55faf062a78aea93242cb59a): ADDED price and pricechange for TENT and removed for SnowGem - ciripel",
+      "type": "rich"
+    }
   }
 ]
