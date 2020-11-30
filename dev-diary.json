@@ -28758,5 +28758,25 @@
       "description": "[c4195b59](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/c4195b594d9f09adb522c795d8ecd87f0d429488): build changes - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [master](https://gitlab.com/snowgem/tent-configuration/commits/master) of [snowgem / tent\\-configuration](https://gitlab.com/snowgem/tent-configuration) ([Compare changes](https://gitlab.com/snowgem/tent-configuration/compare/c22ce0e93e3916d535e5976ba5c16d2c7cfd367d...4baf2596f29a6887b7ae1d038fcb02b7a2773097))",
+    "created_at": "2020-11-30 22:08:47.952000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4baf2596](https://gitlab.com/snowgem/tent-configuration/-/commit/4baf2596f29a6887b7ae1d038fcb02b7a2773097): Remove unncecesary module - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/223\\-different\\_rules\\_for\\_passwords](https://gitlab.com/snowgem/activation-tent-microsite/commits/bug/223-different_rules_for_passwords) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/c4195b594d9f09adb522c795d8ecd87f0d429488...3b3ed9922dead2c15235d57a7899d6f345f6a163))",
+    "created_at": "2020-11-30 22:09:14.471000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3b3ed992](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/3b3ed9922dead2c15235d57a7899d6f345f6a163): update module - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
