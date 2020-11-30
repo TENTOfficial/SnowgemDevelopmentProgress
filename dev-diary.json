@@ -28448,5 +28448,15 @@
       "description": "[5e0edc1c](https://gitlab.com/snowgem/asgard/-/commit/5e0edc1c2e857cce55e439311adc14bd9a0a4099): automatically use dev config in dev env - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_fiat\\_gateway](https://gitlab.com/snowgem/snowpay-api/commits/feature__fiat_gateway) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e8c903bfe2df368aa9c363d7c52a468b332d40d9...e90237433e5d4193d11889c78ed44bf6b997a734))",
+    "created_at": "2020-11-30 10:55:40.539000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e9023743](https://gitlab.com/snowgem/snowpay-api/-/commit/e90237433e5d4193d11889c78ed44bf6b997a734): #172 - User gets swap reports for FiatToCrypto swap type - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
