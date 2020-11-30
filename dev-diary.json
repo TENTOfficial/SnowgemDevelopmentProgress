@@ -28748,5 +28748,15 @@
       "description": "[855d1082](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/855d10823ff5b574e5ff638ec3cdaa2a99647c03): change path - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/223\\-different\\_rules\\_for\\_passwords](https://gitlab.com/snowgem/activation-tent-microsite/commits/bug/223-different_rules_for_passwords) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/855d10823ff5b574e5ff638ec3cdaa2a99647c03...c4195b594d9f09adb522c795d8ecd87f0d429488))",
+    "created_at": "2020-11-30 22:04:10.648000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c4195b59](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/c4195b594d9f09adb522c795d8ecd87f0d429488): build changes - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
