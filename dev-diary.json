@@ -28468,5 +28468,15 @@
       "description": "[60ad95cd](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/60ad95cdd9486aef55faf062a78aea93242cb59a): ADDED price and pricechange for TENT and removed for SnowGem - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [Rebrand\\_to\\_TENT](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/Rebrand_to_TENT) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/60ad95cdd9486aef55faf062a78aea93242cb59a...dc182274c6fc284041d8fe535be3c65fb0ca634f))",
+    "created_at": "2020-11-30 12:05:50.953000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[dc182274](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/dc182274c6fc284041d8fe535be3c65fb0ca634f): defaulted to TENT instead of SnowGem - ciripel",
+      "type": "rich"
+    }
   }
 ]
