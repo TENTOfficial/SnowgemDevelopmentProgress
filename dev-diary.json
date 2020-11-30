@@ -28614,5 +28614,25 @@
       "description": "[ef55103b](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/ef55103b775294e608036b0d2b0768a13b391b01): implemented translations for shield buttons tips - fixed #13 - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/beb39890b3b46bc1d10bde36c3b98da9468cbfeb...365ecab97571633c4836b416fbc3e2000f8dadd6))",
+    "created_at": "2020-11-30 20:41:33.036000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[365ecab9](https://gitlab.com/snowgem/freyja/-/commit/365ecab97571633c4836b416fbc3e2000f8dadd6): added default value for TIMEOUT_STOP_SEC - V",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/365ecab97571633c4836b416fbc3e2000f8dadd6...290f667c7bcaea760285654ca743d5bd64b59d42))",
+    "created_at": "2020-11-30 20:42:15.847000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[290f667c](https://gitlab.com/snowgem/freyja/-/commit/290f667c7bcaea760285654ca743d5bd64b59d42): version bump - V",
+      "type": "rich"
+    }
   }
 ]
