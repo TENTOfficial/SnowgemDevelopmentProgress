@@ -28718,5 +28718,25 @@
       "description": "[99dbae2d](https://gitlab.com/snowgem/snowpay-api/-/commit/99dbae2d8896de6aebe1dd2bf6c6a11aa2f56520): #175  CoinSwapping (saga) receives command starting fiat to crypto saga - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [master](https://gitlab.com/snowgem/tent-configuration/commits/master) of [snowgem / tent\\-configuration](https://gitlab.com/snowgem/tent-configuration) ([Compare changes](https://gitlab.com/snowgem/tent-configuration/compare/7d33e3f1448b545abdeb7838c8059ac664edcdf8...c22ce0e93e3916d535e5976ba5c16d2c7cfd367d))",
+    "created_at": "2020-11-30 21:42:58.088000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c22ce0e9](https://gitlab.com/snowgem/tent-configuration/-/commit/c22ce0e93e3916d535e5976ba5c16d2c7cfd367d): Add angular module - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/223\\-different\\_rules\\_for\\_passwords](https://gitlab.com/snowgem/activation-tent-microsite/commits/bug/223-different_rules_for_passwords) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/499d2ca29e0cd1b166eb1ce156170815a6468625...659f45534eee10a2485ebe077e43bed5239b50f9))",
+    "created_at": "2020-11-30 21:43:22.426000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[659f4553](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/659f45534eee10a2485ebe077e43bed5239b50f9): Update shared submodule - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
