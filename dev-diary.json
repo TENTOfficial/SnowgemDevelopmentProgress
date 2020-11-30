@@ -28594,5 +28594,15 @@
       "description": "[9cf49536](https://gitlab.com/snowgem/asgard/-/commit/9cf49536139bd0df331753400c862b6aa98621aa): updated readme - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_fiat\\_gateway](https://gitlab.com/snowgem/snowpay-api/commits/feature__fiat_gateway) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e90237433e5d4193d11889c78ed44bf6b997a734...9cc32b5658fff75387a86829cfc3c5f6396e9018))",
+    "created_at": "2020-11-30 20:27:35.529000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9cc32b56](https://gitlab.com/snowgem/snowpay-api/-/commit/9cc32b5658fff75387a86829cfc3c5f6396e9018): #174 - API receives webhook notification about order state - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
