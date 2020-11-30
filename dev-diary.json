@@ -28498,5 +28498,15 @@
       "description": "[94ef3af6](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/94ef3af60f1fd6193213feda1ad1cd354e116ffd): Change all Address Labels Buttons and translations - fixed #16 - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/94ef3af60f1fd6193213feda1ad1cd354e116ffd...b1069b167aa0d460040dfa7a8bc4130c5d42aa39))",
+    "created_at": "2020-11-30 12:59:03",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b1069b16](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/b1069b167aa0d460040dfa7a8bc4130c5d42aa39): Applied global.commands to multiple places - fixed #15 - ciripel",
+      "type": "rich"
+    }
   }
 ]
