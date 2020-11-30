@@ -28738,5 +28738,15 @@
       "description": "[659f4553](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/659f45534eee10a2485ebe077e43bed5239b50f9): Update shared submodule - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/223\\-different\\_rules\\_for\\_passwords](https://gitlab.com/snowgem/activation-tent-microsite/commits/bug/223-different_rules_for_passwords) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/659f45534eee10a2485ebe077e43bed5239b50f9...855d10823ff5b574e5ff638ec3cdaa2a99647c03))",
+    "created_at": "2020-11-30 21:56:11.980000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[855d1082](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/855d10823ff5b574e5ff638ec3cdaa2a99647c03): change path - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
