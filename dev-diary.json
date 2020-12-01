@@ -28788,5 +28788,15 @@
       "description": "[6ab02cd4](https://gitlab.com/snowgem/snowpay-api/-/commit/6ab02cd4a96e31886aaedd4d8eea68338d42d761): #178 - CoinSwapping (saga) receives withdrawal confirmation event from... - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug/223\\-different\\_rules\\_for\\_passwords](https://gitlab.com/snowgem/bitfrost/commits/bug/223-different_rules_for_passwords) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-01 08:18:04.123000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!93 \\*Bug/223 different rules for passwords\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/93) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-01 08:18:42.711000"
   }
 ]
