@@ -28818,5 +28818,15 @@
       "description": "[60fb0de8](https://gitlab.com/snowgem/asgard/-/commit/60fb0de8c1bb3f5deb1f1e12d0f5a58772e47c34): fixed paypal order to account reference - V\n\n[fd0ef4e4](https://gitlab.com/snowgem/asgard/-/commit/fd0ef4e413b1ad034908457c8d30d4c44c8c50d2): update balance on order confirmation - V\n\n[67be07fd](https://gitlab.com/snowgem/asgard/-/commit/67be07fd48c99d129cf1b8d1a1c0ea039da7a83f): added notice about referencing log codebase from alis - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/master) of [snowgem / modernwallet\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/ef55103b775294e608036b0d2b0768a13b391b01...a71bb3d410fefa320e3525eab7dc1bb657192a49))",
+    "created_at": "2020-12-01 19:45:41.270000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a71bb3d4](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/a71bb3d410fefa320e3525eab7dc1bb657192a49): small Ro typo fix - ciripel",
+      "type": "rich"
+    }
   }
 ]
