@@ -28848,5 +28848,15 @@
       "description": "[07e1e764](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/07e1e76412f4baca9147093474d17fee554e5f1e): translated Shieding Tooltips for CZ and DE - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_fiat\\_gateway](https://gitlab.com/snowgem/snowpay-api/commits/feature__fiat_gateway) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6ab02cd4a96e31886aaedd4d8eea68338d42d761...111193509a1b8ceb149505be7687df7d1fc0bc26))",
+    "created_at": "2020-12-01 21:23:58.620000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[11119350](https://gitlab.com/snowgem/snowpay-api/-/commit/111193509a1b8ceb149505be7687df7d1fc0bc26): #167 - removed topup fee - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
