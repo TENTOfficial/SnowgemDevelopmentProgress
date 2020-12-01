@@ -28858,5 +28858,15 @@
       "description": "[11119350](https://gitlab.com/snowgem/snowpay-api/-/commit/111193509a1b8ceb149505be7687df7d1fc0bc26): #167 - removed topup fee - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [feature\\_\\_fiat\\_gateway](https://gitlab.com/snowgem/snowpay-api/commits/feature__fiat_gateway) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/111193509a1b8ceb149505be7687df7d1fc0bc26...65e05f27ddaea1148cdb59293a995518fca3ee47))",
+    "created_at": "2020-12-01 21:44:59.342000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[65e05f27](https://gitlab.com/snowgem/snowpay-api/-/commit/65e05f27ddaea1148cdb59293a995518fca3ee47): added missing migration and hosted service - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
