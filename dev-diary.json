@@ -28808,5 +28808,15 @@
       "description": "[2f3102e8](https://gitlab.com/snowgem/bitfrost/-/commit/2f3102e883a3ddccb5e59f7a1a2f2d1fac5a27d8): Update .gitmodules - Jan Vra\u0161til",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/9cf49536139bd0df331753400c862b6aa98621aa...67be07fd48c99d129cf1b8d1a1c0ea039da7a83f))",
+    "created_at": "2020-12-01 17:01:29.094000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[60fb0de8](https://gitlab.com/snowgem/asgard/-/commit/60fb0de8c1bb3f5deb1f1e12d0f5a58772e47c34): fixed paypal order to account reference - V\n\n[fd0ef4e4](https://gitlab.com/snowgem/asgard/-/commit/fd0ef4e413b1ad034908457c8d30d4c44c8c50d2): update balance on order confirmation - V\n\n[67be07fd](https://gitlab.com/snowgem/asgard/-/commit/67be07fd48c99d129cf1b8d1a1c0ea039da7a83f): added notice about referencing log codebase from alis - V",
+      "type": "rich"
+    }
   }
 ]
