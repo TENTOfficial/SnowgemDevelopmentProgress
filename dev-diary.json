@@ -28878,5 +28878,20 @@
       "description": "[24094aa9](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/24094aa94242d21f92f4a7b9b168d7da86307606): Update paths - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/760ee2e1baae5812438857d076b1a0a6d7ca11a4...de937c35732f4279671a39c2d1fe0a065d988ad1))",
+    "created_at": "2020-12-02 06:26:07.857000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6dccb926](https://gitlab.com/snowgem/bitfrost/-/commit/6dccb926bf31fad257898ac4244a5e0edbaab01e): Bug/223 different rules for passwords - Jan Vra\u0161til\n\n[de937c35](https://gitlab.com/snowgem/bitfrost/-/commit/de937c35732f4279671a39c2d1fe0a065d988ad1): Merge branch 'bug/223-different_rules_for_passwords' into 'v0.1.3' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!93 \\*Bug/223 different rules for passwords\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/93) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-02 06:26:08.015000"
   }
 ]
