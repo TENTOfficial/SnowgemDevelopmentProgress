@@ -28990,5 +28990,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/insight-ui-tent/compare/abaa4f28e191^...c8f6c63e9fa4"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-02 21:02:56.384000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b9992a1`](https://github.com/TENTOfficial/insight-api-tent/commit/b9992a1161ca1a97edafc847fee9a4654d7286de) rebranded api to tent - ciripel",
+      "title": "[insight-api-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/insight-api-tent/commit/b9992a1161ca1a97edafc847fee9a4654d7286de"
+    }
   }
 ]
