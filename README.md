@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2955 commits since 20/01/2020. You can see the complete history in
+There is a total of 2956 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-02 23:02:08</sub> | <sub>[[insight-ui-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-ui-tent/commit/ff4464f4dcd4e55974e933969ed9f16093473d41)</sub> | <sub>[ff4464f](https://github.com/TENTOfficial/insight-ui-tent/commit/ff4464f4dcd4e55974e933969ed9f16093473d41) rebranding ui - ciripel</sub> |
 | <sub>2020-12-02 22:09:54</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/290f667c7bcaea760285654ca743d5bd64b59d42...88ddcfab66d6d4da0895f87c122c6072b4151625))</sub> | <sub>[88ddcfab](https://gitlab.com/snowgem/freyja/-/commit/88ddcfab66d6d4da0895f87c122c6072b4151625): do not report status of nodes in preparation - V</sub> |
 | <sub>2020-12-02 21:24:37</sub> | <sub>[[insight-api-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-api-tent/commit/30c575a25a153536368f4f02a2e82c114508c965)</sub> | <sub>[30c575a](https://github.com/TENTOfficial/insight-api-tent/commit/30c575a25a153536368f4f02a2e82c114508c965) more fixes - ciripel</sub> |
 | <sub>2020-12-02 21:02:56</sub> | <sub>[[insight-api-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-api-tent/commit/b9992a1161ca1a97edafc847fee9a4654d7286de)</sub> | <sub>[b9992a1](https://github.com/TENTOfficial/insight-api-tent/commit/b9992a1161ca1a97edafc847fee9a4654d7286de) rebranded api to tent - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 2955 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-02 19:39:30</sub> | <sub>[[insight-ui-snowgem:master] 1 new commit](https://github.com/TENTOfficial/insight-ui-snowgem/commit/c8f6c63e9fa499b3468698a63bc866e77372b291)</sub> | <sub>[c8f6c63](https://github.com/TENTOfficial/insight-ui-snowgem/commit/c8f6c63e9fa499b3468698a63bc866e77372b291) ticker change to TENT - ciripel</sub> |
 | <sub>2020-12-02 19:39:14</sub> | <sub>[[insight-api-snowgem:master] 1 new commit](https://github.com/TENTOfficial/insight-api-snowgem/commit/315a65c81bcfde594e7f1fa2a2cd10d01aecc2f9)</sub> | <sub>[315a65c](https://github.com/TENTOfficial/insight-api-snowgem/commit/315a65c81bcfde594e7f1fa2a2cd10d01aecc2f9) xsg-tent comment - ciripel</sub> |
 | <sub>2020-12-02 06:36:25</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/activation-tent-microsite/commits/master) of [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/eb90d5e6d0880bfa49f4c5c82992fc4ee04dc154...a456b6859132e2b0e30d843a2c1769e28d112447))</sub> | <sub>[c254a87b](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/c254a87bd6eb1fdcea3c7a859c24f3cd8198241a): Use shared configuration for passwords - Jan Vraštil<br>[a456b685](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/a456b6859132e2b0e30d843a2c1769e28d112447): Merge branch 'bug/223-different_rules_for_passwords' into 'master' - Txid</sub> |
-| <sub>2020-12-02 06:36:25</sub> | <sub>Txid (txid) merged merge request [\!4 \*Use shared configuration for passwords\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/4) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

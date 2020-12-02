@@ -29036,5 +29036,23 @@
       "description": "[88ddcfab](https://gitlab.com/snowgem/freyja/-/commit/88ddcfab66d6d4da0895f87c122c6072b4151625): do not report status of nodes in preparation - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-02 23:02:08.585000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ff4464f`](https://github.com/TENTOfficial/insight-ui-tent/commit/ff4464f4dcd4e55974e933969ed9f16093473d41) rebranding ui - ciripel",
+      "title": "[insight-ui-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/insight-ui-tent/commit/ff4464f4dcd4e55974e933969ed9f16093473d41"
+    }
   }
 ]
