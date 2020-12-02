@@ -28868,5 +28868,15 @@
       "description": "[65e05f27](https://gitlab.com/snowgem/snowpay-api/-/commit/65e05f27ddaea1148cdb59293a995518fca3ee47): added missing migration and hosted service - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/223\\-different\\_rules\\_for\\_passwords](https://gitlab.com/snowgem/activation-tent-microsite/commits/bug/223-different_rules_for_passwords) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/3b3ed9922dead2c15235d57a7899d6f345f6a163...24094aa94242d21f92f4a7b9b168d7da86307606))",
+    "created_at": "2020-12-02 06:05:20.247000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[24094aa9](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/24094aa94242d21f92f4a7b9b168d7da86307606): Update paths - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
