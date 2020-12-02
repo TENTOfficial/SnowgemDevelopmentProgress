@@ -29026,5 +29026,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/insight-api-tent/commit/30c575a25a153536368f4f02a2e82c114508c965"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/290f667c7bcaea760285654ca743d5bd64b59d42...88ddcfab66d6d4da0895f87c122c6072b4151625))",
+    "created_at": "2020-12-02 22:09:54.971000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[88ddcfab](https://gitlab.com/snowgem/freyja/-/commit/88ddcfab66d6d4da0895f87c122c6072b4151625): do not report status of nodes in preparation - V",
+      "type": "rich"
+    }
   }
 ]
