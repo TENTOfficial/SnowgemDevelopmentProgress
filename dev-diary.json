@@ -29054,5 +29054,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/insight-ui-tent/commit/ff4464f4dcd4e55974e933969ed9f16093473d41"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug/238\\-wrong\\_toast\\_msg\\_after\\_incorrect\\_sms\\_code](https://gitlab.com/snowgem/bitfrost/commits/bug/238-wrong_toast_msg_after_incorrect_sms_code) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-03 06:41:34.602000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [!94 *[FIX #238] Bug/238 wrong toast msg after incorrect sms code*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/94) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-03 06:42:06.630000"
   }
 ]
