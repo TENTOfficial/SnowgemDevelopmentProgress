@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-03 20:15:45</sub> | <sub>[[insight-ui-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-ui-tent/commit/d32d79fecbdc931d290e822ddcea5ae634fccbf6)</sub> | <sub>[d32d79f](https://github.com/TENTOfficial/insight-ui-tent/commit/d32d79fecbdc931d290e822ddcea5ae634fccbf6) TENT to netSymbol - ciripel</sub> |
 | <sub>2020-12-03 20:14:03</sub> | <sub>[[insight-api-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-api-tent/commit/1e486e40d3518b8d419bdc0168827c90e9e5d572)</sub> | <sub>[1e486e4](https://github.com/TENTOfficial/insight-api-tent/commit/1e486e40d3518b8d419bdc0168827c90e9e5d572) using rebranded libs - ciripel</sub> |
 | <sub>2020-12-03 20:10:10</sub> | <sub>[[insight-api-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-api-tent/commit/22edafea97025a261d894525fbf5f2131f675256)</sub> | <sub>[22edafe](https://github.com/TENTOfficial/insight-api-tent/commit/22edafea97025a261d894525fbf5f2131f675256) fixed readme.md - ciripel</sub> |
 | <sub>2020-12-03 20:08:05</sub> | <sub>[[insight-api-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-api-tent/commit/03ac84c8a447c0708050049704529c31cc917fb9)</sub> | <sub>[03ac84c](https://github.com/TENTOfficial/insight-api-tent/commit/03ac84c8a447c0708050049704529c31cc917fb9) fixed package.json, pools.json, curency.js and ... - ciripel</sub> |
