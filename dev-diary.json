@@ -29293,5 +29293,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/bitcore-build-tent/compare/e9fab401d5c5^...268485b0bee3"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [bugs/zcash](https://gitlab.com/snowgem/bitfrost/commits/bugs/zcash) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/68864468996517ac1d34dd03931d08c244dcea30...dfb9a975b392312ced39ca997b6d9d1e217a5329))",
+    "created_at": "2020-12-03 19:49:03.098000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[dfb9a975](https://gitlab.com/snowgem/bitfrost/-/commit/dfb9a975b392312ced39ca997b6d9d1e217a5329): fix zcash tx 2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
