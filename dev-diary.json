@@ -29405,5 +29405,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!97 \\*V0\\.1\\.3\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/97) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-12-03 20:24:06.855000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9107e01db4df09c6a39c9b0cdb7bc96f020fed62...765856dd6fbc4852eb76741c0e0c74e54e5d4d12))",
+    "created_at": "2020-12-03 20:29:52.494000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d87a53ce](https://gitlab.com/snowgem/bitfrost/-/commit/d87a53cec9a85dcc262bc83d62e55c70196332b9): update submodule for prod - Snowgem\n\n[9f3569ad](https://gitlab.com/snowgem/bitfrost/-/commit/9f3569ad88903e8068339403b56b9dbafd49704b): init sub module - Snowgem\n\n[3fd2025b](https://gitlab.com/snowgem/bitfrost/-/commit/3fd2025b69a6f2123829ed05797a79331b071b71): fix check new tx v2 - Snowgem\n\n[68864468](https://gitlab.com/snowgem/bitfrost/-/commit/68864468996517ac1d34dd03931d08c244dcea30): fix zcash transaction - Snowgem\n\n[dfb9a975](https://gitlab.com/snowgem/bitfrost/-/commit/dfb9a975b392312ced39ca997b6d9d1e217a5329): fix zcash tx 2 - Snowgem\n\n[22d71391](https://gitlab.com/snowgem/bitfrost/-/commit/22d7139108ccb60382fe3dabb03d4bdf58772e29): Merge branch 'bugs/zcash' into 'v0.1.3' - Txid\n\n[765856dd](https://gitlab.com/snowgem/bitfrost/-/commit/765856dd6fbc4852eb76741c0e0c74e54e5d4d12): Merge branch 'v0.1.3' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!97 \\*V0\\.1\\.3\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/97) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-03 20:29:52.628000"
   }
 ]
