@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2992 commits since 20/01/2020. You can see the complete history in
+There is a total of 2994 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-03 21:58:54</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/765856dd6fbc4852eb76741c0e0c74e54e5d4d12...ecd95893ba356ab7a1d626eabcbcbe8cadf109bf))</sub> | <sub>[cd2a4eb0](https://gitlab.com/snowgem/bitfrost/-/commit/cd2a4eb0ecec6ba24a37db73e8ef21863142b84d): prepare appflow - Snowgem<br>[4d6c0811](https://gitlab.com/snowgem/bitfrost/-/commit/4d6c0811c7380fc6a1232cb6d32e1f5a1dc5ef9f): Merge branch 'v0.1.3' of https://gitlab.com/snowgem/bitfrost into v0.1.3 - Snowgem<br>[ecd95893](https://gitlab.com/snowgem/bitfrost/-/commit/ecd95893ba356ab7a1d626eabcbcbe8cadf109bf): Merge branch 'v0.1.3' into 'testing' - Txid</sub> |
+| <sub>2020-12-03 21:58:54</sub> | <sub>Txid (txid) merged merge request [\!98 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/98) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-03 21:54:12</sub> | <sub>Txid (txid) opened merge request [\!98 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/98) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-03 21:53:48</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/22d7139108ccb60382fe3dabb03d4bdf58772e29...4d6c0811c7380fc6a1232cb6d32e1f5a1dc5ef9f))</sub> | <sub>[cd2a4eb0](https://gitlab.com/snowgem/bitfrost/-/commit/cd2a4eb0ecec6ba24a37db73e8ef21863142b84d): prepare appflow - Snowgem<br>[4d6c0811](https://gitlab.com/snowgem/bitfrost/-/commit/4d6c0811c7380fc6a1232cb6d32e1f5a1dc5ef9f): Merge branch 'v0.1.3' of https://gitlab.com/snowgem/bitfrost into v0.1.3 - Snowgem</sub> |
 | <sub>2020-12-03 21:47:34</sub> | <sub>[[insight-ui-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-ui-tent/commit/8047abab90378b99307d86cab121c2effd166253)</sub> | <sub>[8047aba](https://github.com/TENTOfficial/insight-ui-tent/commit/8047abab90378b99307d86cab121c2effd166253) rebranded to TENT - ciripel</sub> |
@@ -16,7 +18,5 @@ There is a total of 2992 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-03 20:24:06</sub> | <sub>Txid (txid) opened merge request [\!97 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/97) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-03 20:15:45</sub> | <sub>[[insight-ui-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-ui-tent/commit/d32d79fecbdc931d290e822ddcea5ae634fccbf6)</sub> | <sub>[d32d79f](https://github.com/TENTOfficial/insight-ui-tent/commit/d32d79fecbdc931d290e822ddcea5ae634fccbf6) TENT to netSymbol - ciripel</sub> |
 | <sub>2020-12-03 20:14:03</sub> | <sub>[[insight-api-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-api-tent/commit/1e486e40d3518b8d419bdc0168827c90e9e5d572)</sub> | <sub>[1e486e4](https://github.com/TENTOfficial/insight-api-tent/commit/1e486e40d3518b8d419bdc0168827c90e9e5d572) using rebranded libs - ciripel</sub> |
-| <sub>2020-12-03 20:10:10</sub> | <sub>[[insight-api-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-api-tent/commit/22edafea97025a261d894525fbf5f2131f675256)</sub> | <sub>[22edafe](https://github.com/TENTOfficial/insight-api-tent/commit/22edafea97025a261d894525fbf5f2131f675256) fixed readme.md - ciripel</sub> |
-| <sub>2020-12-03 20:08:05</sub> | <sub>[[insight-api-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-api-tent/commit/03ac84c8a447c0708050049704529c31cc917fb9)</sub> | <sub>[03ac84c](https://github.com/TENTOfficial/insight-api-tent/commit/03ac84c8a447c0708050049704529c31cc917fb9) fixed package.json, pools.json, curency.js and ... - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
