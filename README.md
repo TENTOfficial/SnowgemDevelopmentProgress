@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 2968 commits since 20/01/2020. You can see the complete history in
+There is a total of 2969 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-03 19:05:11</sub> | <sub>Txid pushed new branch [bugs/zcash](https://gitlab.com/snowgem/bitfrost/commits/bugs/zcash) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-03 17:49:58</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d87a53cec9a85dcc262bc83d62e55c70196332b9...9f3569ad88903e8068339403b56b9dbafd49704b))</sub> | <sub>[9f3569ad](https://gitlab.com/snowgem/bitfrost/-/commit/9f3569ad88903e8068339403b56b9dbafd49704b): init sub module - Snowgem</sub> |
 | <sub>2020-12-03 17:30:06</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/76d2ed5dfb64f8c662ce1e2c6eb85315d71e53a4...d87a53cec9a85dcc262bc83d62e55c70196332b9))</sub> | <sub>[d87a53ce](https://gitlab.com/snowgem/bitfrost/-/commit/d87a53cec9a85dcc262bc83d62e55c70196332b9): update submodule for prod - Snowgem</sub> |
 | <sub>2020-12-03 15:11:57</sub> | <sub>Txid (txid) merged merge request [\!95 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/95) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 2968 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-03 08:54:03</sub> | <sub>Jan Vraštil removed branch bug/238-wrong_toast_msg_after_incorrect_sms_code from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-03 08:54:02</sub> | <sub>Txid (txid) merged merge request [!94 *[FIX #238] Bug/238 wrong toast msg after incorrect sms code*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/94) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-03 08:54:02</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c0f4a4bd4ec197af568c34a633f6f38cc3ec2392...805602b691f25d2e4bedc27d80c9fe654c1aa240))</sub> | <sub>[45b57127](https://gitlab.com/snowgem/bitfrost/-/commit/45b57127f3828c3754d73148a90b3f07d3d4f3a7): [FIX #238] Bug/238 wrong toast msg after incorrect sms code - Jan Vraštil<br>[805602b6](https://gitlab.com/snowgem/bitfrost/-/commit/805602b691f25d2e4bedc27d80c9fe654c1aa240): Merge branch 'bug/238-wrong_toast_msg_after_incorrect_sms_code' into 'v0.1.3' - Txid</sub> |
-| <sub>2020-12-03 06:55:44</sub> | <sub>Jan Vraštil pushed to branch [bug/238\-wrong\_toast\_msg\_after\_incorrect\_sms\_code](https://gitlab.com/snowgem/bitfrost/commits/bug/238-wrong_toast_msg_after_incorrect_sms_code) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0351c4b31241f291bbfac7c3a6324405aea97539...bcf439209c8fff5e3217966dc0e85a5d649287bb))</sub> | <sub>[8b8b1726](https://gitlab.com/snowgem/bitfrost/-/commit/8b8b17269fc4eb9a2cf3c8ee0d5852c6ee032e13): remove unwanted code - jan.vrastil<br>[bcf43920](https://gitlab.com/snowgem/bitfrost/-/commit/bcf439209c8fff5e3217966dc0e85a5d649287bb): fix tslint errors - jan.vrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

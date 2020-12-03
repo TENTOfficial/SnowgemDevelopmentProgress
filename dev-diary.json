@@ -29144,5 +29144,10 @@
       "description": "[9f3569ad](https://gitlab.com/snowgem/bitfrost/-/commit/9f3569ad88903e8068339403b56b9dbafd49704b): init sub module - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [bugs/zcash](https://gitlab.com/snowgem/bitfrost/commits/bugs/zcash) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-03 19:05:11.599000"
   }
 ]
