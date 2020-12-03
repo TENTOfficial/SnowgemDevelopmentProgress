@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-03 22:20:59</sub> | <sub>[[bitcore-node-tent:master] 1 new commit](https://github.com/TENTOfficial/bitcore-node-tent/commit/72ef5ae635d73726067876f53ace38b851f80995)</sub> | <sub>[72ef5ae](https://github.com/TENTOfficial/bitcore-node-tent/commit/72ef5ae635d73726067876f53ace38b851f80995) rebranded to tent - ciripel</sub> |
 | <sub>2020-12-03 22:15:36</sub> | <sub>[[bitcore-build-tent:master] 1 new commit](https://github.com/TENTOfficial/bitcore-build-tent/commit/4169c7a8c80d70b3f500b7c2d2c3ab6f87b7441b)</sub> | <sub>[4169c7a](https://github.com/TENTOfficial/bitcore-build-tent/commit/4169c7a8c80d70b3f500b7c2d2c3ab6f87b7441b) rebranded to tent - ciripel</sub> |
 | <sub>2020-12-03 22:14:00</sub> | <sub>[[bitcore-lib-tent:master] 1 new commit](https://github.com/TENTOfficial/bitcore-lib-tent/commit/be384c69cea5c6ca26785d9c1164d3c4d275fc76)</sub> | <sub>[be384c6](https://github.com/TENTOfficial/bitcore-lib-tent/commit/be384c69cea5c6ca26785d9c1164d3c4d275fc76) rebranded to tent - ciripel</sub> |
 | <sub>2020-12-03 22:09:59</sub> | <sub>[[bitcore-message-tent:master] 1 new commit](https://github.com/TENTOfficial/bitcore-message-tent/commit/4c94d4f9270ce6b7d3c483ce3d7a4c034ce90303)</sub> | <sub>[4c94d4f](https://github.com/TENTOfficial/bitcore-message-tent/commit/4c94d4f9270ce6b7d3c483ce3d7a4c034ce90303) rebranded to tent - ciripel</sub> |
