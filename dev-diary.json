@@ -29064,5 +29064,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [!94 *[FIX #238] Bug/238 wrong toast msg after incorrect sms code*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/94) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-12-03 06:42:06.630000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/238\\-wrong\\_toast\\_msg\\_after\\_incorrect\\_sms\\_code](https://gitlab.com/snowgem/bitfrost/commits/bug/238-wrong_toast_msg_after_incorrect_sms_code) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0351c4b31241f291bbfac7c3a6324405aea97539...bcf439209c8fff5e3217966dc0e85a5d649287bb))",
+    "created_at": "2020-12-03 06:55:44.963000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8b8b1726](https://gitlab.com/snowgem/bitfrost/-/commit/8b8b17269fc4eb9a2cf3c8ee0d5852c6ee032e13): remove unwanted code - jan.vrastil\n\n[bcf43920](https://gitlab.com/snowgem/bitfrost/-/commit/bcf439209c8fff5e3217966dc0e85a5d649287bb): fix tslint errors - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
