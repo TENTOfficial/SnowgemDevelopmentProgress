@@ -29468,5 +29468,77 @@
       "description": "[cd2a4eb0](https://gitlab.com/snowgem/bitfrost/-/commit/cd2a4eb0ecec6ba24a37db73e8ef21863142b84d): prepare appflow - Snowgem\n\n[4d6c0811](https://gitlab.com/snowgem/bitfrost/-/commit/4d6c0811c7380fc6a1232cb6d32e1f5a1dc5ef9f): Merge branch 'v0.1.3' of https://gitlab.com/snowgem/bitfrost into v0.1.3 - Snowgem\n\n[ecd95893](https://gitlab.com/snowgem/bitfrost/-/commit/ecd95893ba356ab7a1d626eabcbcbe8cadf109bf): Merge branch 'v0.1.3' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 22:06:04.924000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e118d59`](https://github.com/TENTOfficial/bitcore-lib-tent/commit/e118d597c47aa181983f6d49eb2517d16bddd969) updated package.json - ciripel",
+      "title": "[bitcore-lib-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/bitcore-lib-tent/commit/e118d597c47aa181983f6d49eb2517d16bddd969"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 22:07:31.811000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`30c28eb`](https://github.com/TENTOfficial/bitcore-node-tent/commit/30c28ebbc7c938c4eed310ec86a79bb0c368b3cc) updated package.json - ciripel",
+      "title": "[bitcore-node-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/bitcore-node-tent/commit/30c28ebbc7c938c4eed310ec86a79bb0c368b3cc"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 22:08:22.629000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4b47458`](https://github.com/TENTOfficial/bitcore-build-tent/commit/4b47458236ba2fe5673ebb63876b3c11b89064ad) updated package.json - ciripel",
+      "title": "[bitcore-build-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/bitcore-build-tent/commit/4b47458236ba2fe5673ebb63876b3c11b89064ad"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 22:09:59.257000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4c94d4f`](https://github.com/TENTOfficial/bitcore-message-tent/commit/4c94d4f9270ce6b7d3c483ce3d7a4c034ce90303) rebranded to tent - ciripel",
+      "title": "[bitcore-message-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/bitcore-message-tent/commit/4c94d4f9270ce6b7d3c483ce3d7a4c034ce90303"
+    }
   }
 ]
