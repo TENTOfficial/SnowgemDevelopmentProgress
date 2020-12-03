@@ -29134,5 +29134,15 @@
       "description": "[d87a53ce](https://gitlab.com/snowgem/bitfrost/-/commit/d87a53cec9a85dcc262bc83d62e55c70196332b9): update submodule for prod - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d87a53cec9a85dcc262bc83d62e55c70196332b9...9f3569ad88903e8068339403b56b9dbafd49704b))",
+    "created_at": "2020-12-03 17:49:58.081000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9f3569ad](https://gitlab.com/snowgem/bitfrost/-/commit/9f3569ad88903e8068339403b56b9dbafd49704b): init sub module - Snowgem",
+      "type": "rich"
+    }
   }
 ]
