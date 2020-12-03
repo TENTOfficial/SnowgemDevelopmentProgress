@@ -29558,5 +29558,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/bitcore-lib-tent/commit/be384c69cea5c6ca26785d9c1164d3c4d275fc76"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 22:15:36.795000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4169c7a`](https://github.com/TENTOfficial/bitcore-build-tent/commit/4169c7a8c80d70b3f500b7c2d2c3ab6f87b7441b) rebranded to tent - ciripel",
+      "title": "[bitcore-build-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/bitcore-build-tent/commit/4169c7a8c80d70b3f500b7c2d2c3ab6f87b7441b"
+    }
   }
 ]
