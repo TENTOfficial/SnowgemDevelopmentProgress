@@ -29221,5 +29221,77 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/bitcore-node-tent/compare/f473ddeddde9^...085911ddf8d5"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 19:38:17.017000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4c26a87`](https://github.com/TENTOfficial/bitcore-lib-tent/commit/4c26a87f7805afa78b8af6e8bb4173a2ea188792) support multiple coins - TENTOfficial\n[`8a11cd5`](https://github.com/TENTOfficial/bitcore-lib-tent/commit/8a11cd53a5124f7e986a47525c784a7e3833e5f2) add default branch id - TENTOfficial\n[`c5e4ac6`](https://github.com/TENTOfficial/bitcore-lib-tent/commit/c5e4ac67db98624a2a6f468bebe7c62b5f7832cb) add require transaction - TENTOfficial",
+      "title": "[bitcore-lib-tent:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/bitcore-lib-tent/compare/4c26a87f7805^...c5e4ac67db98"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 19:38:18.037000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ab4d5e6`](https://github.com/TENTOfficial/bitcore-lib-tent/commit/ab4d5e663349770223e52b6673058748e7d3cd0f) add custom network - TENTOfficial",
+      "title": "[bitcore-lib-tent:development] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/bitcore-lib-tent/commit/ab4d5e663349770223e52b6673058748e7d3cd0f"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 19:38:36.125000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e8da2ba`](https://github.com/TENTOfficial/bitcore-message-tent/commit/e8da2ba11cd0b589c27d4d0ab737a82487e16f56) Merge pull request #19 from bitpay/bugs/uncompr... - matiu\n[`2ca899e`](https://github.com/TENTOfficial/bitcore-message-tent/commit/2ca899e6fce0e21c8cc2366f54a441941c9870b5) Bump package version to 0.11.1 - Braydon Fuller\n[`a450824`](https://github.com/TENTOfficial/bitcore-message-tent/commit/a45082415deabd316ac1a3a14e6bac62e7a69f7b) Upgrade to bitcore 0.13 - Braydon Fuller\n[`895c827`](https://github.com/TENTOfficial/bitcore-message-tent/commit/895c8277cd4ee656fb5b170ced1203a72d78eef0) Bump package version to 0.12.0 - Braydon Fuller\n[`740fc74`](https://github.com/TENTOfficial/bitcore-message-tent/commit/740fc745464f80d9bff22f0ba796d2cec5a99c04) Bump package version to 0.12.1 - Braydon Fuller",
+      "title": "[bitcore-message-tent:master] 16 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/bitcore-message-tent/compare/e8da2ba11cd0^...d3ec41ab6724"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 19:38:53.117000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e9fab40`](https://github.com/TENTOfficial/bitcore-build-tent/commit/e9fab401d5c5f4c0fc48592037a1a1178131b79b) Merge pull request #32 from bitpay/revert-30-bu... - braydonf\n[`95be4a1`](https://github.com/TENTOfficial/bitcore-build-tent/commit/95be4a121326a25b92086d78765dc1c41d143b08) Fix double bitcore-lib loading issue. - Braydon Fuller\n[`a93a997`](https://github.com/TENTOfficial/bitcore-build-tent/commit/a93a9970e3a0b3f948309730d4e4af5100dddf5a) Merge pull request #33 from braydonf/double - msalcala11\n[`5b0889a`](https://github.com/TENTOfficial/bitcore-build-tent/commit/5b0889a043d65c989fad8f2f4657b72a0c4024fb) Fixed issue with exporting bitcore-lib module n... - Braydon Fuller\n[`4f5f769`](https://github.com/TENTOfficial/bitcore-build-tent/commit/4f5f76918f07d81d673a16e9d381aa842a874d24) Merge pull request #34 from braydonf/bug/lib-ex... - gabegattis",
+      "title": "[bitcore-build-tent:master] 11 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/bitcore-build-tent/compare/e9fab401d5c5^...268485b0bee3"
+    }
   }
 ]
