@@ -29612,5 +29612,41 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/bitcore-node-tent/commit/d4dc4dfbb2001ab4068fbcfb80913d16d729a646"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 23:08:08.049000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e18c1e6`](https://github.com/TENTOfficial/bitcore-message-tent/commit/e18c1e607f055c15614384f95f7a57d9ae31f136) fixes rebranding - ciripel",
+      "title": "[bitcore-message-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/bitcore-message-tent/commit/e18c1e607f055c15614384f95f7a57d9ae31f136"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 23:08:27.393000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f670922`](https://github.com/TENTOfficial/bitcore-node-tent/commit/f67092269b80c3d11c0d66148c5752f2e0bf0447) fixes rebranding - ciripel",
+      "title": "[bitcore-node-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/bitcore-node-tent/commit/f67092269b80c3d11c0d66148c5752f2e0bf0447"
+    }
   }
 ]
