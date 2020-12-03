@@ -29109,5 +29109,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!95 \\*V0\\.1\\.3\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/95) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-12-03 14:52:04.769000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0ba7e63436550c2c03c6aa3a1c1e8a5460cfa4f6...9107e01db4df09c6a39c9b0cdb7bc96f020fed62))",
+    "created_at": "2020-12-03 15:11:57.119000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6dccb926](https://gitlab.com/snowgem/bitfrost/-/commit/6dccb926bf31fad257898ac4244a5e0edbaab01e): Bug/223 different rules for passwords - Jan Vra\u0161til\n\n[de937c35](https://gitlab.com/snowgem/bitfrost/-/commit/de937c35732f4279671a39c2d1fe0a065d988ad1): Merge branch 'bug/223-different_rules_for_passwords' into 'v0.1.3' - Txid\n\n[e3338266](https://gitlab.com/snowgem/bitfrost/-/commit/e3338266e00ac7b2008248d0de75af8ae3e33e83): correct zec derive - Snowgem\n\n[44639726](https://gitlab.com/snowgem/bitfrost/-/commit/4463972604e8aa6f976202ef4b6f450a560c62f1): update lib url - Snowgem\n\n[fe37ed61](https://gitlab.com/snowgem/bitfrost/-/commit/fe37ed611e559677eae3bf27e06f3508d0a9527a): correct transaction list amount - Snowgem\n\n[c0f4a4bd](https://gitlab.com/snowgem/bitfrost/-/commit/c0f4a4bd4ec197af568c34a633f6f38cc3ec2392): fix new tx show everytime for explorerv2 - Snowgem\n\n[45b57127](https://gitlab.com/snowgem/bitfrost/-/commit/45b57127f3828c3754d73148a90b3f07d3d4f3a7): [FIX #238] Bug/238 wrong toast msg after incorrect sms code - Jan Vra\u0161til\n\n[805602b6](https://gitlab.com/snowgem/bitfrost/-/commit/805602b691f25d2e4bedc27d80c9fe654c1aa240): Merge branch 'bug/238-wrong_toast_msg_after_incorrect_sms_code' into 'v0.1.3' - Txid\n\n[76d2ed5d](https://gitlab.com/snowgem/bitfrost/-/commit/76d2ed5dfb64f8c662ce1e2c6eb85315d71e53a4): update ios version - Snowgem\n\n[9107e01d](https://gitlab.com/snowgem/bitfrost/-/commit/9107e01db4df09c6a39c9b0cdb7bc96f020fed62): Merge branch 'v0.1.3' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!95 \\*V0\\.1\\.3\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/95) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-03 15:11:57.209000"
   }
 ]
