@@ -29648,5 +29648,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/bitcore-node-tent/commit/f67092269b80c3d11c0d66148c5752f2e0bf0447"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-03 23:18:07.329000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e21ce83`](https://github.com/TENTOfficial/insight-ui-tent/commit/e21ce8325e744c551886642d572fc9db0542aa61) fixed header - ciripel",
+      "title": "[insight-ui-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/insight-ui-tent/commit/e21ce8325e744c551886642d572fc9db0542aa61"
+    }
   }
 ]

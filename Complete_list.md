@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-03 23:18:07</sub> | <sub>[[insight-ui-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-ui-tent/commit/e21ce8325e744c551886642d572fc9db0542aa61)</sub> | <sub>[e21ce83](https://github.com/TENTOfficial/insight-ui-tent/commit/e21ce8325e744c551886642d572fc9db0542aa61) fixed header - ciripel</sub> |
 | <sub>2020-12-03 23:08:27</sub> | <sub>[[bitcore-node-tent:master] 1 new commit](https://github.com/TENTOfficial/bitcore-node-tent/commit/f67092269b80c3d11c0d66148c5752f2e0bf0447)</sub> | <sub>[f670922](https://github.com/TENTOfficial/bitcore-node-tent/commit/f67092269b80c3d11c0d66148c5752f2e0bf0447) fixes rebranding - ciripel</sub> |
 | <sub>2020-12-03 23:08:08</sub> | <sub>[[bitcore-message-tent:master] 1 new commit](https://github.com/TENTOfficial/bitcore-message-tent/commit/e18c1e607f055c15614384f95f7a57d9ae31f136)</sub> | <sub>[e18c1e6](https://github.com/TENTOfficial/bitcore-message-tent/commit/e18c1e607f055c15614384f95f7a57d9ae31f136) fixes rebranding - ciripel</sub> |
 | <sub>2020-12-03 22:28:36</sub> | <sub>[[bitcore-node-tent:master] 1 new commit](https://github.com/TENTOfficial/bitcore-node-tent/commit/d4dc4dfbb2001ab4068fbcfb80913d16d729a646)</sub> | <sub>[d4dc4df](https://github.com/TENTOfficial/bitcore-node-tent/commit/d4dc4dfbb2001ab4068fbcfb80913d16d729a646) fixed dependencies - ciripel</sub> |
