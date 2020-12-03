@@ -29438,5 +29438,20 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/insight-ui-tent/commit/8047abab90378b99307d86cab121c2effd166253"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/22d7139108ccb60382fe3dabb03d4bdf58772e29...4d6c0811c7380fc6a1232cb6d32e1f5a1dc5ef9f))",
+    "created_at": "2020-12-03 21:53:48.127000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cd2a4eb0](https://gitlab.com/snowgem/bitfrost/-/commit/cd2a4eb0ecec6ba24a37db73e8ef21863142b84d): prepare appflow - Snowgem\n\n[4d6c0811](https://gitlab.com/snowgem/bitfrost/-/commit/4d6c0811c7380fc6a1232cb6d32e1f5a1dc5ef9f): Merge branch 'v0.1.3' of https://gitlab.com/snowgem/bitfrost into v0.1.3 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!98 \\*V0\\.1\\.3\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/98) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-03 21:54:12.698000"
   }
 ]
