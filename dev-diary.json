@@ -29776,5 +29776,15 @@
       "description": "[b205902f](https://gitlab.com/snowgem/bitfrost/-/commit/b205902fe3d24f1ee3742c2e39b05a6db79715a6): card type select, shipping address - Filip Storkan\n\n[66dd4e06](https://gitlab.com/snowgem/bitfrost/-/commit/66dd4e06d1752921b51b57ccc7292b41dd2c094f): settings page, success page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-card\\-creation](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-card-creation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/66dd4e06d1752921b51b57ccc7292b41dd2c094f...24f5f01151fa054495a31b2f718bf3a5990fb029))",
+    "created_at": "2020-12-04 16:32:43.374000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[24f5f011](https://gitlab.com/snowgem/bitfrost/-/commit/24f5f01151fa054495a31b2f718bf3a5990fb029): linter - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
