@@ -29666,5 +29666,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/insight-ui-tent/commit/e21ce8325e744c551886642d572fc9db0542aa61"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug\\-231\\-user\\_can\\_send\\_password\\_email\\_many\\_times](https://gitlab.com/snowgem/bitfrost/commits/bug-231-user_can_send_password_email_many_times) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-04 06:02:52.864000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!99 \\*Bug 231 user can send password email many times\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/99) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-04 06:03:13.129000"
   }
 ]
