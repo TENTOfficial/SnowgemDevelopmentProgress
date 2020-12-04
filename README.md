@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3037 commits since 20/01/2020. You can see the complete history in
+There is a total of 3038 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-04 21:36:24</sub> | <sub>[[insight-ui-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-ui-tent/commit/73527841a77bea487922168798dcc84a7f6b0205)</sub> | <sub>[7352784](https://github.com/TENTOfficial/insight-ui-tent/commit/73527841a77bea487922168798dcc84a7f6b0205) fixed minified main.css - ciripel</sub> |
 | <sub>2020-12-04 18:22:58</sub> | <sub>Txid (txid) merged merge request [\!106 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/106) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-04 18:22:58</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5b264258e4c2d1e99bb79149dc8f1fada8fa3ced...7fe572d8e4be65cac324287c46b99bf5433d7324))</sub> | <sub>[72c31f4a](https://gitlab.com/snowgem/bitfrost/-/commit/72c31f4a52bd6cb156ed1287679bee5fe3098df5): remove done log - Snowgem<br>[e5794ff2](https://gitlab.com/snowgem/bitfrost/-/commit/e5794ff23014df4a2162f1159a8e676dfb7b391a): Merge branch 'bugs/zcashv2' into 'v0.1.3' - Txid<br>[7fe572d8](https://gitlab.com/snowgem/bitfrost/-/commit/7fe572d8e4be65cac324287c46b99bf5433d7324): Merge branch 'v0.1.3' into 'testing' - Txid</sub> |
 | <sub>2020-12-04 18:22:53</sub> | <sub>Txid (txid) opened merge request [\!106 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/106) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3037 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-04 18:10:31</sub> | <sub>Txid pushed to branch [bugs/zcashv2](https://gitlab.com/snowgem/bitfrost/commits/bugs/zcashv2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9b4a3acbb807df86631a543c8d0500b0e3fae872...72c31f4a52bd6cb156ed1287679bee5fe3098df5))</sub> | <sub>[72c31f4a](https://gitlab.com/snowgem/bitfrost/-/commit/72c31f4a52bd6cb156ed1287679bee5fe3098df5): remove done log - Snowgem</sub> |
 | <sub>2020-12-04 18:10:22</sub> | <sub>Txid (txid) merged merge request [\!104 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/104) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-04 18:10:22</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9ba60889ba2fb402ac3be23c1989d97ee27a3ad7...5b264258e4c2d1e99bb79149dc8f1fada8fa3ced))</sub> | <sub>[c621e05c](https://gitlab.com/snowgem/bitfrost/-/commit/c621e05ca2388a4a65e145b8eaa984da0e0f0db2): display loadingctrl when importing coin - Snowgem<br>[9b4a3acb](https://gitlab.com/snowgem/bitfrost/-/commit/9b4a3acbb807df86631a543c8d0500b0e3fae872): move check transaction to viewdidenter to preventing slow loading app - Snowgem<br>[a820d11d](https://gitlab.com/snowgem/bitfrost/-/commit/a820d11d21875d49deee110a1edb42efb0c290a8): Merge branch 'bugs/zcashv2' into 'v0.1.3' - Txid<br>[5b264258](https://gitlab.com/snowgem/bitfrost/-/commit/5b264258e4c2d1e99bb79149dc8f1fada8fa3ced): Merge branch 'v0.1.3' into 'testing' - Txid</sub> |
-| <sub>2020-12-04 18:05:39</sub> | <sub>Txid (txid) opened merge request [\!104 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/104) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
