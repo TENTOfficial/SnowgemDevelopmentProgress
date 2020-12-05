@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3065 commits since 20/01/2020. You can see the complete history in
+There is a total of 3066 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-05 16:50:36</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/853520e1e6d22787c7df7beeb49be452ba50d7b8...3638ed098a4f0f619765bca39e23210d4e1dbe1d))</sub> | <sub>[6e00b192](https://gitlab.com/snowgem/bitfrost/-/commit/6e00b1926db943e17232afaddd00f4df4b23d329): fix exchange validator - Snowgem<br>[3638ed09](https://gitlab.com/snowgem/bitfrost/-/commit/3638ed098a4f0f619765bca39e23210d4e1dbe1d): Merge branch 'v0.1.3' of https://gitlab.com/snowgem/bitfrost into v0.1.3 - Snowgem</sub> |
 | <sub>2020-12-05 16:40:46</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/65c6f0f498a6dee7175c11b896a0c209c3cfd244...b894f3fe4b5334edad64ff1193fef075b047ae15))</sub> | <sub>[670b8447](https://gitlab.com/snowgem/bitfrost/-/commit/670b8447ce166a56e7b53327d2e7312337714e26): swap updated request params - Filip Storkan<br>[853520e1](https://gitlab.com/snowgem/bitfrost/-/commit/853520e1e6d22787c7df7beeb49be452ba50d7b8): Merge branch 'v0.1.3' of gitlab.com:snowgem/bitfrost into v0.1.3 - Filip Storkan<br>[b894f3fe](https://gitlab.com/snowgem/bitfrost/-/commit/b894f3fe4b5334edad64ff1193fef075b047ae15): Merge branch 'v0.1.3' into 'testing' - Txid</sub> |
 | <sub>2020-12-05 16:40:46</sub> | <sub>Txid (txid) merged merge request [\!110 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/110) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-05 16:40:40</sub> | <sub>Txid (txid) opened merge request [\!110 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/110) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3065 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-05 09:55:32</sub> | <sub>Jan Vraštil removed branch bug/233-block_back_btn_on_swap_page from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-05 09:55:32</sub> | <sub>Txid (txid) merged merge request [!108 *[FIX #233] Bug/233 block back btn on swap page*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/108) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-05 09:55:32</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4f010e86af150f497e9a3ef85aae761e8be47d6c...6aa405494592110a686bc73e350c16366e8c6c4f))</sub> | <sub>[4e69213c](https://gitlab.com/snowgem/bitfrost/-/commit/4e69213caf50d44cb46f2080b55fe0cab70a14d1): [FIX #233] Disable back button for swap pairs modal - jan.vrastil<br>[6aa40549](https://gitlab.com/snowgem/bitfrost/-/commit/6aa405494592110a686bc73e350c16366e8c6c4f): Merge branch 'bug/233-block_back_btn_on_swap_page' into 'v0.1.3' - Txid</sub> |
-| <sub>2020-12-05 09:53:12</sub> | <sub>Txid (txid) opened merge request [\!109 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/109) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
