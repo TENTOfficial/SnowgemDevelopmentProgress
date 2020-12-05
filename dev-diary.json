@@ -30071,5 +30071,10 @@
       "description": "[ef0db685](https://gitlab.com/snowgem/freyja/-/commit/ef0db685dd97466369030f56c1aa64d178d05c13): fixed - node id missing in status report - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [bugs/change\\-password\\-error](https://gitlab.com/snowgem/bitfrost/commits/bugs/change-password-error) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-05 09:24:16.807000"
   }
 ]
