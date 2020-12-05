@@ -30081,5 +30081,15 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!107 \\*Bugs/change password error\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/107) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-12-05 09:27:31.830000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [bugs/change\\-password\\-error](https://gitlab.com/snowgem/bitfrost/commits/bugs/change-password-error) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/86c1f47b952d9593d6adb51c8914693e63bee638...6ddf61846d6fb93798490dfa198f8115dff0fa60))",
+    "created_at": "2020-12-05 09:47:23.214000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6ddf6184](https://gitlab.com/snowgem/bitfrost/-/commit/6ddf61846d6fb93798490dfa198f8115dff0fa60): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
