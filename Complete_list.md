@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-05 00:50:54</sub> | <sub>[[insight-ui-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-ui-tent/commit/466ed916c1d8277a91f0f4f396e99c31998f0838)</sub> | <sub>[466ed91](https://github.com/TENTOfficial/insight-ui-tent/commit/466ed916c1d8277a91f0f4f396e99c31998f0838) final fixes and links change - ciripel</sub> |
 | <sub>2020-12-05 00:32:12</sub> | <sub>[[insight-ui-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-ui-tent/commit/c36315e5c7570b50a29e9505e39e8f6d1b4f853e)</sub> | <sub>[c36315e](https://github.com/TENTOfficial/insight-ui-tent/commit/c36315e5c7570b50a29e9505e39e8f6d1b4f853e) fixed build - ciripel</sub> |
 | <sub>2020-12-05 00:16:15</sub> | <sub>[[insight-ui-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-ui-tent/commit/186a53afb12b9fb6cdd10cb0c538d42d10766e0d)</sub> | <sub>[186a53a](https://github.com/TENTOfficial/insight-ui-tent/commit/186a53afb12b9fb6cdd10cb0c538d42d10766e0d) styling modifs - ciripel</sub> |
 | <sub>2020-12-04 23:52:53</sub> | <sub>[[insight-ui-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-ui-tent/commit/e246e50ce55e17c3a7c9787a055a88db90b584b9)</sub> | <sub>[e246e50](https://github.com/TENTOfficial/insight-ui-tent/commit/e246e50ce55e17c3a7c9787a055a88db90b584b9) styling again - ciripel</sub> |
