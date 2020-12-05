@@ -30007,5 +30007,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/insight-ui-tent/commit/e246e50ce55e17c3a7c9787a055a88db90b584b9"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-05 00:16:15.358000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`186a53a`](https://github.com/TENTOfficial/insight-ui-tent/commit/186a53afb12b9fb6cdd10cb0c538d42d10766e0d) styling modifs - ciripel",
+      "title": "[insight-ui-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/insight-ui-tent/commit/186a53afb12b9fb6cdd10cb0c538d42d10766e0d"
+    }
   }
 ]
