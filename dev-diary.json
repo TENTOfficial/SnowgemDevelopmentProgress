@@ -30385,5 +30385,15 @@
       "description": "[c194900e](https://gitlab.com/snowgem/snowpay-api/-/commit/c194900e8a1dbc9a8503959f47ded00ff781d002): #order processing fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c194900e8a1dbc9a8503959f47ded00ff781d002...a7c2559c22f99461c9541657e0ff98e9c9e91ed3))",
+    "created_at": "2020-12-06 22:10:21.620000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a7c2559c](https://gitlab.com/snowgem/snowpay-api/-/commit/a7c2559c22f99461c9541657e0ff98e9c9e91ed3): #place order fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
