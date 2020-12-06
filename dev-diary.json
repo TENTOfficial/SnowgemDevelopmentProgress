@@ -30305,5 +30305,10 @@
       "description": "[744d0519](https://gitlab.com/snowgem/snowpay-api/-/commit/744d0519e97f47c5ab3b7b89e3b2300c664e7e65): #cancel order bug fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [bugs/login](https://gitlab.com/snowgem/bitfrost/commits/bugs/login) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-06 19:44:11.993000"
   }
 ]
