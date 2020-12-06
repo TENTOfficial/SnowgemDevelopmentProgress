@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3075 commits since 20/01/2020. You can see the complete history in
+There is a total of 3076 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-06 13:11:23</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/518f0eec3757e25ead3fa9c539d3a34f074fc866...744d0519e97f47c5ab3b7b89e3b2300c664e7e65))</sub> | <sub>[744d0519](https://gitlab.com/snowgem/snowpay-api/-/commit/744d0519e97f47c5ab3b7b89e3b2300c664e7e65): #cancel order bug fix - Kamil Wojciechowski</sub> |
 | <sub>2020-12-06 13:06:48</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/24843a9e86a877bb27444e9f19debe089e0282e2...518f0eec3757e25ead3fa9c539d3a34f074fc866))</sub> | <sub>[518f0eec](https://gitlab.com/snowgem/snowpay-api/-/commit/518f0eec3757e25ead3fa9c539d3a34f074fc866): #cancel order bug fix - Kamil Wojciechowski</sub> |
 | <sub>2020-12-05 20:10:47</sub> | <sub>[[masternode-upgrade:master] 1 new commit](https://github.com/TENTOfficial/masternode-upgrade/commit/acfd7e9b6663e174ec019116145d2d34003da56a)</sub> | <sub>[acfd7e9](https://github.com/TENTOfficial/masternode-upgrade/commit/acfd7e9b6663e174ec019116145d2d34003da56a) added sleep 60s - ciripel</sub> |
 | <sub>2020-12-05 19:34:29</sub> | <sub>[[masternode-upgrade:master] 1 new commit](https://github.com/TENTOfficial/masternode-upgrade/commit/8eba9e6f5672debb51641328d3152ff2ea91a7c8)</sub> | <sub>[8eba9e6](https://github.com/TENTOfficial/masternode-upgrade/commit/8eba9e6f5672debb51641328d3152ff2ea91a7c8) fixed first daemon start - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3075 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-05 17:22:21</sub> | <sub>Txid (txid) merged merge request [\!111 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/111) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-05 17:19:36</sub> | <sub>Txid (txid) opened merge request [\!111 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/111) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-05 17:17:30</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3638ed098a4f0f619765bca39e23210d4e1dbe1d...9308b8467d9b0683b49ee36a632861ab694e06b8))</sub> | <sub>[9308b846](https://gitlab.com/snowgem/bitfrost/-/commit/9308b8467d9b0683b49ee36a632861ab694e06b8): update ios build version - Snowgem</sub> |
-| <sub>2020-12-05 16:50:36</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/853520e1e6d22787c7df7beeb49be452ba50d7b8...3638ed098a4f0f619765bca39e23210d4e1dbe1d))</sub> | <sub>[6e00b192](https://gitlab.com/snowgem/bitfrost/-/commit/6e00b1926db943e17232afaddd00f4df4b23d329): fix exchange validator - Snowgem<br>[3638ed09](https://gitlab.com/snowgem/bitfrost/-/commit/3638ed098a4f0f619765bca39e23210d4e1dbe1d): Merge branch 'v0.1.3' of https://gitlab.com/snowgem/bitfrost into v0.1.3 - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

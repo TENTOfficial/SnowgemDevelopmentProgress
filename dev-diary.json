@@ -30295,5 +30295,15 @@
       "description": "[518f0eec](https://gitlab.com/snowgem/snowpay-api/-/commit/518f0eec3757e25ead3fa9c539d3a34f074fc866): #cancel order bug fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/518f0eec3757e25ead3fa9c539d3a34f074fc866...744d0519e97f47c5ab3b7b89e3b2300c664e7e65))",
+    "created_at": "2020-12-06 13:11:23.260000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[744d0519](https://gitlab.com/snowgem/snowpay-api/-/commit/744d0519e97f47c5ab3b7b89e3b2300c664e7e65): #cancel order bug fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
