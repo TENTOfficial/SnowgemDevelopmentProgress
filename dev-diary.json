@@ -30320,5 +30320,35 @@
       "description": "[41fe0384](https://gitlab.com/snowgem/bitfrost/-/commit/41fe0384f09405fe10cb4f087f201f4789c132a4): fix lint - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!112 \\*Bugs/login\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/112) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-06 19:56:01.913000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9308b8467d9b0683b49ee36a632861ab694e06b8...e099a7ef4fac4ed76164829ab4d23251d17cf468))",
+    "created_at": "2020-12-06 19:56:40.766000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[65c6f0f4](https://gitlab.com/snowgem/bitfrost/-/commit/65c6f0f498a6dee7175c11b896a0c209c3cfd244): Merge branch 'v0.1.3' into 'testing' - Txid\n\n[b894f3fe](https://gitlab.com/snowgem/bitfrost/-/commit/b894f3fe4b5334edad64ff1193fef075b047ae15): Merge branch 'v0.1.3' into 'testing' - Txid\n\n[ce2ae9b4](https://gitlab.com/snowgem/bitfrost/-/commit/ce2ae9b4ea4b9667c50551077195541031f40031): fix login issue - Snowgem\n\n[dd193f94](https://gitlab.com/snowgem/bitfrost/-/commit/dd193f94d301991d3b93c4e56f5c84ed814b0d71): fix update db for new version - Snowgem\n\n[41fe0384](https://gitlab.com/snowgem/bitfrost/-/commit/41fe0384f09405fe10cb4f087f201f4789c132a4): fix lint - Snowgem\n\n[e099a7ef](https://gitlab.com/snowgem/bitfrost/-/commit/e099a7ef4fac4ed76164829ab4d23251d17cf468): Merge branch 'bugs/login' into 'v0.1.3' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!112 \\*Bugs/login\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/112) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-06 19:56:40.934000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid removed branch bugs/login from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-06 19:56:45.455000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!113 \\*V0\\.1\\.3\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/113) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-06 19:57:08.916000"
   }
 ]
