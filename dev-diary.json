@@ -30530,5 +30530,15 @@
       "description": "[bcdbe5f8](https://gitlab.com/snowgem/freyja/-/commit/bcdbe5f8a6c3ccd5ab7d2a040a280ee9bffecb93): synchronous status processing - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a7c2559c22f99461c9541657e0ff98e9c9e91ed3...2cdbf4b4d496ea046b6edef5554d2f0cefc1d5d7))",
+    "created_at": "2020-12-07 22:16:38.091000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2cdbf4b4](https://gitlab.com/snowgem/snowpay-api/-/commit/2cdbf4b4d496ea046b6edef5554d2f0cefc1d5d7): #swap reports repository fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3108 commits since 20/01/2020. You can see the complete history in
+There is a total of 3109 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-07 22:16:38</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a7c2559c22f99461c9541657e0ff98e9c9e91ed3...2cdbf4b4d496ea046b6edef5554d2f0cefc1d5d7))</sub> | <sub>[2cdbf4b4](https://gitlab.com/snowgem/snowpay-api/-/commit/2cdbf4b4d496ea046b6edef5554d2f0cefc1d5d7): #swap reports repository fix - Kamil Wojciechowski</sub> |
 | <sub>2020-12-07 19:41:51</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/ef0db685dd97466369030f56c1aa64d178d05c13...bcdbe5f8a6c3ccd5ab7d2a040a280ee9bffecb93))</sub> | <sub>[bcdbe5f8](https://gitlab.com/snowgem/freyja/-/commit/bcdbe5f8a6c3ccd5ab7d2a040a280ee9bffecb93): synchronous status processing - V</sub> |
 | <sub>2020-12-07 19:30:00</sub> | <sub>Txid (txid) merged merge request [\!118 \*update ios build version\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/118) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-07 19:29:58</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a6efaa38bda5e7cefa10d1c086a7f1e35abf5fdc...fd2de23f99a2c4fae03737fac61367ff67fc10bf))</sub> | <sub>[0ee7bdbf](https://gitlab.com/snowgem/bitfrost/-/commit/0ee7bdbfc7dd53a32b2c302f49dd997b6a16dd96): update ios build version - Snowgem<br>[fd2de23f](https://gitlab.com/snowgem/bitfrost/-/commit/fd2de23f99a2c4fae03737fac61367ff67fc10bf): Merge branch 'v0.1.3' into 'testing' - Txid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3108 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-07 09:30:45</sub> | <sub>Txid (txid) merged merge request [\!117 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/117) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-07 09:30:00</sub> | <sub>Txid (txid) opened merge request [\!117 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/117) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-07 09:25:25</sub> | <sub>Txid (txid) merged merge request [\!116 \*fix wrong wallet data when going to send page from overview\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/116) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-12-07 09:25:25</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/976eaa47b4ab7e56471ec5194541924873e58153...2d1f007df26e5158563de6dd95bb150942ef6154))</sub> | <sub>[08f10ec2](https://gitlab.com/snowgem/bitfrost/-/commit/08f10ec20c1a7d8e13a00913eff3a5e4b5266b3c): fix wrong wallet data when going to send page from overview - Snowgem<br>[2d1f007d](https://gitlab.com/snowgem/bitfrost/-/commit/2d1f007df26e5158563de6dd95bb150942ef6154): Merge branch 'bugs/send-coin-issue' into 'v0.1.3' - Txid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
