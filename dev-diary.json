@@ -30660,5 +30660,15 @@
       "description": "[a9e64c0c](https://gitlab.com/snowgem/snowpay-api/-/commit/a9e64c0c6a19a3fe5bf099157fdf0139fbe9da56): use swap reports processing only for specific contracts - Daniil Lisovskiy\n\n[54781488](https://gitlab.com/snowgem/snowpay-api/-/commit/547814883a36d61f9b75e4e545a96474a5562077): Merge branch 'relase_2020_11_30' of https://gitlab.com/snowgem/snowpay-api into relase_2020_11_30 - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/547814883a36d61f9b75e4e545a96474a5562077...7e17896d5e53e739e3ccb3f66cac6defac08d2b2))",
+    "created_at": "2020-12-08 10:26:44.219000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7e17896d](https://gitlab.com/snowgem/snowpay-api/-/commit/7e17896d5e53e739e3ccb3f66cac6defac08d2b2): double mapping removed - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
