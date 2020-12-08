@@ -30690,5 +30690,15 @@
       "description": "[d9b6d4ff](https://gitlab.com/snowgem/snowpay-api/-/commit/d9b6d4ff32ab6590ce4db42b0caeea97c05ad132): #binance and bittrex withdrawal and deposit processing improvements - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d9b6d4ff32ab6590ce4db42b0caeea97c05ad132...44032c1aa4dca25410979de0c7db8ebc8a8fa9d0))",
+    "created_at": "2020-12-08 21:31:04.167000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[44032c1a](https://gitlab.com/snowgem/snowpay-api/-/commit/44032c1aa4dca25410979de0c7db8ebc8a8fa9d0): #place order fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
