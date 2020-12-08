@@ -30710,5 +30710,15 @@
       "description": "[9afff6ed](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/9afff6edad99a622ab8cffa45a431c9e83481168): new branded headers - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/44032c1aa4dca25410979de0c7db8ebc8a8fa9d0...bac468142206716f1811017d21cae9b947963baa))",
+    "created_at": "2020-12-08 22:11:58.234000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bac46814](https://gitlab.com/snowgem/snowpay-api/-/commit/bac468142206716f1811017d21cae9b947963baa): #placing order fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
