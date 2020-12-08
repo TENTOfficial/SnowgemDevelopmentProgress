@@ -30778,5 +30778,15 @@
       "description": "[fe739d10](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/fe739d1033c050d054c9a728c6af6d6656d90301): Header fix. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/bac468142206716f1811017d21cae9b947963baa...dc9c500165384b2e5916d5a761858ae2b2a9c4b4))",
+    "created_at": "2020-12-08 23:12:12.411000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[dc9c5001](https://gitlab.com/snowgem/snowpay-api/-/commit/dc9c500165384b2e5916d5a761858ae2b2a9c4b4): #order amount truncate - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
