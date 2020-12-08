@@ -30808,5 +30808,15 @@
       "description": "[f5bd8168](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/f5bd8168e9820977a22b1918b8013ef889f40d41): temp removed apps and exchanges - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/07e1e76412f4baca9147093474d17fee554e5f1e...adbe5f80a3e6d64bee04d3aee1efcac827f04bc8))",
+    "created_at": "2020-12-08 23:45:45.828000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[adbe5f80](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/adbe5f80a3e6d64bee04d3aee1efcac827f04bc8): translated shielded tooltips for AE and HU - ciripel",
+      "type": "rich"
+    }
   }
 ]
