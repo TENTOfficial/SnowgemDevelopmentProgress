@@ -30720,5 +30720,15 @@
       "description": "[bac46814](https://gitlab.com/snowgem/snowpay-api/-/commit/bac468142206716f1811017d21cae9b947963baa): #placing order fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [Rebrand\\_to\\_TENT](https://gitlab.com/snowgem/modernwallet_desktop_angular/commits/Rebrand_to_TENT) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/modernwallet_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/modernwallet_desktop_angular/compare/9afff6edad99a622ab8cffa45a431c9e83481168...00ee7ff5424deab12634abbe5c346f438e96a65d))",
+    "created_at": "2020-12-08 22:24:40.179000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[00ee7ff5](https://gitlab.com/snowgem/modernwallet_desktop_angular/-/commit/00ee7ff5424deab12634abbe5c346f438e96a65d): test - DaX",
+      "type": "rich"
+    }
   }
 ]
