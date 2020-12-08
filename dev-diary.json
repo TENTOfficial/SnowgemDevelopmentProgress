@@ -30768,5 +30768,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/6090aa41c9877af96f5aebcd1a92944452a2d0f8"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [Rebrand\\_to\\_TENT](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/Rebrand_to_TENT) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/76273c5b2b2cc2f22b2454ef7b7e3802fab35145...fe739d1033c050d054c9a728c6af6d6656d90301))",
+    "created_at": "2020-12-08 23:07:28.315000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fe739d10](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/fe739d1033c050d054c9a728c6af6d6656d90301): Header fix. - DaX",
+      "type": "rich"
+    }
   }
 ]
