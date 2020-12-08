@@ -30788,5 +30788,15 @@
       "description": "[dc9c5001](https://gitlab.com/snowgem/snowpay-api/-/commit/dc9c500165384b2e5916d5a761858ae2b2a9c4b4): #order amount truncate - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [Rebrand\\_to\\_TENT](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/Rebrand_to_TENT) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/fe739d1033c050d054c9a728c6af6d6656d90301...c551cbb11e7044a17f21d3bb0cd566d2c5b62bd5))",
+    "created_at": "2020-12-08 23:23:46.228000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cdea356a](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/cdea356ac3c2cb3008bed6e47803d7010b6b1d5b): links change - ciripel\n\n[c551cbb1](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/c551cbb11e7044a17f21d3bb0cd566d2c5b62bd5): TENT Core change to window Title - ciripel",
+      "type": "rich"
+    }
   }
 ]
