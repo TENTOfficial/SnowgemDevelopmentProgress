@@ -30680,5 +30680,15 @@
       "description": "[558f0119](https://gitlab.com/snowgem/snowpay-api/-/commit/558f0119e15acb6a27d0dc5479bfabd79a4f066c): #added missing bittrex cfg - Kamil Wojciechowski\n\n[cf7c5d15](https://gitlab.com/snowgem/snowpay-api/-/commit/cf7c5d157a6af45f40a2c06a6490b08428e9b6f4): Merge branch 'relase_2020_11_30' of https://gitlab.com/snowgem/snowpay-api into relase_2020_11_30 - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cf7c5d157a6af45f40a2c06a6490b08428e9b6f4...d9b6d4ff32ab6590ce4db42b0caeea97c05ad132))",
+    "created_at": "2020-12-08 14:17:32.549000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d9b6d4ff](https://gitlab.com/snowgem/snowpay-api/-/commit/d9b6d4ff32ab6590ce4db42b0caeea97c05ad132): #binance and bittrex withdrawal and deposit processing improvements - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
