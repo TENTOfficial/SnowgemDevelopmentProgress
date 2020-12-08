@@ -30740,5 +30740,15 @@
       "description": "[43416881](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/434168819d53eda66b0753c8c8eb6cafc42a82d7): Rebrand works. - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [Rebrand\\_to\\_TENT](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/Rebrand_to_TENT) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/434168819d53eda66b0753c8c8eb6cafc42a82d7...76273c5b2b2cc2f22b2454ef7b7e3802fab35145))",
+    "created_at": "2020-12-08 22:57:59.347000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bc72191e](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/bc72191e564f0fb3fc7db5d9fa4bd6c9463c2d1a): rebranded data folder - ciripel\n\n[76273c5b](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/76273c5b2b2cc2f22b2454ef7b7e3802fab35145): Rebranded TENT Core - ciripel",
+      "type": "rich"
+    }
   }
 ]
