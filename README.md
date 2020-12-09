@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3154 commits since 20/01/2020. You can see the complete history in
+There is a total of 3155 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-09 22:08:04</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/40433b8395499bc887d87bc9c10e8d232dd9d7ae)</sub> | <sub>[40433b8](https://github.com/TENTOfficial/ServerConfig/commit/40433b8395499bc887d87bc9c10e8d232dd9d7ae) finished version details - ciripel</sub> |
 | <sub>2020-12-09 21:06:36</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/1530de0a2e295d7d0ba23c73d81a148a0b133a01)</sub> | <sub>[1530de0](https://github.com/TENTOfficial/ServerConfig/commit/1530de0a2e295d7d0ba23c73d81a148a0b133a01) Rebranded to TENT and increased version to 1.1.3 - ciripel</sub> |
 | <sub>2020-12-09 21:01:57</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/aa6dfac4eea0c5b436bf73959db77d1b1978d74b...219c5152585694fc5b6c0f70ff73b71b34edb3db))</sub> | <sub>[219c5152](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/219c5152585694fc5b6c0f70ff73b71b34edb3db): fixed langs - ciripel</sub> |
 | <sub>2020-12-09 20:35:33</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/fc65b939ee0582cfe37767532a55423d33733387...aa6dfac4eea0c5b436bf73959db77d1b1978d74b))</sub> | <sub>[aa6dfac4](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/aa6dfac4eea0c5b436bf73959db77d1b1978d74b): fixed index - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3154 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-09 20:16:12</sub> | <sub>ciripel (ciripel) merged merge request [\!3 \*Rebrand to tent\*](https://gitlab.com/snowgem/tentcore_desktop_angular/-/merge_requests/3) in [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-09 20:14:52</sub> | <sub>ciripel (ciripel) approved merge request [\!3 \*Rebrand to tent\*](https://gitlab.com/snowgem/tentcore_desktop_angular/-/merge_requests/3) in [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-09 20:14:46</sub> | <sub>ciripel (ciripel) opened merge request [\!3 \*Rebrand to tent\*](https://gitlab.com/snowgem/tentcore_desktop_angular/-/merge_requests/3) in [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-12-09 20:01:45</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/dc9c500165384b2e5916d5a761858ae2b2a9c4b4...5690955911f0804dbff93fe778408ec5dadc30cf))</sub> | <sub>[56909559](https://gitlab.com/snowgem/snowpay-api/-/commit/5690955911f0804dbff93fe778408ec5dadc30cf): #updated infura url - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
