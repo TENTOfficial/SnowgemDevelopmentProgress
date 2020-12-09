@@ -31021,5 +31021,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/d04bb8ec931fe01d9e9ec24fb56c9a27f5b3caf1"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5690955911f0804dbff93fe778408ec5dadc30cf...ccbbfcb6058f9b9b6493dd8e993e3ce485ae104e))",
+    "created_at": "2020-12-09 22:21:49.666000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ccbbfcb6](https://gitlab.com/snowgem/snowpay-api/-/commit/ccbbfcb6058f9b9b6493dd8e993e3ce485ae104e): #binance deposit address fixes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]

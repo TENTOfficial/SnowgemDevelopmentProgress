@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3157 commits since 20/01/2020. You can see the complete history in
+There is a total of 3158 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-09 22:21:49</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5690955911f0804dbff93fe778408ec5dadc30cf...ccbbfcb6058f9b9b6493dd8e993e3ce485ae104e))</sub> | <sub>[ccbbfcb6](https://gitlab.com/snowgem/snowpay-api/-/commit/ccbbfcb6058f9b9b6493dd8e993e3ce485ae104e): #binance deposit address fixes - Kamil Wojciechowski</sub> |
 | <sub>2020-12-09 22:15:12</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/d04bb8ec931fe01d9e9ec24fb56c9a27f5b3caf1)</sub> | <sub>[d04bb8e](https://github.com/TENTOfficial/ServerConfig/commit/d04bb8ec931fe01d9e9ec24fb56c9a27f5b3caf1) removed SnowGem - ciripel</sub> |
 | <sub>2020-12-09 22:11:56</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/e781748b7eeb5ba28dfee9ff7637c3c854bc8d84)</sub> | <sub>[e781748](https://github.com/TENTOfficial/ServerConfig/commit/e781748b7eeb5ba28dfee9ff7637c3c854bc8d84) fixed dev serv files - ciripel</sub> |
 | <sub>2020-12-09 22:08:04</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/40433b8395499bc887d87bc9c10e8d232dd9d7ae)</sub> | <sub>[40433b8](https://github.com/TENTOfficial/ServerConfig/commit/40433b8395499bc887d87bc9c10e8d232dd9d7ae) finished version details - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3157 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-09 20:33:39</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/0ccc1ac8847f66c2402d157512a3d515f24184cf...fc65b939ee0582cfe37767532a55423d33733387))</sub> | <sub>[fc65b939](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/fc65b939ee0582cfe37767532a55423d33733387): changed mwapp113 in index - ciripel</sub> |
 | <sub>2020-12-09 20:28:42</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/c108ad4af8b0cb882a834e25d487bde3680b9311...0ccc1ac8847f66c2402d157512a3d515f24184cf))</sub> | <sub>[0ccc1ac8](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/0ccc1ac8847f66c2402d157512a3d515f24184cf): increased version number to 1.1.3 - ciripel</sub> |
 | <sub>2020-12-09 20:16:12</sub> | <sub>ciripel removed branch Rebrand_to_TENT from [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-12-09 20:16:12</sub> | <sub>ciripel (ciripel) merged merge request [\!3 \*Rebrand to tent\*](https://gitlab.com/snowgem/tentcore_desktop_angular/-/merge_requests/3) in [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
