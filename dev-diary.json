@@ -30828,5 +30828,10 @@
       "description": "[da4f27f2](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/da4f27f26cb323524da5aa7d425041b76e5e0be5): fixed pachages - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [implement\\_sumsub](https://gitlab.com/snowgem/bitfrost/commits/implement_sumsub) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-09 07:43:07.180000"
   }
 ]
