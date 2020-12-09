@@ -31003,5 +31003,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/e781748b7eeb5ba28dfee9ff7637c3c854bc8d84"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-09 22:15:12.758000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d04bb8e`](https://github.com/TENTOfficial/ServerConfig/commit/d04bb8ec931fe01d9e9ec24fb56c9a27f5b3caf1) removed SnowGem - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/d04bb8ec931fe01d9e9ec24fb56c9a27f5b3caf1"
+    }
   }
 ]

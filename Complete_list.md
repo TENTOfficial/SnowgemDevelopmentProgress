@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-09 22:15:12</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/d04bb8ec931fe01d9e9ec24fb56c9a27f5b3caf1)</sub> | <sub>[d04bb8e](https://github.com/TENTOfficial/ServerConfig/commit/d04bb8ec931fe01d9e9ec24fb56c9a27f5b3caf1) removed SnowGem - ciripel</sub> |
 | <sub>2020-12-09 22:11:56</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/e781748b7eeb5ba28dfee9ff7637c3c854bc8d84)</sub> | <sub>[e781748](https://github.com/TENTOfficial/ServerConfig/commit/e781748b7eeb5ba28dfee9ff7637c3c854bc8d84) fixed dev serv files - ciripel</sub> |
 | <sub>2020-12-09 22:08:04</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/40433b8395499bc887d87bc9c10e8d232dd9d7ae)</sub> | <sub>[40433b8](https://github.com/TENTOfficial/ServerConfig/commit/40433b8395499bc887d87bc9c10e8d232dd9d7ae) finished version details - ciripel</sub> |
 | <sub>2020-12-09 21:06:36</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/1530de0a2e295d7d0ba23c73d81a148a0b133a01)</sub> | <sub>[1530de0](https://github.com/TENTOfficial/ServerConfig/commit/1530de0a2e295d7d0ba23c73d81a148a0b133a01) Rebranded to TENT and increased version to 1.1.3 - ciripel</sub> |
