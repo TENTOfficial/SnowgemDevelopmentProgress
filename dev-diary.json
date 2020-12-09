@@ -30879,5 +30879,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT-Core/commit/67d612b115715b6dc8f6629c240a129a8f5163a0"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/dc9c500165384b2e5916d5a761858ae2b2a9c4b4...5690955911f0804dbff93fe778408ec5dadc30cf))",
+    "created_at": "2020-12-09 20:01:45.559000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[56909559](https://gitlab.com/snowgem/snowpay-api/-/commit/5690955911f0804dbff93fe778408ec5dadc30cf): #updated infura url - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
