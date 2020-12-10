@@ -31171,5 +31171,15 @@
       "description": "[f0281d49](https://gitlab.com/snowgem/bitfrost/-/commit/f0281d49dd95f8411b2af22980d800e285f91978): fix fee check in swap - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [bugs/test\\-account](https://gitlab.com/snowgem/bitfrost/commits/bugs/test-account) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f0281d49dd95f8411b2af22980d800e285f91978...b4931e8f97fc11e7d60c3d7323f779718e636305))",
+    "created_at": "2020-12-10 20:09:20.465000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b4931e8f](https://gitlab.com/snowgem/bitfrost/-/commit/b4931e8f97fc11e7d60c3d7323f779718e636305): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
