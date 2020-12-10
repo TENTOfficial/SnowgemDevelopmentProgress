@@ -31161,5 +31161,15 @@
       "description": "[2f6040de](https://gitlab.com/snowgem/bitfrost/-/commit/2f6040de07cb820a72e8b7c963ed8947ca6dd4ca): catch swap issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [bugs/test\\-account](https://gitlab.com/snowgem/bitfrost/commits/bugs/test-account) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2f6040de07cb820a72e8b7c963ed8947ca6dd4ca...f0281d49dd95f8411b2af22980d800e285f91978))",
+    "created_at": "2020-12-10 20:03:18.140000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f0281d49](https://gitlab.com/snowgem/bitfrost/-/commit/f0281d49dd95f8411b2af22980d800e285f91978): fix fee check in swap - Snowgem",
+      "type": "rich"
+    }
   }
 ]
