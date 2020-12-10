@@ -31096,5 +31096,15 @@
       "description": "[acd334eb](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/acd334eb06b318b48796ae8a835b93ab19331d9e): fixed icons - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Filip Storkan pushed to branch [feature/debit\\-card\\-creation](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-card-creation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0c8c3c819f0a52e8986948a51512575b92f8cd28...5686d0097219058660b19646d747036da0b28ba9))",
+    "created_at": "2020-12-10 12:04:27.113000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5686d009](https://gitlab.com/snowgem/bitfrost/-/commit/5686d0097219058660b19646d747036da0b28ba9): topup pages - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]

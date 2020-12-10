@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3167 commits since 20/01/2020. You can see the complete history in
+There is a total of 3168 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-10 12:04:27</sub> | <sub>Filip Storkan pushed to branch [feature/debit\-card\-creation](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-card-creation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0c8c3c819f0a52e8986948a51512575b92f8cd28...5686d0097219058660b19646d747036da0b28ba9))</sub> | <sub>[5686d009](https://gitlab.com/snowgem/bitfrost/-/commit/5686d0097219058660b19646d747036da0b28ba9): topup pages - Filip Storkan</sub> |
 | <sub>2020-12-10 09:38:33</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/219c5152585694fc5b6c0f70ff73b71b34edb3db...acd334eb06b318b48796ae8a835b93ab19331d9e))</sub> | <sub>[acd334eb](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/acd334eb06b318b48796ae8a835b93ab19331d9e): fixed icons - ciripel</sub> |
 | <sub>2020-12-10 08:25:05</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b0a63f3cba29016062f405a0d86696cb4c22423b...93e2918a91ccf66afaad788dd40d6bab24258652))</sub> | <sub>[1c4367aa](https://gitlab.com/snowgem/bitfrost/-/commit/1c4367aa51962ae66ad45e1a740103ba6bcbf164): update explorer for ETH - Snowgem<br>[93e2918a](https://gitlab.com/snowgem/bitfrost/-/commit/93e2918a91ccf66afaad788dd40d6bab24258652): Merge branch 'v0.1.3' of https://gitlab.com/snowgem/bitfrost into v0.1.3 - Snowgem</sub> |
 | <sub>2020-12-10 08:15:58</sub> | <sub>Txid (txid) opened merge request [\!122 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/122) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3167 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-10 07:34:38</sub> | <sub>Txid (txid) opened merge request [\!121 \*Features/estimate gas v2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/121) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-10 07:27:17</sub> | <sub>Txid pushed to branch [features/estimate\-gas\-v2](https://gitlab.com/snowgem/bitfrost/commits/features/estimate-gas-v2) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/780dd2a81c92269b3d69b28870c15753640eb022...1679523ecdcaa83a7babc7a734f30c0cba6aa21b))</sub> | <sub>[1679523e](https://gitlab.com/snowgem/bitfrost/-/commit/1679523ecdcaa83a7babc7a734f30c0cba6aa21b): fix lint - Snowgem</sub> |
 | <sub>2020-12-10 07:11:50</sub> | <sub>Txid pushed new branch [features/estimate\-gas\-v2](https://gitlab.com/snowgem/bitfrost/commits/features/estimate-gas-v2) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-12-09 22:21:49</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5690955911f0804dbff93fe778408ec5dadc30cf...ccbbfcb6058f9b9b6493dd8e993e3ce485ae104e))</sub> | <sub>[ccbbfcb6](https://gitlab.com/snowgem/snowpay-api/-/commit/ccbbfcb6058f9b9b6493dd8e993e3ce485ae104e): #binance deposit address fixes - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
