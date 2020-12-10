@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3165 commits since 20/01/2020. You can see the complete history in
+There is a total of 3166 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-10 08:25:05</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b0a63f3cba29016062f405a0d86696cb4c22423b...93e2918a91ccf66afaad788dd40d6bab24258652))</sub> | <sub>[1c4367aa](https://gitlab.com/snowgem/bitfrost/-/commit/1c4367aa51962ae66ad45e1a740103ba6bcbf164): update explorer for ETH - Snowgem<br>[93e2918a](https://gitlab.com/snowgem/bitfrost/-/commit/93e2918a91ccf66afaad788dd40d6bab24258652): Merge branch 'v0.1.3' of https://gitlab.com/snowgem/bitfrost into v0.1.3 - Snowgem</sub> |
 | <sub>2020-12-10 08:15:58</sub> | <sub>Txid (txid) opened merge request [\!122 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/122) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-10 07:34:43</sub> | <sub>Txid removed branch features/estimate-gas-v2 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-10 07:34:43</sub> | <sub>Txid (txid) merged merge request [\!121 \*Features/estimate gas v2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/121) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3165 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-10 07:11:50</sub> | <sub>Txid pushed new branch [features/estimate\-gas\-v2](https://gitlab.com/snowgem/bitfrost/commits/features/estimate-gas-v2) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-09 22:21:49</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5690955911f0804dbff93fe778408ec5dadc30cf...ccbbfcb6058f9b9b6493dd8e993e3ce485ae104e))</sub> | <sub>[ccbbfcb6](https://gitlab.com/snowgem/snowpay-api/-/commit/ccbbfcb6058f9b9b6493dd8e993e3ce485ae104e): #binance deposit address fixes - Kamil Wojciechowski</sub> |
 | <sub>2020-12-09 22:15:12</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/d04bb8ec931fe01d9e9ec24fb56c9a27f5b3caf1)</sub> | <sub>[d04bb8e](https://github.com/TENTOfficial/ServerConfig/commit/d04bb8ec931fe01d9e9ec24fb56c9a27f5b3caf1) removed SnowGem - ciripel</sub> |
-| <sub>2020-12-09 22:11:56</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/e781748b7eeb5ba28dfee9ff7637c3c854bc8d84)</sub> | <sub>[e781748](https://github.com/TENTOfficial/ServerConfig/commit/e781748b7eeb5ba28dfee9ff7637c3c854bc8d84) fixed dev serv files - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
