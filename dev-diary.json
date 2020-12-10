@@ -31146,5 +31146,10 @@
       "description": "[71b6534d](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/71b6534d835e8d71e859ec6cd792dd426b9c3132): renamed name in package.json for folder consistency in macOS and win - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [bugs/test\\-account](https://gitlab.com/snowgem/bitfrost/commits/bugs/test-account) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-10 18:31:26.318000"
   }
 ]
