@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-11 22:51:32</sub> | <sub>demzet pushed new tag [release\_2020\_12\_11\_2](https://gitlab.com/snowgem/snowpay-api/-/tags/release_2020_12_11_2) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-11 22:49:45</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a9c3da56a4b32308f7f83b05f755ce95491a5e02...76af2e43b1e5b941fed39993f12e57b675e467ca))</sub> | <sub>[76af2e43](https://gitlab.com/snowgem/snowpay-api/-/commit/76af2e43b1e5b941fed39993f12e57b675e467ca): #tent swap route mapping fix - Kamil Wojciechowski</sub> |
 | <sub>2020-12-11 22:00:31</sub> | <sub>DaX removed branch kompletit-testing-patch-95768 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-11 21:59:58</sub> | <sub>DaX (kompletit) merged merge request [\!131 \*Increase version v0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/131) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
