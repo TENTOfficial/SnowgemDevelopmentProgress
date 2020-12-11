@@ -31296,5 +31296,15 @@
       "description": "[863a04e5](https://gitlab.com/snowgem/bitfrost/-/commit/863a04e5634edf62cedc48829ac751495a395e58): XSG to TENT - Snowgem\n\n[6f33eb78](https://gitlab.com/snowgem/bitfrost/-/commit/6f33eb78f7778bffa6cfb1e5a3f7c6767b44260b): update database - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6f33eb78f7778bffa6cfb1e5a3f7c6767b44260b...1f0c167947f7c9e9622af2c7b8814068d37f6a97))",
+    "created_at": "2020-12-11 09:31:02.020000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1f0c1679](https://gitlab.com/snowgem/bitfrost/-/commit/1f0c167947f7c9e9622af2c7b8814068d37f6a97): XSG to TENT p2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
