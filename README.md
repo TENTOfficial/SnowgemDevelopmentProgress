@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3209 commits since 20/01/2020. You can see the complete history in
+There is a total of 3210 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-11 20:20:17</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ccbbfcb6058f9b9b6493dd8e993e3ce485ae104e...3ea2d653e68ed78d5e90a5c679b919ed8a5dc17f))</sub> | <sub>[3ea2d653](https://gitlab.com/snowgem/snowpay-api/-/commit/3ea2d653e68ed78d5e90a5c679b919ed8a5dc17f): #renamed XSG to TENT - Kamil Wojciechowski</sub> |
 | <sub>2020-12-11 12:06:28</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/ec4c9837f0405113d34009b7d185c148342ad392)</sub> | <sub>[ec4c983](https://github.com/TENTOfficial/TENT/commit/ec4c9837f0405113d34009b7d185c148342ad392) Update README.md - ciripel</sub> |
 | <sub>2020-12-11 11:57:02</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/07d1042790529cccb78a0b8225bce5e27f679044)</sub> | <sub>[07d1042](https://github.com/TENTOfficial/TENT/commit/07d1042790529cccb78a0b8225bce5e27f679044) licence rebranding - ciripel</sub> |
 | <sub>2020-12-11 10:53:29</sub> | <sub>Txid (txid) merged merge request [\!129 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/129) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3209 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-11 10:48:24</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/09dadd794e4c2f530ec01debf3755fe3f68367ff...dcf5e76d2662c966e799b3cbb439077939a4fcc1))</sub> | <sub>[941ea582](https://gitlab.com/snowgem/bitfrost/-/commit/941ea58268c65b015d5f75296a141ee09f6a1374): increase ios build - Snowgem<br>[dcf5e76d](https://gitlab.com/snowgem/bitfrost/-/commit/dcf5e76d2662c966e799b3cbb439077939a4fcc1): prepare appflow - Snowgem</sub> |
 | <sub>2020-12-11 10:47:04</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/64fc7baf4559bc48102be0971fdc5516568da3e3)</sub> | <sub>[64fc7ba](https://github.com/ciripel/Heimdall/commit/64fc7baf4559bc48102be0971fdc5516568da3e3) updated rebrandings - ciripel</sub> |
 | <sub>2020-12-11 10:33:18</sub> | <sub>qNaN pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e4ff5f06588b97166f34dca0747415934a46f188...09dadd794e4c2f530ec01debf3755fe3f68367ff))</sub> | <sub>[7ac71a70](https://gitlab.com/snowgem/bitfrost/-/commit/7ac71a70acda893e46b034d5725cf223d5c4d397): switching to flexbox in pin - Filip Storkan<br>[09dadd79](https://gitlab.com/snowgem/bitfrost/-/commit/09dadd794e4c2f530ec01debf3755fe3f68367ff): Merge branch 'v0.1.3' of gitlab.com:snowgem/bitfrost into v0.1.3 - Filip Storkan</sub> |
-| <sub>2020-12-11 10:08:47</sub> | <sub>Txid (txid) merged merge request [\!128 \*increase ios build ver\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/128) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

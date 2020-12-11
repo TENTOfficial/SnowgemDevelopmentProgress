@@ -31468,5 +31468,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/commit/ec4c9837f0405113d34009b7d185c148342ad392"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ccbbfcb6058f9b9b6493dd8e993e3ce485ae104e...3ea2d653e68ed78d5e90a5c679b919ed8a5dc17f))",
+    "created_at": "2020-12-11 20:20:17.584000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3ea2d653](https://gitlab.com/snowgem/snowpay-api/-/commit/3ea2d653e68ed78d5e90a5c679b919ed8a5dc17f): #renamed XSG to TENT - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]

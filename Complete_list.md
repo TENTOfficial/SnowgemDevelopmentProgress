@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-11 20:20:17</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ccbbfcb6058f9b9b6493dd8e993e3ce485ae104e...3ea2d653e68ed78d5e90a5c679b919ed8a5dc17f))</sub> | <sub>[3ea2d653](https://gitlab.com/snowgem/snowpay-api/-/commit/3ea2d653e68ed78d5e90a5c679b919ed8a5dc17f): #renamed XSG to TENT - Kamil Wojciechowski</sub> |
 | <sub>2020-12-11 12:06:28</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/ec4c9837f0405113d34009b7d185c148342ad392)</sub> | <sub>[ec4c983](https://github.com/TENTOfficial/TENT/commit/ec4c9837f0405113d34009b7d185c148342ad392) Update README.md - ciripel</sub> |
 | <sub>2020-12-11 11:57:02</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/07d1042790529cccb78a0b8225bce5e27f679044)</sub> | <sub>[07d1042](https://github.com/TENTOfficial/TENT/commit/07d1042790529cccb78a0b8225bce5e27f679044) licence rebranding - ciripel</sub> |
 | <sub>2020-12-11 10:53:29</sub> | <sub>Txid (txid) merged merge request [\!129 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/129) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
