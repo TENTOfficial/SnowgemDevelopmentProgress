@@ -31488,5 +31488,15 @@
       "description": "[12051086](https://gitlab.com/snowgem/snowpay-api/-/commit/12051086ca0f16b6468e344a496d3216b14b96e4): #asset migrations - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/12051086ca0f16b6468e344a496d3216b14b96e4...fa1fe089ab37fe774b40d61b5d48fbd5dd08ea4b))",
+    "created_at": "2020-12-11 21:16:31.514000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fa1fe089](https://gitlab.com/snowgem/snowpay-api/-/commit/fa1fe089ab37fe774b40d61b5d48fbd5dd08ea4b): #test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
