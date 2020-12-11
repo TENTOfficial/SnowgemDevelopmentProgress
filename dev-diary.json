@@ -31366,5 +31366,56 @@
       "description": "[7ac71a70](https://gitlab.com/snowgem/bitfrost/-/commit/7ac71a70acda893e46b034d5725cf223d5c4d397): switching to flexbox in pin - Filip Storkan\n\n[09dadd79](https://gitlab.com/snowgem/bitfrost/-/commit/09dadd794e4c2f530ec01debf3755fe3f68367ff): Merge branch 'v0.1.3' of gitlab.com:snowgem/bitfrost into v0.1.3 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-11 10:47:04.692000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`64fc7ba`](https://github.com/ciripel/Heimdall/commit/64fc7baf4559bc48102be0971fdc5516568da3e3) updated rebrandings - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/64fc7baf4559bc48102be0971fdc5516568da3e3"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/09dadd794e4c2f530ec01debf3755fe3f68367ff...dcf5e76d2662c966e799b3cbb439077939a4fcc1))",
+    "created_at": "2020-12-11 10:48:24.546000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[941ea582](https://gitlab.com/snowgem/bitfrost/-/commit/941ea58268c65b015d5f75296a141ee09f6a1374): increase ios build - Snowgem\n\n[dcf5e76d](https://gitlab.com/snowgem/bitfrost/-/commit/dcf5e76d2662c966e799b3cbb439077939a4fcc1): prepare appflow - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!129 \\*V0\\.1\\.3\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/129) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-11 10:48:48.715000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-11 10:49:38.533000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4ce5a80`](https://github.com/ciripel/Heimdall/commit/4ce5a80932665881a4bb6d13ec490b8a289453a7) fixed stex link - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/4ce5a80932665881a4bb6d13ec490b8a289453a7"
+    }
   }
 ]
