@@ -31266,5 +31266,15 @@
       "description": "[17b76d77](https://gitlab.com/snowgem/bitfrost/-/commit/17b76d77a2eb4add5919ab46a545520a1265adde): update ethereum name - Snowgem\n\n[780dd2a8](https://gitlab.com/snowgem/bitfrost/-/commit/780dd2a81c92269b3d69b28870c15753640eb022): gas v2 function - Snowgem\n\n[1679523e](https://gitlab.com/snowgem/bitfrost/-/commit/1679523ecdcaa83a7babc7a734f30c0cba6aa21b): fix lint - Snowgem\n\n[b0a63f3c](https://gitlab.com/snowgem/bitfrost/-/commit/b0a63f3cba29016062f405a0d86696cb4c22423b): Merge branch 'features/estimate-gas-v2' into 'v0.1.3' - Txid\n\n[1c4367aa](https://gitlab.com/snowgem/bitfrost/-/commit/1c4367aa51962ae66ad45e1a740103ba6bcbf164): update explorer for ETH - Snowgem\n\n[93e2918a](https://gitlab.com/snowgem/bitfrost/-/commit/93e2918a91ccf66afaad788dd40d6bab24258652): Merge branch 'v0.1.3' of https://gitlab.com/snowgem/bitfrost into v0.1.3 - Snowgem\n\n[27d0cf44](https://gitlab.com/snowgem/bitfrost/-/commit/27d0cf4412d8fced77740107adc43e69c146b3ce): fix test account and check null - Snowgem\n\n[2f6040de](https://gitlab.com/snowgem/bitfrost/-/commit/2f6040de07cb820a72e8b7c963ed8947ca6dd4ca): catch swap issue - Snowgem\n\n[f0281d49](https://gitlab.com/snowgem/bitfrost/-/commit/f0281d49dd95f8411b2af22980d800e285f91978): fix fee check in swap - Snowgem\n\n[b4931e8f](https://gitlab.com/snowgem/bitfrost/-/commit/b4931e8f97fc11e7d60c3d7323f779718e636305): fix lint - Snowgem\n\n[c5e236a2](https://gitlab.com/snowgem/bitfrost/-/commit/c5e236a29cfeec5da5a7347cb8030136f66fb9de): Merge branch 'bugs/test-account' into 'v0.1.3' - Txid\n\n[5a67fc69](https://gitlab.com/snowgem/bitfrost/-/commit/5a67fc694ad176a3f2e0b8720e8b3d62156301a5): update api - Snowgem\n\n[3161a03d](https://gitlab.com/snowgem/bitfrost/-/commit/3161a03df7357be70c174db8c86cfc7128309862): prepare appflow - Snowgem\n\n[048406ad](https://gitlab.com/snowgem/bitfrost/-/commit/048406ad1ed68a9ff5d964609f0098c74da81bd1): wip - jan.vrastil\n\n[b8cbe205](https://gitlab.com/snowgem/bitfrost/-/commit/b8cbe205fa04e4e288f4f380d8f57b3ffa334265): SumSub - WIP - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3161a03df7357be70c174db8c86cfc7128309862...26b1db39eb4e7aae348e1511b7a098f0038e31c6))",
+    "created_at": "2020-12-11 08:21:16.439000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[26b1db39](https://gitlab.com/snowgem/bitfrost/-/commit/26b1db39eb4e7aae348e1511b7a098f0038e31c6): tent icon and color changed - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
