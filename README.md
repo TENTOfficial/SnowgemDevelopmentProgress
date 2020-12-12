@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3245 commits since 20/01/2020. You can see the complete history in
+There is a total of 3246 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-12 20:56:13</sub> | <sub>qNaN pushed to branch [feature/debit\-card\-creation](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-card-creation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5686d0097219058660b19646d747036da0b28ba9...137bea91784c07cf72f342bc1241e23c870d1301))</sub> | <sub>[339aaee9](https://gitlab.com/snowgem/bitfrost/-/commit/339aaee9dd87163546c175a02368865339dafc14): card guard - Filip Storkan<br>[137bea91](https://gitlab.com/snowgem/bitfrost/-/commit/137bea91784c07cf72f342bc1241e23c870d1301): card start page, router tapbar from routes - Filip Storkan</sub> |
 | <sub>2020-12-12 13:43:51</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/60a1ed6b5b4324d2d6f9f347a55b0359a4ea393f...df3607b4d4dc35b669f9fb72eb7065ed9cdf3dc9))</sub> | <sub>[df3607b4](https://gitlab.com/snowgem/freyja/-/commit/df3607b4d4dc35b669f9fb72eb7065ed9cdf3dc9): fixed avg status approximation - V</sub> |
 | <sub>2020-12-12 12:47:15</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/bcdbe5f8a6c3ccd5ab7d2a040a280ee9bffecb93...60a1ed6b5b4324d2d6f9f347a55b0359a4ea393f))</sub> | <sub>[60a1ed6b](https://gitlab.com/snowgem/freyja/-/commit/60a1ed6b5b4324d2d6f9f347a55b0359a4ea393f): fix: status is not defined - V</sub> |
 | <sub>2020-12-12 10:39:39</sub> | <sub>Txid (txid) merged merge request [\!134 \*increase ios build ver\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/134) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3245 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-12 02:19:37</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bb017616710965c0a3bcd4e299399c73ed1be89e...40c0d685c3ebbbfdeb5121152250069cb8fbda79))</sub> | <sub>[550ae862](https://gitlab.com/snowgem/bitfrost/-/commit/550ae8627b306095b1285a4e03ccd95f5db5a9a1): XSG to TENT in db - Snowgem<br>[40c0d685](https://gitlab.com/snowgem/bitfrost/-/commit/40c0d685c3ebbbfdeb5121152250069cb8fbda79): Merge branch 'v0.1.3' into 'testing' - Txid</sub> |
 | <sub>2020-12-12 02:19:37</sub> | <sub>Txid (txid) merged merge request [\!133 \*XSG to TENT in db\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/133) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-12 02:19:28</sub> | <sub>Txid (txid) opened merge request [\!133 \*XSG to TENT in db\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/133) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-12-12 02:13:38</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0e669cafc954b0fcef3cd7ba64d7513ddbb92888...550ae8627b306095b1285a4e03ccd95f5db5a9a1))</sub> | <sub>[550ae862](https://gitlab.com/snowgem/bitfrost/-/commit/550ae8627b306095b1285a4e03ccd95f5db5a9a1): XSG to TENT in db - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

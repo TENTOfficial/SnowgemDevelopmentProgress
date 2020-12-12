@@ -31733,5 +31733,15 @@
       "description": "[df3607b4](https://gitlab.com/snowgem/freyja/-/commit/df3607b4d4dc35b669f9fb72eb7065ed9cdf3dc9): fixed avg status approximation - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/debit\\-card\\-creation](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-card-creation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5686d0097219058660b19646d747036da0b28ba9...137bea91784c07cf72f342bc1241e23c870d1301))",
+    "created_at": "2020-12-12 20:56:13.517000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[339aaee9](https://gitlab.com/snowgem/bitfrost/-/commit/339aaee9dd87163546c175a02368865339dafc14): card guard - Filip Storkan\n\n[137bea91](https://gitlab.com/snowgem/bitfrost/-/commit/137bea91784c07cf72f342bc1241e23c870d1301): card start page, router tapbar from routes - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
