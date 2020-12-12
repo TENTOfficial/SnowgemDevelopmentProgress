@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3239 commits since 20/01/2020. You can see the complete history in
+There is a total of 3240 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-12 10:34:17</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/550ae8627b306095b1285a4e03ccd95f5db5a9a1...44c22758888a067376ebabdfb487aa8c67492301))</sub> | <sub>[44c22758](https://gitlab.com/snowgem/bitfrost/-/commit/44c22758888a067376ebabdfb487aa8c67492301): increase ios build ver - Snowgem</sub> |
 | <sub>2020-12-12 02:19:37</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bb017616710965c0a3bcd4e299399c73ed1be89e...40c0d685c3ebbbfdeb5121152250069cb8fbda79))</sub> | <sub>[550ae862](https://gitlab.com/snowgem/bitfrost/-/commit/550ae8627b306095b1285a4e03ccd95f5db5a9a1): XSG to TENT in db - Snowgem<br>[40c0d685](https://gitlab.com/snowgem/bitfrost/-/commit/40c0d685c3ebbbfdeb5121152250069cb8fbda79): Merge branch 'v0.1.3' into 'testing' - Txid</sub> |
 | <sub>2020-12-12 02:19:37</sub> | <sub>Txid (txid) merged merge request [\!133 \*XSG to TENT in db\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/133) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-12 02:19:28</sub> | <sub>Txid (txid) opened merge request [\!133 \*XSG to TENT in db\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/133) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3239 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-12 01:50:10</sub> | <sub>Txid (txid) opened merge request [\!132 \*V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/132) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-12 01:41:50</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0aa2ea165f1dfadbc060dd1d999842cb161575b2...0e669cafc954b0fcef3cd7ba64d7513ddbb92888))</sub> | <sub>[0e669caf](https://gitlab.com/snowgem/bitfrost/-/commit/0e669cafc954b0fcef3cd7ba64d7513ddbb92888): fix lint - Snowgem</sub> |
 | <sub>2020-12-12 01:33:19</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8a935da6e5665cf8f3f2ae6f9194050d87326b4e...0aa2ea165f1dfadbc060dd1d999842cb161575b2))</sub> | <sub>[0aa2ea16](https://gitlab.com/snowgem/bitfrost/-/commit/0aa2ea165f1dfadbc060dd1d999842cb161575b2): fix coinlist - Snowgem</sub> |
-| <sub>2020-12-11 23:55:21</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7b47ff2dedf6685a8035f537254ebf9e3285fcf3...8a935da6e5665cf8f3f2ae6f9194050d87326b4e))</sub> | <sub>[8a935da6](https://gitlab.com/snowgem/bitfrost/-/commit/8a935da6e5665cf8f3f2ae6f9194050d87326b4e): update build.gradle - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
