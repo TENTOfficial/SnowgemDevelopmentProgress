@@ -31873,5 +31873,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!138 \\*remove XSG in add list\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/138) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-12-13 13:38:26.777000"
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/64b3f9f0936d2e52b52c287bbab927d1c193ebca...9d197a50f260faba26406f1a933d1fd5d54de1ab))",
+    "created_at": "2020-12-13 20:22:21.566000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a1c2b607](https://gitlab.com/snowgem/asgard/-/commit/a1c2b6075da88fef2bcdab9b9adef497c9fd0db5): account activation page - V\n\n[f3cfaf46](https://gitlab.com/snowgem/asgard/-/commit/f3cfaf46346f8c4f287f936fa41b2f7fbd2dd6c8): account activation page - V\n\n[9d197a50](https://gitlab.com/snowgem/asgard/-/commit/9d197a50f260faba26406f1a933d1fd5d54de1ab): password resets - V",
+      "type": "rich"
+    }
   }
 ]
