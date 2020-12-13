@@ -31763,5 +31763,15 @@
       "description": "[64b3f9f0](https://gitlab.com/snowgem/asgard/-/commit/64b3f9f0936d2e52b52c287bbab927d1c193ebca): missing mailer file - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/44c22758888a067376ebabdfb487aa8c67492301...4fef36f5bd883e1baf70c661eae769e0fd5836c2))",
+    "created_at": "2020-12-13 08:53:41.154000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4fef36f5](https://gitlab.com/snowgem/bitfrost/-/commit/4fef36f5bd883e1baf70c661eae769e0fd5836c2): fix add coin issue - Snowgem",
+      "type": "rich"
+    }
   }
 ]
