@@ -31773,5 +31773,10 @@
       "description": "[4fef36f5](https://gitlab.com/snowgem/bitfrost/-/commit/4fef36f5bd883e1baf70c661eae769e0fd5836c2): fix add coin issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!135 \\*fix add coin issue\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/135) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-13 09:00:00.827000"
   }
 ]

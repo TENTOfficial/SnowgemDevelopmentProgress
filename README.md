@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3249 commits since 20/01/2020. You can see the complete history in
+There is a total of 3250 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-13 09:00:00</sub> | <sub>Txid (txid) opened merge request [\!135 \*fix add coin issue\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/135) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-13 08:53:41</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/44c22758888a067376ebabdfb487aa8c67492301...4fef36f5bd883e1baf70c661eae769e0fd5836c2))</sub> | <sub>[4fef36f5](https://gitlab.com/snowgem/bitfrost/-/commit/4fef36f5bd883e1baf70c661eae769e0fd5836c2): fix add coin issue - Snowgem</sub> |
 | <sub>2020-12-12 21:38:29</sub> | <sub>V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/a2531f7dc463ba1491b607b89ce8a523f9958f1e...64b3f9f0936d2e52b52c287bbab927d1c193ebca))</sub> | <sub>[64b3f9f0](https://gitlab.com/snowgem/asgard/-/commit/64b3f9f0936d2e52b52c287bbab927d1c193ebca): missing mailer file - V</sub> |
 | <sub>2020-12-12 21:38:06</sub> | <sub>V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/67be07fd48c99d129cf1b8d1a1c0ea039da7a83f...a2531f7dc463ba1491b607b89ce8a523f9958f1e))</sub> | <sub>[a2531f7d](https://gitlab.com/snowgem/asgard/-/commit/a2531f7dc463ba1491b607b89ce8a523f9958f1e): added activation emails - V</sub> |
@@ -17,6 +18,5 @@ There is a total of 3249 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-12 10:39:39</sub> | <sub>Txid (txid) merged merge request [\!134 \*increase ios build ver\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/134) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-12 10:39:39</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/40c0d685c3ebbbfdeb5121152250069cb8fbda79...cbbb3151f2997cd5dfed304e92b6305e6428cfc5))</sub> | <sub>[44c22758](https://gitlab.com/snowgem/bitfrost/-/commit/44c22758888a067376ebabdfb487aa8c67492301): increase ios build ver - Snowgem<br>[cbbb3151](https://gitlab.com/snowgem/bitfrost/-/commit/cbbb3151f2997cd5dfed304e92b6305e6428cfc5): Merge branch 'v0.1.3' into 'testing' - Txid</sub> |
 | <sub>2020-12-12 10:39:35</sub> | <sub>Txid (txid) opened merge request [\!134 \*increase ios build ver\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/134) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-12-12 10:34:17</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/550ae8627b306095b1285a4e03ccd95f5db5a9a1...44c22758888a067376ebabdfb487aa8c67492301))</sub> | <sub>[44c22758](https://gitlab.com/snowgem/bitfrost/-/commit/44c22758888a067376ebabdfb487aa8c67492301): increase ios build ver - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
