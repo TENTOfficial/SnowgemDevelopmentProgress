@@ -32058,5 +32058,25 @@
       "description": "[c72a5a84](https://gitlab.com/snowgem/bitfrost/-/commit/c72a5a849d25a024c4226f633afc23efeff52d13): removing console log - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f0c27bde4f9ddedf0ea56bc5d511d31ac25d4c67...0063210084b879ecd3e5a862b9f44c4a7a55f0ce))",
+    "created_at": "2020-12-14 18:45:46.874000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[00632100](https://gitlab.com/snowgem/bitfrost/-/commit/0063210084b879ecd3e5a862b9f44c4a7a55f0ce): 0.1.4 version - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/9d197a50f260faba26406f1a933d1fd5d54de1ab...75e332fd25c22155d856375ce52f4da608b4778b))",
+    "created_at": "2020-12-14 18:48:12.089000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[75e332fd](https://gitlab.com/snowgem/asgard/-/commit/75e332fd25c22155d856375ce52f4da608b4778b): support password change & security imporvements - V",
+      "type": "rich"
+    }
   }
 ]
