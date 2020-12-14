@@ -32028,5 +32028,15 @@
       "description": "[17bfce36](https://gitlab.com/snowgem/bitfrost/-/commit/17bfce3624da181f37f2d061a499e78c9a1bb0cc): adding endpoints - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/debit\\-card\\-creation](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-card-creation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/17bfce3624da181f37f2d061a499e78c9a1bb0cc...548b8bbe4476b1bd66d47c56dfc7d38769e981fe))",
+    "created_at": "2020-12-14 18:07:35.709000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[548b8bbe](https://gitlab.com/snowgem/bitfrost/-/commit/548b8bbe4476b1bd66d47c56dfc7d38769e981fe): changing uniqueid type - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
