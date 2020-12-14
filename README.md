@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3274 commits since 20/01/2020. You can see the complete history in
+There is a total of 3275 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-14 11:38:48</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/fae07fa126eb86c27d0818f3007ccbbb097f89f6...e0756cac58c327ba5cac2f1fbcafbed0d0c9264f))</sub> | <sub>[e0756cac](https://gitlab.com/snowgem/snowpay-api/-/commit/e0756cac58c327ba5cac2f1fbcafbed0d0c9264f): #delayed swap validation - test fix - Kamil Wojciechowski</sub> |
 | <sub>2020-12-14 11:25:54</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1e2db36cbc2a735d3c6bb9d46548d435f5350c97...fae07fa126eb86c27d0818f3007ccbbb097f89f6))</sub> | <sub>[fae07fa1](https://gitlab.com/snowgem/snowpay-api/-/commit/fae07fa126eb86c27d0818f3007ccbbb097f89f6): #delayed swap validation - added swap report handler tests - Kamil Wojciechowski</sub> |
 | <sub>2020-12-14 11:10:59</sub> | <sub>demzet pushed to branch [relase\_2020\_11\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/76af2e43b1e5b941fed39993f12e57b675e467ca...1e2db36cbc2a735d3c6bb9d46548d435f5350c97))</sub> | <sub>[1e2db36c](https://gitlab.com/snowgem/snowpay-api/-/commit/1e2db36cbc2a735d3c6bb9d46548d435f5350c97): #delayed swap validation - Kamil Wojciechowski</sub> |
 | <sub>2020-12-14 08:23:59</sub> | <sub>Txid (txid) merged merge request [\!140 \*fix swap\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/140) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3274 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-14 05:46:35</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/90afdbd8e62be3b9afded138a000f85c03e12561...add0de760f056ba569fb55702068b5bccc7283f1))</sub> | <sub>[97b90110](https://gitlab.com/snowgem/bitfrost/-/commit/97b9011048468b17655417cf36bcc2e656fe06f9): fix swap issue - Snowgem<br>[add0de76](https://gitlab.com/snowgem/bitfrost/-/commit/add0de760f056ba569fb55702068b5bccc7283f1): Merge branch 'v0.1.3' into 'testing' - Txid</sub> |
 | <sub>2020-12-14 05:46:35</sub> | <sub>Txid (txid) merged merge request [\!139 \*fix swap issue\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/139) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-14 05:46:31</sub> | <sub>Txid (txid) opened merge request [\!139 \*fix swap issue\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/139) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-12-14 05:16:49</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/36c9c6c858771aeced2fe40f9b8fdc33abd42632...97b9011048468b17655417cf36bcc2e656fe06f9))</sub> | <sub>[97b90110](https://gitlab.com/snowgem/bitfrost/-/commit/97b9011048468b17655417cf36bcc2e656fe06f9): fix swap issue - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
