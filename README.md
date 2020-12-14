@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3264 commits since 20/01/2020. You can see the complete history in
+There is a total of 3265 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-14 05:16:49</sub> | <sub>Txid pushed to branch [v0\.1\.3](https://gitlab.com/snowgem/bitfrost/commits/v0.1.3) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/36c9c6c858771aeced2fe40f9b8fdc33abd42632...97b9011048468b17655417cf36bcc2e656fe06f9))</sub> | <sub>[97b90110](https://gitlab.com/snowgem/bitfrost/-/commit/97b9011048468b17655417cf36bcc2e656fe06f9): fix swap issue - Snowgem</sub> |
 | <sub>2020-12-13 20:22:21</sub> | <sub>V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/64b3f9f0936d2e52b52c287bbab927d1c193ebca...9d197a50f260faba26406f1a933d1fd5d54de1ab))</sub> | <sub>[a1c2b607](https://gitlab.com/snowgem/asgard/-/commit/a1c2b6075da88fef2bcdab9b9adef497c9fd0db5): account activation page - V<br>[f3cfaf46](https://gitlab.com/snowgem/asgard/-/commit/f3cfaf46346f8c4f287f936fa41b2f7fbd2dd6c8): account activation page - V<br>[9d197a50](https://gitlab.com/snowgem/asgard/-/commit/9d197a50f260faba26406f1a933d1fd5d54de1ab): password resets - V</sub> |
 | <sub>2020-12-13 13:38:26</sub> | <sub>Txid (txid) merged merge request [\!138 \*remove XSG in add list\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/138) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-13 13:38:26</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6a4c0f6ddd324a5d1918829616b6b1318e4592e4...90afdbd8e62be3b9afded138a000f85c03e12561))</sub> | <sub>[36c9c6c8](https://gitlab.com/snowgem/bitfrost/-/commit/36c9c6c858771aeced2fe40f9b8fdc33abd42632): remove XSG in add list - Snowgem<br>[90afdbd8](https://gitlab.com/snowgem/bitfrost/-/commit/90afdbd8e62be3b9afded138a000f85c03e12561): Merge branch 'v0.1.3' into 'testing' - Txid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3264 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-13 09:44:48</sub> | <sub>Txid (txid) closed merge request [\!137 \*Draft: V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/137) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-13 09:44:40</sub> | <sub>Txid (txid) opened merge request [\!137 \*Draft: V0\.1\.3\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/137) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-13 09:14:50</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7a8920b5b34c3a9cfbae10a2230e2df1743b9676...6a4c0f6ddd324a5d1918829616b6b1318e4592e4))</sub> | <sub>[53a93b95](https://gitlab.com/snowgem/bitfrost/-/commit/53a93b95ef7904e7beb0e3361877479edcdd3a0c): increase android build version - Snowgem<br>[6a4c0f6d](https://gitlab.com/snowgem/bitfrost/-/commit/6a4c0f6ddd324a5d1918829616b6b1318e4592e4): Merge branch 'v0.1.3' into 'testing' - Txid</sub> |
-| <sub>2020-12-13 09:14:50</sub> | <sub>Txid (txid) merged merge request [\!136 \*increase android build version\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/136) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
