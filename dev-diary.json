@@ -31973,5 +31973,30 @@
       "description": "[e0756cac](https://gitlab.com/snowgem/snowpay-api/-/commit/e0756cac58c327ba5cac2f1fbcafbed0d0c9264f): #delayed swap validation - test fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) opened merge request [\\!55 \\*Relase 2020 11 30\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/55) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-12-14 13:30:06.444000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!55 \\*Relase 2020 11 30\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/55) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-12-14 13:30:13.591000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e0756cac58c327ba5cac2f1fbcafbed0d0c9264f...e1008087365e476f25495748fa669bb78541c688))",
+    "created_at": "2020-12-14 13:32:01.948000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[55ff74d0](https://gitlab.com/snowgem/snowpay-api/-/commit/55ff74d0c1acf564e517529e0421da69750ac777): Merge branch 'fix__162__user_saga_access' into 'master' - demzet\n\n[543073a2](https://gitlab.com/snowgem/snowpay-api/-/commit/543073a2846519b9fbb833bee8dd6e12624cfcb4): Merge branch 'relase_2020_11_30' into 'master' - demzet\n\n[21ba0ba8](https://gitlab.com/snowgem/snowpay-api/-/commit/21ba0ba8907db8670b95488b451668a504d7df9e): #131 - implemented topup integration client - Kamil Wojciechowski\n\n[9c6c229d](https://gitlab.com/snowgem/snowpay-api/-/commit/9c6c229d5c3b049bdd39f73a2f4ededf00c2edf1): #131 - moved en-queue card payment to payment cards service - Kamil Wojciechowski\n\n[c9dc7e44](https://gitlab.com/snowgem/snowpay-api/-/commit/c9dc7e44e5215e33bd5205296ab1f0d1bbc5100f): Merge branch 'feature__131__topup_client' into 'master' - demzet\n\n[f71b82f2](https://gitlab.com/snowgem/snowpay-api/-/commit/f71b82f2abf5c079333d50a5a12aca60e4a146d5): #170 - added fiat to crypto swaps list - Kamil Wojciechowski\n\n[8dadabe2](https://gitlab.com/snowgem/snowpay-api/-/commit/8dadabe246c4158d39a64d21f0d51dbc536d2cbf): Merge branch 'feature__170__get_list_of_fiat_swaps' into 'master' - demzet\n\n[6160e112](https://gitlab.com/snowgem/snowpay-api/-/commit/6160e11239f1b8a4941538c6cb86e963c93b99ba): #171 - added FIAT to stable coins swap params calculations - Kamil Wojciechowski\n\n[f5994483](https://gitlab.com/snowgem/snowpay-api/-/commit/f59944834ef29160123671e2cf1c21a21d895339): Merge branch 'feature__171__fiat_to_crypto_params_list' into 'master' - demzet\n\n[e1008087](https://gitlab.com/snowgem/snowpay-api/-/commit/e1008087365e476f25495748fa669bb78541c688): Merge branch 'master' into 'relase_2020_11_30' - demzet",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) merged merge request [\\!55 \\*Relase 2020 11 30\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/55) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
+    "created_at": "2020-12-14 13:32:07.233000"
   }
 ]
