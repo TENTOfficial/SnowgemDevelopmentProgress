@@ -31953,5 +31953,15 @@
       "description": "[1e2db36c](https://gitlab.com/snowgem/snowpay-api/-/commit/1e2db36cbc2a735d3c6bb9d46548d435f5350c97): #delayed swap validation - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [relase\\_2020\\_11\\_30](https://gitlab.com/snowgem/snowpay-api/commits/relase_2020_11_30) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/1e2db36cbc2a735d3c6bb9d46548d435f5350c97...fae07fa126eb86c27d0818f3007ccbbb097f89f6))",
+    "created_at": "2020-12-14 11:25:54.117000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fae07fa1](https://gitlab.com/snowgem/snowpay-api/-/commit/fae07fa126eb86c27d0818f3007ccbbb097f89f6): #delayed swap validation - added swap report handler tests - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
