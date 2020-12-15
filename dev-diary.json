@@ -32189,5 +32189,23 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!143 \\*Testing\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/143) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2020-12-15 08:29:49.388000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-15 09:29:51.164000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ebef19e`](https://github.com/ciripel/Heimdall/commit/ebef19e10779af2e19d953a3f2828e8c433e0b3a) fixed cmc api - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/ebef19e10779af2e19d953a3f2828e8c433e0b3a"
+    }
   }
 ]

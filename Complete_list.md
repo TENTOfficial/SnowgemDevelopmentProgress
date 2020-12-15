@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-15 09:29:51</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/ebef19e10779af2e19d953a3f2828e8c433e0b3a)</sub> | <sub>[ebef19e](https://github.com/ciripel/Heimdall/commit/ebef19e10779af2e19d953a3f2828e8c433e0b3a) fixed cmc api - ciripel</sub> |
 | <sub>2020-12-15 08:29:49</sub> | <sub>Txid (txid) merged merge request [\!143 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/143) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-15 08:29:37</sub> | <sub>Txid (txid) opened merge request [\!143 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/143) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-15 06:05:34</sub> | <sub>Jan Vraštil removed branch sumsub from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
