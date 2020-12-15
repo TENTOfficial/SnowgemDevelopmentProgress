@@ -32365,5 +32365,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/insight-ui-tent/commit/db124252ff9cf9857e9f20c6b99fe68f6cb7bcd8"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/a1fd27dc3f311d74888d10551a6df398ed4cd994...5857789a85ce53d10406c709f2ca6120d6ba216e))",
+    "created_at": "2020-12-15 22:31:00.767000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5857789a](https://gitlab.com/snowgem/asgard/-/commit/5857789a85ce53d10406c709f2ca6120d6ba216e): invalid sql syntax during freyja addition - V",
+      "type": "rich"
+    }
   }
 ]
