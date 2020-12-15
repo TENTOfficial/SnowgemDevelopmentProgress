@@ -32243,5 +32243,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/c81e96a5037718f361221a3056747f0f148d975a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-15 10:22:44.771000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8f03311`](https://github.com/ciripel/Heimdall-telegram/commit/8f0331126067fab2729ca34d3df90110a5e12893) fixed links - ciripel",
+      "title": "[Heimdall-telegram:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall-telegram/commit/8f0331126067fab2729ca34d3df90110a5e12893"
+    }
   }
 ]

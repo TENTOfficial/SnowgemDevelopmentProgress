@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-15 10:22:44</sub> | <sub>[[Heimdall-telegram:master] 1 new commit](https://github.com/ciripel/Heimdall-telegram/commit/8f0331126067fab2729ca34d3df90110a5e12893)</sub> | <sub>[8f03311](https://github.com/ciripel/Heimdall-telegram/commit/8f0331126067fab2729ca34d3df90110a5e12893) fixed links - ciripel</sub> |
 | <sub>2020-12-15 10:14:31</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/c81e96a5037718f361221a3056747f0f148d975a)</sub> | <sub>[c81e96a](https://github.com/ciripel/Heimdall/commit/c81e96a5037718f361221a3056747f0f148d975a) fixed links and adjusted CoreTeam - ciripel</sub> |
 | <sub>2020-12-15 09:41:39</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/0a4667e4ce73633fb2b8bd3ca2977dc85c000d85)</sub> | <sub>[0a4667e](https://github.com/ciripel/Heimdall/commit/0a4667e4ce73633fb2b8bd3ca2977dc85c000d85) fixed tentusd and rebranded some variables - ciripel</sub> |
 | <sub>2020-12-15 09:29:51</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/ebef19e10779af2e19d953a3f2828e8c433e0b3a)</sub> | <sub>[ebef19e](https://github.com/ciripel/Heimdall/commit/ebef19e10779af2e19d953a3f2828e8c433e0b3a) fixed cmc api - ciripel</sub> |
