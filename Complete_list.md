@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-15 06:05:34</sub> | <sub>Jan Vraštil removed branch sumsub from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2020-12-15 06:05:10</sub> | <sub>Jan Vraštil removed branch implement_sumsub from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-15 06:04:32</sub> | <sub>Jan Vraštil (jan.vrastil) closed merge request [\!123 \*WIP: DONT MERGE IT Implement sumsub\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/123) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-15 05:59:43</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!142 \*WIP: Feature/sumsub verification\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/142) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-15 05:59:16</sub> | <sub>Jan Vraštil pushed new branch [feature/sumsub\-verification](https://gitlab.com/snowgem/bitfrost/commits/feature/sumsub-verification) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
