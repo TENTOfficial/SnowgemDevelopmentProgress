@@ -32154,5 +32154,15 @@
       "description": "[2753e3eb](https://gitlab.com/snowgem/bitfrost/-/commit/2753e3eb00e0a23d8f41fe023e361ccd8c303d30): SumSub - WIP - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [feature/sumsub\\-verification](https://gitlab.com/snowgem/bitfrost/commits/feature/sumsub-verification) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-15 05:59:16.912000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!142 \\*WIP: Feature/sumsub verification\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/142) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2020-12-15 05:59:43.288000"
   }
 ]
