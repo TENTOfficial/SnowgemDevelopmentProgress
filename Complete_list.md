@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-16 09:05:44</sub> | <sub>Txid pushed new branch [features/1\-seeds](https://gitlab.com/snowgem/bitfrost/commits/features/1-seeds) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-16 07:08:35</sub> | <sub>Txid pushed new tag [0\.1\.4](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.4) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-16 07:08:13</sub> | <sub>Txid removed tag 0.1.4 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-16 07:05:39</sub> | <sub>Txid pushed new tag [0\.1\.4](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.4) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
