@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-16 21:14:37</sub> | <sub>V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/5857789a85ce53d10406c709f2ca6120d6ba216e...d960a159d537db04d3d2f30f480b60a22ce52bc6))</sub> | <sub>[d960a159](https://gitlab.com/snowgem/asgard/-/commit/d960a159d537db04d3d2f30f480b60a22ce52bc6): fixed creation script of Orders table - V</sub> |
 | <sub>2020-12-16 09:05:44</sub> | <sub>Txid pushed new branch [features/1\-seeds](https://gitlab.com/snowgem/bitfrost/commits/features/1-seeds) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-16 07:08:35</sub> | <sub>Txid pushed new tag [0\.1\.4](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.4) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-16 07:08:13</sub> | <sub>Txid removed tag 0.1.4 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
