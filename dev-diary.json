@@ -32405,5 +32405,15 @@
       "description": "[d960a159](https://gitlab.com/snowgem/asgard/-/commit/d960a159d537db04d3d2f30f480b60a22ce52bc6): fixed creation script of Orders table - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ea01cbdcd0faf8732e1f5f980d1654f6531facd8...f5d79840dc4d9bf1ec66e612ef57c1f1908b45bf))",
+    "created_at": "2020-12-19 21:28:14.806000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8267ef7d](https://gitlab.com/snowgem/snowpay-api/-/commit/8267ef7d0626d0464bfb02f8772861f70c2afda6): WIP - Kamil Wojciechowski\n\n[cdc08be4](https://gitlab.com/snowgem/snowpay-api/-/commit/cdc08be4ce806fded7ca603bc8859cf891fcbcfd): #tests - Kamil Wojciechowski\n\n[f5d79840](https://gitlab.com/snowgem/snowpay-api/-/commit/f5d79840dc4d9bf1ec66e612ef57c1f1908b45bf): Merge branch 'master' of https://gitlab.com/snowgem/snowpay-api - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
