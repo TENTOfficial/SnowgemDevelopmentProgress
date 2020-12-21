@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3327 commits since 20/01/2020. You can see the complete history in
+There is a total of 3328 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-21 13:59:25</sub> | <sub>demzet pushed new branch [hosting\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-20 17:43:09</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/1a033a1717c8c375445e677209c127c7e6db02be)</sub> | <sub>[1a033a1](https://github.com/ciripel/Heimdall/commit/1a033a1717c8c375445e677209c127c7e6db02be) fixed halving ticker printing bug - ciripel</sub> |
 | <sub>2020-12-20 13:49:41</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f5d79840dc4d9bf1ec66e612ef57c1f1908b45bf...ea01cbdcd0faf8732e1f5f980d1654f6531facd8))</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-20 13:41:28</sub> | <sub>demzet pushed to branch [stash\_of\_topupprocessing\_batches](https://gitlab.com/snowgem/snowpay-api/commits/stash_of_topupprocessing_batches) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f5d79840dc4d9bf1ec66e612ef57c1f1908b45bf...3280bb5a161b9af660f64fa09ab14676a603989d))</sub> | <sub>[3280bb5a](https://gitlab.com/snowgem/snowpay-api/-/commit/3280bb5a161b9af660f64fa09ab14676a603989d): wip - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 3327 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-16 09:05:44</sub> | <sub>Txid pushed new branch [features/1\-seeds](https://gitlab.com/snowgem/bitfrost/commits/features/1-seeds) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-16 07:08:35</sub> | <sub>Txid pushed new tag [0\.1\.4](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.4) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-16 07:08:13</sub> | <sub>Txid removed tag 0.1.4 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-12-16 07:05:39</sub> | <sub>Txid pushed new tag [0\.1\.4](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.4) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
