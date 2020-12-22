@@ -32510,5 +32510,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/commit/de2c864b2ea0d95352f50d5d1b20f98d4a9cb3c0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-22 22:48:57.877000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c887bef`](https://github.com/TENTOfficial/TENT/commit/c887bef14d6365ce62caf5e5a83fbff04d073e54) Added --tags in builds - ciripel",
+      "title": "[TENT:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/commit/c887bef14d6365ce62caf5e5a83fbff04d073e54"
+    }
   }
 ]
