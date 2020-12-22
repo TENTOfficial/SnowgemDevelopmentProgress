@@ -32482,5 +32482,15 @@
       "description": "[22136b72](https://gitlab.com/snowgem/bitfrost/-/commit/22136b72b22ee08c92e8dbd65869fa620d168b02): update database for 1 seed - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [feature/sumsub\\-verification](https://gitlab.com/snowgem/bitfrost/commits/feature/sumsub-verification) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6fcc2d8cae514fe84c76e88f5773c34b95910f7a...8c6cbffe29ed5a1fdd08a95c330d32e05cf6bf98))",
+    "created_at": "2020-12-22 15:33:08.438000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8c6cbffe](https://gitlab.com/snowgem/bitfrost/-/commit/8c6cbffe29ed5a1fdd08a95c330d32e05cf6bf98): [feature] Implement SumSub identity verification - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
