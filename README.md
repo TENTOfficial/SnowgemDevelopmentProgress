@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3335 commits since 20/01/2020. You can see the complete history in
+There is a total of 3336 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-23 16:15:26</sub> | <sub>[[insight-api-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-api-tent/commit/ab473ff2cb3bb062e4fc482e88969cb5cb214d43)</sub> | <sub>[ab473ff](https://github.com/TENTOfficial/insight-api-tent/commit/ab473ff2cb3bb062e4fc482e88969cb5cb214d43) update mined by address - TENTOfficial</sub> |
 | <sub>2020-12-23 06:41:16</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/20f5d7c5c4bb0540a8bae77fee735e3447e64344)</sub> | <sub>[20f5d7c](https://github.com/TENTOfficial/TENT/commit/20f5d7c5c4bb0540a8bae77fee735e3447e64344) fixed debian control and --tags argument as dir... - ciripel</sub> |
 | <sub>2020-12-23 06:13:09</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/51808e9896a5d4f271f06678bcbe856d4925d6e2)</sub> | <sub>[51808e9](https://github.com/TENTOfficial/TENT/commit/51808e9896a5d4f271f06678bcbe856d4925d6e2) fixed debian control and --tags argument as dir... - ciripel</sub> |
 | <sub>2020-12-22 22:48:57</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/c887bef14d6365ce62caf5e5a83fbff04d073e54)</sub> | <sub>[c887bef](https://github.com/TENTOfficial/TENT/commit/c887bef14d6365ce62caf5e5a83fbff04d073e54) Added --tags in builds - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3335 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-21 14:28:32</sub> | <sub>Jan Vraštil pushed to branch [feature/sumsub\-verification](https://gitlab.com/snowgem/bitfrost/commits/feature/sumsub-verification) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3dd8a95d91731bbdaf970a0ddf46a8c5743ae524...6fcc2d8cae514fe84c76e88f5773c34b95910f7a))</sub> | <sub>[9f30d75f](https://gitlab.com/snowgem/bitfrost/-/commit/9f30d75f0b89e901f90a6b146e6d685eaa77197f): build fix - jan.vrastil<br>[6fcc2d8c](https://gitlab.com/snowgem/bitfrost/-/commit/6fcc2d8cae514fe84c76e88f5773c34b95910f7a): wip - jan.vrastil</sub> |
 | <sub>2020-12-21 13:59:25</sub> | <sub>demzet pushed new branch [hosting\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-20 17:43:09</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/1a033a1717c8c375445e677209c127c7e6db02be)</sub> | <sub>[1a033a1](https://github.com/ciripel/Heimdall/commit/1a033a1717c8c375445e677209c127c7e6db02be) fixed halving ticker printing bug - ciripel</sub> |
-| <sub>2020-12-20 13:49:41</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f5d79840dc4d9bf1ec66e612ef57c1f1908b45bf...ea01cbdcd0faf8732e1f5f980d1654f6531facd8))</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
