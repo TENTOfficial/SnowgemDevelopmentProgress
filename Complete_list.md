@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-23 06:41:16</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/20f5d7c5c4bb0540a8bae77fee735e3447e64344)</sub> | <sub>[20f5d7c](https://github.com/TENTOfficial/TENT/commit/20f5d7c5c4bb0540a8bae77fee735e3447e64344) fixed debian control and --tags argument as dir... - ciripel</sub> |
 | <sub>2020-12-23 06:13:09</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/51808e9896a5d4f271f06678bcbe856d4925d6e2)</sub> | <sub>[51808e9](https://github.com/TENTOfficial/TENT/commit/51808e9896a5d4f271f06678bcbe856d4925d6e2) fixed debian control and --tags argument as dir... - ciripel</sub> |
 | <sub>2020-12-22 22:48:57</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/c887bef14d6365ce62caf5e5a83fbff04d073e54)</sub> | <sub>[c887bef](https://github.com/TENTOfficial/TENT/commit/c887bef14d6365ce62caf5e5a83fbff04d073e54) Added --tags in builds - ciripel</sub> |
 | <sub>2020-12-22 19:52:32</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/de2c864b2ea0d95352f50d5d1b20f98d4a9cb3c0)</sub> | <sub>[de2c864](https://github.com/TENTOfficial/TENT/commit/de2c864b2ea0d95352f50d5d1b20f98d4a9cb3c0) increased build version - ciripel</sub> |
