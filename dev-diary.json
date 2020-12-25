@@ -32612,5 +32612,15 @@
       "description": "[1816bbdf](https://gitlab.com/snowgem/bitfrost/-/commit/1816bbdf29cc9589343d1ea5c115bc7ee4a8bd6e): add get address daps - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [hosting\\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2a87a032d0218adf88ee75d4617c28596841cb09...df3e231646fec17bca857b731bb08fa3c3d180e7))",
+    "created_at": "2020-12-25 20:04:51.247000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[df3e2316](https://gitlab.com/snowgem/snowpay-api/-/commit/df3e231646fec17bca857b731bb08fa3c3d180e7): #wip - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
