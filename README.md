@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3347 commits since 20/01/2020. You can see the complete history in
+There is a total of 3348 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-26 19:43:54</sub> | <sub>demzet pushed to branch [hosting\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f8be2abeac2a4f354c6da2ab005b067824b71e08...b10ae32f2901abcf22487afd275a0a5adf046d09))</sub> | <sub>[b10ae32f](https://gitlab.com/snowgem/snowpay-api/-/commit/b10ae32f2901abcf22487afd275a0a5adf046d09): #wip - Kamil Wojciechowski</sub> |
 | <sub>2020-12-26 18:08:10</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/f704f85485159caacc75eb012640594b860b3a61)</sub> | <sub>[f704f85](https://github.com/ciripel/Heimdall/commit/f704f85485159caacc75eb012640594b860b3a61) Fixed api of Mercatox - ciripel</sub> |
 | <sub>2020-12-26 14:32:09</sub> | <sub>demzet pushed to branch [hosting\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8d91d185118f4fc000ed4a874b4c44ca940fd251...f8be2abeac2a4f354c6da2ab005b067824b71e08))</sub> | <sub>[f8be2abe](https://gitlab.com/snowgem/snowpay-api/-/commit/f8be2abeac2a4f354c6da2ab005b067824b71e08): #wip - Kamil Wojciechowski</sub> |
 | <sub>2020-12-26 14:22:54</sub> | <sub>demzet pushed to branch [hosting\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4e82b28968e453acd85f6c884da81034e82baf70...8d91d185118f4fc000ed4a874b4c44ca940fd251))</sub> | <sub>[8d91d185](https://gitlab.com/snowgem/snowpay-api/-/commit/8d91d185118f4fc000ed4a874b4c44ca940fd251): #wip - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 3347 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-25 20:04:51</sub> | <sub>demzet pushed to branch [hosting\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2a87a032d0218adf88ee75d4617c28596841cb09...df3e231646fec17bca857b731bb08fa3c3d180e7))</sub> | <sub>[df3e2316](https://gitlab.com/snowgem/snowpay-api/-/commit/df3e231646fec17bca857b731bb08fa3c3d180e7): #wip - Kamil Wojciechowski</sub> |
 | <sub>2020-12-25 17:25:32</sub> | <sub>Txid pushed to branch [features/daps](https://gitlab.com/snowgem/bitfrost/commits/features/daps) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4ce4325da0c61654d5c18d453d58d4b0112dafa4...1816bbdf29cc9589343d1ea5c115bc7ee4a8bd6e))</sub> | <sub>[1816bbdf](https://gitlab.com/snowgem/bitfrost/-/commit/1816bbdf29cc9589343d1ea5c115bc7ee4a8bd6e): add get address daps - Snowgem</sub> |
 | <sub>2020-12-25 15:17:45</sub> | <sub>Txid pushed new branch [features/daps](https://gitlab.com/snowgem/bitfrost/commits/features/daps) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2020-12-25 15:01:58</sub> | <sub>Daniil Lisovskiy pushed new branch [feature\_\_203\_\_coinbase\_integration](https://gitlab.com/snowgem/snowpay-api/commits/feature__203__coinbase_integration) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
