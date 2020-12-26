@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3345 commits since 20/01/2020. You can see the complete history in
+There is a total of 3346 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2020-12-26 14:32:09</sub> | <sub>demzet pushed to branch [hosting\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/8d91d185118f4fc000ed4a874b4c44ca940fd251...f8be2abeac2a4f354c6da2ab005b067824b71e08))</sub> | <sub>[f8be2abe](https://gitlab.com/snowgem/snowpay-api/-/commit/f8be2abeac2a4f354c6da2ab005b067824b71e08): #wip - Kamil Wojciechowski</sub> |
 | <sub>2020-12-26 14:22:54</sub> | <sub>demzet pushed to branch [hosting\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4e82b28968e453acd85f6c884da81034e82baf70...8d91d185118f4fc000ed4a874b4c44ca940fd251))</sub> | <sub>[8d91d185](https://gitlab.com/snowgem/snowpay-api/-/commit/8d91d185118f4fc000ed4a874b4c44ca940fd251): #wip - Kamil Wojciechowski</sub> |
 | <sub>2020-12-25 22:16:35</sub> | <sub>demzet pushed to branch [hosting\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2d184fa0054feee76231b92f2fbff1ce5454bd71...4e82b28968e453acd85f6c884da81034e82baf70))</sub> | <sub>[4e82b289](https://gitlab.com/snowgem/snowpay-api/-/commit/4e82b28968e453acd85f6c884da81034e82baf70): #wip - Kamil Wojciechowski</sub> |
 | <sub>2020-12-25 21:04:07</sub> | <sub>demzet pushed to branch [hosting\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/780d138f917f479a53e4ce782a8590650ae25484...2d184fa0054feee76231b92f2fbff1ce5454bd71))</sub> | <sub>[2d184fa0](https://gitlab.com/snowgem/snowpay-api/-/commit/2d184fa0054feee76231b92f2fbff1ce5454bd71): #wip - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 3345 commits since 20/01/2020. You can see the complete hist
 | <sub>2020-12-25 15:17:45</sub> | <sub>Txid pushed new branch [features/daps](https://gitlab.com/snowgem/bitfrost/commits/features/daps) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-25 15:01:58</sub> | <sub>Daniil Lisovskiy pushed new branch [feature\_\_203\_\_coinbase\_integration](https://gitlab.com/snowgem/snowpay-api/commits/feature__203__coinbase_integration) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2020-12-24 10:58:52</sub> | <sub>demzet pushed to branch [hosting\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2ac3f99a7cfc3b26ec2fc847df090fa8d076b3f4...2a87a032d0218adf88ee75d4617c28596841cb09))</sub> | <sub>[2a87a032](https://gitlab.com/snowgem/snowpay-api/-/commit/2a87a032d0218adf88ee75d4617c28596841cb09): #wip - Kamil Wojciechowski</sub> |
-| <sub>2020-12-23 16:15:26</sub> | <sub>[[insight-api-tent:master] 1 new commit](https://github.com/TENTOfficial/insight-api-tent/commit/ab473ff2cb3bb062e4fc482e88969cb5cb214d43)</sub> | <sub>[ab473ff](https://github.com/TENTOfficial/insight-api-tent/commit/ab473ff2cb3bb062e4fc482e88969cb5cb214d43) update mined by address - TENTOfficial</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
