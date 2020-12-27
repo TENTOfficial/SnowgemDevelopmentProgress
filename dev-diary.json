@@ -32770,5 +32770,15 @@
       "description": "[0e030b69](https://gitlab.com/snowgem/snowpay-api/-/commit/0e030b695d68aca0f5a3bc949f409c2f84fdac1e): #wip - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/debit\\-card\\-creation](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-card-creation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c72a5a849d25a024c4226f633afc23efeff52d13...7dad040d7af09bc92eeecb1cf0833e427aa32490))",
+    "created_at": "2020-12-27 19:28:44.003000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7dad040d](https://gitlab.com/snowgem/bitfrost/-/commit/7dad040d7af09bc92eeecb1cf0833e427aa32490): updated card ordering flow - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
