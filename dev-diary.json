@@ -32872,5 +32872,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/masternode-setup/commit/d0b0affd54d2a18efc3386630d71431187ec1455"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2020-12-28 06:39:25.533000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4861c3b`](https://github.com/TENTOfficial/ServerConfig/commit/4861c3b777754520657df98f9da56042a5e77077) updated Zero daemon to 3.2.0 - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/4861c3b777754520657df98f9da56042a5e77077"
+    }
   }
 ]
