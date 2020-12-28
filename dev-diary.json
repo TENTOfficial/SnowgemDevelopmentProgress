@@ -33040,5 +33040,15 @@
       "description": "[66cd2b8e](https://gitlab.com/snowgem/snowpay-api/-/commit/66cd2b8efd5024f45914630750a09cf6e8b338ea): Update .gitlab-ci-prepare-images.yml - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [hosting\\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/66cd2b8efd5024f45914630750a09cf6e8b338ea...56a22262b496c6c4f3756655274bd9bef3492252))",
+    "created_at": "2020-12-28 22:08:59.984000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[56a22262](https://gitlab.com/snowgem/snowpay-api/-/commit/56a22262b496c6c4f3756655274bd9bef3492252): Update .gitlab-ci-prepare-images.yml - demzet",
+      "type": "rich"
+    }
   }
 ]
