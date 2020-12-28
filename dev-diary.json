@@ -33090,5 +33090,15 @@
       "description": "[c77bc458](https://gitlab.com/snowgem/snowpay-api/-/commit/c77bc45877d5578f50be7c26e758700d2937ed72): Update .gitlab-ci-prepare-images.yml - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [hosting\\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c77bc45877d5578f50be7c26e758700d2937ed72...3d394d62624761dad285055348caf503d7e2adab))",
+    "created_at": "2020-12-28 22:50:05.832000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[61ff7c54](https://gitlab.com/snowgem/snowpay-api/-/commit/61ff7c54e6f32d9d1b38db546091ce434bb1a1ef): #ci - Kamil Wojciechowski\n\n[3d394d62](https://gitlab.com/snowgem/snowpay-api/-/commit/3d394d62624761dad285055348caf503d7e2adab): Merge branch 'hosting_improvements' of https://gitlab.com/snowgem/snowpay-api... - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
