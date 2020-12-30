@@ -33120,5 +33120,15 @@
       "description": "[f33861f2](https://gitlab.com/snowgem/snowpay-api/-/commit/f33861f22cd7fb8e14a994243b8b7e07d7406e2c): #wip - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_203\\_\\_coinbase\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/feature__203__coinbase_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/2625f5f5b4092e5db0a9bdacaf902c97b1ab6db2...4ac9f563cd507041fb59d3e76c635534adbb19f5))",
+    "created_at": "2020-12-30 04:16:57.269000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4ac9f563](https://gitlab.com/snowgem/snowpay-api/-/commit/4ac9f563cd507041fb59d3e76c635534adbb19f5): deposits and withdrawals service, DB context, wip - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
