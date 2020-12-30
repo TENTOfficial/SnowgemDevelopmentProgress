@@ -33150,5 +33150,15 @@
       "description": "[981b301e](https://gitlab.com/snowgem/snowpay-api/-/commit/981b301e377586f7edbf556c661b6a2e8f891b75): deposits and withdrawals models segregation, refactoring - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [hosting\\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/f33861f22cd7fb8e14a994243b8b7e07d7406e2c...e66d9b4fea4343c04a670f3f0fae1b11cf1d1684))",
+    "created_at": "2020-12-30 09:31:01.334000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e66d9b4f](https://gitlab.com/snowgem/snowpay-api/-/commit/e66d9b4fea4343c04a670f3f0fae1b11cf1d1684): #coinswapping - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
