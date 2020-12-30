@@ -33190,5 +33190,25 @@
       "description": "[0a66ae48](https://gitlab.com/snowgem/snowpay-api/-/commit/0a66ae4885bcfff268765d4ac67308cc150d1a49): orders service raw implpementation - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [hosting\\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cb8fb34426399aee8cf70b81e3d6c3fa0718d727...ea37a41c5d5f5b025c5bb0d3b4a56aa67dc9032a))",
+    "created_at": "2020-12-30 13:31:52.914000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ea37a41c](https://gitlab.com/snowgem/snowpay-api/-/commit/ea37a41c5d5f5b025c5bb0d3b4a56aa67dc9032a): #wip - Kamil Wojciechowski",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [hosting\\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ea37a41c5d5f5b025c5bb0d3b4a56aa67dc9032a...318996314f7a67077cb6cfff6f72278b0c52e146))",
+    "created_at": "2020-12-30 13:34:49.519000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[31899631](https://gitlab.com/snowgem/snowpay-api/-/commit/318996314f7a67077cb6cfff6f72278b0c52e146): #ci - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
