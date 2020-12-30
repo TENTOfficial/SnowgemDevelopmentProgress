@@ -33260,5 +33260,15 @@
       "description": "[eb0405e5](https://gitlab.com/snowgem/snowpay-api/-/commit/eb0405e550767f616fc97a5f892c62406016ade7): #ci - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [hosting\\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/eb0405e550767f616fc97a5f892c62406016ade7...a5d3672b0125d1690dbf6ef7e16d0bd35f3f65a3))",
+    "created_at": "2020-12-30 20:35:50.582000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a5d3672b](https://gitlab.com/snowgem/snowpay-api/-/commit/a5d3672b0125d1690dbf6ef7e16d0bd35f3f65a3): #coinswapping and notification hosting fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
