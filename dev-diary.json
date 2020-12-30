@@ -33140,5 +33140,15 @@
       "description": "[8c4ebcd8](https://gitlab.com/snowgem/bitfrost/-/commit/8c4ebcd81c3da08f654bdf86381026bcab2bcdb1): topup serviec init - Filip Storkan\n\n[1a578f65](https://gitlab.com/snowgem/bitfrost/-/commit/1a578f652571919652d1f244c543fd1f5ef3b243): swap service update - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_203\\_\\_coinbase\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/feature__203__coinbase_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4ac9f563cd507041fb59d3e76c635534adbb19f5...981b301e377586f7edbf556c661b6a2e8f891b75))",
+    "created_at": "2020-12-30 09:21:36.667000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[981b301e](https://gitlab.com/snowgem/snowpay-api/-/commit/981b301e377586f7edbf556c661b6a2e8f891b75): deposits and withdrawals models segregation, refactoring - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
