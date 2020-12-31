@@ -33280,5 +33280,15 @@
       "description": "[d4a0db3d](https://gitlab.com/snowgem/snowpay-api/-/commit/d4a0db3d2099d6e2fcb94b44ddaab833489be466): #improvements - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [hosting\\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/d4a0db3d2099d6e2fcb94b44ddaab833489be466...71d427f2708a6e758bc82365a230deac6d656c71))",
+    "created_at": "2020-12-31 11:41:21.939000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[71d427f2](https://gitlab.com/snowgem/snowpay-api/-/commit/71d427f2708a6e758bc82365a230deac6d656c71): #data context changes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
