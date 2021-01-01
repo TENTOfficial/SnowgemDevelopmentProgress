@@ -33290,5 +33290,15 @@
       "description": "[71d427f2](https://gitlab.com/snowgem/snowpay-api/-/commit/71d427f2708a6e758bc82365a230deac6d656c71): #data context changes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/71b6534d835e8d71e859ec6cd792dd426b9c3132...acde3ed0ccb945c022dca63bb1881811c1e9f887))",
+    "created_at": "2021-01-01 10:03:01.218000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[acde3ed0](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/acde3ed0ccb945c022dca63bb1881811c1e9f887): Corrected undefined port error in masternode.conf file - fixed #21 - ciripel",
+      "type": "rich"
+    }
   }
 ]
