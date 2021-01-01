@@ -33300,5 +33300,15 @@
       "description": "[acde3ed0](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/acde3ed0ccb945c022dca63bb1881811c1e9f887): Corrected undefined port error in masternode.conf file - fixed #21 - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [hosting\\_improvements](https://gitlab.com/snowgem/snowpay-api/commits/hosting_improvements) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/71d427f2708a6e758bc82365a230deac6d656c71...0123fe7b9b10b03f3c600b27bd083158b3e1affa))",
+    "created_at": "2021-01-01 13:21:09.719000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0123fe7b](https://gitlab.com/snowgem/snowpay-api/-/commit/0123fe7b9b10b03f3c600b27bd083158b3e1affa): #logger url - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
