@@ -33320,5 +33320,15 @@
       "description": "[71ca2143](https://gitlab.com/snowgem/snowpay-api/-/commit/71ca21430b6dc5ce07fa97fd694f3bbf00187a8f): #logger cfg - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [feature/sumsub\\-verification](https://gitlab.com/snowgem/bitfrost/commits/feature/sumsub-verification) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8c6cbffe29ed5a1fdd08a95c330d32e05cf6bf98...9d7bd6192c8bc114ac783d74ff98acfdc05a9869))",
+    "created_at": "2021-01-01 19:53:16.730000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7dad040d](https://gitlab.com/snowgem/bitfrost/-/commit/7dad040d7af09bc92eeecb1cf0833e427aa32490): updated card ordering flow - Filip Storkan\n\n[8c4ebcd8](https://gitlab.com/snowgem/bitfrost/-/commit/8c4ebcd81c3da08f654bdf86381026bcab2bcdb1): topup serviec init - Filip Storkan\n\n[1a578f65](https://gitlab.com/snowgem/bitfrost/-/commit/1a578f652571919652d1f244c543fd1f5ef3b243): swap service update - Filip Storkan\n\n[9d7bd619](https://gitlab.com/snowgem/bitfrost/-/commit/9d7bd6192c8bc114ac783d74ff98acfdc05a9869): [feature] Implement SumSub identity verification - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
