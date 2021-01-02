@@ -33410,5 +33410,15 @@
       "description": "[c67a34f8](https://gitlab.com/snowgem/snowpay-api/-/commit/c67a34f8654f5a1434bd66307aa07a97e8ee7404): #serialization fix, logging changes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c67a34f8654f5a1434bd66307aa07a97e8ee7404...6caada9f8cb6a36fd3d003566006f96c288aca8e))",
+    "created_at": "2021-01-02 13:51:47.375000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6caada9f](https://gitlab.com/snowgem/snowpay-api/-/commit/6caada9f8cb6a36fd3d003566006f96c288aca8e): #unittest fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
