@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3420 commits since 20/01/2020. You can see the complete history in
+There is a total of 3421 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-01-02 20:57:49</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/3ff7e5da8cd03f38eeebd42b56e76e3ff119e25d...b67826e12cbad0406dbdeb47fb35ab29919d236f))</sub> | <sub>[b67826e1](https://gitlab.com/snowgem/snowpay-api/-/commit/b67826e12cbad0406dbdeb47fb35ab29919d236f): #added bittrex db migration - Kamil Wojciechowski</sub> |
 | <sub>2021-01-02 20:50:19</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/dfa694af015b0d5ae6d6b8acd369045f8b8ba335...3ff7e5da8cd03f38eeebd42b56e76e3ff119e25d))</sub> | <sub>[3ff7e5da](https://gitlab.com/snowgem/snowpay-api/-/commit/3ff7e5da8cd03f38eeebd42b56e76e3ff119e25d): #ci - Kamil Wojciechowski</sub> |
 | <sub>2021-01-02 20:37:59</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6caada9f8cb6a36fd3d003566006f96c288aca8e...dfa694af015b0d5ae6d6b8acd369045f8b8ba335))</sub> | <sub>[dfa694af](https://gitlab.com/snowgem/snowpay-api/-/commit/dfa694af015b0d5ae6d6b8acd369045f8b8ba335): #additional logging - Kamil Wojciechowski</sub> |
 | <sub>2021-01-02 13:51:47</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c67a34f8654f5a1434bd66307aa07a97e8ee7404...6caada9f8cb6a36fd3d003566006f96c288aca8e))</sub> | <sub>[6caada9f](https://gitlab.com/snowgem/snowpay-api/-/commit/6caada9f8cb6a36fd3d003566006f96c288aca8e): #unittest fix - Kamil Wojciechowski</sub> |
@@ -17,6 +18,5 @@ There is a total of 3420 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-01-02 10:43:25</sub> | <sub>demzet removed branch hosting_improvements from [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-01-02 10:43:25</sub> | <sub>demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ea01cbdcd0faf8732e1f5f980d1654f6531facd8...ac5972606ffedd56794466a7f449169cff362a71))</sub> | <sub>[a1c247d2](https://gitlab.com/snowgem/snowpay-api/-/commit/a1c247d2c1c3626e93313cd47810038eeb32fbac): Hosting improvements - demzet<br>[ac597260](https://gitlab.com/snowgem/snowpay-api/-/commit/ac5972606ffedd56794466a7f449169cff362a71): Merge branch 'hosting_improvements' into 'master' - demzet</sub> |
 | <sub>2021-01-02 10:43:25</sub> | <sub>demzet (aphex5) merged merge request [\!58 \*Hosting improvements\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/58) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-01-02 10:43:10</sub> | <sub>demzet (aphex5) approved merge request [\!58 \*Hosting improvements\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/58) in [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

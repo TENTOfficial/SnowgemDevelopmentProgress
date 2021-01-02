@@ -33440,5 +33440,15 @@
       "description": "[3ff7e5da](https://gitlab.com/snowgem/snowpay-api/-/commit/3ff7e5da8cd03f38eeebd42b56e76e3ff119e25d): #ci - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/3ff7e5da8cd03f38eeebd42b56e76e3ff119e25d...b67826e12cbad0406dbdeb47fb35ab29919d236f))",
+    "created_at": "2021-01-02 20:57:49.200000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b67826e1](https://gitlab.com/snowgem/snowpay-api/-/commit/b67826e12cbad0406dbdeb47fb35ab29919d236f): #added bittrex db migration - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
