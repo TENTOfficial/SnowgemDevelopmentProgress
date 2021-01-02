@@ -33460,5 +33460,15 @@
       "description": "[5e0205c7](https://gitlab.com/snowgem/snowpay-api/-/commit/5e0205c74dce50521b5f04c2702f6ebbcc54cec4): #BlockExplorers path fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/5e0205c74dce50521b5f04c2702f6ebbcc54cec4...a11daac9cc955712503bab6d364d471bc176e519))",
+    "created_at": "2021-01-02 21:51:21.174000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a11daac9](https://gitlab.com/snowgem/snowpay-api/-/commit/a11daac9cc955712503bab6d364d471bc176e519): #ci - added restart after publish - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
