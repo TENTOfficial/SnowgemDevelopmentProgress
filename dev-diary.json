@@ -33390,5 +33390,15 @@
       "description": "[996c873f](https://gitlab.com/snowgem/snowpay-api/-/commit/996c873fce802f62eb9c8f5f619d09e28adc9ac1): #ci fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_203\\_\\_coinbase\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/feature__203__coinbase_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0a66ae4885bcfff268765d4ac67308cc150d1a49...9ba599356ff6c1fd5514ed583f001783c44b4874))",
+    "created_at": "2021-01-02 11:33:21.139000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a1c247d2](https://gitlab.com/snowgem/snowpay-api/-/commit/a1c247d2c1c3626e93313cd47810038eeb32fbac): Hosting improvements - demzet\n\n[ac597260](https://gitlab.com/snowgem/snowpay-api/-/commit/ac5972606ffedd56794466a7f449169cff362a71): Merge branch 'hosting_improvements' into 'master' - demzet\n\n[996c873f](https://gitlab.com/snowgem/snowpay-api/-/commit/996c873fce802f62eb9c8f5f619d09e28adc9ac1): #ci fix - Kamil Wojciechowski\n\n[9ba59935](https://gitlab.com/snowgem/snowpay-api/-/commit/9ba599356ff6c1fd5514ed583f001783c44b4874): Merge branch 'master' into feature__203__coinbase_integration - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
