@@ -33470,5 +33470,15 @@
       "description": "[a11daac9](https://gitlab.com/snowgem/snowpay-api/-/commit/a11daac9cc955712503bab6d364d471bc176e519): #ci - added restart after publish - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a11daac9cc955712503bab6d364d471bc176e519...e2661186a13dc0e7c63fee41b3f2021a3b5f8592))",
+    "created_at": "2021-01-03 14:12:37.367000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e2661186](https://gitlab.com/snowgem/snowpay-api/-/commit/e2661186a13dc0e7c63fee41b3f2021a3b5f8592): #queue name change - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
