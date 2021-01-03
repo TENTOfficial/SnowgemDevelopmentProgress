@@ -33500,5 +33500,15 @@
       "description": "[4d9ee963](https://gitlab.com/snowgem/snowpay-api/-/commit/4d9ee9634cc880abced44521ad0de6fbd3b689ba): #functions settings fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/4d9ee9634cc880abced44521ad0de6fbd3b689ba...580897a13ec876efa14e6ae11983373591082f5f))",
+    "created_at": "2021-01-03 14:53:58.613000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[580897a1](https://gitlab.com/snowgem/snowpay-api/-/commit/580897a13ec876efa14e6ae11983373591082f5f): #appsettings fn fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
