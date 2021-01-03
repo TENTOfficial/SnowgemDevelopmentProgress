@@ -33480,5 +33480,25 @@
       "description": "[e2661186](https://gitlab.com/snowgem/snowpay-api/-/commit/e2661186a13dc0e7c63fee41b3f2021a3b5f8592): #queue name change - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_203\\_\\_coinbase\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/feature__203__coinbase_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9ba599356ff6c1fd5514ed583f001783c44b4874...cad48fce3167cef9de3c9f2e5d33f7c0e8cd3102))",
+    "created_at": "2021-01-03 14:31:41.405000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6ec6b484](https://gitlab.com/snowgem/snowpay-api/-/commit/6ec6b4844bb9c3f380ce448c4ed0f1a7e9425469): dbcontext and migrations added - Daniil Lisovskiy\n\n[bccdcca3](https://gitlab.com/snowgem/snowpay-api/-/commit/bccdcca3a20ece6537bd713e7d5f17b6b59bb464): ExchangeClient partial implementation - Daniil Lisovskiy\n\n[cad48fce](https://gitlab.com/snowgem/snowpay-api/-/commit/cad48fce3167cef9de3c9f2e5d33f7c0e8cd3102): wip - Daniil Lisovskiy",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e2661186a13dc0e7c63fee41b3f2021a3b5f8592...4d9ee9634cc880abced44521ad0de6fbd3b689ba))",
+    "created_at": "2021-01-03 14:32:10.546000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4d9ee963](https://gitlab.com/snowgem/snowpay-api/-/commit/4d9ee9634cc880abced44521ad0de6fbd3b689ba): #functions settings fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
