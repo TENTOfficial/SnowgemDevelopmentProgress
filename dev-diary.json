@@ -33713,5 +33713,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/2fe59446b709a77768978637d703ce57671ef00c"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/822209ea6a4e8ffc00e4c364c1dd818d6fcf01ce...fa42028193eec6146f86265baf819e0f218fa4f7))",
+    "created_at": "2021-01-04 23:11:04.049000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fa420281](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/fa42028193eec6146f86265baf819e0f218fa4f7): now Zero correctly config masternodes in zeronode.conf file - ciripel",
+      "type": "rich"
+    }
   }
 ]
