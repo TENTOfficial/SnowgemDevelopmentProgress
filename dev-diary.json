@@ -33570,5 +33570,15 @@
       "description": "[a0ddcbb4](https://gitlab.com/snowgem/snowpay-api/-/commit/a0ddcbb467331c520b1f969def23606158ce372e): #logging verbosity change - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a0ddcbb467331c520b1f969def23606158ce372e...a917c9c8404f5e826d319240ba105ddc67415352))",
+    "created_at": "2021-01-04 14:21:55.286000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a917c9c8](https://gitlab.com/snowgem/snowpay-api/-/commit/a917c9c8404f5e826d319240ba105ddc67415352): #logging settings - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
