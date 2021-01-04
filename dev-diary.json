@@ -33608,5 +33608,23 @@
       "description": "[822209ea](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/822209ea6a4e8ffc00e4c364c1dd818d6fcf01ce): fixed packages and increased version - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-01-04 17:32:43.703000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7dee24c`](https://github.com/TENTOfficial/ServerConfig/commit/7dee24cf5eada804c3922ac9e33f52aefad7b6f6) removed MNs of Zero from production - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/7dee24cf5eada804c3922ac9e33f52aefad7b6f6"
+    }
   }
 ]
