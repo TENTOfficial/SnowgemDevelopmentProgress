@@ -33580,5 +33580,23 @@
       "description": "[a917c9c8](https://gitlab.com/snowgem/snowpay-api/-/commit/a917c9c8404f5e826d319240ba105ddc67415352): #logging settings - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-01-04 14:52:59.768000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`33ce756`](https://github.com/TENTOfficial/ServerConfig/commit/33ce756ec6de5494b8f5b280a98a50b30210b81b) Unlocked MNs for Zero - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/33ce756ec6de5494b8f5b280a98a50b30210b81b"
+    }
   }
 ]
