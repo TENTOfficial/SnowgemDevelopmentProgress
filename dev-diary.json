@@ -33560,5 +33560,15 @@
       "description": "[7e0e7399](https://gitlab.com/snowgem/snowpay-api/-/commit/7e0e739916b2f54c03d840f4d97fecf73bf33ab3): #serverless refactoring - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/7e0e739916b2f54c03d840f4d97fecf73bf33ab3...a0ddcbb467331c520b1f969def23606158ce372e))",
+    "created_at": "2021-01-04 13:45:50.949000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a0ddcbb4](https://gitlab.com/snowgem/snowpay-api/-/commit/a0ddcbb467331c520b1f969def23606158ce372e): #logging verbosity change - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
