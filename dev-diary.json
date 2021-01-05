@@ -33751,5 +33751,15 @@
       "description": "[9ff7cefa](https://gitlab.com/snowgem/bitfrost/-/commit/9ff7cefa59be2fe1ee91e4c02f651f88c1929a75): daps balance - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [features/1\\-seeds](https://gitlab.com/snowgem/bitfrost/commits/features/1-seeds) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/22136b72b22ee08c92e8dbd65869fa620d168b02...f825a76d0723c79e39ac06c5c15ea2d209bdf63c))",
+    "created_at": "2021-01-05 07:58:37.631000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f825a76d](https://gitlab.com/snowgem/bitfrost/-/commit/f825a76d0723c79e39ac06c5c15ea2d209bdf63c): show backup option for only old wallet type - Snowgem",
+      "type": "rich"
+    }
   }
 ]
