@@ -33741,5 +33741,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/df973ec8540eaf852e03d822b4c28c0f3ba704f9"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [features/daps](https://gitlab.com/snowgem/bitfrost/commits/features/daps) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ea3a58a4e3f8738f01b939180df72b98294e5dd5...9ff7cefa59be2fe1ee91e4c02f651f88c1929a75))",
+    "created_at": "2021-01-05 03:50:09.821000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9ff7cefa](https://gitlab.com/snowgem/bitfrost/-/commit/9ff7cefa59be2fe1ee91e4c02f651f88c1929a75): daps balance - Snowgem",
+      "type": "rich"
+    }
   }
 ]
