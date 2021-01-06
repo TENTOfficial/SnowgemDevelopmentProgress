@@ -33857,5 +33857,15 @@
       "description": "[f40ae092](https://gitlab.com/snowgem/bitfrost/-/commit/f40ae09247e69b2f8f4f7c54994cc95c604d1e50): [feature] Debit card - Dashboard - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_203\\_\\_coinbase\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/feature__203__coinbase_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/250f8faf49c1d664b5bf174249a209c2adf09a84...cad656378dda202f004052e52d9dc57546261096))",
+    "created_at": "2021-01-06 19:50:23.794000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cad65637](https://gitlab.com/snowgem/snowpay-api/-/commit/cad656378dda202f004052e52d9dc57546261096): swap processing debugging and improvements - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
