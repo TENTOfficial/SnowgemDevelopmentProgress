@@ -33807,5 +33807,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/commit/8c1cec073ec1d79dbcad325195ed941761ebd74b"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [features/1\\-seeds](https://gitlab.com/snowgem/bitfrost/commits/features/1-seeds) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f825a76d0723c79e39ac06c5c15ea2d209bdf63c...a0a764fd7940aee4090c54bab31b2c0b611c40e5))",
+    "created_at": "2021-01-06 08:18:50.195000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0b143e40](https://gitlab.com/snowgem/bitfrost/-/commit/0b143e409e167e987766ddab8a3019794f253c56): filter created wallet with master seeds - Snowgem\n\n[a0a764fd](https://gitlab.com/snowgem/bitfrost/-/commit/a0a764fd7940aee4090c54bab31b2c0b611c40e5): separate import old wallet and add new wallet - Snowgem",
+      "type": "rich"
+    }
   }
 ]

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3450 commits since 20/01/2020. You can see the complete history in
+There is a total of 3451 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-01-06 08:18:50</sub> | <sub>Txid pushed to branch [features/1\-seeds](https://gitlab.com/snowgem/bitfrost/commits/features/1-seeds) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f825a76d0723c79e39ac06c5c15ea2d209bdf63c...a0a764fd7940aee4090c54bab31b2c0b611c40e5))</sub> | <sub>[0b143e40](https://gitlab.com/snowgem/bitfrost/-/commit/0b143e409e167e987766ddab8a3019794f253c56): filter created wallet with master seeds - Snowgem<br>[a0a764fd](https://gitlab.com/snowgem/bitfrost/-/commit/a0a764fd7940aee4090c54bab31b2c0b611c40e5): separate import old wallet and add new wallet - Snowgem</sub> |
 | <sub>2021-01-06 02:23:26</sub> | <sub>[[TENT-CoreLangPack:master] 1 new commit](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/8c1cec073ec1d79dbcad325195ed941761ebd74b)</sub> | <sub>[8c1cec0](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/8c1cec073ec1d79dbcad325195ed941761ebd74b) Update README.md - TENTOfficial</sub> |
 | <sub>2021-01-05 22:25:11</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/2925f78d149447ea3da3854067a353da9f453c75)</sub> | <sub>[2925f78](https://github.com/ciripel/Heimdall/commit/2925f78d149447ea3da3854067a353da9f453c75) implemented reporting of missing reports! - ciripel</sub> |
 | <sub>2021-01-05 13:28:05</sub> | <sub>Daniil Lisovskiy pushed to branch [feature\_\_203\_\_coinbase\_integration](https://gitlab.com/snowgem/snowpay-api/commits/feature__203__coinbase_integration) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cad48fce3167cef9de3c9f2e5d33f7c0e8cd3102...250f8faf49c1d664b5bf174249a209c2adf09a84))</sub> | <sub>[250f8faf](https://gitlab.com/snowgem/snowpay-api/-/commit/250f8faf49c1d664b5bf174249a209c2adf09a84): retrieving additinal information from API for swaps calculation - Daniil Lisovskiy</sub> |
@@ -17,6 +18,5 @@ There is a total of 3450 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-01-04 23:11:04</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/822209ea6a4e8ffc00e4c364c1dd818d6fcf01ce...fa42028193eec6146f86265baf819e0f218fa4f7))</sub> | <sub>[fa420281](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/fa42028193eec6146f86265baf819e0f218fa4f7): now Zero correctly config masternodes in zeronode.conf file - ciripel</sub> |
 | <sub>2021-01-04 23:09:59</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/2fe59446b709a77768978637d703ce57671ef00c)</sub> | <sub>[2fe5944](https://github.com/TENTOfficial/ServerConfig/commit/2fe59446b709a77768978637d703ce57671ef00c) implemented mn_file for TENT and Vidulum in dev... - ciripel</sub> |
 | <sub>2021-01-04 22:48:26</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/572d2bbe4419249341621cdda26facc2b7a1b343)</sub> | <sub>[572d2bb](https://github.com/TENTOfficial/ServerConfig/commit/572d2bbe4419249341621cdda26facc2b7a1b343) implemented mn_file for zero in dev env - ciripel</sub> |
-| <sub>2021-01-04 22:47:07</sub> | <sub>demzet pushed new branch [feature\_\_202\_topups](https://gitlab.com/snowgem/snowpay-api/commits/feature__202_topups) to [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
