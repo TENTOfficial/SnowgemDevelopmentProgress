@@ -33867,5 +33867,23 @@
       "description": "[cad65637](https://gitlab.com/snowgem/snowpay-api/-/commit/cad656378dda202f004052e52d9dc57546261096): swap processing debugging and improvements - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-01-06 20:55:47.842000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`62e918b`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/62e918bfd44d34db01339ba1c7af044a39aeec98) Updated Lang Pack to last version - ciripel",
+      "title": "[TENT-CoreLangPack:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/commit/62e918bfd44d34db01339ba1c7af044a39aeec98"
+    }
   }
 ]
