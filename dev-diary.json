@@ -33905,5 +33905,33 @@
       "description": "[76918809](https://gitlab.com/snowgem/bitfrost/-/commit/769188091d787669c3bd2bf382ebf1f92ddd3d2e): empty swap - Filip Storkan\n\n[89ef39a1](https://gitlab.com/snowgem/bitfrost/-/commit/89ef39a1fee6d41d2d66c7a650b6d3a1b305e0d6): Merge branch 'feature/debit-card-creation' of gitlab.com:snowgem/bitfrost into... - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/fa42028193eec6146f86265baf819e0f218fa4f7...37e39692dd87e12be5b44decb28cee88120b615f))",
+    "created_at": "2021-01-07 20:30:40.964000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[37e39692](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/37e39692dd87e12be5b44decb28cee88120b615f): various fixes and completion of PL - ciripel",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-01-07 20:31:58.873000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4181243`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/41812431a8052ccae8df3f482eb02c5c1c8dd1d6) translation of errors and some fixes of PL - ciripel",
+      "title": "[TENT-CoreLangPack:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/commit/41812431a8052ccae8df3f482eb02c5c1c8dd1d6"
+    }
   }
 ]
