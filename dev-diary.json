@@ -33943,5 +33943,30 @@
       "description": "[1583206a](https://gitlab.com/snowgem/bitfrost/-/commit/1583206ac7d1addaec46acea4570954c6a653321): fix lint - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-01-08 02:52:16.834000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!145 \\*Features/1 seeds\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/145) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-01-08 02:52:37.481000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/890891adec6cff1906f1fa55900eb58fc2cd4ea1...576516c3db1f0a3131cf6dfffc436b5ad6488ee0))",
+    "created_at": "2021-01-08 02:52:44.175000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2bfc16f2](https://gitlab.com/snowgem/bitfrost/-/commit/2bfc16f2b0f078cdc9b12b8182d1d4de3497625b): one seeds type first commit - Snowgem\n\n[22136b72](https://gitlab.com/snowgem/bitfrost/-/commit/22136b72b22ee08c92e8dbd65869fa620d168b02): update database for 1 seed - Snowgem\n\n[f825a76d](https://gitlab.com/snowgem/bitfrost/-/commit/f825a76d0723c79e39ac06c5c15ea2d209bdf63c): show backup option for only old wallet type - Snowgem\n\n[0b143e40](https://gitlab.com/snowgem/bitfrost/-/commit/0b143e409e167e987766ddab8a3019794f253c56): filter created wallet with master seeds - Snowgem\n\n[a0a764fd](https://gitlab.com/snowgem/bitfrost/-/commit/a0a764fd7940aee4090c54bab31b2c0b611c40e5): separate import old wallet and add new wallet - Snowgem\n\n[a96b5d3b](https://gitlab.com/snowgem/bitfrost/-/commit/a96b5d3b78b571efa9194a7512e53d2e32202d0e): fix back button in import page - Snowgem\n\n[1583206a](https://gitlab.com/snowgem/bitfrost/-/commit/1583206ac7d1addaec46acea4570954c6a653321): fix lint - Snowgem\n\n[576516c3](https://gitlab.com/snowgem/bitfrost/-/commit/576516c3db1f0a3131cf6dfffc436b5ad6488ee0): Merge branch 'features/1-seeds' into 'v0.1.5' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!145 \\*Features/1 seeds\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/145) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-01-08 02:52:44.254000"
   }
 ]
