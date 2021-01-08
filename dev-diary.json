@@ -33933,5 +33933,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/commit/41812431a8052ccae8df3f482eb02c5c1c8dd1d6"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [features/1\\-seeds](https://gitlab.com/snowgem/bitfrost/commits/features/1-seeds) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a96b5d3b78b571efa9194a7512e53d2e32202d0e...1583206ac7d1addaec46acea4570954c6a653321))",
+    "created_at": "2021-01-08 02:44:07.739000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1583206a](https://gitlab.com/snowgem/bitfrost/-/commit/1583206ac7d1addaec46acea4570954c6a653321): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
