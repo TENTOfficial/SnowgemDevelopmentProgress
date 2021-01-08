@@ -34018,5 +34018,15 @@
     "author": "GitLab",
     "content": "demzet removed branch feature__202_topups from [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2021-01-08 08:16:29.412000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature\\_\\_203\\_\\_coinbase\\_integration](https://gitlab.com/snowgem/snowpay-api/commits/feature__203__coinbase_integration) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cad656378dda202f004052e52d9dc57546261096...eb891679d2d6cb38710b9475d62d2b29ea91a569))",
+    "created_at": "2021-01-08 18:08:09.879000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eb891679](https://gitlab.com/snowgem/snowpay-api/-/commit/eb891679d2d6cb38710b9475d62d2b29ea91a569): exchange client unit testing, orders model extended - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
