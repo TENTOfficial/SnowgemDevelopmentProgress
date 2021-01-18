@@ -34802,5 +34802,15 @@
       "description": "[beca11f1](https://gitlab.com/snowgem/snowpay-api/-/commit/beca11f137220834e2445213de055f1594389fb0): #coinswapping configuration fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/beca11f137220834e2445213de055f1594389fb0...a6399e73107b726d07fc929116a05aa6ddda2b65))",
+    "created_at": "2021-01-18 21:22:23.102000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a6399e73](https://gitlab.com/snowgem/snowpay-api/-/commit/a6399e73107b726d07fc929116a05aa6ddda2b65): #test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
