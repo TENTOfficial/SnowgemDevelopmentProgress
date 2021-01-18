@@ -34764,5 +34764,23 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!147 \\*Feature/debit card\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/147) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-01-18 08:08:25.459000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-01-18 08:43:49.700000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars2.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/XwhZDDjgFd0MrQJGDVUZkcCgOgse0Ckq1wBqPRsgj60/%3Fv%3D4/https/avatars2.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f892b65`](https://github.com/ciripel/Heimdall/commit/f892b65a8632a3924edf4e054b540843e0da4de8) adjusted autorun python version - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/f892b65a8632a3924edf4e054b540843e0da4de8"
+    }
   }
 ]
