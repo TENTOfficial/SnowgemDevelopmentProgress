@@ -34792,5 +34792,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!148 \\*bug/260 \\- fix grey background on card swipe\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/148) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-01-18 14:31:14.889000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cef3474cf2b121b36e41138872804e6f2caab280...beca11f137220834e2445213de055f1594389fb0))",
+    "created_at": "2021-01-18 21:18:39.340000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[beca11f1](https://gitlab.com/snowgem/snowpay-api/-/commit/beca11f137220834e2445213de055f1594389fb0): #coinswapping configuration fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]

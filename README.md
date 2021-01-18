@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3552 commits since 20/01/2020. You can see the complete history in
+There is a total of 3553 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-01-18 21:18:39</sub> | <sub>demzet pushed to branch [release\_candidate\_2021\_02\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/cef3474cf2b121b36e41138872804e6f2caab280...beca11f137220834e2445213de055f1594389fb0))</sub> | <sub>[beca11f1](https://gitlab.com/snowgem/snowpay-api/-/commit/beca11f137220834e2445213de055f1594389fb0): #coinswapping configuration fix - Kamil Wojciechowski</sub> |
 | <sub>2021-01-18 14:31:14</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!148 \*bug/260 \- fix grey background on card swipe\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/148) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-01-18 14:30:30</sub> | <sub>Jan Vraštil pushed new branch [bug/260\-grey\_background\_on\_card\_swipe](https://gitlab.com/snowgem/bitfrost/commits/bug/260-grey_background_on_card_swipe) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-01-18 08:43:49</sub> | <sub>[[Heimdall:master] 1 new commit](https://github.com/ciripel/Heimdall/commit/f892b65a8632a3924edf4e054b540843e0da4de8)</sub> | <sub>[f892b65](https://github.com/ciripel/Heimdall/commit/f892b65a8632a3924edf4e054b540843e0da4de8) adjusted autorun python version - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3552 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-01-17 22:55:37</sub> | <sub>qNaN pushed to branch [feature/debit\-card](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-card) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6acc4aa71f423d9c654ea5be68b95f9e15e02660...6f0258ad9f278f7e80e1dd69d73bd09bbd50e790))</sub> | <sub>[6f0258ad](https://gitlab.com/snowgem/bitfrost/-/commit/6f0258ad9f278f7e80e1dd69d73bd09bbd50e790): making cre font smaller - Filip Storkan</sub> |
 | <sub>2021-01-17 22:42:54</sub> | <sub>qNaN pushed new branch [feature/debit\-card](https://gitlab.com/snowgem/bitfrost/commits/feature/debit-card) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-01-17 22:27:46</sub> | <sub>demzet pushed to branch [release\_candidate\_2021\_02\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/e13c473f438c15d08e97f9fd25a3f33fef04fc9e...cef3474cf2b121b36e41138872804e6f2caab280))</sub> | <sub>[cef3474c](https://gitlab.com/snowgem/snowpay-api/-/commit/cef3474cf2b121b36e41138872804e6f2caab280): #debug - Kamil Wojciechowski</sub> |
-| <sub>2021-01-17 22:14:11</sub> | <sub>demzet pushed to branch [release\_candidate\_2021\_02\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/acdd4fdce2a9c05a11f877e1d4a1a2e6762ec406...e13c473f438c15d08e97f9fd25a3f33fef04fc9e))</sub> | <sub>[e13c473f](https://gitlab.com/snowgem/snowpay-api/-/commit/e13c473f438c15d08e97f9fd25a3f33fef04fc9e): #coinswapping endpoint sb conn str change - Kamil Wojciechowski</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
