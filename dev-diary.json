@@ -34902,5 +34902,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!149 \\*Feature/new registration flow\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/149) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-01-19 17:09:12.940000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [pokus](https://gitlab.com/snowgem/bitfrost/commits/pokus) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3b05a15a2c2b322d1c939062a832ad48f7919bb0...07fda5084471bb9274dea3bdf91b93d67cda9e9e))",
+    "created_at": "2021-01-19 19:43:57.805000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[07fda508](https://gitlab.com/snowgem/bitfrost/-/commit/07fda5084471bb9274dea3bdf91b93d67cda9e9e): build fix - Jan Vra\u0161til",
+      "type": "rich"
+    }
   }
 ]
