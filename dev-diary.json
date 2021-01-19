@@ -34842,5 +34842,15 @@
       "description": "[26bbcb2b](https://gitlab.com/snowgem/snowpay-api/-/commit/26bbcb2bb74f7a82a076023cb022206a18ebefed): #coinswapping fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/260\\-grey\\_background\\_on\\_card\\_swipe](https://gitlab.com/snowgem/bitfrost/commits/bug/260-grey_background_on_card_swipe) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/28c6bdef5f1200f09a6fb7b6d185e277d736788b...6bda73d3dd281e6fe84e8efeaef03b74a63e2b66))",
+    "created_at": "2021-01-19 08:03:13.701000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6bda73d3](https://gitlab.com/snowgem/bitfrost/-/commit/6bda73d3dd281e6fe84e8efeaef03b74a63e2b66): update CardState enum - Jan Vra\u0161til",
+      "type": "rich"
+    }
   }
 ]
