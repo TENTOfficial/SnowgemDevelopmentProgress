@@ -34852,5 +34852,15 @@
       "description": "[6bda73d3](https://gitlab.com/snowgem/bitfrost/-/commit/6bda73d3dd281e6fe84e8efeaef03b74a63e2b66): update CardState enum - Jan Vra\u0161til",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/05f4da448439f6cd407ba61fa0e908e6d5bd426d...1a9696e163d2441140c2973bc9780aed9d41aeba))",
+    "created_at": "2021-01-19 13:06:42.522000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[85373669](https://gitlab.com/snowgem/bitfrost/-/commit/85373669127af0768a3961c8fa205dd86cf4b63d): wip - jan.vrastil\n\n[a474d67a](https://gitlab.com/snowgem/bitfrost/-/commit/a474d67a116a8df530fcb845d4ccbea19db33c95): Feature/252-introscreens - jan.vrastil\n\n[3e2eecc4](https://gitlab.com/snowgem/bitfrost/-/commit/3e2eecc4f64f196167670da12668ec12ce52d788): Update TENT logo - Jan Vra\u0161til\n\n[9911b4ed](https://gitlab.com/snowgem/bitfrost/-/commit/9911b4ed91d0e3e58c3c3deb7f1b2fa81607d5b3): security guard - Filip Storkan\n\n[6baec311](https://gitlab.com/snowgem/bitfrost/-/commit/6baec311e6b1779c7a55636d0e1e6823af2111fd): login paga layout - Filip Storkan\n\n[1a9696e1](https://gitlab.com/snowgem/bitfrost/-/commit/1a9696e163d2441140c2973bc9780aed9d41aeba): Merge remote-tracking branch 'origin/feature/252-introscreens' into feature/new-registration-flow - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
