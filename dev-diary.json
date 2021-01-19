@@ -34877,5 +34877,30 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [pokus](https://gitlab.com/snowgem/bitfrost/commits/pokus) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-01-19 15:58:32.312000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/05f4da448439f6cd407ba61fa0e908e6d5bd426d...ea5b7f98a2de7ba119e8ad89063d7b2b0b076e14))",
+    "created_at": "2021-01-19 17:08:55.196000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c37d9f2f](https://gitlab.com/snowgem/bitfrost/-/commit/c37d9f2fe00303f5e807732b5da08acb3e6b2b30): bug/260 - fix grey background on card swipe - Jan Vra\u0161til\n\n[ea5b7f98](https://gitlab.com/snowgem/bitfrost/-/commit/ea5b7f98a2de7ba119e8ad89063d7b2b0b076e14): Merge branch 'bug/260-grey_background_on_card_swipe' into 'v0.1.5' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!148 \\*bug/260 \\- fix grey background on card swipe\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/148) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-01-19 17:08:55.213000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch bug/260-grey_background_on_card_swipe from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-01-19 17:08:55.752000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!149 \\*Feature/new registration flow\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/149) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-01-19 17:09:12.940000"
   }
 ]
