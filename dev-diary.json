@@ -34942,5 +34942,15 @@
       "description": "[73c48305](https://gitlab.com/snowgem/bitfrost/-/commit/73c48305ff17d6a754dbade9ac64f62e32c99056): add more data to io service - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/26bbcb2bb74f7a82a076023cb022206a18ebefed...3610bea12623e88180355d036266dde3ca707674))",
+    "created_at": "2021-01-20 10:16:45.911000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3610bea1](https://gitlab.com/snowgem/snowpay-api/-/commit/3610bea12623e88180355d036266dde3ca707674): #services startup changes - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
