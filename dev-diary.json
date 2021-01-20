@@ -34992,5 +34992,14 @@
       "description": "[6671fa88](https://gitlab.com/snowgem/snowpay-api/-/commit/6671fa88abe2f738a8a0fc34d0cec3ebe4eaaa23): api client updated, fixing wrappers are removed - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6671fa88abe2f738a8a0fc34d0cec3ebe4eaaa23...9707f706b3277ea0811f920dac42bcf0af8ea378))",
+    "created_at": "2021-01-20 20:38:19.469000",
+    "embed_0": {
+      "color": 3359829,
+      "type": "rich"
+    }
   }
 ]
