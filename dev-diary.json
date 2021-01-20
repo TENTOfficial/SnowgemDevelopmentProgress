@@ -34932,5 +34932,15 @@
       "description": "[56d6924f](https://gitlab.com/snowgem/bitfrost/-/commit/56d6924fac091c24494b1a9306f82aa6e1f66a19): keychain - WIP - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [features/pin\\-database](https://gitlab.com/snowgem/bitfrost/commits/features/pin-database) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f7d73cb9f88d5c2bf7901013ae2a7c198e276799...73c48305ff17d6a754dbade9ac64f62e32c99056))",
+    "created_at": "2021-01-20 07:54:03.289000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[73c48305](https://gitlab.com/snowgem/bitfrost/-/commit/73c48305ff17d6a754dbade9ac64f62e32c99056): add more data to io service - Snowgem",
+      "type": "rich"
+    }
   }
 ]
