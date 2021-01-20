@@ -34962,5 +34962,15 @@
       "description": "[108d4562](https://gitlab.com/snowgem/snowpay-api/-/commit/108d45621ec361a2bd607cecd7ac5503a985f856): wip - Kamil Wojciechowski\n\n[ab50f395](https://gitlab.com/snowgem/snowpay-api/-/commit/ab50f395c7242fa43b7aae06d659d1ff6d2bb435): #function endpoints cleanup - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/ab50f395c7242fa43b7aae06d659d1ff6d2bb435...9707f706b3277ea0811f920dac42bcf0af8ea378))",
+    "created_at": "2021-01-20 14:20:21.479000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9707f706](https://gitlab.com/snowgem/snowpay-api/-/commit/9707f706b3277ea0811f920dac42bcf0af8ea378): #ProceesingEndpoint queue renamed - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
