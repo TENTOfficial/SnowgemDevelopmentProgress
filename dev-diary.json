@@ -35016,5 +35016,15 @@
       "description": "[aeedc25d](https://gitlab.com/snowgem/snowpay-api/-/commit/aeedc25d7a188ec05db25ff42b9fcc4041d7ed66): # added binance logger - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/aeedc25d7a188ec05db25ff42b9fcc4041d7ed66...153e9226a25d7f6651b81b0bcf15c2bdd1a14703))",
+    "created_at": "2021-01-21 21:57:02.706000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[153e9226](https://gitlab.com/snowgem/snowpay-api/-/commit/153e9226a25d7f6651b81b0bcf15c2bdd1a14703): Update .gitlab-ci-test-deploy.yml - demzet",
+      "type": "rich"
+    }
   }
 ]
