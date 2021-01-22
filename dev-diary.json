@@ -35126,5 +35126,10 @@
       "description": "[0a4610ca](https://gitlab.com/snowgem/snowpay-api/-/commit/0a4610caa8c4a7b91b866137b19f78efa608e41a): #direct topup tests - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [fix\\_submodules](https://gitlab.com/snowgem/bitfrost/commits/fix_submodules) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-01-22 15:26:44.566000"
   }
 ]
