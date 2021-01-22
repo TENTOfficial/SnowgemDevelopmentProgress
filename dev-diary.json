@@ -35131,5 +35131,20 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [fix\\_submodules](https://gitlab.com/snowgem/bitfrost/commits/fix_submodules) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-01-22 15:26:44.566000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!150 \\*Fix incorrect git submodules initialization\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/150) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-01-22 15:31:33.078000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [fix\\_submodules](https://gitlab.com/snowgem/bitfrost/commits/fix_submodules) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bba9f9ad3c663c2499598637aa3efe2dd7dd9f41...3a601ed1c9be6789fbe5ea713380bb6a19df824f))",
+    "created_at": "2021-01-22 15:32:33.970000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3a601ed1](https://gitlab.com/snowgem/bitfrost/-/commit/3a601ed1c9be6789fbe5ea713380bb6a19df824f): Fix incorrect git submodules initialization - Jan Vra\u0161til",
+      "type": "rich"
+    }
   }
 ]
