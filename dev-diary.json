@@ -35166,5 +35166,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch fix_submodules from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-01-22 15:39:38.336000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [wip/new\\-login\\-flow](https://gitlab.com/snowgem/bitfrost/commits/wip/new-login-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8851683c5a1c1afbb448ea12e8391e8910831225...ea70d3a9cf62b78d2ac70309f82216bdbdcd3680))",
+    "created_at": "2021-01-22 21:16:27.235000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[91d93f72](https://gitlab.com/snowgem/bitfrost/-/commit/91d93f7272022fac3ae80db6a4eaa54da7324cc3): reset tent configuration path - Filip Storkan\n\n[26a8f6c1](https://gitlab.com/snowgem/bitfrost/-/commit/26a8f6c179d391ec2f55c4b7a1199891dc65ad64): fixing selectedMethod in verify idt modal - Filip Storkan\n\n[ea70d3a9](https://gitlab.com/snowgem/bitfrost/-/commit/ea70d3a9cf62b78d2ac70309f82216bdbdcd3680): removing adding setting duplicity - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
