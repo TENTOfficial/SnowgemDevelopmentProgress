@@ -35046,5 +35046,15 @@
       "description": "[74039988](https://gitlab.com/snowgem/snowpay-api/-/commit/74039988c068845fbe3f012b491ee12fb3c641a3): artifact removed - Daniil Lisovskiy\n\n[a4abac03](https://gitlab.com/snowgem/snowpay-api/-/commit/a4abac031fc4d9ebcf3dcd8bbb78d749580aa5d8): fixed bugs with orders processing and internal storage stuff - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/a4abac031fc4d9ebcf3dcd8bbb78d749580aa5d8...260e9d0d015ec046791ac9acc1d7956336c4e750))",
+    "created_at": "2021-01-22 08:26:04.357000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[260e9d0d](https://gitlab.com/snowgem/snowpay-api/-/commit/260e9d0d015ec046791ac9acc1d7956336c4e750): #BalanceTreshold column type fix, binance swaproute updates interval change - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
