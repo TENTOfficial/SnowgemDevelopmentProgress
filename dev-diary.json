@@ -35106,5 +35106,15 @@
       "description": "[da4e57ba](https://gitlab.com/snowgem/snowpay-api/-/commit/da4e57ba8a41cfc62a27068579e811ebcc11fac9): #added direct top up swap - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [wip/new\\-login\\-flow](https://gitlab.com/snowgem/bitfrost/commits/wip/new-login-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d0ef54ee0f4606e9cf6a21a474a0110f65bac024...8851683c5a1c1afbb448ea12e8391e8910831225))",
+    "created_at": "2021-01-22 12:36:22.861000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fc2e5c62](https://gitlab.com/snowgem/bitfrost/-/commit/fc2e5c62fd2dfc5ee63c2ba9e055635b005f89c9): route link fix - Filip Storkan\n\n[f0095d88](https://gitlab.com/snowgem/bitfrost/-/commit/f0095d8883359a9b0b7cef8ffcc30ac6da00af5e): removing serviceAccount metionings - Filip Storkan\n\n[fc946ed6](https://gitlab.com/snowgem/bitfrost/-/commit/fc946ed6cb014af2228d4490986dc452ba6647a5): login method returns an account - Filip Storkan\n\n[3909bea6](https://gitlab.com/snowgem/bitfrost/-/commit/3909bea65c4f3d8a2f431c5097ae5a15dc51fb74): changing account password - Filip Storkan\n\n[0720ed98](https://gitlab.com/snowgem/bitfrost/-/commit/0720ed98a3217c5fe3f12e71381a501d7e1e3617): saving settings to db - Filip Storkan\n\n[1c11c520](https://gitlab.com/snowgem/bitfrost/-/commit/1c11c520a56829f23a61505a82810a86092fda0e): restoring a default accent color - Filip Storkan\n\n[8851683c](https://gitlab.com/snowgem/bitfrost/-/commit/8851683c5a1c1afbb448ea12e8391e8910831225): updated identity verification modal - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
