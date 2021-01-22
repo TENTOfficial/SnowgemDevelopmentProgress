@@ -35076,5 +35076,15 @@
       "description": "[eb00a4aa](https://gitlab.com/snowgem/snowpay-api/-/commit/eb00a4aaa5fa110a05d0690fe7dea9915a56a05e): #ci update - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/eb00a4aaa5fa110a05d0690fe7dea9915a56a05e...4bc0bd1f64439e93c1ebe8275a83c90ad05c1397))",
+    "created_at": "2021-01-22 09:08:34.871000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4bc0bd1f](https://gitlab.com/snowgem/snowpay-api/-/commit/4bc0bd1f64439e93c1ebe8275a83c90ad05c1397): usdc block explorer - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
