@@ -35026,5 +35026,15 @@
       "description": "[153e9226](https://gitlab.com/snowgem/snowpay-api/-/commit/153e9226a25d7f6651b81b0bcf15c2bdd1a14703): Update .gitlab-ci-test-deploy.yml - demzet",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [wip/new\\-login\\-flow](https://gitlab.com/snowgem/bitfrost/commits/wip/new-login-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b037e6353d4ded4258ed23c7c8a08bf53f33d853...d0ef54ee0f4606e9cf6a21a474a0110f65bac024))",
+    "created_at": "2021-01-22 01:22:25.314000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[890b8afe](https://gitlab.com/snowgem/bitfrost/-/commit/890b8afea02c279b85bc9c1151e14dcd8e495f4e): updated service structure - Filip Storkan\n\n[c8f557b3](https://gitlab.com/snowgem/bitfrost/-/commit/c8f557b3f4a072f8a3b8e0a855b747d26ddb7f47): updating penindg swap item ui - Filip Storkan\n\n[977f12ff](https://gitlab.com/snowgem/bitfrost/-/commit/977f12ff49aff70f10d7262168bd289119d78717): settings and removing serviceAccount - Filip Storkan\n\n[d0ef54ee](https://gitlab.com/snowgem/bitfrost/-/commit/d0ef54ee0f4606e9cf6a21a474a0110f65bac024): lint fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
