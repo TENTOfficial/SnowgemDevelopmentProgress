@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3601 commits since 20/01/2020. You can see the complete history in
+There is a total of 3602 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-01-23 11:53:27</sub> | <sub>qNaN pushed to branch [feature/new\-registration\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4e96cc91fb74e532c84338778075a9ed4ae7af29...9db33f25ab18a8585819251a1313bbf5720ea366))</sub> | <sub>[9db33f25](https://gitlab.com/snowgem/bitfrost/-/commit/9db33f25ab18a8585819251a1313bbf5720ea366): removing services route - Filip Storkan</sub> |
 | <sub>2021-01-23 11:42:58</sub> | <sub>qNaN removed branch wip/new-login-flow from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-01-23 11:42:57</sub> | <sub>qNaN (filipstrkn) merged merge request [\!151 \*Wip/new login flow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/151) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-01-23 11:41:07</sub> | <sub>qNaN (filipstrkn) opened merge request [\!151 \*Wip/new login flow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/151) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3601 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-01-22 15:39:38</sub> | <sub>Jan Vraštil removed branch fix_submodules from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-01-22 15:39:38</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!150 \*Fix incorrect git submodules initialization\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/150) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-01-22 15:39:37</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ea5b7f98a2de7ba119e8ad89063d7b2b0b076e14...417150332c22d9f91440c0f4a949c219eed76165))</sub> | <sub>[1e045769](https://gitlab.com/snowgem/bitfrost/-/commit/1e0457699f7f37e5b7b4e309b733934b2ab1cf81): Fix incorrect git submodules initialization - Jan Vraštil<br>[41715033](https://gitlab.com/snowgem/bitfrost/-/commit/417150332c22d9f91440c0f4a949c219eed76165): Merge branch 'fix_submodules' into 'v0.1.5' - Jan Vraštil</sub> |
-| <sub>2021-01-22 15:32:33</sub> | <sub>Jan Vraštil pushed to branch [fix\_submodules](https://gitlab.com/snowgem/bitfrost/commits/fix_submodules) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bba9f9ad3c663c2499598637aa3efe2dd7dd9f41...3a601ed1c9be6789fbe5ea713380bb6a19df824f))</sub> | <sub>[3a601ed1](https://gitlab.com/snowgem/bitfrost/-/commit/3a601ed1c9be6789fbe5ea713380bb6a19df824f): Fix incorrect git submodules initialization - Jan Vraštil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

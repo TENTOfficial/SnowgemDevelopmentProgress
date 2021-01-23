@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-01-23 11:53:27</sub> | <sub>qNaN pushed to branch [feature/new\-registration\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4e96cc91fb74e532c84338778075a9ed4ae7af29...9db33f25ab18a8585819251a1313bbf5720ea366))</sub> | <sub>[9db33f25](https://gitlab.com/snowgem/bitfrost/-/commit/9db33f25ab18a8585819251a1313bbf5720ea366): removing services route - Filip Storkan</sub> |
 | <sub>2021-01-23 11:42:58</sub> | <sub>qNaN removed branch wip/new-login-flow from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-01-23 11:42:57</sub> | <sub>qNaN (filipstrkn) merged merge request [\!151 \*Wip/new login flow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/151) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-01-23 11:41:07</sub> | <sub>qNaN (filipstrkn) opened merge request [\!151 \*Wip/new login flow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/151) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
