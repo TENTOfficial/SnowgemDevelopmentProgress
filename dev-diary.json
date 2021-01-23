@@ -35176,5 +35176,15 @@
       "description": "[91d93f72](https://gitlab.com/snowgem/bitfrost/-/commit/91d93f7272022fac3ae80db6a4eaa54da7324cc3): reset tent configuration path - Filip Storkan\n\n[26a8f6c1](https://gitlab.com/snowgem/bitfrost/-/commit/26a8f6c179d391ec2f55c4b7a1199891dc65ad64): fixing selectedMethod in verify idt modal - Filip Storkan\n\n[ea70d3a9](https://gitlab.com/snowgem/bitfrost/-/commit/ea70d3a9cf62b78d2ac70309f82216bdbdcd3680): removing adding setting duplicity - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [wip/new\\-login\\-flow](https://gitlab.com/snowgem/bitfrost/commits/wip/new-login-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ea70d3a9cf62b78d2ac70309f82216bdbdcd3680...2f159d5e3ae5148e44b31f664855ec6cd3b7fb0e))",
+    "created_at": "2021-01-23 02:01:15.658000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e6ea27de](https://gitlab.com/snowgem/bitfrost/-/commit/e6ea27de22891153163db533f80403278ad640c5): adding master seed to db - Filip Storkan\n\n[2f159d5e](https://gitlab.com/snowgem/bitfrost/-/commit/2f159d5e3ae5148e44b31f664855ec6cd3b7fb0e): adding brute force in updateAccount - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
