@@ -35186,5 +35186,15 @@
       "description": "[e6ea27de](https://gitlab.com/snowgem/bitfrost/-/commit/e6ea27de22891153163db533f80403278ad640c5): adding master seed to db - Filip Storkan\n\n[2f159d5e](https://gitlab.com/snowgem/bitfrost/-/commit/2f159d5e3ae5148e44b31f664855ec6cd3b7fb0e): adding brute force in updateAccount - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [wip/new\\-login\\-flow](https://gitlab.com/snowgem/bitfrost/commits/wip/new-login-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2f159d5e3ae5148e44b31f664855ec6cd3b7fb0e...cb05d1f5d0dd6a705037ede335262f9ac4583107))",
+    "created_at": "2021-01-23 11:37:29.802000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[06d2ae24](https://gitlab.com/snowgem/bitfrost/-/commit/06d2ae245e51f7e158826aef7becc8bfa0d47498): logging out - Filip Storkan\n\n[cb05d1f5](https://gitlab.com/snowgem/bitfrost/-/commit/cb05d1f5d0dd6a705037ede335262f9ac4583107): lint fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
