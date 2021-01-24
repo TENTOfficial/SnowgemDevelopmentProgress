@@ -35306,5 +35306,15 @@
       "description": "[6fa36478](https://gitlab.com/snowgem/snowpay-api/-/commit/6fa36478be7435cfbeca30b021b7247ef766a0ec): #unit test fix - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/6fa36478be7435cfbeca30b021b7247ef766a0ec...45f4d0768f60fd97af6c7f0c7c8e60d17bc33c7f))",
+    "created_at": "2021-01-24 21:44:12.019000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[45f4d076](https://gitlab.com/snowgem/snowpay-api/-/commit/45f4d0768f60fd97af6c7f0c7c8e60d17bc33c7f): #212 - Exchanges should process messages max 5 days old - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
