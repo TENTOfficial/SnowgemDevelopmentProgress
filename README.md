@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3608 commits since 20/01/2020. You can see the complete history in
+There is a total of 3609 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-01-24 17:26:04</sub> | <sub>Daniil Lisovskiy pushed to branch [release\_candidate\_2021\_02\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/071beef9d7a52830a5d69557d03a604bb314b6f6...1ae61c50e6bc2360c2fb4bd548c58c39afd58b2d))</sub> | <sub>[c6f1a982](https://gitlab.com/snowgem/snowpay-api/-/commit/c6f1a9824a08001fdae27eef30b7798ce5d2c4d5): swap routes calculation fix - Daniil Lisovskiy<br>[1ae61c50](https://gitlab.com/snowgem/snowpay-api/-/commit/1ae61c50e6bc2360c2fb4bd548c58c39afd58b2d): merge fix - Daniil Lisovskiy</sub> |
 | <sub>2021-01-24 14:46:58</sub> | <sub>demzet pushed to branch [release\_candidate\_2021\_02\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0a4610caa8c4a7b91b866137b19f78efa608e41a...071beef9d7a52830a5d69557d03a604bb314b6f6))</sub> | <sub>[071beef9](https://gitlab.com/snowgem/snowpay-api/-/commit/071beef9d7a52830a5d69557d03a604bb314b6f6): #infrastructure auto setup - Kamil Wojciechowski</sub> |
 | <sub>2021-01-24 14:14:32</sub> | <sub>qNaN pushed to branch [feature/new\-registration\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b318e40edece0d7c809915278135215b0f44fda0...a8df64dffe7892daf1142767faa62e32a9bcdba2))</sub> | <sub>[a8df64df](https://gitlab.com/snowgem/bitfrost/-/commit/a8df64dffe7892daf1142767faa62e32a9bcdba2): lint fix - Filip Storkan</sub> |
 | <sub>2021-01-24 14:10:31</sub> | <sub>qNaN pushed to branch [feature/new\-registration\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8bd2d7ce163191b145ef6eee27602d8abec5f285...b318e40edece0d7c809915278135215b0f44fda0))</sub> | <sub>[b318e40e](https://gitlab.com/snowgem/bitfrost/-/commit/b318e40edece0d7c809915278135215b0f44fda0): change pin - Filip Storkan</sub> |
@@ -17,6 +18,5 @@ There is a total of 3608 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-01-23 11:53:27</sub> | <sub>qNaN pushed to branch [feature/new\-registration\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4e96cc91fb74e532c84338778075a9ed4ae7af29...9db33f25ab18a8585819251a1313bbf5720ea366))</sub> | <sub>[9db33f25](https://gitlab.com/snowgem/bitfrost/-/commit/9db33f25ab18a8585819251a1313bbf5720ea366): removing services route - Filip Storkan</sub> |
 | <sub>2021-01-23 11:42:58</sub> | <sub>qNaN removed branch wip/new-login-flow from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-01-23 11:42:57</sub> | <sub>qNaN (filipstrkn) merged merge request [\!151 \*Wip/new login flow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/151) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-01-23 11:41:07</sub> | <sub>qNaN (filipstrkn) opened merge request [\!151 \*Wip/new login flow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/151) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
