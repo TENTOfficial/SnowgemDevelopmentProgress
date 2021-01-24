@@ -35236,5 +35236,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!152 \\*wip: \\!\\!\\! Pokus\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/152) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-01-23 18:45:59.265000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9db33f25ab18a8585819251a1313bbf5720ea366...8bd2d7ce163191b145ef6eee27602d8abec5f285))",
+    "created_at": "2021-01-24 02:13:18.690000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8bd2d7ce](https://gitlab.com/snowgem/bitfrost/-/commit/8bd2d7ce163191b145ef6eee27602d8abec5f285): updating master seed for the new account model - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
