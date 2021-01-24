@@ -35296,5 +35296,15 @@
       "description": "[21f58513](https://gitlab.com/snowgem/snowpay-api/-/commit/21f58513e52284e7e2d19af5a7062854a8e68c5a): #infrastructure auto setup - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/21f58513e52284e7e2d19af5a7062854a8e68c5a...6fa36478be7435cfbeca30b021b7247ef766a0ec))",
+    "created_at": "2021-01-24 21:18:41.451000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6fa36478](https://gitlab.com/snowgem/snowpay-api/-/commit/6fa36478be7435cfbeca30b021b7247ef766a0ec): #unit test fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
