@@ -35246,5 +35246,25 @@
       "description": "[8bd2d7ce](https://gitlab.com/snowgem/bitfrost/-/commit/8bd2d7ce163191b145ef6eee27602d8abec5f285): updating master seed for the new account model - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8bd2d7ce163191b145ef6eee27602d8abec5f285...b318e40edece0d7c809915278135215b0f44fda0))",
+    "created_at": "2021-01-24 14:10:31.695000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b318e40e](https://gitlab.com/snowgem/bitfrost/-/commit/b318e40edece0d7c809915278135215b0f44fda0): change pin - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b318e40edece0d7c809915278135215b0f44fda0...a8df64dffe7892daf1142767faa62e32a9bcdba2))",
+    "created_at": "2021-01-24 14:14:32.621000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a8df64df](https://gitlab.com/snowgem/bitfrost/-/commit/a8df64dffe7892daf1142767faa62e32a9bcdba2): lint fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
