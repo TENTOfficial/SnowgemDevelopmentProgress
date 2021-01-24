@@ -35266,5 +35266,15 @@
       "description": "[a8df64df](https://gitlab.com/snowgem/bitfrost/-/commit/a8df64dffe7892daf1142767faa62e32a9bcdba2): lint fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/0a4610caa8c4a7b91b866137b19f78efa608e41a...071beef9d7a52830a5d69557d03a604bb314b6f6))",
+    "created_at": "2021-01-24 14:46:58.326000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[071beef9](https://gitlab.com/snowgem/snowpay-api/-/commit/071beef9d7a52830a5d69557d03a604bb314b6f6): #infrastructure auto setup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
