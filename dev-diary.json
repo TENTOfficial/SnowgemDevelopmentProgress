@@ -35336,5 +35336,15 @@
       "description": "[240dde31](https://gitlab.com/snowgem/snowpay-api/-/commit/240dde31e8cf4dbd9166500826dfd404c0a78d7d): #removed BTCZ_BTC pair from stex - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/240dde31e8cf4dbd9166500826dfd404c0a78d7d...e97504c8db39f8cccdace8969ee3176038bbed44))",
+    "created_at": "2021-01-25 14:34:21.361000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e97504c8](https://gitlab.com/snowgem/snowpay-api/-/commit/e97504c8db39f8cccdace8969ee3176038bbed44): #notification host fix - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
