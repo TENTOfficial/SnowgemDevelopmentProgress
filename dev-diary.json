@@ -35326,5 +35326,15 @@
       "description": "[9cec350b](https://gitlab.com/snowgem/snowpay-api/-/commit/9cec350bbe8b30f72fd5171f1f5fe6050aa095aa): #direct topup saga changes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/9cec350bbe8b30f72fd5171f1f5fe6050aa095aa...240dde31e8cf4dbd9166500826dfd404c0a78d7d))",
+    "created_at": "2021-01-25 12:37:19.779000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[240dde31](https://gitlab.com/snowgem/snowpay-api/-/commit/240dde31e8cf4dbd9166500826dfd404c0a78d7d): #removed BTCZ_BTC pair from stex - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
