@@ -35386,5 +35386,15 @@
       "description": "[3d8f33d2](https://gitlab.com/snowgem/snowpay-api/-/commit/3d8f33d247ab143d0ea04f6cdae8b0a0da8b090a): #message duplication protection changes - Kamil Wojciechowski",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/3d8f33d247ab143d0ea04f6cdae8b0a0da8b090a...77f209888e835ccb66150ec995e0d784de62da8c))",
+    "created_at": "2021-01-26 22:36:02.361000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[77f20988](https://gitlab.com/snowgem/snowpay-api/-/commit/77f209888e835ccb66150ec995e0d784de62da8c): #api queue creation setup - Kamil Wojciechowski",
+      "type": "rich"
+    }
   }
 ]
