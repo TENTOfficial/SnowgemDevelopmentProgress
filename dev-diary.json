@@ -35356,5 +35356,15 @@
       "description": "[52eba6aa](https://gitlab.com/snowgem/snowpay-api/-/commit/52eba6aa210e400569301308626316cf75654f89): deposit addresses rotation fix - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a8df64dffe7892daf1142767faa62e32a9bcdba2...e00ce3ccf4b6562b4dd92aec4f746c303acd9882))",
+    "created_at": "2021-01-26 09:51:59.631000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ad53cbf4](https://gitlab.com/snowgem/bitfrost/-/commit/ad53cbf4ebf640ac5b3e5e7f35ef5455333b1774): wip wallets cache, data resolvers for home page - Filip Storkan\n\n[9cb53644](https://gitlab.com/snowgem/bitfrost/-/commit/9cb53644cc4436f6af2e55d851810013dc8c3648): lint fix - Filip Storkan\n\n[e00ce3cc](https://gitlab.com/snowgem/bitfrost/-/commit/e00ce3ccf4b6562b4dd92aec4f746c303acd9882): test ids - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
