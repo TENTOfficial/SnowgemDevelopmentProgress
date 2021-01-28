@@ -35444,5 +35444,15 @@
     "author": "GitLab",
     "content": "demzet (aphex5) merged merge request [\\!61 \\*Release candidate 2021 02 01\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/61) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2021-01-27 22:44:16.984000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7867403c06d51614e4d18b8d4c485708ffac3317...4579b4ff484e2a1c3352bd453b74d237a708e720))",
+    "created_at": "2021-01-28 18:24:43.693000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[64421dfb](https://gitlab.com/snowgem/bitfrost/-/commit/64421dfba67f2f3cb521a1fa2a6676c754b41551): fixing database on mobile - Filip Storkan\n\n[1fac0f55](https://gitlab.com/snowgem/bitfrost/-/commit/1fac0f5501d7e9c483b52b9fae1ced48a0ab5b38): adding lockable wallet - Filip Storkan\n\n[b62233f9](https://gitlab.com/snowgem/bitfrost/-/commit/b62233f98282501dd1afea050194c7aff77ec290): removing no wallets page and its guard - Filip Storkan\n\n[4579b4ff](https://gitlab.com/snowgem/bitfrost/-/commit/4579b4ff484e2a1c3352bd453b74d237a708e720): default wallets + db change pin fixes - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
