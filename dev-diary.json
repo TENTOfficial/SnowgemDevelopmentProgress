@@ -35554,5 +35554,25 @@
       "description": "[46d3626a](https://gitlab.com/snowgem/bitfrost/-/commit/46d3626a8cece305488bdb746610fa74e808c83b): fix overview page with uuid, lint - Snowgem\n\n[3c02ceb8](https://gitlab.com/snowgem/bitfrost/-/commit/3c02ceb8085e1de276b4e275e4ac9e0fe02d149b): Merge branch 'feature/new-registration-flow' of... - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [release\\_candidate\\_2021\\_02\\_01](https://gitlab.com/snowgem/snowpay-api/commits/release_candidate_2021_02_01) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/b59cdfd7af83c8a66e5a97abf9c6c151358e9bb1...2d297d622e3e0eab8670e293280c8c00b8a9d618))",
+    "created_at": "2021-01-29 10:47:40.749000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2d297d62](https://gitlab.com/snowgem/snowpay-api/-/commit/2d297d622e3e0eab8670e293280c8c00b8a9d618): latest changes - Daniil Lisovskiy",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [master](https://gitlab.com/snowgem/snowpay-api/commits/master) of [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api) ([Compare changes](https://gitlab.com/snowgem/snowpay-api/compare/c6da7037c13960918752764bbc074cb6c0f739d6...089386645754cf979f6644c34e451075ed8600bf))",
+    "created_at": "2021-01-29 10:49:16.205000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2d297d62](https://gitlab.com/snowgem/snowpay-api/-/commit/2d297d622e3e0eab8670e293280c8c00b8a9d618): latest changes - Daniil Lisovskiy\n\n[08938664](https://gitlab.com/snowgem/snowpay-api/-/commit/089386645754cf979f6644c34e451075ed8600bf): Merge branch 'release_candidate_2021_02_01' into master - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
