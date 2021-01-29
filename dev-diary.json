@@ -35484,5 +35484,15 @@
       "description": "[a65ac385](https://gitlab.com/snowgem/bitfrost/-/commit/a65ac38574d1d39dfc46eb19be4e3fe439bd02c5): filter created wallet - Snowgem\n\n[61e8c666](https://gitlab.com/snowgem/bitfrost/-/commit/61e8c666ced93a56ed973283f7a3be3ceb9e5013): do not encrypt seeds twice - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/61e8c666ced93a56ed973283f7a3be3ceb9e5013...c7307c024ca137a18117e1b4d9e5122e0b0114f0))",
+    "created_at": "2021-01-29 08:05:06.719000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a0aead8b](https://gitlab.com/snowgem/bitfrost/-/commit/a0aead8b603c4691c36ad7d68c1dfd15af42304d): fix backup button showing in tools page - Snowgem\n\n[c7307c02](https://gitlab.com/snowgem/bitfrost/-/commit/c7307c024ca137a18117e1b4d9e5122e0b0114f0): disable blinky button because we don't need it in new flow - Snowgem",
+      "type": "rich"
+    }
   }
 ]
