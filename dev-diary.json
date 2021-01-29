@@ -35544,5 +35544,15 @@
       "description": "[696e0e50](https://gitlab.com/snowgem/bitfrost/-/commit/696e0e5018c1049acca5088d203b2531839cfaf4): wip registration flow - Filip Storkan\n\n[b0ca1444](https://gitlab.com/snowgem/bitfrost/-/commit/b0ca14444b2e5a0730733c5f38ba9d60a69f05cb): Merge branch 'feature/new-registration-flow' of gitlab.com:snowgem/bitfrost... - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b0ca14444b2e5a0730733c5f38ba9d60a69f05cb...3c02ceb8085e1de276b4e275e4ac9e0fe02d149b))",
+    "created_at": "2021-01-29 10:15:45.679000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[46d3626a](https://gitlab.com/snowgem/bitfrost/-/commit/46d3626a8cece305488bdb746610fa74e808c83b): fix overview page with uuid, lint - Snowgem\n\n[3c02ceb8](https://gitlab.com/snowgem/bitfrost/-/commit/3c02ceb8085e1de276b4e275e4ac9e0fe02d149b): Merge branch 'feature/new-registration-flow' of... - Snowgem",
+      "type": "rich"
+    }
   }
 ]
