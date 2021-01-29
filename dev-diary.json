@@ -35504,5 +35504,15 @@
       "description": "[2bacccd9](https://gitlab.com/snowgem/bitfrost/-/commit/2bacccd9a70760afd757c821f55f5716e7450f69): fix lint - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2bacccd9a70760afd757c821f55f5716e7450f69...54ed533edbcd136170154650e516094dd49e8708))",
+    "created_at": "2021-01-29 08:51:55.292000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[54ed533e](https://gitlab.com/snowgem/bitfrost/-/commit/54ed533edbcd136170154650e516094dd49e8708): get cache in wallets - Snowgem",
+      "type": "rich"
+    }
   }
 ]
