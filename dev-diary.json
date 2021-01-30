@@ -35619,5 +35619,23 @@
       "description": "[0877ee2e](https://gitlab.com/snowgem/bitfrost/-/commit/0877ee2e29c7ced19f2a379b05ea3cb6e2314448): registration - Filip Storkan\n\n[00c4ee99](https://gitlab.com/snowgem/bitfrost/-/commit/00c4ee9948e48ff5169207eb17e8d618acf9922c): lint fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-01-30 22:04:57.322000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`81bcdf0`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/81bcdf07bb75f8fa3f7d56323a911af32bcaabaa) Translated 3 lines - baartch\n[`3a2b848`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/3a2b848695f948f1ba37ae44d6b8e7add5d2504c) Merge pull request #4 from baartch/master - ciripel",
+      "title": "[TENT-CoreLangPack:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/compare/3d129648e90d...3a2b848695f9"
+    }
   }
 ]
