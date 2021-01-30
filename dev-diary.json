@@ -35599,5 +35599,15 @@
     "author": "GitLab",
     "content": "demzet (aphex5) opened merge request [\\!62 \\*Release candidate 2021 02 01\\*](https://gitlab.com/snowgem/snowpay-api/-/merge_requests/62) in [snowgem / snowpay\\-api](https://gitlab.com/snowgem/snowpay-api)",
     "created_at": "2021-01-29 13:58:42.686000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) closed merge request [\\!152 \\*wip: \\!\\!\\! Pokus\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/152) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-01-30 08:12:37.261000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch pokus from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-01-30 08:12:46.934000"
   }
 ]
