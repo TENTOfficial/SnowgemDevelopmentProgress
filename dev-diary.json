@@ -35609,5 +35609,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch pokus from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-01-30 08:12:46.934000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3c02ceb8085e1de276b4e275e4ac9e0fe02d149b...00c4ee9948e48ff5169207eb17e8d618acf9922c))",
+    "created_at": "2021-01-30 19:37:14.256000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0877ee2e](https://gitlab.com/snowgem/bitfrost/-/commit/0877ee2e29c7ced19f2a379b05ea3cb6e2314448): registration - Filip Storkan\n\n[00c4ee99](https://gitlab.com/snowgem/bitfrost/-/commit/00c4ee9948e48ff5169207eb17e8d618acf9922c): lint fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
