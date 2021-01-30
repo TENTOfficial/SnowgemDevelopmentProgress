@@ -35665,5 +35665,23 @@
       "description": "[629942f2](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/629942f2f7806540b947ae2aeb148e25ef97e59c): updated AE, CZ, DE & PL translations - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-01-30 23:52:13.823000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`43d8291`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/43d8291e365880fdd9345125c8678b0bd4ad09d4) Update ro.json - Sebastian2dor\n[`efc57d4`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/efc57d474e2f56b26bdff6d7a9e1fa44e891da02) Merge pull request #5 from Sebastian2dor/master - ciripel",
+      "title": "[TENT-CoreLangPack:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/compare/2cb4975de258...efc57d474e2f"
+    }
   }
 ]
