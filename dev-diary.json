@@ -35729,5 +35729,23 @@
       "description": "[41830cfe](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/41830cfe68f73bfd753b597febf4785d3524dac4): removed DK & IS language support - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-01-31 14:32:52.084000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f272a37`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/f272a37bcc2ca71682c165e01d7904fb4c1fd55f) Update ro.json - Sebastian2dor\n[`f792b99`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/f792b99667d2d3bf7e0e48eb27eacf364a9b45b2) Merge pull request #7 from Sebastian2dor/patch-2 - ciripel",
+      "title": "[TENT-CoreLangPack:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/compare/c07703bc1505...f792b99667d2"
+    }
   }
 ]
