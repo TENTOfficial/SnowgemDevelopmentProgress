@@ -35683,5 +35683,51 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/compare/2cb4975de258...efc57d474e2f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-01-31 11:40:17.491000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`be47a78`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/be47a787e100754a481fd43ac91514eadcc3afc3) removed DK & IS translations support - ciripel",
+      "title": "[TENT-CoreLangPack:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/commit/be47a787e100754a481fd43ac91514eadcc3afc3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-01-31 11:42:36.689000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c07703b`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/c07703bc1505d9cd948124e6a5f075f344e9079a) small typo fix in RO - ciripel",
+      "title": "[TENT-CoreLangPack:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/commit/c07703bc1505d9cd948124e6a5f075f344e9079a"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/629942f2f7806540b947ae2aeb148e25ef97e59c...41830cfe68f73bfd753b597febf4785d3524dac4))",
+    "created_at": "2021-01-31 11:44:27.772000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[41830cfe](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/41830cfe68f73bfd753b597febf4785d3524dac4): removed DK & IS language support - ciripel",
+      "type": "rich"
+    }
   }
 ]
