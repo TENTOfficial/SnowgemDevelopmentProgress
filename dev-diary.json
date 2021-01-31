@@ -35815,5 +35815,15 @@
       "description": "[cc6a6d2c](https://gitlab.com/snowgem/bitfrost/-/commit/cc6a6d2ca89207517208f0a3690ad5737e51496e): saving settings in browser fixed - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cc6a6d2ca89207517208f0a3690ad5737e51496e...a27b435d41288252e2c7aab32dafe2d2fbe8defe))",
+    "created_at": "2021-01-31 17:38:26.037000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a27b435d](https://gitlab.com/snowgem/bitfrost/-/commit/a27b435d41288252e2c7aab32dafe2d2fbe8defe): getting the latest theme on app start - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
