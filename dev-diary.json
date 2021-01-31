@@ -35805,5 +35805,15 @@
       "description": "[0a86c5b7](https://gitlab.com/snowgem/bitfrost/-/commit/0a86c5b7a1cdbec656ecc0cf42ed83e8215de689): saving settings in browser fixed - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0a86c5b7a1cdbec656ecc0cf42ed83e8215de689...cc6a6d2ca89207517208f0a3690ad5737e51496e))",
+    "created_at": "2021-01-31 15:51:41.730000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cc6a6d2c](https://gitlab.com/snowgem/bitfrost/-/commit/cc6a6d2ca89207517208f0a3690ad5737e51496e): saving settings in browser fixed - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
