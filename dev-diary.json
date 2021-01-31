@@ -35765,5 +35765,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/commit/e2c1640d7bb5d2e11e5a6c5e3c979091a697d232"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/41830cfe68f73bfd753b597febf4785d3524dac4...e0180b1efdc1f56b2b7623611e8e1a4a63d5976e))",
+    "created_at": "2021-01-31 14:41:55.215000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e0180b1e](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/e0180b1efdc1f56b2b7623611e8e1a4a63d5976e): Updated HU translation - ciripel",
+      "type": "rich"
+    }
   }
 ]
