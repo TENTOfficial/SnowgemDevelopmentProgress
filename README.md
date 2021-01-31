@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3652 commits since 20/01/2020. You can see the complete history in
+There is a total of 3653 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-01-31 14:38:35</sub> | <sub>[[TENT-CoreLangPack:master] 1 new commit](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/e2c1640d7bb5d2e11e5a6c5e3c979091a697d232)</sub> | <sub>[e2c1640](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/e2c1640d7bb5d2e11e5a6c5e3c979091a697d232) updated HU translation - ciripel</sub> |
 | <sub>2021-01-31 14:32:52</sub> | <sub>[[TENT-CoreLangPack:master] 2 new commits](https://github.com/TENTOfficial/TENT-CoreLangPack/compare/c07703bc1505...f792b99667d2)</sub> | <sub>[f272a37](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/f272a37bcc2ca71682c165e01d7904fb4c1fd55f) Update ro.json - Sebastian2dor<br>[f792b99](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/f792b99667d2d3bf7e0e48eb27eacf364a9b45b2) Merge pull request #7 from Sebastian2dor/patch-2 - ciripel</sub> |
 | <sub>2021-01-31 11:44:27</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/629942f2f7806540b947ae2aeb148e25ef97e59c...41830cfe68f73bfd753b597febf4785d3524dac4))</sub> | <sub>[41830cfe](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/41830cfe68f73bfd753b597febf4785d3524dac4): removed DK & IS language support - ciripel</sub> |
 | <sub>2021-01-31 11:42:36</sub> | <sub>[[TENT-CoreLangPack:master] 1 new commit](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/c07703bc1505d9cd948124e6a5f075f344e9079a)</sub> | <sub>[c07703b](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/c07703bc1505d9cd948124e6a5f075f344e9079a) small typo fix in RO - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 3652 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-01-30 22:32:18</sub> | <sub>[[TENT-CoreLangPack:master] 1 new commit](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/2cb4975de2580bdd936a4f74e0b9b6f208702eab)</sub> | <sub>[2cb4975](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/2cb4975de2580bdd936a4f74e0b9b6f208702eab) updated AE, CZ & PL translations - ciripel</sub> |
 | <sub>2021-01-30 22:04:57</sub> | <sub>[[TENT-CoreLangPack:master] 2 new commits](https://github.com/TENTOfficial/TENT-CoreLangPack/compare/3d129648e90d...3a2b848695f9)</sub> | <sub>[81bcdf0](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/81bcdf07bb75f8fa3f7d56323a911af32bcaabaa) Translated 3 lines - baartch<br>[3a2b848](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/3a2b848695f948f1ba37ae44d6b8e7add5d2504c) Merge pull request #4 from baartch/master - ciripel</sub> |
 | <sub>2021-01-30 19:37:14</sub> | <sub>qNaN pushed to branch [feature/new\-registration\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3c02ceb8085e1de276b4e275e4ac9e0fe02d149b...00c4ee9948e48ff5169207eb17e8d618acf9922c))</sub> | <sub>[0877ee2e](https://gitlab.com/snowgem/bitfrost/-/commit/0877ee2e29c7ced19f2a379b05ea3cb6e2314448): registration - Filip Storkan<br>[00c4ee99](https://gitlab.com/snowgem/bitfrost/-/commit/00c4ee9948e48ff5169207eb17e8d618acf9922c): lint fix - Filip Storkan</sub> |
-| <sub>2021-01-30 08:12:46</sub> | <sub>Jan Vraštil removed branch pokus from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

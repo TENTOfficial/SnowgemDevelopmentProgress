@@ -35747,5 +35747,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/compare/c07703bc1505...f792b99667d2"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-01-31 14:38:35.361000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e2c1640`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/e2c1640d7bb5d2e11e5a6c5e3c979091a697d232) updated HU translation - ciripel",
+      "title": "[TENT-CoreLangPack:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/commit/e2c1640d7bb5d2e11e5a6c5e3c979091a697d232"
+    }
   }
 ]
