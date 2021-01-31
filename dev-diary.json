@@ -35785,5 +35785,15 @@
       "description": "[72369f86](https://gitlab.com/snowgem/bitfrost/-/commit/72369f863c9ce51478e21c890948775968716336): recovery password - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/72369f863c9ce51478e21c890948775968716336...01e4f70cb29fa9b855d540ac5ca642b409a38ad8))",
+    "created_at": "2021-01-31 15:29:06.922000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[01e4f70c](https://gitlab.com/snowgem/bitfrost/-/commit/01e4f70cb29fa9b855d540ac5ca642b409a38ad8): adding test ids - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
