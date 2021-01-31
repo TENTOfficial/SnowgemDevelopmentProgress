@@ -35825,5 +35825,15 @@
       "description": "[a27b435d](https://gitlab.com/snowgem/bitfrost/-/commit/a27b435d41288252e2c7aab32dafe2d2fbe8defe): getting the latest theme on app start - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a27b435d41288252e2c7aab32dafe2d2fbe8defe...ac6f7a7eed094ee6d8aea5d3dd19c80b86cc79f3))",
+    "created_at": "2021-01-31 18:14:40.025000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ac6f7a7e](https://gitlab.com/snowgem/bitfrost/-/commit/ac6f7a7eed094ee6d8aea5d3dd19c80b86cc79f3): default pages with encrypted fields - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
