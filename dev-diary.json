@@ -35835,5 +35835,15 @@
       "description": "[ac6f7a7e](https://gitlab.com/snowgem/bitfrost/-/commit/ac6f7a7eed094ee6d8aea5d3dd19c80b86cc79f3): default pages with encrypted fields - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ac6f7a7eed094ee6d8aea5d3dd19c80b86cc79f3...71330cb403c18105aa8a29d894fdf5dae1759fc2))",
+    "created_at": "2021-02-01 08:41:46.948000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[71330cb4](https://gitlab.com/snowgem/bitfrost/-/commit/71330cb403c18105aa8a29d894fdf5dae1759fc2): adding recovery walets intercepting page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
