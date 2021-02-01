@@ -35875,5 +35875,15 @@
       "description": "[cce2c090](https://gitlab.com/snowgem/bitfrost/-/commit/cce2c0908681d6becd9c703654ea08aa98dbe761): resgiter wrong key fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5c00255f3b6156c00bf13b71195294358d9d1d7f...945740452b0bf9e2111a0f7b629acfb1a00c0c33))",
+    "created_at": "2021-02-01 17:33:44.373000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[94574045](https://gitlab.com/snowgem/bitfrost/-/commit/945740452b0bf9e2111a0f7b629acfb1a00c0c33): Implement basic login with biometrics - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
