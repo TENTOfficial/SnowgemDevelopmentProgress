@@ -35885,5 +35885,15 @@
       "description": "[94574045](https://gitlab.com/snowgem/bitfrost/-/commit/945740452b0bf9e2111a0f7b629acfb1a00c0c33): Implement basic login with biometrics - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [v2](https://gitlab.com/snowgem/asgard/commits/v2) of [snowgem / asgard](https://gitlab.com/snowgem/asgard) ([Compare changes](https://gitlab.com/snowgem/asgard/compare/d960a159d537db04d3d2f30f480b60a22ce52bc6...feae0510aac395e67471fd01382ae7fb37b8d69d))",
+    "created_at": "2021-02-01 19:08:43.219000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[feae0510](https://gitlab.com/snowgem/asgard/-/commit/feae0510aac395e67471fd01382ae7fb37b8d69d): added trace logs in case of failed password reset - V",
+      "type": "rich"
+    }
   }
 ]
