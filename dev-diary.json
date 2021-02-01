@@ -35845,5 +35845,15 @@
       "description": "[71330cb4](https://gitlab.com/snowgem/bitfrost/-/commit/71330cb403c18105aa8a29d894fdf5dae1759fc2): adding recovery walets intercepting page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/71330cb403c18105aa8a29d894fdf5dae1759fc2...5c00255f3b6156c00bf13b71195294358d9d1d7f))",
+    "created_at": "2021-02-01 09:19:19.712000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c37d9f2f](https://gitlab.com/snowgem/bitfrost/-/commit/c37d9f2fe00303f5e807732b5da08acb3e6b2b30): bug/260 - fix grey background on card swipe - Jan Vra\u0161til\n\n[ea5b7f98](https://gitlab.com/snowgem/bitfrost/-/commit/ea5b7f98a2de7ba119e8ad89063d7b2b0b076e14): Merge branch 'bug/260-grey_background_on_card_swipe' into 'v0.1.5' - Jan Vra\u0161til\n\n[9f48639a](https://gitlab.com/snowgem/bitfrost/-/commit/9f48639adcb5f855a3f117d75a678b4b669c24d4): Merge branch 'v0.1.5' into feature/new-registration-flow - Filip Storkan\n\n[5c00255f](https://gitlab.com/snowgem/bitfrost/-/commit/5c00255f3b6156c00bf13b71195294358d9d1d7f): adding add test card - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
