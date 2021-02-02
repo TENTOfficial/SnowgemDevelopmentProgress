@@ -35943,5 +35943,15 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [features/backup\\-master\\-seeds](https://gitlab.com/snowgem/bitfrost/commits/features/backup-master-seeds) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-02 09:38:40.259000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [feature/new\\-registration\\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/945740452b0bf9e2111a0f7b629acfb1a00c0c33...4c397c46634c53651940e254204c64879a897848))",
+    "created_at": "2021-02-02 12:23:35.924000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4c397c46](https://gitlab.com/snowgem/bitfrost/-/commit/4c397c46634c53651940e254204c64879a897848): bug/267-Fix PIN bugs - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3672 commits since 20/01/2020. You can see the complete history in
+There is a total of 3673 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-02-02 12:23:35</sub> | <sub>Jan Vraštil pushed to branch [feature/new\-registration\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/945740452b0bf9e2111a0f7b629acfb1a00c0c33...4c397c46634c53651940e254204c64879a897848))</sub> | <sub>[4c397c46](https://gitlab.com/snowgem/bitfrost/-/commit/4c397c46634c53651940e254204c64879a897848): bug/267-Fix PIN bugs - jan.vrastil</sub> |
 | <sub>2021-02-02 09:38:40</sub> | <sub>Txid pushed new branch [features/backup\-master\-seeds](https://gitlab.com/snowgem/bitfrost/commits/features/backup-master-seeds) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-02 09:08:29</sub> | <sub>qNaN pushed new branch [feature/master\-seed](https://gitlab.com/snowgem/bitfrost/commits/feature/master-seed) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-02 09:03:20</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/168a7225f61c9a06ed607c5f35ee3202c42f0279...a3ebe377ad143b494d8854dc20887e68e10e266f))</sub> | <sub>[01b8fc6e](https://gitlab.com/snowgem/bitfrost/-/commit/01b8fc6eab27a672f0268231a247a2b133676857): fixing duplicated default wallets ofter login - Filip Storkan<br>[a3ebe377](https://gitlab.com/snowgem/bitfrost/-/commit/a3ebe377ad143b494d8854dc20887e68e10e266f): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan</sub> |
@@ -17,6 +18,5 @@ There is a total of 3672 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-02-01 17:33:44</sub> | <sub>Jan Vraštil pushed to branch [feature/new\-registration\-flow](https://gitlab.com/snowgem/bitfrost/commits/feature/new-registration-flow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5c00255f3b6156c00bf13b71195294358d9d1d7f...945740452b0bf9e2111a0f7b629acfb1a00c0c33))</sub> | <sub>[94574045](https://gitlab.com/snowgem/bitfrost/-/commit/945740452b0bf9e2111a0f7b629acfb1a00c0c33): Implement basic login with biometrics - jan.vrastil</sub> |
 | <sub>2021-02-01 17:14:55</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7ba305558afd0e0ec661745ed2cd88cd02179b48...cce2c0908681d6becd9c703654ea08aa98dbe761))</sub> | <sub>[cce2c090](https://gitlab.com/snowgem/bitfrost/-/commit/cce2c0908681d6becd9c703654ea08aa98dbe761): resgiter wrong key fix - Filip Storkan</sub> |
 | <sub>2021-02-01 09:41:35</sub> | <sub>qNaN (filipstrkn) merged merge request [\!153 \*Feature/new registration flow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/153) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-02-01 09:24:37</sub> | <sub>qNaN (filipstrkn) opened merge request [\!153 \*Feature/new registration flow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/153) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
