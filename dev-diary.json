@@ -35923,5 +35923,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/compare/e2c1640d7bb5...bf8d5d8a94c9"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/168a7225f61c9a06ed607c5f35ee3202c42f0279...a3ebe377ad143b494d8854dc20887e68e10e266f))",
+    "created_at": "2021-02-02 09:03:20.957000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[01b8fc6e](https://gitlab.com/snowgem/bitfrost/-/commit/01b8fc6eab27a672f0268231a247a2b133676857): fixing duplicated default wallets ofter login - Filip Storkan\n\n[a3ebe377](https://gitlab.com/snowgem/bitfrost/-/commit/a3ebe377ad143b494d8854dc20887e68e10e266f): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
