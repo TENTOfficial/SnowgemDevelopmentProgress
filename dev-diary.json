@@ -35963,5 +35963,15 @@
       "description": "[d9244175](https://gitlab.com/snowgem/bitfrost/-/commit/d92441750e871838db0a8f99fabfcb104b0ec947): Implement basic login with biometrics - jan.vrastil\n\n[79c96731](https://gitlab.com/snowgem/bitfrost/-/commit/79c96731c0b06bbf2fc365ec600464c94b5353cc): bug/267-Fix PIN bugs - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/79c96731c0b06bbf2fc365ec600464c94b5353cc...d05e01e096c89fa5ce0093ab1f4fde760970f3b8))",
+    "created_at": "2021-02-02 16:15:36.398000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b3443573](https://gitlab.com/snowgem/bitfrost/-/commit/b3443573cb27cb3186eb161d66c2fe78dc049758): reordering and search update - Filip Storkan\n\n[d05e01e0](https://gitlab.com/snowgem/bitfrost/-/commit/d05e01e096c89fa5ce0093ab1f4fde760970f3b8): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
