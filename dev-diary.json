@@ -35905,5 +35905,23 @@
       "description": "[168a7225](https://gitlab.com/snowgem/bitfrost/-/commit/168a7225f61c9a06ed607c5f35ee3202c42f0279): fix token create/transaction display time - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-02-02 07:45:04.147000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`562782b`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/562782ba37db81c401fea35611cc91b49d6c73e3) Update kr.json - JM\\-Jongmin\n[`d8257a1`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/d8257a1187db1c7cf65e46c4e4537350444ac00b) Update kr.json - JM\\-Jongmin\n[`bf8d5d8`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/bf8d5d8a94c9b0769e6912e9cd4d6055506d3fea) Merge pull request #8 from JM-Jongmin/master - ciripel",
+      "title": "[TENT-CoreLangPack:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/compare/e2c1640d7bb5...bf8d5d8a94c9"
+    }
   }
 ]
