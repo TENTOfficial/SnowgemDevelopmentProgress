@@ -35933,5 +35933,10 @@
       "description": "[01b8fc6e](https://gitlab.com/snowgem/bitfrost/-/commit/01b8fc6eab27a672f0268231a247a2b133676857): fixing duplicated default wallets ofter login - Filip Storkan\n\n[a3ebe377](https://gitlab.com/snowgem/bitfrost/-/commit/a3ebe377ad143b494d8854dc20887e68e10e266f): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed new branch [feature/master\\-seed](https://gitlab.com/snowgem/bitfrost/commits/feature/master-seed) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-02 09:08:29.616000"
   }
 ]
