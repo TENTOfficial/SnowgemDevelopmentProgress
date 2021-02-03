@@ -36001,5 +36001,15 @@
       "description": "[d947025b](https://gitlab.com/snowgem/bitfrost/-/commit/d947025bb3b90d4fca1d9c1296507779321314a0): word length to 2, fix decrypt - Snowgem\n\n[56b907f6](https://gitlab.com/snowgem/bitfrost/-/commit/56b907f617971381b686982bd3dd9e741bc11446): verify seed when recovering - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/master\\-seed](https://gitlab.com/snowgem/bitfrost/commits/feature/master-seed) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/56b907f617971381b686982bd3dd9e741bc11446...bb321fbb087e1964388c8dc57c60c4866bdb1a9b))",
+    "created_at": "2021-02-03 10:01:48.427000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bb321fbb](https://gitlab.com/snowgem/bitfrost/-/commit/bb321fbb087e1964388c8dc57c60c4866bdb1a9b): do not show recovery message again if seeds are correct - Snowgem",
+      "type": "rich"
+    }
   }
 ]
