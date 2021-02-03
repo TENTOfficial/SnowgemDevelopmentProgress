@@ -36011,5 +36011,15 @@
       "description": "[bb321fbb](https://gitlab.com/snowgem/bitfrost/-/commit/bb321fbb087e1964388c8dc57c60c4866bdb1a9b): do not show recovery message again if seeds are correct - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d05e01e096c89fa5ce0093ab1f4fde760970f3b8...2a8d75fe150418ae55e34146e7d15ed7be4e64e4))",
+    "created_at": "2021-02-03 11:31:42.805000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2a8d75fe](https://gitlab.com/snowgem/bitfrost/-/commit/2a8d75fe150418ae55e34146e7d15ed7be4e64e4): reordering settings page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
