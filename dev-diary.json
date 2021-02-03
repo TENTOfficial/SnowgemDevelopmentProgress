@@ -35973,5 +35973,23 @@
       "description": "[b3443573](https://gitlab.com/snowgem/bitfrost/-/commit/b3443573cb27cb3186eb161d66c2fe78dc049758): reordering and search update - Filip Storkan\n\n[d05e01e0](https://gitlab.com/snowgem/bitfrost/-/commit/d05e01e096c89fa5ce0093ab1f4fde760970f3b8): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-02-03 03:40:12.691000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`89c40b0`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/89c40b047d76a8c96483e27dacbcf0d56418c7bc) Update es.json - catilinafiol\n[`dc45112`](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/dc45112c9e5b4625eea1457fe75526259bf6f6c4) Merge pull request #9 from catilinafiol/patch-1 - ciripel",
+      "title": "[TENT-CoreLangPack:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT-CoreLangPack/compare/bf8d5d8a94c9...dc45112c9e5b"
+    }
   }
 ]
