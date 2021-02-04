@@ -36091,5 +36091,15 @@
       "description": "[e9497643](https://gitlab.com/snowgem/bitfrost/-/commit/e949764302e298dba98f29e225613ed731c17886): fix decrypt - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e949764302e298dba98f29e225613ed731c17886...a06777a947cc4b5d31e96f1a80d0534ea38859a5))",
+    "created_at": "2021-02-04 10:14:55.075000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[22f54a47](https://gitlab.com/snowgem/bitfrost/-/commit/22f54a47d32e41c1b90fa0b48f750e9e7c123e95): fix import old wallet issue - Snowgem\n\n[552b7f87](https://gitlab.com/snowgem/bitfrost/-/commit/552b7f877b498c84d5f163f3ac5df75f9e6bb99c): fix cache for new data type - Snowgem\n\n[a06777a9](https://gitlab.com/snowgem/bitfrost/-/commit/a06777a947cc4b5d31e96f1a80d0534ea38859a5): show transaction in overview page - Snowgem",
+      "type": "rich"
+    }
   }
 ]
