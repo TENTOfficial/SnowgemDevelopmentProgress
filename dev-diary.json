@@ -36101,5 +36101,15 @@
       "description": "[22f54a47](https://gitlab.com/snowgem/bitfrost/-/commit/22f54a47d32e41c1b90fa0b48f750e9e7c123e95): fix import old wallet issue - Snowgem\n\n[552b7f87](https://gitlab.com/snowgem/bitfrost/-/commit/552b7f877b498c84d5f163f3ac5df75f9e6bb99c): fix cache for new data type - Snowgem\n\n[a06777a9](https://gitlab.com/snowgem/bitfrost/-/commit/a06777a947cc4b5d31e96f1a80d0534ea38859a5): show transaction in overview page - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a06777a947cc4b5d31e96f1a80d0534ea38859a5...303bea9a891b4ba4b8d18f9775b3e05f8a57adff))",
+    "created_at": "2021-02-04 10:33:48.223000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[60942c73](https://gitlab.com/snowgem/bitfrost/-/commit/60942c738f9eedfbe72eef122006347518d79ca7): show delete button if old wallet type - Snowgem\n\n[303bea9a](https://gitlab.com/snowgem/bitfrost/-/commit/303bea9a891b4ba4b8d18f9775b3e05f8a57adff): clean log - Snowgem",
+      "type": "rich"
+    }
   }
 ]
