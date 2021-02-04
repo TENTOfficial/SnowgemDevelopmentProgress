@@ -36051,5 +36051,35 @@
       "description": "[d60ecb22](https://gitlab.com/snowgem/bitfrost/-/commit/d60ecb22d183bf66ed7fe87a3f1dcc407ba28790): removing backup from tool page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/master\\-seed](https://gitlab.com/snowgem/bitfrost/commits/feature/master-seed) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bb321fbb087e1964388c8dc57c60c4866bdb1a9b...019fafd3c5577d59dafd96bf1f5a9f9ad1749c51))",
+    "created_at": "2021-02-04 05:35:40.842000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[019fafd3](https://gitlab.com/snowgem/bitfrost/-/commit/019fafd3c5577d59dafd96bf1f5a9f9ad1749c51): recovery scan qr ode - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!154 \\*Feature/master seed\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/154) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-04 05:36:44.900000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d60ecb22d183bf66ed7fe87a3f1dcc407ba28790...470b0e766ce5967f1fa3c3feaad85047d6f5610b))",
+    "created_at": "2021-02-04 05:39:52.979000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9ff01e3a](https://gitlab.com/snowgem/bitfrost/-/commit/9ff01e3a80ac8548e2048148855423636f1787cf): inserting custom seed interecepting page - Filip Storkan\n\n[b6267623](https://gitlab.com/snowgem/bitfrost/-/commit/b6267623a83a4f18abb1c506dc80d8474a7a310e): fix wallet filter issue - Snowgem\n\n[d947025b](https://gitlab.com/snowgem/bitfrost/-/commit/d947025bb3b90d4fca1d9c1296507779321314a0): word length to 2, fix decrypt - Snowgem\n\n[56b907f6](https://gitlab.com/snowgem/bitfrost/-/commit/56b907f617971381b686982bd3dd9e741bc11446): verify seed when recovering - Snowgem\n\n[bb321fbb](https://gitlab.com/snowgem/bitfrost/-/commit/bb321fbb087e1964388c8dc57c60c4866bdb1a9b): do not show recovery message again if seeds are correct - Snowgem\n\n[393b88a8](https://gitlab.com/snowgem/bitfrost/-/commit/393b88a814b144117421c0ea370f6c63536c65f5): Merge branch 'feature/master-seed' of https://gitlab.com/snowgem/bitfrost into feature/master-seed - Snowgem\n\n[470b0e76](https://gitlab.com/snowgem/bitfrost/-/commit/470b0e766ce5967f1fa3c3feaad85047d6f5610b): fix conflict - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) closed merge request [\\!154 \\*Feature/master seed\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/154) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-04 05:40:01.099000"
   }
 ]
