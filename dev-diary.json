@@ -36111,5 +36111,23 @@
       "description": "[60942c73](https://gitlab.com/snowgem/bitfrost/-/commit/60942c738f9eedfbe72eef122006347518d79ca7): show delete button if old wallet type - Snowgem\n\n[303bea9a](https://gitlab.com/snowgem/bitfrost/-/commit/303bea9a891b4ba4b8d18f9775b3e05f8a57adff): clean log - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-02-04 12:50:47.906000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`6d52b61`](https://github.com/ciripel/Heimdall/commit/6d52b61f0e5265fd052e2eb6e8039192c37ded39) Corrected roadmap link, removed redit, correcte... - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/6d52b61f0e5265fd052e2eb6e8039192c37ded39"
+    }
   }
 ]
