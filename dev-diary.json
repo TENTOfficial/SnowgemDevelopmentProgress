@@ -36081,5 +36081,15 @@
     "author": "GitLab",
     "content": "Txid (txid) closed merge request [\\!154 \\*Feature/master seed\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/154) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-04 05:40:01.099000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/470b0e766ce5967f1fa3c3feaad85047d6f5610b...e949764302e298dba98f29e225613ed731c17886))",
+    "created_at": "2021-02-04 08:37:39.667000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e9497643](https://gitlab.com/snowgem/bitfrost/-/commit/e949764302e298dba98f29e225613ed731c17886): fix decrypt - Snowgem",
+      "type": "rich"
+    }
   }
 ]
