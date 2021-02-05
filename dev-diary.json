@@ -36154,5 +36154,15 @@
     "author": "GitLab",
     "content": "qNaN pushed new branch [wip/tx\\-fixes](https://gitlab.com/snowgem/bitfrost/commits/wip/tx-fixes) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-05 03:46:44.523000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [wip/tx\\-fixes](https://gitlab.com/snowgem/bitfrost/commits/wip/tx-fixes) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/74ff9e0080230bca7e22aeec69e1261818e2869a...87ab439d3aab882167d3dcc4be83050929a9598a))",
+    "created_at": "2021-02-05 04:03:49.374000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[87ab439d](https://gitlab.com/snowgem/bitfrost/-/commit/87ab439d3aab882167d3dcc4be83050929a9598a): removing a filter for check transaction - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
