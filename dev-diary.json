@@ -36139,5 +36139,15 @@
       "description": "[9254685e](https://gitlab.com/snowgem/bitfrost/-/commit/9254685e6520a7187770d2586e136335aa1d89c2): Biometrics Update & build fix - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9254685e6520a7187770d2586e136335aa1d89c2...3b3485967ef56db96c7792dbf291fd8a8c032ca1))",
+    "created_at": "2021-02-05 00:27:25.636000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3b348596](https://gitlab.com/snowgem/bitfrost/-/commit/3b3485967ef56db96c7792dbf291fd8a8c032ca1): remove name from cache - Snowgem",
+      "type": "rich"
+    }
   }
 ]
