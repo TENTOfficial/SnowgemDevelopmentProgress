@@ -36189,5 +36189,15 @@
       "description": "[1da5eafe](https://gitlab.com/snowgem/bitfrost/-/commit/1da5eafee0bad7544c3359dc371fca4bdbe700ad): Fix card overview bugs - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/change\\-master\\-seed](https://gitlab.com/snowgem/bitfrost/commits/feature/change-master-seed) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d7138067b62f6d245876f500f8e43463709dc382...3aad20b5d45e5a1747e5c4740cbcaabda47ebc9b))",
+    "created_at": "2021-02-06 05:06:19.963000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3aad20b5](https://gitlab.com/snowgem/bitfrost/-/commit/3aad20b5d45e5a1747e5c4740cbcaabda47ebc9b): add change masterseed function - Snowgem",
+      "type": "rich"
+    }
   }
 ]
