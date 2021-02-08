@@ -36209,5 +36209,15 @@
       "description": "[9f116fa9](https://gitlab.com/snowgem/bitfrost/-/commit/9f116fa9cc3b911ec3314e203167e90edfc73006): reducing network bandwidth - Filip Storkan\n\n[64f35208](https://gitlab.com/snowgem/bitfrost/-/commit/64f35208b3cefbf8db1876a4c93aab2d9b9f53c4): custom active - Filip Storkan\n\n[b7844f7f](https://gitlab.com/snowgem/bitfrost/-/commit/b7844f7ffd7fd58cd4e1bb170a847a48353a24c7): updated wallet cache and transaction check - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/change\\-master\\-seed](https://gitlab.com/snowgem/bitfrost/commits/feature/change-master-seed) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3aad20b5d45e5a1747e5c4740cbcaabda47ebc9b...bec5c2e6336499b063645f9d0db4d1fd19da2108))",
+    "created_at": "2021-02-08 09:51:54.413000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bec5c2e6](https://gitlab.com/snowgem/bitfrost/-/commit/bec5c2e6336499b063645f9d0db4d1fd19da2108): fix change masterseed not effected - Snowgem",
+      "type": "rich"
+    }
   }
 ]
