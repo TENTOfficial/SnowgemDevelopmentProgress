@@ -36284,5 +36284,10 @@
       "description": "[94574045](https://gitlab.com/snowgem/bitfrost/-/commit/945740452b0bf9e2111a0f7b629acfb1a00c0c33): Implement basic login with biometrics - jan.vrastil\n\n[4c397c46](https://gitlab.com/snowgem/bitfrost/-/commit/4c397c46634c53651940e254204c64879a897848): bug/267-Fix PIN bugs - jan.vrastil\n\n[6503aa81](https://gitlab.com/snowgem/bitfrost/-/commit/6503aa8177eaeeac5b6d7d86752b465cdf179007): wallets history - Filip Storkan\n\n[9ba9e49d](https://gitlab.com/snowgem/bitfrost/-/commit/9ba9e49df4777269a3f5bf57d0c6123e0f9a28d2): lint fix - Filip Storkan\n\n[c1ae965c](https://gitlab.com/snowgem/bitfrost/-/commit/c1ae965c476c723da3b8b46b2fc13ab892c615e0): removing dummies - Filip Storkan\n\n[322a8d7e](https://gitlab.com/snowgem/bitfrost/-/commit/322a8d7e0fb66f7f29ce5a6be7e7d4d22c8df0f9): sub remove - Filip Storkan\n\n[2644d71e](https://gitlab.com/snowgem/bitfrost/-/commit/2644d71ea82a64813bdd3d38cf787aa9fb9d85b4): Merge branch 'feature/new-registration-flow' into wip/tx-fixes - Filip Storkan\n\n[ed0de17b](https://gitlab.com/snowgem/bitfrost/-/commit/ed0de17b67aa64b386cac9af1c40c5c78e9123e2): lint fix - Filip Storkan\n\n[4d7a806e](https://gitlab.com/snowgem/bitfrost/-/commit/4d7a806e16a4dea91bb8f6648224bd58c0486371): removing server from config - Filip Storkan\n\n[cdb00bac](https://gitlab.com/snowgem/bitfrost/-/commit/cdb00bac4a6b00c00fa5909593e09ca7d0ca8568): resolving conflics - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN (filipstrkn) opened merge request [\\!156 \\*Wip/tx fixes\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/156) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-09 05:55:05.218000"
   }
 ]
