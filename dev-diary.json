@@ -36299,5 +36299,15 @@
       "description": "[8d86b357](https://gitlab.com/snowgem/bitfrost/-/commit/8d86b357b18ecbe8c9db4d0e76c3a5ef0a545798): remove server from config, fix db - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [wip/tx\\-fixes](https://gitlab.com/snowgem/bitfrost/commits/wip/tx-fixes) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cdb00bac4a6b00c00fa5909593e09ca7d0ca8568...2daeff7695cc8adb422f0ea16ff5957bf58293b0))",
+    "created_at": "2021-02-09 07:19:08.921000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9254685e](https://gitlab.com/snowgem/bitfrost/-/commit/9254685e6520a7187770d2586e136335aa1d89c2): Biometrics Update & build fix - jan.vrastil\n\n[3b348596](https://gitlab.com/snowgem/bitfrost/-/commit/3b3485967ef56db96c7792dbf291fd8a8c032ca1): remove name from cache - Snowgem\n\n[1da5eafe](https://gitlab.com/snowgem/bitfrost/-/commit/1da5eafee0bad7544c3359dc371fca4bdbe700ad): Fix card overview bugs - jan.vrastil\n\n[2daeff76](https://gitlab.com/snowgem/bitfrost/-/commit/2daeff7695cc8adb422f0ea16ff5957bf58293b0): Merge branch 'v0.1.5' into wip/tx-fixes - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
