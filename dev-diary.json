@@ -36319,5 +36319,10 @@
       "description": "[a90be34d](https://gitlab.com/snowgem/bitfrost/-/commit/a90be34d93b6305c344df5d964e685d3238db346): fix check msed - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!156 \\*Wip/tx fixes\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/156) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-09 13:09:32.484000"
   }
 ]
