@@ -36382,5 +36382,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/deadc2b71981883729cc4f27db6c1fb310c51e80"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-02-10 11:32:36.798000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`fa44cbb`](https://github.com/ciripel/Heimdall/commit/fa44cbbdec5085ada12abc91e265a2eec3ddd995) fixed some typos - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/fa44cbbdec5085ada12abc91e265a2eec3ddd995"
+    }
   }
 ]
