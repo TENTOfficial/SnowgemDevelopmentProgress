@@ -36410,5 +36410,23 @@
       "description": "[9b1b4513](https://gitlab.com/snowgem/freyja/-/commit/9b1b45133399751c20db7c588cbb7e67885aa6dd): updated config.example.json - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-02-10 19:08:07.566000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`0d096b8`](https://github.com/ciripel/Heimdall/commit/0d096b8f643080f8570309a3d33e5061da0f89d4) increased freyja_reporting to last 10 reports! - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/0d096b8f643080f8570309a3d33e5061da0f89d4"
+    }
   }
 ]
