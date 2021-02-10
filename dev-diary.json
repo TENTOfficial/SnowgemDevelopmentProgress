@@ -36344,5 +36344,15 @@
       "description": "[35951539](https://gitlab.com/snowgem/bitfrost/-/commit/3595153950ba6920f605d09a4a0eb2d39a2e212a): fix address balance and filter - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3595153950ba6920f605d09a4a0eb2d39a2e212a...0070e474584beb21605e9bbc6cc81d099f6ba53a))",
+    "created_at": "2021-02-10 04:43:10.658000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0070e474](https://gitlab.com/snowgem/bitfrost/-/commit/0070e474584beb21605e9bbc6cc81d099f6ba53a): fix recover msed - Snowgem",
+      "type": "rich"
+    }
   }
 ]
