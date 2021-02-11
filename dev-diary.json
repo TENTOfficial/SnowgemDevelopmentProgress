@@ -36453,5 +36453,15 @@
       "description": "[73a550a3](https://gitlab.com/snowgem/bitfrost/-/commit/73a550a3788468ce2b2f85b257981286b63c0e48): fix send coin in change address - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/73a550a3788468ce2b2f85b257981286b63c0e48...09f4e5127b772624ab6488240302b414e9b4d230))",
+    "created_at": "2021-02-11 02:53:57.743000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9bdd279a](https://gitlab.com/snowgem/bitfrost/-/commit/9bdd279a1e7b347d8c9a32224aecd947f77d6f11): fix transaction infinite scroll - Snowgem\n\n[09f4e512](https://gitlab.com/snowgem/bitfrost/-/commit/09f4e5127b772624ab6488240302b414e9b4d230): open qr in recovery page - Snowgem",
+      "type": "rich"
+    }
   }
 ]
