@@ -36438,5 +36438,10 @@
       "description": "[1f847e78](https://gitlab.com/snowgem/freyja/-/commit/1f847e78836400136cf5fbba74246a7aa4b9c6b0): fixed reporting issue in case of empty database - V\n\n[b2892851](https://gitlab.com/snowgem/freyja/-/commit/b2892851e92df0d68b5cb2f54ceded77561f71c7): Merge branch 'master' of gitlab.com:snowgem/freyja - V\n\n[3289095b](https://gitlab.com/snowgem/freyja/-/commit/3289095bf6a4ce375c291455aa8a39a93db0fb68): updated version - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed new branch [wip/swap\\-fix](https://gitlab.com/snowgem/bitfrost/commits/wip/swap-fix) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-11 00:04:56.156000"
   }
 ]
