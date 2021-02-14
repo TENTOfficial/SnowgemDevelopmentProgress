@@ -36533,5 +36533,15 @@
       "description": "[020f30c5](https://gitlab.com/snowgem/bitfrost/-/commit/020f30c5bf10b4df4acfc2a613d506e2f46d7601): updated swap dashboard - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3678525d33dfbc67f1382da524e300baaafc3af5...427dc560cdde4234f204080b95b47b7e0ded1e1b))",
+    "created_at": "2021-02-14 07:18:38.794000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[427dc560](https://gitlab.com/snowgem/bitfrost/-/commit/427dc560cdde4234f204080b95b47b7e0ded1e1b): fix #287 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
