@@ -36588,5 +36588,15 @@
     "author": "GitLab",
     "content": "qNaN removed branch wip/swap-fix from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-15 08:12:15.637000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/104d558133a313564247eeaa15973e04ef3a4073...e32ca446fdda725c9a8e0175c86992d6ddc40b6e))",
+    "created_at": "2021-02-15 10:03:54.015000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ab800977](https://gitlab.com/snowgem/bitfrost/-/commit/ab8009778fb1c36cf1b203299f9195a002d0e07b): fix blinking in wallet overview page, display delete button in tool page - Snowgem\n\n[81f850b7](https://gitlab.com/snowgem/bitfrost/-/commit/81f850b785f0a8de72bddddf14443e7b93f47ac9): fix filter wallet issue - Snowgem\n\n[ad15615b](https://gitlab.com/snowgem/bitfrost/-/commit/ad15615bd429525cd4bf7f23324b82f44f5a2e7f): fix #286, rescanning issue - Snowgem\n\n[e32ca446](https://gitlab.com/snowgem/bitfrost/-/commit/e32ca446fdda725c9a8e0175c86992d6ddc40b6e): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
