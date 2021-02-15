@@ -36608,5 +36608,10 @@
       "description": "[70ff0cb5](https://gitlab.com/snowgem/bitfrost/-/commit/70ff0cb57f16bdbb75706a7272282121172c7e55): bug/283 - fix backspace button in repeat pin pages - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN (filipstrkn) opened merge request [\\!158 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/158) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-15 11:09:44.747000"
   }
 ]
