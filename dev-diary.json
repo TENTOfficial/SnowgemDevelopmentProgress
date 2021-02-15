@@ -36676,5 +36676,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/002c271ad1b57a87edea9d8bfdcb15e0ff91ce30"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-02-15 21:05:31.388000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`948caba`](https://github.com/ciripel/Heimdall/commit/948cabacba3aec7706880be6b3a5c3f1b98c5bff) fixed msg cleaning in reports to last 10 - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/948cabacba3aec7706880be6b3a5c3f1b98c5bff"
+    }
   }
 ]
