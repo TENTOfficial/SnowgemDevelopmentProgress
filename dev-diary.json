@@ -36638,5 +36638,10 @@
       "description": "[f7841698](https://gitlab.com/snowgem/bitfrost/-/commit/f78416986e19d9e74514a33522121897287c8ae5): comment test code - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!158 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/158) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-15 15:17:22.963000"
   }
 ]
