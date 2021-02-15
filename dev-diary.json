@@ -36543,5 +36543,15 @@
       "description": "[427dc560](https://gitlab.com/snowgem/bitfrost/-/commit/427dc560cdde4234f204080b95b47b7e0ded1e1b): fix #287 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [wip/swap\\-fix](https://gitlab.com/snowgem/bitfrost/commits/wip/swap-fix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/020f30c5bf10b4df4acfc2a613d506e2f46d7601...fb55011e2c40b4b89d1ffebe23655a7ec18f42ae))",
+    "created_at": "2021-02-15 08:03:03.953000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f321ce9c](https://gitlab.com/snowgem/bitfrost/-/commit/f321ce9c12b947cb5e4713545a4d832c2523eb2f): lint fix - Filip Storkan\n\n[1bbc9969](https://gitlab.com/snowgem/bitfrost/-/commit/1bbc9969eba13bdc3236966ea378032356f299b9): lint fix - Filip Storkan\n\n[47e3e7d5](https://gitlab.com/snowgem/bitfrost/-/commit/47e3e7d58062bea3bdd4df11103625b48f376f75): lint fix - Filip Storkan\n\n[fb55011e](https://gitlab.com/snowgem/bitfrost/-/commit/fb55011e2c40b4b89d1ffebe23655a7ec18f42ae): lint fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
