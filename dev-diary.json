@@ -36568,5 +36568,25 @@
       "description": "[73a550a3](https://gitlab.com/snowgem/bitfrost/-/commit/73a550a3788468ce2b2f85b257981286b63c0e48): fix send coin in change address - Snowgem\n\n[9bdd279a](https://gitlab.com/snowgem/bitfrost/-/commit/9bdd279a1e7b347d8c9a32224aecd947f77d6f11): fix transaction infinite scroll - Snowgem\n\n[09f4e512](https://gitlab.com/snowgem/bitfrost/-/commit/09f4e5127b772624ab6488240302b414e9b4d230): open qr in recovery page - Snowgem\n\n[491db7e0](https://gitlab.com/snowgem/bitfrost/-/commit/491db7e00c54add7c9cabf84ebd6b5a173f85c83): fix double txs - Snowgem\n\n[a7869e23](https://gitlab.com/snowgem/bitfrost/-/commit/a7869e23459ec871b19e31a230bc5726d21ef39f): Upe production version of api for sumsub - Jan Vra\u0161til\n\n[853e293a](https://gitlab.com/snowgem/bitfrost/-/commit/853e293a41c6786e8bdf580a5e0f75bd7c8fb521): Fix lint errors - jan.vrastil\n\n[3678525d](https://gitlab.com/snowgem/bitfrost/-/commit/3678525d33dfbc67f1382da524e300baaafc3af5): bug/283 - Add bacspace batton for PIN modals - jan.vrastil\n\n[427dc560](https://gitlab.com/snowgem/bitfrost/-/commit/427dc560cdde4234f204080b95b47b7e0ded1e1b): fix #287 - Snowgem\n\n[169104d6](https://gitlab.com/snowgem/bitfrost/-/commit/169104d613bbd4ff48e02241c0de706aa6fb66a8): Merge branch 'v0.1.5' into 'wip/swap-fix' - qNaN",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/427dc560cdde4234f204080b95b47b7e0ded1e1b...104d558133a313564247eeaa15973e04ef3a4073))",
+    "created_at": "2021-02-15 08:12:15.022000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[969bacc7](https://gitlab.com/snowgem/bitfrost/-/commit/969bacc7f5ac0c5c6310b687aab7de8356a80316): swap cache - qNaN\n\n[104d5581](https://gitlab.com/snowgem/bitfrost/-/commit/104d558133a313564247eeaa15973e04ef3a4073): Merge branch 'wip/swap-fix' into 'v0.1.5' - qNaN",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN (filipstrkn) merged merge request [\\!157 \\*Wip/swap fix\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/157) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-15 08:12:15.157000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN removed branch wip/swap-fix from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-15 08:12:15.637000"
   }
 ]
