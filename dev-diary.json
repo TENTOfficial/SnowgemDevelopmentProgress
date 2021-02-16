@@ -36872,5 +36872,15 @@
       "description": "[6f5d4fd1](https://gitlab.com/snowgem/bitfrost/-/commit/6f5d4fd1601e54e74138fcc0c21ff1bf5f2c0f89): Add KYC translations - jan.vrastil\n\n[20ce8b8a](https://gitlab.com/snowgem/bitfrost/-/commit/20ce8b8ad00d3cc1545aa7d6c9c47a0572295be2): Fix introscreen content height - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed new branch [feature/global\\-success\\-component](https://gitlab.com/snowgem/bitfrost/commits/feature/global-success-component) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-16 17:58:15.224000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN (filipstrkn) opened merge request [\\!163 \\*Feature/global success component\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/163) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-16 17:59:06.641000"
   }
 ]
