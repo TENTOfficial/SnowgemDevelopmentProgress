@@ -36862,5 +36862,15 @@
       "description": "[de6b0f6e](https://gitlab.com/snowgem/bitfrost/-/commit/de6b0f6e7aa54ffee23a527da6108ac9eed98784): fix build appflow #2 - Snowgem\n\n[d16d2c8a](https://gitlab.com/snowgem/bitfrost/-/commit/d16d2c8a2236de5f8ecff9c39940cb288ab912e9): Merge branch 'v0.1.5' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/de6b0f6e7aa54ffee23a527da6108ac9eed98784...20ce8b8ad00d3cc1545aa7d6c9c47a0572295be2))",
+    "created_at": "2021-02-16 16:31:58.031000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6f5d4fd1](https://gitlab.com/snowgem/bitfrost/-/commit/6f5d4fd1601e54e74138fcc0c21ff1bf5f2c0f89): Add KYC translations - jan.vrastil\n\n[20ce8b8a](https://gitlab.com/snowgem/bitfrost/-/commit/20ce8b8ad00d3cc1545aa7d6c9c47a0572295be2): Fix introscreen content height - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
