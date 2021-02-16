@@ -36772,5 +36772,25 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!160 \\*Non fluid content loading\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/160) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-16 09:57:01.186000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/87291bdf8d48755d5bebf2514b9ac6c6764107ad...3718d2dda6a6cb891e6fd7982764dda3440f4387))",
+    "created_at": "2021-02-16 10:01:40.273000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3ba5c359](https://gitlab.com/snowgem/bitfrost/-/commit/3ba5c35952b5488cea9892113f90f3ed37ca7b67): bug/263 - fix cards loading - jan.vrastil\n\n[3718d2dd](https://gitlab.com/snowgem/bitfrost/-/commit/3718d2dda6a6cb891e6fd7982764dda3440f4387): Merge branch 'non_fluid_content_loading' into 'v0.1.5' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!160 \\*Non fluid content loading\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/160) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-16 10:01:40.428000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch non_fluid_content_loading from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-16 10:01:40.909000"
   }
 ]
