@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3755 commits since 20/01/2020. You can see the complete history in
+There is a total of 3756 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-02-16 06:35:10</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ab7faadf8c5bb28407a3608bed40b1a3a0179168...8e234fb811b48e5be19c25dfd50c3b2436436275))</sub> | <sub>[8e234fb8](https://gitlab.com/snowgem/bitfrost/-/commit/8e234fb811b48e5be19c25dfd50c3b2436436275): update ignore list - Snowgem</sub> |
 | <sub>2021-02-16 06:32:38</sub> | <sub>Jan Vraštil removed branch non_fluid_content_loading from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-16 06:32:38</sub> | <sub>Txid (txid) merged merge request [\!159 \*Non fluid content loading\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/159) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-16 06:32:37</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f78416986e19d9e74514a33522121897287c8ae5...ab7faadf8c5bb28407a3608bed40b1a3a0179168))</sub> | <sub>[068ac6a2](https://gitlab.com/snowgem/bitfrost/-/commit/068ac6a266393f24c3f51544fa8aa0ce75069d4b): bug/263 - fix cards loading - jan.vrastil<br>[ab7faadf](https://gitlab.com/snowgem/bitfrost/-/commit/ab7faadf8c5bb28407a3608bed40b1a3a0179168): Merge branch 'non_fluid_content_loading' into 'v0.1.5' - Txid</sub> |
@@ -17,6 +18,5 @@ There is a total of 3755 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-02-15 17:18:16</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!159 \*Non fluid content loading\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/159) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-15 17:17:56</sub> | <sub>Jan Vraštil pushed new branch [non\_fluid\_content\_loading](https://gitlab.com/snowgem/bitfrost/commits/non_fluid_content_loading) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-15 16:16:27</sub> | <sub>qNaN pushed new branch [feature/tutorials\-init](https://gitlab.com/snowgem/bitfrost/commits/feature/tutorials-init) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-02-15 15:17:22</sub> | <sub>Txid (txid) merged merge request [\!158 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/158) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
