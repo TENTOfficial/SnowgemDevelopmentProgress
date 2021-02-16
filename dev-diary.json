@@ -36712,5 +36712,25 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/761afbdc4d96f7912fb1978166d144493c3a88fe"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f78416986e19d9e74514a33522121897287c8ae5...ab7faadf8c5bb28407a3608bed40b1a3a0179168))",
+    "created_at": "2021-02-16 06:32:37.297000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[068ac6a2](https://gitlab.com/snowgem/bitfrost/-/commit/068ac6a266393f24c3f51544fa8aa0ce75069d4b): bug/263 - fix cards loading - jan.vrastil\n\n[ab7faadf](https://gitlab.com/snowgem/bitfrost/-/commit/ab7faadf8c5bb28407a3608bed40b1a3a0179168): Merge branch 'non_fluid_content_loading' into 'v0.1.5' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!159 \\*Non fluid content loading\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/159) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-16 06:32:38.286000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch non_fluid_content_loading from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-16 06:32:38.353000"
   }
 ]
