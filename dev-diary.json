@@ -36832,5 +36832,20 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!161 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/161) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-16 13:26:00.345000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2662fa46525d2228c654436fbc779322524d0df5...de6b0f6e7aa54ffee23a527da6108ac9eed98784))",
+    "created_at": "2021-02-16 13:57:58.103000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[de6b0f6e](https://gitlab.com/snowgem/bitfrost/-/commit/de6b0f6e7aa54ffee23a527da6108ac9eed98784): fix build appflow #2 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!162 \\*fix build appflow \\#2\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/162) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-16 13:58:25.080000"
   }
 ]
