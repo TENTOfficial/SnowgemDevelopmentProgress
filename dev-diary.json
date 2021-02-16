@@ -36742,5 +36742,15 @@
       "description": "[8e234fb8](https://gitlab.com/snowgem/bitfrost/-/commit/8e234fb811b48e5be19c25dfd50c3b2436436275): update ignore list - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8e234fb811b48e5be19c25dfd50c3b2436436275...013b366d037ca471b006a3e2d0a42076c387c44e))",
+    "created_at": "2021-02-16 06:48:51.415000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[013b366d](https://gitlab.com/snowgem/bitfrost/-/commit/013b366d037ca471b006a3e2d0a42076c387c44e): fix #291, msed bck issue - Snowgem",
+      "type": "rich"
+    }
   }
 ]

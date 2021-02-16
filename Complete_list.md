@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-02-16 06:48:51</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8e234fb811b48e5be19c25dfd50c3b2436436275...013b366d037ca471b006a3e2d0a42076c387c44e))</sub> | <sub>[013b366d](https://gitlab.com/snowgem/bitfrost/-/commit/013b366d037ca471b006a3e2d0a42076c387c44e): fix #291, msed bck issue - Snowgem</sub> |
 | <sub>2021-02-16 06:35:10</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ab7faadf8c5bb28407a3608bed40b1a3a0179168...8e234fb811b48e5be19c25dfd50c3b2436436275))</sub> | <sub>[8e234fb8](https://gitlab.com/snowgem/bitfrost/-/commit/8e234fb811b48e5be19c25dfd50c3b2436436275): update ignore list - Snowgem</sub> |
 | <sub>2021-02-16 06:32:38</sub> | <sub>Jan Vraštil removed branch non_fluid_content_loading from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-16 06:32:38</sub> | <sub>Txid (txid) merged merge request [\!159 \*Non fluid content loading\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/159) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
