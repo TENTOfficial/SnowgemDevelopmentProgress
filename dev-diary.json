@@ -36932,5 +36932,15 @@
       "description": "[6f5d4fd1](https://gitlab.com/snowgem/bitfrost/-/commit/6f5d4fd1601e54e74138fcc0c21ff1bf5f2c0f89): Add KYC translations - jan.vrastil\n\n[20ce8b8a](https://gitlab.com/snowgem/bitfrost/-/commit/20ce8b8ad00d3cc1545aa7d6c9c47a0572295be2): Fix introscreen content height - jan.vrastil\n\n[dfb9725a](https://gitlab.com/snowgem/bitfrost/-/commit/dfb9725a6d55506dda9b45f8b7c558cb197326ef): final page component - Filip Storkan\n\n[1c88c445](https://gitlab.com/snowgem/bitfrost/-/commit/1c88c445b4d6576838d52c6686974323178f37dd): success page after backup - Filip Storkan\n\n[51adb86b](https://gitlab.com/snowgem/bitfrost/-/commit/51adb86b40ff9757743e4b599b15e4cc2c6354af): Merge branch 'feature/global-success-component' into 'v0.1.5' - qNaN\n\n[3b428da9](https://gitlab.com/snowgem/bitfrost/-/commit/3b428da9d3e718cbe40a40a802bd760c0dc17a87): fix appflow #3 - Snowgem\n\n[6fffd95e](https://gitlab.com/snowgem/bitfrost/-/commit/6fffd95e16cc8f3f228dd135e9257e0777b0c178): Merge branch 'v0.1.5' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3b428da9d3e718cbe40a40a802bd760c0dc17a87...c81c40e4ffa6cf0661a6bedc7a3409c6c1eecf95))",
+    "created_at": "2021-02-17 04:11:19.164000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c81c40e4](https://gitlab.com/snowgem/bitfrost/-/commit/c81c40e4ffa6cf0661a6bedc7a3409c6c1eecf95): update change master seed text - Snowgem",
+      "type": "rich"
+    }
   }
 ]
