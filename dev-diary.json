@@ -36912,5 +36912,25 @@
       "description": "[3b428da9](https://gitlab.com/snowgem/bitfrost/-/commit/3b428da9d3e718cbe40a40a802bd760c0dc17a87): fix appflow #3 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!164 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/164) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-17 02:35:04.376000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!164 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/164) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-17 02:39:43.573000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d16d2c8a2236de5f8ecff9c39940cb288ab912e9...6fffd95e16cc8f3f228dd135e9257e0777b0c178))",
+    "created_at": "2021-02-17 02:39:44.013000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6f5d4fd1](https://gitlab.com/snowgem/bitfrost/-/commit/6f5d4fd1601e54e74138fcc0c21ff1bf5f2c0f89): Add KYC translations - jan.vrastil\n\n[20ce8b8a](https://gitlab.com/snowgem/bitfrost/-/commit/20ce8b8ad00d3cc1545aa7d6c9c47a0572295be2): Fix introscreen content height - jan.vrastil\n\n[dfb9725a](https://gitlab.com/snowgem/bitfrost/-/commit/dfb9725a6d55506dda9b45f8b7c558cb197326ef): final page component - Filip Storkan\n\n[1c88c445](https://gitlab.com/snowgem/bitfrost/-/commit/1c88c445b4d6576838d52c6686974323178f37dd): success page after backup - Filip Storkan\n\n[51adb86b](https://gitlab.com/snowgem/bitfrost/-/commit/51adb86b40ff9757743e4b599b15e4cc2c6354af): Merge branch 'feature/global-success-component' into 'v0.1.5' - qNaN\n\n[3b428da9](https://gitlab.com/snowgem/bitfrost/-/commit/3b428da9d3e718cbe40a40a802bd760c0dc17a87): fix appflow #3 - Snowgem\n\n[6fffd95e](https://gitlab.com/snowgem/bitfrost/-/commit/6fffd95e16cc8f3f228dd135e9257e0777b0c178): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
