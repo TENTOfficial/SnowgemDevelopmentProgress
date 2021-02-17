@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3778 commits since 20/01/2020. You can see the complete history in
+There is a total of 3779 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-02-17 02:34:18</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/51adb86b40ff9757743e4b599b15e4cc2c6354af...3b428da9d3e718cbe40a40a802bd760c0dc17a87))</sub> | <sub>[3b428da9](https://gitlab.com/snowgem/bitfrost/-/commit/3b428da9d3e718cbe40a40a802bd760c0dc17a87): fix appflow #3 - Snowgem</sub> |
 | <sub>2021-02-16 18:25:43</sub> | <sub>qNaN removed branch feature/global-success-component from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-16 18:25:42</sub> | <sub>qNaN (filipstrkn) merged merge request [\!163 \*Feature/global success component\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/163) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-16 18:25:42</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/20ce8b8ad00d3cc1545aa7d6c9c47a0572295be2...51adb86b40ff9757743e4b599b15e4cc2c6354af))</sub> | <sub>[dfb9725a](https://gitlab.com/snowgem/bitfrost/-/commit/dfb9725a6d55506dda9b45f8b7c558cb197326ef): final page component - Filip Storkan<br>[1c88c445](https://gitlab.com/snowgem/bitfrost/-/commit/1c88c445b4d6576838d52c6686974323178f37dd): success page after backup - Filip Storkan<br>[51adb86b](https://gitlab.com/snowgem/bitfrost/-/commit/51adb86b40ff9757743e4b599b15e4cc2c6354af): Merge branch 'feature/global-success-component' into 'v0.1.5' - qNaN</sub> |
@@ -17,6 +18,5 @@ There is a total of 3778 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-02-16 14:03:09</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e5518dcabe51aecd62f66435fd6ce0b3ad5c2cdc...d16d2c8a2236de5f8ecff9c39940cb288ab912e9))</sub> | <sub>[de6b0f6e](https://gitlab.com/snowgem/bitfrost/-/commit/de6b0f6e7aa54ffee23a527da6108ac9eed98784): fix build appflow #2 - Snowgem<br>[d16d2c8a](https://gitlab.com/snowgem/bitfrost/-/commit/d16d2c8a2236de5f8ecff9c39940cb288ab912e9): Merge branch 'v0.1.5' into 'testing' - Txid</sub> |
 | <sub>2021-02-16 14:03:09</sub> | <sub>Txid (txid) merged merge request [\!162 \*fix build appflow \#2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/162) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-16 13:58:25</sub> | <sub>Txid (txid) opened merge request [\!162 \*fix build appflow \#2\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/162) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-02-16 13:57:58</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2662fa46525d2228c654436fbc779322524d0df5...de6b0f6e7aa54ffee23a527da6108ac9eed98784))</sub> | <sub>[de6b0f6e](https://gitlab.com/snowgem/bitfrost/-/commit/de6b0f6e7aa54ffee23a527da6108ac9eed98784): fix build appflow #2 - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
