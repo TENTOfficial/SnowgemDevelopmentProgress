@@ -36967,5 +36967,15 @@
       "description": "[a14a63d3](https://gitlab.com/snowgem/bitfrost/-/commit/a14a63d30aab70dfc5cbdbe7657bfc12160af118): fix lint - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/history](https://gitlab.com/snowgem/bitfrost/commits/feature/history) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a14a63d30aab70dfc5cbdbe7657bfc12160af118...cbe8990a9ec55eb69a2d6f82ce1ef1e2016276b6))",
+    "created_at": "2021-02-18 14:08:01.834000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cbe8990a](https://gitlab.com/snowgem/bitfrost/-/commit/cbe8990a9ec55eb69a2d6f82ce1ef1e2016276b6): fix browser chart - Snowgem",
+      "type": "rich"
+    }
   }
 ]
