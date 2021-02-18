@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3787 commits since 20/01/2020. You can see the complete history in
+There is a total of 3788 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-02-18 14:29:59</sub> | <sub>Txid pushed to branch [feature/history](https://gitlab.com/snowgem/bitfrost/commits/feature/history) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cbe8990a9ec55eb69a2d6f82ce1ef1e2016276b6...60002d7e3a8b2d62ea5eb5f3bcf9eed3b99cb0be))</sub> | <sub>[60002d7e](https://gitlab.com/snowgem/bitfrost/-/commit/60002d7e3a8b2d62ea5eb5f3bcf9eed3b99cb0be): fix lint - Snowgem</sub> |
 | <sub>2021-02-18 14:08:01</sub> | <sub>Txid pushed to branch [feature/history](https://gitlab.com/snowgem/bitfrost/commits/feature/history) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a14a63d30aab70dfc5cbdbe7657bfc12160af118...cbe8990a9ec55eb69a2d6f82ce1ef1e2016276b6))</sub> | <sub>[cbe8990a](https://gitlab.com/snowgem/bitfrost/-/commit/cbe8990a9ec55eb69a2d6f82ce1ef1e2016276b6): fix browser chart - Snowgem</sub> |
 | <sub>2021-02-18 13:04:54</sub> | <sub>Txid pushed to branch [feature/history](https://gitlab.com/snowgem/bitfrost/commits/feature/history) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/78fab783e099df7f6c95dd1cd575381f51c03aa9...a14a63d30aab70dfc5cbdbe7657bfc12160af118))</sub> | <sub>[a14a63d3](https://gitlab.com/snowgem/bitfrost/-/commit/a14a63d30aab70dfc5cbdbe7657bfc12160af118): fix lint - Snowgem</sub> |
 | <sub>2021-02-18 11:00:58</sub> | <sub>Txid pushed to branch [feature/history](https://gitlab.com/snowgem/bitfrost/commits/feature/history) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/93efe1ab4a80b25d2e3a271a0012ac0ba8c405e8...78fab783e099df7f6c95dd1cd575381f51c03aa9))</sub> | <sub>[778fefcb](https://gitlab.com/snowgem/bitfrost/-/commit/778fefcb58ec8dedd57a5c674c2d099364f2d87a): fix wallet history chart - Snowgem<br>[78fab783](https://gitlab.com/snowgem/bitfrost/-/commit/78fab783e099df7f6c95dd1cd575381f51c03aa9): add todo for local db - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 3787 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-02-17 02:39:43</sub> | <sub>Txid (txid) merged merge request [\!164 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/164) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-17 02:35:04</sub> | <sub>Txid (txid) opened merge request [\!164 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/164) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-17 02:34:18</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/51adb86b40ff9757743e4b599b15e4cc2c6354af...3b428da9d3e718cbe40a40a802bd760c0dc17a87))</sub> | <sub>[3b428da9](https://gitlab.com/snowgem/bitfrost/-/commit/3b428da9d3e718cbe40a40a802bd760c0dc17a87): fix appflow #3 - Snowgem</sub> |
-| <sub>2021-02-16 18:25:43</sub> | <sub>qNaN removed branch feature/global-success-component from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
