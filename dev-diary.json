@@ -37052,5 +37052,15 @@
       "description": "[6d476f77](https://gitlab.com/snowgem/freyja/-/commit/6d476f7731145c1fd975008a3285207d126d8a94): version bump - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ff1a99ee717ca8059d684f70924ecaa84fe02744...fbfc141eb59d091269f057069346d6a137239a79))",
+    "created_at": "2021-02-19 03:51:36.703000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fbfc141e](https://gitlab.com/snowgem/bitfrost/-/commit/fbfc141eb59d091269f057069346d6a137239a79): fix change masterdeed in mobile - Snowgem",
+      "type": "rich"
+    }
   }
 ]
