@@ -37062,5 +37062,15 @@
       "description": "[fbfc141e](https://gitlab.com/snowgem/bitfrost/-/commit/fbfc141eb59d091269f057069346d6a137239a79): fix change masterdeed in mobile - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fbfc141eb59d091269f057069346d6a137239a79...91c9ec03ddc2bd39f93698da80af626c045175be))",
+    "created_at": "2021-02-19 10:47:35.086000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eeda72ca](https://gitlab.com/snowgem/bitfrost/-/commit/eeda72ca04ecf045f38166e360c94f1b174e713e): fix rescan,refresh behavior - Snowgem\n\n[91c9ec03](https://gitlab.com/snowgem/bitfrost/-/commit/91c9ec03ddc2bd39f93698da80af626c045175be): fix load tx after rescanning - Snowgem",
+      "type": "rich"
+    }
   }
 ]
