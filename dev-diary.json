@@ -37112,5 +37112,15 @@
       "description": "[b794a38c](https://gitlab.com/snowgem/bitfrost/-/commit/b794a38cb83900d5228b8fce528e56eed8fa7161): fix #226 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b794a38cb83900d5228b8fce528e56eed8fa7161...1f93a643b2de37cb466c1820666c17baebebe328))",
+    "created_at": "2021-02-20 12:32:25.063000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[14629715](https://gitlab.com/snowgem/bitfrost/-/commit/14629715aeb81a1258a56573baa285cb2c3b1df8): rocket button - Filip Storkan\n\n[bbba979a](https://gitlab.com/snowgem/bitfrost/-/commit/bbba979abb419d75b22311003585135fcafa9be7): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan\n\n[082eb2cf](https://gitlab.com/snowgem/bitfrost/-/commit/082eb2cfde05db5aea7e1bf40b4e5d9184c907cf): infoscreens - Filip Storkan\n\n[1f93a643](https://gitlab.com/snowgem/bitfrost/-/commit/1f93a643b2de37cb466c1820666c17baebebe328): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
