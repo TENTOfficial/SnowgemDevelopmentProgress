@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3801 commits since 20/01/2020. You can see the complete history in
+There is a total of 3802 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-02-20 04:01:02</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e653875e0b476567e511837c761ac23cc73e35b6...b794a38cb83900d5228b8fce528e56eed8fa7161))</sub> | <sub>[b794a38c](https://gitlab.com/snowgem/bitfrost/-/commit/b794a38cb83900d5228b8fce528e56eed8fa7161): fix #226 - Snowgem</sub> |
 | <sub>2021-02-20 03:57:38</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c784eda50e637e9e84c1c8ccc3750122ded2a4c3...e653875e0b476567e511837c761ac23cc73e35b6))</sub> | <sub>[e653875e](https://gitlab.com/snowgem/bitfrost/-/commit/e653875e0b476567e511837c761ac23cc73e35b6): fix lint - Snowgem</sub> |
 | <sub>2021-02-20 03:51:48</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bf42243c8d2be300c2e4dc2caf668277fc4a6026...c784eda50e637e9e84c1c8ccc3750122ded2a4c3))</sub> | <sub>[c784eda5](https://gitlab.com/snowgem/bitfrost/-/commit/c784eda50e637e9e84c1c8ccc3750122ded2a4c3): fix rescanning text when rescanning wallet - Snowgem</sub> |
 | <sub>2021-02-20 03:21:27</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/91c9ec03ddc2bd39f93698da80af626c045175be...bf42243c8d2be300c2e4dc2caf668277fc4a6026))</sub> | <sub>[bf42243c](https://gitlab.com/snowgem/bitfrost/-/commit/bf42243c8d2be300c2e4dc2caf668277fc4a6026): fix create wallet not list all addresses - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 3801 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-02-18 20:39:50</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/a4b7f30a2e72278684cf813cebb36e829e318625...cd879fd70685c5b7305b093ba1b38e3b55bb58a2))</sub> | <sub>[cd879fd7](https://gitlab.com/snowgem/freyja/-/commit/cd879fd70685c5b7305b093ba1b38e3b55bb58a2): updated single user nodes - V</sub> |
 | <sub>2021-02-18 20:34:09</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/254165aceb709cfefa79414ceddccfffb81c0367...a4b7f30a2e72278684cf813cebb36e829e318625))</sub> | <sub>[a4b7f30a](https://gitlab.com/snowgem/freyja/-/commit/a4b7f30a2e72278684cf813cebb36e829e318625): xsg.node -> tent.node - V</sub> |
 | <sub>2021-02-18 20:30:25</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/3289095bf6a4ce375c291455aa8a39a93db0fb68...254165aceb709cfefa79414ceddccfffb81c0367))</sub> | <sub>[254165ac](https://gitlab.com/snowgem/freyja/-/commit/254165aceb709cfefa79414ceddccfffb81c0367): xsg.node -> tent.node - V</sub> |
-| <sub>2021-02-18 14:38:49</sub> | <sub>Txid removed branch feature/history from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
