@@ -37127,5 +37127,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [fix\\_fingerprint](https://gitlab.com/snowgem/bitfrost/commits/fix_fingerprint) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-20 13:48:14.417000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1f93a643b2de37cb466c1820666c17baebebe328...3126b22dfd68a5b7ef6e209ec4f60ec1c79114a3))",
+    "created_at": "2021-02-21 22:16:49.150000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[abfd755d](https://gitlab.com/snowgem/bitfrost/-/commit/abfd755d57fc42cc6f1d51bfe812d45424a62242): adding a mono accent color - Filip Storkan\n\n[e875e6ca](https://gitlab.com/snowgem/bitfrost/-/commit/e875e6cac34b18a7a9af0380ce10e717014663df): reseting theme after login out - Filip Storkan\n\n[3126b22d](https://gitlab.com/snowgem/bitfrost/-/commit/3126b22dfd68a5b7ef6e209ec4f60ec1c79114a3): no qr code backup - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
