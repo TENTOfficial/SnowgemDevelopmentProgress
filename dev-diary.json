@@ -37167,5 +37167,30 @@
       "description": "[f7abf75a](https://gitlab.com/snowgem/bitfrost/-/commit/f7abf75ac78de285d8370ac86a88665d423ef4e1): fix #295, default wallet were not created - Snowgem\n\n[8bebf14e](https://gitlab.com/snowgem/bitfrost/-/commit/8bebf14ead7fe5109d1879ac01f6fcb1f0f028f0): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8bebf14ead7fe5109d1879ac01f6fcb1f0f028f0...c2dfeb875fe9e7a47073fc844ecc49dd53a0453f))",
+    "created_at": "2021-02-22 13:06:05.162000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9ec35594](https://gitlab.com/snowgem/bitfrost/-/commit/9ec35594d07cd43fa55180d130f0b777246e44e4): fix #304, app hanging when creating - Snowgem\n\n[c2dfeb87](https://gitlab.com/snowgem/bitfrost/-/commit/c2dfeb875fe9e7a47073fc844ecc49dd53a0453f): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c2dfeb875fe9e7a47073fc844ecc49dd53a0453f...fc42d934308395cf1c1b18097615bc590c45a43f))",
+    "created_at": "2021-02-22 13:07:33.229000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fc42d934](https://gitlab.com/snowgem/bitfrost/-/commit/fc42d934308395cf1c1b18097615bc590c45a43f): increase version to 0.1.5 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!166 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/166) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-22 13:08:40.163000"
   }
 ]
