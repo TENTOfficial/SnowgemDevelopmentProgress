@@ -37292,5 +37292,20 @@
       "description": "[f060304c](https://gitlab.com/snowgem/freyja/-/commit/f060304c8a519b0c5edd1098d70a959b098ebbf3): temporarily increased memWatcher interval - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/383473bff3eac87e3b4200b2c43dbddca0d32b7d...dc79ff499a164d1ad40324ab7e055ff25ba4df04))",
+    "created_at": "2021-02-22 23:31:50.110000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1121fa0d](https://gitlab.com/snowgem/bitfrost/-/commit/1121fa0dd509f4cc164a29fb356d41e7c36ffc27): tutorials io - qNaN\n\n[dc79ff49](https://gitlab.com/snowgem/bitfrost/-/commit/dc79ff499a164d1ad40324ab7e055ff25ba4df04): Merge branch 'feature/tutorials-init' into 'v0.1.5' - qNaN",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN (filipstrkn) merged merge request [\\!168 \\*tutorials io\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/168) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-22 23:31:50.790000"
   }
 ]
