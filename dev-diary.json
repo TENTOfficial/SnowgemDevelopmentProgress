@@ -37232,5 +37232,15 @@
     "author": "GitLab",
     "content": "qNaN (filipstrkn) opened merge request [\\!168 \\*tutorials io\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/168) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-22 15:28:00.968000"
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/6d476f7731145c1fd975008a3285207d126d8a94...16798fea54480bbb69cd9714112c392790475781))",
+    "created_at": "2021-02-22 20:00:52.871000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[16798fea](https://gitlab.com/snowgem/freyja/-/commit/16798fea54480bbb69cd9714112c392790475781): fixed remove node refuses to remove not installed nodes - V",
+      "type": "rich"
+    }
   }
 ]
