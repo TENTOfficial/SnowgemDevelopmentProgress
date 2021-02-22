@@ -37272,5 +37272,15 @@
       "description": "[6c9485da](https://gitlab.com/snowgem/freyja/-/commit/6c9485da0c669a674d28a4458c7b37f35e47006a): memWatcher fixes - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/6c9485da0c669a674d28a4458c7b37f35e47006a...127589d97e985d9b669b4888097bd0f4c725a406))",
+    "created_at": "2021-02-22 20:58:34.838000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[127589d9](https://gitlab.com/snowgem/freyja/-/commit/127589d97e985d9b669b4888097bd0f4c725a406): enabled soft mem limit and fixed memWatcher warning printout - V",
+      "type": "rich"
+    }
   }
 ]
