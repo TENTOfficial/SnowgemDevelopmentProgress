@@ -37242,5 +37242,15 @@
       "description": "[16798fea](https://gitlab.com/snowgem/freyja/-/commit/16798fea54480bbb69cd9714112c392790475781): fixed remove node refuses to remove not installed nodes - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/16798fea54480bbb69cd9714112c392790475781...8cd00c7fcb641a3c9e6ddb6ecd47018106d1b127))",
+    "created_at": "2021-02-22 20:13:06.118000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8cd00c7f](https://gitlab.com/snowgem/freyja/-/commit/8cd00c7fcb641a3c9e6ddb6ecd47018106d1b127): mimic process error message of non installed node - V",
+      "type": "rich"
+    }
   }
 ]
