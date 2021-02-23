@@ -37382,5 +37382,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!171 \\*update sub module\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/171) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-23 09:34:26.366000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!171 \\*update sub module\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/171) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-23 09:36:48.770000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cdde80c089edbed982e1b7f5ba8c5fee664be4a5...ad35d66bb3e44a7eb653c15e3e3c07e35a1757f6))",
+    "created_at": "2021-02-23 09:36:49.343000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[77e233a7](https://gitlab.com/snowgem/bitfrost/-/commit/77e233a7da9b49caccfef4edbe950b9a53b9b092): update sub module - Snowgem\n\n[ad35d66b](https://gitlab.com/snowgem/bitfrost/-/commit/ad35d66bb3e44a7eb653c15e3e3c07e35a1757f6): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
