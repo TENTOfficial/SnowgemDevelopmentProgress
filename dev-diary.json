@@ -37532,5 +37532,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [Mario\\_branch](https://gitlab.com/snowgem/bitfrost/commits/Mario_branch) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-23 22:07:17.249000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [Mario\\_branch](https://gitlab.com/snowgem/bitfrost/commits/Mario_branch) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/031ebde100ee6ea93c2a46540b913a297318140f...bb3abea85edb80aa3608d90e8c262b35bae80dd5))",
+    "created_at": "2021-02-23 22:55:16.262000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bb3abea8](https://gitlab.com/snowgem/bitfrost/-/commit/bb3abea85edb80aa3608d90e8c262b35bae80dd5): Update biometric.service.ts - Jan Vra\u0161til",
+      "type": "rich"
+    }
   }
 ]
