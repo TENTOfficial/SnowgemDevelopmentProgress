@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3854 commits since 20/01/2020. You can see the complete history in
+There is a total of 3855 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-02-23 22:07:17</sub> | <sub>Jan Vraštil pushed new branch [Mario\_branch](https://gitlab.com/snowgem/bitfrost/commits/Mario_branch) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-23 11:23:43</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5850bfa3f227cbcc73d6182f248e8a3dd77dc775...4309cfcf3152985c8e4c6cf62f1b74182f4ff67e))</sub> | <sub>[cc56cf93](https://gitlab.com/snowgem/bitfrost/-/commit/cc56cf93d4138b71c0b24a1f9a25b9c41f4da42c): fix build - infinitescroll - Snowgem<br>[4309cfcf](https://gitlab.com/snowgem/bitfrost/-/commit/4309cfcf3152985c8e4c6cf62f1b74182f4ff67e): Merge branch 'v0.1.5' into 'testing' - Txid</sub> |
 | <sub>2021-02-23 11:23:43</sub> | <sub>Txid (txid) merged merge request [\!175 \*fix build \- infinitescroll\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/175) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-23 11:23:10</sub> | <sub>Txid (txid) opened merge request [\!175 \*fix build \- infinitescroll\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/175) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3854 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-02-23 10:55:43</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cb508278f8b1daa0e5e6ad578600a0acdbeb94cf...417c27a72b230700a1957a78058f9d749c09f487))</sub> | <sub>[417c27a7](https://gitlab.com/snowgem/bitfrost/-/commit/417c27a72b230700a1957a78058f9d749c09f487): fix build - Snowgem</sub> |
 | <sub>2021-02-23 10:43:55</sub> | <sub>Txid (txid) opened merge request [\!174 \*fix build dashboard\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/174) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-23 10:43:27</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7cad95f1ab7c318e0b08cf76ab987a4ca7b996b2...cb508278f8b1daa0e5e6ad578600a0acdbeb94cf))</sub> | <sub>[cb508278](https://gitlab.com/snowgem/bitfrost/-/commit/cb508278f8b1daa0e5e6ad578600a0acdbeb94cf): fix build dashboard - Snowgem</sub> |
-| <sub>2021-02-23 10:25:35</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/49dafbe421dbe479b5923761130727cc05dc66f0...d3bc6fbd2e428817e51507d7248f2373bac5e342))</sub> | <sub>[7cad95f1](https://gitlab.com/snowgem/bitfrost/-/commit/7cad95f1ab7c318e0b08cf76ab987a4ca7b996b2): update package - Snowgem<br>[d3bc6fbd](https://gitlab.com/snowgem/bitfrost/-/commit/d3bc6fbd2e428817e51507d7248f2373bac5e342): Merge branch 'v0.1.5' into 'testing' - Txid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

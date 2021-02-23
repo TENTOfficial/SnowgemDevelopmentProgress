@@ -37527,5 +37527,10 @@
       "description": "[cc56cf93](https://gitlab.com/snowgem/bitfrost/-/commit/cc56cf93d4138b71c0b24a1f9a25b9c41f4da42c): fix build - infinitescroll - Snowgem\n\n[4309cfcf](https://gitlab.com/snowgem/bitfrost/-/commit/4309cfcf3152985c8e4c6cf62f1b74182f4ff67e): Merge branch 'v0.1.5' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [Mario\\_branch](https://gitlab.com/snowgem/bitfrost/commits/Mario_branch) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-23 22:07:17.249000"
   }
 ]
