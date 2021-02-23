@@ -37442,5 +37442,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!173 \\*update package\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/173) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-23 10:20:39.925000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!173 \\*update package\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/173) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-23 10:25:35.346000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/49dafbe421dbe479b5923761130727cc05dc66f0...d3bc6fbd2e428817e51507d7248f2373bac5e342))",
+    "created_at": "2021-02-23 10:25:35.445000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7cad95f1](https://gitlab.com/snowgem/bitfrost/-/commit/7cad95f1ab7c318e0b08cf76ab987a4ca7b996b2): update package - Snowgem\n\n[d3bc6fbd](https://gitlab.com/snowgem/bitfrost/-/commit/d3bc6fbd2e428817e51507d7248f2373bac5e342): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
