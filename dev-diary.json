@@ -37322,5 +37322,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!169 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/169) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-23 08:47:04.175000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!169 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/169) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-23 08:51:28.557000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2f1e1bbccf3f37ea21a93e16b145676651e71046...d5da3c4a0d98d3c5e6e8ec30a113a737b7818f94))",
+    "created_at": "2021-02-23 08:51:28.686000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1121fa0d](https://gitlab.com/snowgem/bitfrost/-/commit/1121fa0dd509f4cc164a29fb356d41e7c36ffc27): tutorials io - qNaN\n\n[dc79ff49](https://gitlab.com/snowgem/bitfrost/-/commit/dc79ff499a164d1ad40324ab7e055ff25ba4df04): Merge branch 'feature/tutorials-init' into 'v0.1.5' - qNaN\n\n[d5b18247](https://gitlab.com/snowgem/bitfrost/-/commit/d5b182472e21caf1fbfafe90eb4985a1fbec64c8): update package.json - Snowgem\n\n[4c36e651](https://gitlab.com/snowgem/bitfrost/-/commit/4c36e65162b21c4e0042591fb170fe05469ca98b): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem\n\n[d5da3c4a](https://gitlab.com/snowgem/bitfrost/-/commit/d5da3c4a0d98d3c5e6e8ec30a113a737b7818f94): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
