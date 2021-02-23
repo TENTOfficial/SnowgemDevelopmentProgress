@@ -37307,5 +37307,20 @@
     "author": "GitLab",
     "content": "qNaN (filipstrkn) merged merge request [\\!168 \\*tutorials io\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/168) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-22 23:31:50.790000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dc79ff499a164d1ad40324ab7e055ff25ba4df04...4c36e65162b21c4e0042591fb170fe05469ca98b))",
+    "created_at": "2021-02-23 08:46:38.310000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d5b18247](https://gitlab.com/snowgem/bitfrost/-/commit/d5b182472e21caf1fbfafe90eb4985a1fbec64c8): update package.json - Snowgem\n\n[4c36e651](https://gitlab.com/snowgem/bitfrost/-/commit/4c36e65162b21c4e0042591fb170fe05469ca98b): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!169 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/169) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-23 08:47:04.175000"
   }
 ]
