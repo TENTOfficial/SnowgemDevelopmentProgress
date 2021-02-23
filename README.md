@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3833 commits since 20/01/2020. You can see the complete history in
+There is a total of 3835 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-02-23 09:34:26</sub> | <sub>Txid (txid) opened merge request [\!171 \*update sub module\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/171) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-02-23 09:31:48</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5e88c009e651f8783237ba951337670c70dfc65d...77e233a7da9b49caccfef4edbe950b9a53b9b092))</sub> | <sub>[77e233a7](https://gitlab.com/snowgem/bitfrost/-/commit/77e233a7da9b49caccfef4edbe950b9a53b9b092): update sub module - Snowgem</sub> |
 | <sub>2021-02-23 09:15:21</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d5da3c4a0d98d3c5e6e8ec30a113a737b7818f94...cdde80c089edbed982e1b7f5ba8c5fee664be4a5))</sub> | <sub>[5e88c009](https://gitlab.com/snowgem/bitfrost/-/commit/5e88c009e651f8783237ba951337670c70dfc65d): update sub module - Snowgem<br>[cdde80c0](https://gitlab.com/snowgem/bitfrost/-/commit/cdde80c089edbed982e1b7f5ba8c5fee664be4a5): Merge branch 'v0.1.5' into 'testing' - Txid</sub> |
 | <sub>2021-02-23 09:15:20</sub> | <sub>Txid (txid) merged merge request [\!170 \*update sub module\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/170) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-23 09:11:02</sub> | <sub>Txid (txid) opened merge request [\!170 \*update sub module\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/170) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -16,7 +18,5 @@ There is a total of 3833 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-02-23 08:51:28</sub> | <sub>Txid (txid) merged merge request [\!169 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/169) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-23 08:47:04</sub> | <sub>Txid (txid) opened merge request [\!169 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/169) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-23 08:46:38</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dc79ff499a164d1ad40324ab7e055ff25ba4df04...4c36e65162b21c4e0042591fb170fe05469ca98b))</sub> | <sub>[d5b18247](https://gitlab.com/snowgem/bitfrost/-/commit/d5b182472e21caf1fbfafe90eb4985a1fbec64c8): update package.json - Snowgem<br>[4c36e651](https://gitlab.com/snowgem/bitfrost/-/commit/4c36e65162b21c4e0042591fb170fe05469ca98b): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem</sub> |
-| <sub>2021-02-22 23:31:50</sub> | <sub>qNaN (filipstrkn) merged merge request [\!168 \*tutorials io\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/168) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-02-22 23:31:50</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/383473bff3eac87e3b4200b2c43dbddca0d32b7d...dc79ff499a164d1ad40324ab7e055ff25ba4df04))</sub> | <sub>[1121fa0d](https://gitlab.com/snowgem/bitfrost/-/commit/1121fa0dd509f4cc164a29fb356d41e7c36ffc27): tutorials io - qNaN<br>[dc79ff49](https://gitlab.com/snowgem/bitfrost/-/commit/dc79ff499a164d1ad40324ab7e055ff25ba4df04): Merge branch 'feature/tutorials-init' into 'v0.1.5' - qNaN</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
