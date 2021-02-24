@@ -37657,5 +37657,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!178 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/178) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-24 14:53:03.650000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4309cfcf3152985c8e4c6cf62f1b74182f4ff67e...8fe6bb7b9cd6f7289c84bce6c2b841f1959c350b))",
+    "created_at": "2021-02-24 16:17:49.135000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d38be7b9](https://gitlab.com/snowgem/bitfrost/-/commit/d38be7b9a71c53cb5668d39296fe254e826c8f4b): update build command - Snowgem\n\n[b12fb1ac](https://gitlab.com/snowgem/bitfrost/-/commit/b12fb1acfa03a941330fb1b217cbdeb60705f014): remove submodule - Jan Vra\u0161til\n\n[1bef6a66](https://gitlab.com/snowgem/bitfrost/-/commit/1bef6a666e8ba857d1f2f2ad598ca54248c277f0): Add configuration files - Jan Vra\u0161til\n\n[134cfbb7](https://gitlab.com/snowgem/bitfrost/-/commit/134cfbb74bd66458a01273f807ef788af0a30e9c): Merge branch 'Remove_submodule' into 'v0.1.5' - Txid\n\n[77facb8b](https://gitlab.com/snowgem/bitfrost/-/commit/77facb8b4bb5d297d10f0bcd8678f3be5d41a89f): add face/touch id permission on ios - Snowgem\n\n[6cd5f569](https://gitlab.com/snowgem/bitfrost/-/commit/6cd5f5692ebb57aee7911725ea2b34c6bf09a1e2): add id to tuts - Snowgem\n\n[c18ee1da](https://gitlab.com/snowgem/bitfrost/-/commit/c18ee1dab0e241e4cf1d0df63116dfb6413ef150): fix update wallet cache stuck - Snowgem\n\n[4c14c3c9](https://gitlab.com/snowgem/bitfrost/-/commit/4c14c3c9473d1cd17190888ef950cbf22aff42e7): update wallet recovery text - Snowgem\n\n[8fe6bb7b](https://gitlab.com/snowgem/bitfrost/-/commit/8fe6bb7b9cd6f7289c84bce6c2b841f1959c350b): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!178 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/178) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-24 16:17:49.662000"
   }
 ]
