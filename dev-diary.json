@@ -37562,5 +37562,25 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!176 \\*WIP: New biometrics\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/176) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-24 01:31:45.087000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [New\\_biometrics](https://gitlab.com/snowgem/bitfrost/commits/New_biometrics) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d38be7b9a71c53cb5668d39296fe254e826c8f4b...0bada0cfde4ee76e2601bb2086ff53cf0885b0d4))",
+    "created_at": "2021-02-24 01:38:00.330000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0bada0cf](https://gitlab.com/snowgem/bitfrost/-/commit/0bada0cfde4ee76e2601bb2086ff53cf0885b0d4): New biometrics - WIP - jan.vrastil",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [New\\_biometrics](https://gitlab.com/snowgem/bitfrost/commits/New_biometrics) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0bada0cfde4ee76e2601bb2086ff53cf0885b0d4...c0c337cf7675c0fc173b963e55edaa54dbc203b6))",
+    "created_at": "2021-02-24 01:39:39.389000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1121fa0d](https://gitlab.com/snowgem/bitfrost/-/commit/1121fa0dd509f4cc164a29fb356d41e7c36ffc27): tutorials io - qNaN\n\n[dc79ff49](https://gitlab.com/snowgem/bitfrost/-/commit/dc79ff499a164d1ad40324ab7e055ff25ba4df04): Merge branch 'feature/tutorials-init' into 'v0.1.5' - qNaN\n\n[d5b18247](https://gitlab.com/snowgem/bitfrost/-/commit/d5b182472e21caf1fbfafe90eb4985a1fbec64c8): update package.json - Snowgem\n\n[4c36e651](https://gitlab.com/snowgem/bitfrost/-/commit/4c36e65162b21c4e0042591fb170fe05469ca98b): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem\n\n[5e88c009](https://gitlab.com/snowgem/bitfrost/-/commit/5e88c009e651f8783237ba951337670c70dfc65d): update sub module - Snowgem\n\n[77e233a7](https://gitlab.com/snowgem/bitfrost/-/commit/77e233a7da9b49caccfef4edbe950b9a53b9b092): update sub module - Snowgem\n\n[1c512fd0](https://gitlab.com/snowgem/bitfrost/-/commit/1c512fd0e84b0626686ce42a2b96c5a998bb4934): update package - Snowgem\n\n[7cad95f1](https://gitlab.com/snowgem/bitfrost/-/commit/7cad95f1ab7c318e0b08cf76ab987a4ca7b996b2): update package - Snowgem\n\n[cb508278](https://gitlab.com/snowgem/bitfrost/-/commit/cb508278f8b1daa0e5e6ad578600a0acdbeb94cf): fix build dashboard - Snowgem\n\n[417c27a7](https://gitlab.com/snowgem/bitfrost/-/commit/417c27a72b230700a1957a78058f9d749c09f487): fix build - Snowgem\n\n[cc56cf93](https://gitlab.com/snowgem/bitfrost/-/commit/cc56cf93d4138b71c0b24a1f9a25b9c41f4da42c): fix build - infinitescroll - Snowgem\n\n[d38be7b9](https://gitlab.com/snowgem/bitfrost/-/commit/d38be7b9a71c53cb5668d39296fe254e826c8f4b): update build command - Snowgem\n\n[c0c337cf](https://gitlab.com/snowgem/bitfrost/-/commit/c0c337cf7675c0fc173b963e55edaa54dbc203b6): New biometrics - WIP - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
