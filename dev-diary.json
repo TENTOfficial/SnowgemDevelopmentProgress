@@ -37682,5 +37682,15 @@
       "description": "[b12fb1ac](https://gitlab.com/snowgem/bitfrost/-/commit/b12fb1acfa03a941330fb1b217cbdeb60705f014): remove submodule - Jan Vra\u0161til\n\n[1bef6a66](https://gitlab.com/snowgem/bitfrost/-/commit/1bef6a666e8ba857d1f2f2ad598ca54248c277f0): Add configuration files - Jan Vra\u0161til\n\n[134cfbb7](https://gitlab.com/snowgem/bitfrost/-/commit/134cfbb74bd66458a01273f807ef788af0a30e9c): Merge branch 'Remove_submodule' into 'v0.1.5' - Txid\n\n[77facb8b](https://gitlab.com/snowgem/bitfrost/-/commit/77facb8b4bb5d297d10f0bcd8678f3be5d41a89f): add face/touch id permission on ios - Snowgem\n\n[6cd5f569](https://gitlab.com/snowgem/bitfrost/-/commit/6cd5f5692ebb57aee7911725ea2b34c6bf09a1e2): add id to tuts - Snowgem\n\n[c18ee1da](https://gitlab.com/snowgem/bitfrost/-/commit/c18ee1dab0e241e4cf1d0df63116dfb6413ef150): fix update wallet cache stuck - Snowgem\n\n[4c14c3c9](https://gitlab.com/snowgem/bitfrost/-/commit/4c14c3c9473d1cd17190888ef950cbf22aff42e7): update wallet recovery text - Snowgem\n\n[9dc4b417](https://gitlab.com/snowgem/bitfrost/-/commit/9dc4b4172d2dba15c8fc208d03802f733e0f9cd8): New biometrics - WIP - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [New\\_biometrics](https://gitlab.com/snowgem/bitfrost/commits/New_biometrics) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9dc4b4172d2dba15c8fc208d03802f733e0f9cd8...75cb78fdeab425b003fd731bac96e337f97193a5))",
+    "created_at": "2021-02-24 20:15:45.914000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[75cb78fd](https://gitlab.com/snowgem/bitfrost/-/commit/75cb78fdeab425b003fd731bac96e337f97193a5): Fix biometrics - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
