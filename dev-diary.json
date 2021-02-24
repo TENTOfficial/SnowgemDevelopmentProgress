@@ -37592,5 +37592,25 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!177 \\*Remove submodule\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/177) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-24 09:01:18.779000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d38be7b9a71c53cb5668d39296fe254e826c8f4b...134cfbb74bd66458a01273f807ef788af0a30e9c))",
+    "created_at": "2021-02-24 12:58:01.390000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b12fb1ac](https://gitlab.com/snowgem/bitfrost/-/commit/b12fb1acfa03a941330fb1b217cbdeb60705f014): remove submodule - Jan Vra\u0161til\n\n[1bef6a66](https://gitlab.com/snowgem/bitfrost/-/commit/1bef6a666e8ba857d1f2f2ad598ca54248c277f0): Add configuration files - Jan Vra\u0161til\n\n[134cfbb7](https://gitlab.com/snowgem/bitfrost/-/commit/134cfbb74bd66458a01273f807ef788af0a30e9c): Merge branch 'Remove_submodule' into 'v0.1.5' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!177 \\*Remove submodule\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/177) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-24 12:58:01.515000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch Remove_submodule from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-24 12:58:02.088000"
   }
 ]
