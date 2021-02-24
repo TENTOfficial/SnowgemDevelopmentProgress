@@ -37552,5 +37552,15 @@
       "description": "[d38be7b9](https://gitlab.com/snowgem/bitfrost/-/commit/d38be7b9a71c53cb5668d39296fe254e826c8f4b): update build command - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [New\\_biometrics](https://gitlab.com/snowgem/bitfrost/commits/New_biometrics) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-24 01:31:25.294000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!176 \\*WIP: New biometrics\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/176) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-24 01:31:45.087000"
   }
 ]
