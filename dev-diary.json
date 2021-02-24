@@ -37612,5 +37612,25 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch Remove_submodule from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-24 12:58:02.088000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/134cfbb74bd66458a01273f807ef788af0a30e9c...77facb8b4bb5d297d10f0bcd8678f3be5d41a89f))",
+    "created_at": "2021-02-24 14:13:08.443000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[77facb8b](https://gitlab.com/snowgem/bitfrost/-/commit/77facb8b4bb5d297d10f0bcd8678f3be5d41a89f): add face/touch id permission on ios - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/77facb8b4bb5d297d10f0bcd8678f3be5d41a89f...6cd5f5692ebb57aee7911725ea2b34c6bf09a1e2))",
+    "created_at": "2021-02-24 14:14:07.758000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6cd5f569](https://gitlab.com/snowgem/bitfrost/-/commit/6cd5f5692ebb57aee7911725ea2b34c6bf09a1e2): add id to tuts - Snowgem",
+      "type": "rich"
+    }
   }
 ]
