@@ -37722,5 +37722,15 @@
       "description": "[e5deacc3](https://gitlab.com/snowgem/bitfrost/-/commit/e5deacc3928d105973fd20f03576afcc7c5a71f9): update log for check transaction - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e5deacc3928d105973fd20f03576afcc7c5a71f9...503204cf46d575776e11d279f5c0c147a5ca1343))",
+    "created_at": "2021-02-25 10:09:06.914000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[503204cf](https://gitlab.com/snowgem/bitfrost/-/commit/503204cf46d575776e11d279f5c0c147a5ca1343): check swap destination address again before swaping - Snowgem",
+      "type": "rich"
+    }
   }
 ]
