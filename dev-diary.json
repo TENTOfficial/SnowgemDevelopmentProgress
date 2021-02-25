@@ -37822,5 +37822,15 @@
       "description": "[6182f377](https://gitlab.com/snowgem/bitfrost/-/commit/6182f3775f3534dcb3afb6506e108b7f135a3f9a): update package.json for prod - Snowgem\n\n[6498ac18](https://gitlab.com/snowgem/bitfrost/-/commit/6498ac184273c7eae2a59ea3b0ac9ffc8304be76): Merge branch 'v0.1.5' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6182f3775f3534dcb3afb6506e108b7f135a3f9a...b410624e15ba35cb5443e3a701c3d0a053b7601c))",
+    "created_at": "2021-02-25 14:26:42.401000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b410624e](https://gitlab.com/snowgem/bitfrost/-/commit/b410624e15ba35cb5443e3a701c3d0a053b7601c): update ios build version - Snowgem",
+      "type": "rich"
+    }
   }
 ]
