@@ -37842,5 +37842,15 @@
       "description": "[e983ff7a](https://gitlab.com/snowgem/bitfrost/-/commit/e983ff7a4bc5ba3f8d9566c94202298315375413): Build fix - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [New\\_biometrics](https://gitlab.com/snowgem/bitfrost/commits/New_biometrics) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e983ff7a4bc5ba3f8d9566c94202298315375413...6f6b13d0cc47417ac3c274f6334264564b668323))",
+    "created_at": "2021-02-25 21:21:08.865000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6f6b13d0](https://gitlab.com/snowgem/bitfrost/-/commit/6f6b13d0cc47417ac3c274f6334264564b668323): remove console.logs - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
