@@ -37762,5 +37762,15 @@
       "description": "[af1638d9](https://gitlab.com/snowgem/bitfrost/-/commit/af1638d9a5c66c36d854ff6c2caf2c590b7be79c): fix masterseed wallet data when creating wallet - Snowgem\n\n[039d6f75](https://gitlab.com/snowgem/bitfrost/-/commit/039d6f75522fea3cd84b47e2c6b2e81ac0d37e15): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/039d6f75522fea3cd84b47e2c6b2e81ac0d37e15...db8e53c17478af7f67147953fd07fffb627fb3d3))",
+    "created_at": "2021-02-25 10:47:58.469000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ce8ff4a6](https://gitlab.com/snowgem/bitfrost/-/commit/ce8ff4a69104d7b86ee8f13a485aa2e0f7e3a1fe): unnecesary argument - Filip Storkan\n\n[bccb1f79](https://gitlab.com/snowgem/bitfrost/-/commit/bccb1f7980e7d09236dedbb66baf1ae3bb0b91ba): missing data - Filip Storkan\n\n[db8e53c1](https://gitlab.com/snowgem/bitfrost/-/commit/db8e53c17478af7f67147953fd07fffb627fb3d3): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
