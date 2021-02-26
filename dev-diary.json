@@ -37967,5 +37967,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!182 \\*fix chart, total history data\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/182) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-26 08:02:50.144000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!182 \\*fix chart, total history data\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/182) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-26 08:06:52.882000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0fe449cbf46e146b133078da3e5dbce556d7e9b6...3a49a62b7fe7aba88c59c60ecaa57a045d01184a))",
+    "created_at": "2021-02-26 08:06:53.040000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[653ddf8b](https://gitlab.com/snowgem/bitfrost/-/commit/653ddf8b713a7114052db9a49b3649449a1feecb): fix chart, total history data - Snowgem\n\n[3a49a62b](https://gitlab.com/snowgem/bitfrost/-/commit/3a49a62b7fe7aba88c59c60ecaa57a045d01184a): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
