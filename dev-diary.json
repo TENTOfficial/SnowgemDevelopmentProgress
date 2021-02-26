@@ -37902,5 +37902,15 @@
       "description": "[0432e0f9](https://gitlab.com/snowgem/bitfrost/-/commit/0432e0f94ebc6e216f5a42ccbe5a37e6d55ca7f5): print load card error - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0432e0f94ebc6e216f5a42ccbe5a37e6d55ca7f5...dfc315bad32d140bfa1a8f14d5a8bf8556c57d1c))",
+    "created_at": "2021-02-26 07:10:01.595000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[dfc315ba](https://gitlab.com/snowgem/bitfrost/-/commit/dfc315bad32d140bfa1a8f14d5a8bf8556c57d1c): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
