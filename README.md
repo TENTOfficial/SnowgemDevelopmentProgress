@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3909 commits since 20/01/2020. You can see the complete history in
+There is a total of 3911 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-02-26 08:44:59</sub> | <sub>Txid (txid) closed merge request [\!183 \*Draft: V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/183) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-02-26 08:43:55</sub> | <sub>Txid (txid) opened merge request [\!183 \*Draft: V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/183) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-26 08:06:53</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0fe449cbf46e146b133078da3e5dbce556d7e9b6...3a49a62b7fe7aba88c59c60ecaa57a045d01184a))</sub> | <sub>[653ddf8b](https://gitlab.com/snowgem/bitfrost/-/commit/653ddf8b713a7114052db9a49b3649449a1feecb): fix chart, total history data - Snowgem<br>[3a49a62b](https://gitlab.com/snowgem/bitfrost/-/commit/3a49a62b7fe7aba88c59c60ecaa57a045d01184a): Merge branch 'v0.1.5' into 'testing' - Txid</sub> |
 | <sub>2021-02-26 08:06:52</sub> | <sub>Txid (txid) merged merge request [\!182 \*fix chart, total history data\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/182) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-26 08:02:50</sub> | <sub>Txid (txid) opened merge request [\!182 \*fix chart, total history data\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/182) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -16,7 +18,5 @@ There is a total of 3909 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-02-26 07:31:06</sub> | <sub>Txid (txid) merged merge request [\!181 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/181) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-26 07:26:03</sub> | <sub>Txid (txid) opened merge request [\!181 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/181) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-02-26 07:25:25</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/59bd4ac80d97646f40d3eeed4d2f5f43eb7de42d...364a00a18f30fa4916b861a143116434f6d81f87))</sub> | <sub>[364a00a1](https://gitlab.com/snowgem/bitfrost/-/commit/364a00a18f30fa4916b861a143116434f6d81f87): KYC - Switch back to test-api.sumsub.com - jan.vrastil</sub> |
-| <sub>2021-02-26 07:19:01</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dfc315bad32d140bfa1a8f14d5a8bf8556c57d1c...59bd4ac80d97646f40d3eeed4d2f5f43eb7de42d))</sub> | <sub>[59bd4ac8](https://gitlab.com/snowgem/bitfrost/-/commit/59bd4ac80d97646f40d3eeed4d2f5f43eb7de42d): fix lint 2 - Snowgem</sub> |
-| <sub>2021-02-26 07:10:01</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0432e0f94ebc6e216f5a42ccbe5a37e6d55ca7f5...dfc315bad32d140bfa1a8f14d5a8bf8556c57d1c))</sub> | <sub>[dfc315ba](https://gitlab.com/snowgem/bitfrost/-/commit/dfc315bad32d140bfa1a8f14d5a8bf8556c57d1c): fix lint - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

@@ -37982,5 +37982,15 @@
       "description": "[653ddf8b](https://gitlab.com/snowgem/bitfrost/-/commit/653ddf8b713a7114052db9a49b3649449a1feecb): fix chart, total history data - Snowgem\n\n[3a49a62b](https://gitlab.com/snowgem/bitfrost/-/commit/3a49a62b7fe7aba88c59c60ecaa57a045d01184a): Merge branch 'v0.1.5' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!183 \\*Draft: V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/183) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-26 08:43:55.903000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) closed merge request [\\!183 \\*Draft: V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/183) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-26 08:44:59.843000"
   }
 ]
