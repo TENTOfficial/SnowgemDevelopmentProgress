@@ -38082,5 +38082,23 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!186 \\*fix get eth transaction for cordova\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/186) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-26 15:49:45.325000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-02-26 20:11:18.808000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f3251eb`](https://github.com/TENTOfficial/ServerConfig/commit/f3251eb5eb5b2e9a65d2009d5aaf6657efd34a59) updated BZEdge to 4.1.1-1 - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/f3251eb5eb5b2e9a65d2009d5aaf6657efd34a59"
+    }
   }
 ]
