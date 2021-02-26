@@ -37882,5 +37882,15 @@
       "description": "[a0b5b74f](https://gitlab.com/snowgem/bitfrost/-/commit/a0b5b74f6ca733f2c55f04b11b025324814b667d): update check transaction - Snowgem\n\n[690ecba6](https://gitlab.com/snowgem/bitfrost/-/commit/690ecba633781c348ad5746e8e18872479e74fe8): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/690ecba633781c348ad5746e8e18872479e74fe8...e53d045fe96cd9ad61699dc555fc6102fa349db8))",
+    "created_at": "2021-02-26 06:02:59.606000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e53d045f](https://gitlab.com/snowgem/bitfrost/-/commit/e53d045fe96cd9ad61699dc555fc6102fa349db8): hide floating header if unused - Snowgem",
+      "type": "rich"
+    }
   }
 ]
