@@ -38007,5 +38007,35 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!184 \\*remove server from capacitor\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/184) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-26 11:02:04.815000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!184 \\*remove server from capacitor\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/184) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-26 11:06:23.603000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3a49a62b7fe7aba88c59c60ecaa57a045d01184a...130623c136df9c5bef102f3c412909ddf4aa7097))",
+    "created_at": "2021-02-26 11:06:24.305000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9415aeb8](https://gitlab.com/snowgem/bitfrost/-/commit/9415aeb821dd24f678240a059ffe1b5e97c4d69f): remove server from capacitor - Snowgem\n\n[130623c1](https://gitlab.com/snowgem/bitfrost/-/commit/130623c136df9c5bef102f3c412909ddf4aa7097): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9415aeb821dd24f678240a059ffe1b5e97c4d69f...498d19c0a70e4e0037cf27894cd4427be107e231))",
+    "created_at": "2021-02-26 11:07:20.127000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[498d19c0](https://gitlab.com/snowgem/bitfrost/-/commit/498d19c0a70e4e0037cf27894cd4427be107e231): increase ios build version - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!185 \\*increase ios build version\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/185) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-26 11:07:56.160000"
   }
 ]
