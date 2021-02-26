@@ -37992,5 +37992,20 @@
     "author": "GitLab",
     "content": "Txid (txid) closed merge request [\\!183 \\*Draft: V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/183) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-02-26 08:44:59.843000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/653ddf8b713a7114052db9a49b3649449a1feecb...9415aeb821dd24f678240a059ffe1b5e97c4d69f))",
+    "created_at": "2021-02-26 11:01:28.478000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9415aeb8](https://gitlab.com/snowgem/bitfrost/-/commit/9415aeb821dd24f678240a059ffe1b5e97c4d69f): remove server from capacitor - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!184 \\*remove server from capacitor\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/184) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-26 11:02:04.815000"
   }
 ]
