@@ -37922,5 +37922,20 @@
       "description": "[59bd4ac8](https://gitlab.com/snowgem/bitfrost/-/commit/59bd4ac80d97646f40d3eeed4d2f5f43eb7de42d): fix lint 2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/59bd4ac80d97646f40d3eeed4d2f5f43eb7de42d...364a00a18f30fa4916b861a143116434f6d81f87))",
+    "created_at": "2021-02-26 07:25:25.758000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[364a00a1](https://gitlab.com/snowgem/bitfrost/-/commit/364a00a18f30fa4916b861a143116434f6d81f87): KYC - Switch back to test-api.sumsub.com - jan.vrastil",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!181 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/181) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-02-26 07:26:03.550000"
   }
 ]
