@@ -38110,5 +38110,15 @@
       "description": "[a727e689](https://gitlab.com/snowgem/bitfrost/-/commit/a727e68958a0bb1d5b2de66b8be51978f31fcac6): purchase dasboard - Filip Storkan\n\n[c0caf913](https://gitlab.com/snowgem/bitfrost/-/commit/c0caf91394ec2e85e515e577444e09909b6095c1): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c0caf91394ec2e85e515e577444e09909b6095c1...40a7d1ef031ca646222c61d3fc9312a83e59e422))",
+    "created_at": "2021-03-01 14:14:21.203000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[40a7d1ef](https://gitlab.com/snowgem/bitfrost/-/commit/40a7d1ef031ca646222c61d3fc9312a83e59e422): fix #320, tutorial page displays each login - Snowgem",
+      "type": "rich"
+    }
   }
 ]
