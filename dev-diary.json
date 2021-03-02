@@ -38198,5 +38198,15 @@
       "description": "[29d9ddc9](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/29d9ddc9f5afb89a679b0f833246bc933c53fe5a): generate appimage - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/879452916f5970cd837d906c32c6a16e228d1164...c80f24f4b29d2be0e6e1bca7bc41eed4a1b038be))",
+    "created_at": "2021-03-02 21:20:25.449000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c80f24f4](https://gitlab.com/snowgem/bitfrost/-/commit/c80f24f4b29d2be0e6e1bca7bc41eed4a1b038be): fix #295, default wallets are created - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
