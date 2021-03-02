@@ -38188,5 +38188,15 @@
       "description": "[b6069a0c](https://gitlab.com/snowgem/bitfrost/-/commit/b6069a0c4a7fc74daefbc13d303dcaf195b7a087): translation update - Filip Storkan\n\n[87945291](https://gitlab.com/snowgem/bitfrost/-/commit/879452916f5970cd837d906c32c6a16e228d1164): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "V 010 pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/e0180b1efdc1f56b2b7623611e8e1a4a63d5976e...29d9ddc9f5afb89a679b0f833246bc933c53fe5a))",
+    "created_at": "2021-03-02 20:44:20.714000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[29d9ddc9](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/29d9ddc9f5afb89a679b0f833246bc933c53fe5a): generate appimage - V",
+      "type": "rich"
+    }
   }
 ]
