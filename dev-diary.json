@@ -38168,5 +38168,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/compare/e3d39f1869d5...c9cde185d616"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5a7b000e0b0d38a27b9aa6eda0a5cc467f6649d1...1fbbb2c4a8ff7cdecaa3efb263cd35f8bbe716f7))",
+    "created_at": "2021-03-02 11:57:30.416000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1fbbb2c4](https://gitlab.com/snowgem/bitfrost/-/commit/1fbbb2c4a8ff7cdecaa3efb263cd35f8bbe716f7): Update sumsub package - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
