@@ -38248,5 +38248,15 @@
       "description": "[145ebb94](https://gitlab.com/snowgem/bitfrost/-/commit/145ebb9477f9433fec4ce24212474c3cfa472f84): fix swap stuck - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/145ebb9477f9433fec4ce24212474c3cfa472f84...4c4a7b077e86e74d8de095142669f94b0eb271e1))",
+    "created_at": "2021-03-03 08:45:28.670000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[12eb88b3](https://gitlab.com/snowgem/bitfrost/-/commit/12eb88b341db6c0ec2531498eb4e3baae4451658): fix module duplicity - Filip Storkan\n\n[4c4a7b07](https://gitlab.com/snowgem/bitfrost/-/commit/4c4a7b077e86e74d8de095142669f94b0eb271e1): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
