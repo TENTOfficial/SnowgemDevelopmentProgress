@@ -38238,5 +38238,15 @@
       "description": "[1fbbb2c4](https://gitlab.com/snowgem/bitfrost/-/commit/1fbbb2c4a8ff7cdecaa3efb263cd35f8bbe716f7): Update sumsub package - jan.vrastil\n\n[b6069a0c](https://gitlab.com/snowgem/bitfrost/-/commit/b6069a0c4a7fc74daefbc13d303dcaf195b7a087): translation update - Filip Storkan\n\n[87945291](https://gitlab.com/snowgem/bitfrost/-/commit/879452916f5970cd837d906c32c6a16e228d1164): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan\n\n[c80f24f4](https://gitlab.com/snowgem/bitfrost/-/commit/c80f24f4b29d2be0e6e1bca7bc41eed4a1b038be): fix #295, default wallets are created - Filip Storkan\n\n[e9979d44](https://gitlab.com/snowgem/bitfrost/-/commit/e9979d44ec871e5e251b3e5a4158b9f271b9098e): fix build - Snowgem\n\n[447f2630](https://gitlab.com/snowgem/bitfrost/-/commit/447f2630958c591b7c4d8cef2cb7466613bea4f4): Merge branch 'v0.1.5' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e9979d44ec871e5e251b3e5a4158b9f271b9098e...145ebb9477f9433fec4ce24212474c3cfa472f84))",
+    "created_at": "2021-03-03 08:12:18.769000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[145ebb94](https://gitlab.com/snowgem/bitfrost/-/commit/145ebb9477f9433fec4ce24212474c3cfa472f84): fix swap stuck - Snowgem",
+      "type": "rich"
+    }
   }
 ]
