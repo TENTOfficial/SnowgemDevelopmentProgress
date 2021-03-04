@@ -38303,5 +38303,15 @@
       "description": "[3cb272d0](https://gitlab.com/snowgem/bitfrost/-/commit/3cb272d05588a0403d65e9e7aa39a1067494f583): adding user info detection to settings page - Filip Storkan\n\n[9a5b4a8e](https://gitlab.com/snowgem/bitfrost/-/commit/9a5b4a8e34e1e61926d6299284d0d352d8c334b6): fix, redirecting kyc to sumsub - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9a5b4a8e34e1e61926d6299284d0d352d8c334b6...6f6c42da82f2d697e70c5bbf536e47004f344ec4))",
+    "created_at": "2021-03-04 10:09:53.497000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a45b5df4](https://gitlab.com/snowgem/bitfrost/-/commit/a45b5df4dad728048c1c2c10e19d00fca013f1ab): filter history for current user only - Snowgem\n\n[6f6c42da](https://gitlab.com/snowgem/bitfrost/-/commit/6f6c42da82f2d697e70c5bbf536e47004f344ec4): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
