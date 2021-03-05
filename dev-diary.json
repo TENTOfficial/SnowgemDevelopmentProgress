@@ -38323,5 +38323,20 @@
       "description": "[5fa31c26](https://gitlab.com/snowgem/bitfrost/-/commit/5fa31c260ac7dfe8dabe1444343380459f16b05c): increate ios build ver - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!190 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/190) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-05 10:24:53.901000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/863a3a38289618ac6950427792c4acf13d4b54fb...5f7fc9ef6654502ed032d6b0f6038b880456d307))",
+    "created_at": "2021-03-05 10:24:55.268000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3cb272d0](https://gitlab.com/snowgem/bitfrost/-/commit/3cb272d05588a0403d65e9e7aa39a1067494f583): adding user info detection to settings page - Filip Storkan\n\n[9a5b4a8e](https://gitlab.com/snowgem/bitfrost/-/commit/9a5b4a8e34e1e61926d6299284d0d352d8c334b6): fix, redirecting kyc to sumsub - Filip Storkan\n\n[a45b5df4](https://gitlab.com/snowgem/bitfrost/-/commit/a45b5df4dad728048c1c2c10e19d00fca013f1ab): filter history for current user only - Snowgem\n\n[6f6c42da](https://gitlab.com/snowgem/bitfrost/-/commit/6f6c42da82f2d697e70c5bbf536e47004f344ec4): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem\n\n[5fa31c26](https://gitlab.com/snowgem/bitfrost/-/commit/5fa31c260ac7dfe8dabe1444343380459f16b05c): increate ios build ver - Snowgem\n\n[5f7fc9ef](https://gitlab.com/snowgem/bitfrost/-/commit/5f7fc9ef6654502ed032d6b0f6038b880456d307): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
