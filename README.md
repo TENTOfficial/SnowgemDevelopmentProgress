@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3954 commits since 20/01/2020. You can see the complete history in
+There is a total of 3955 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-06 16:00:11</sub> | <sub>Jan Vraštil pushed to branch [feature/303\-DECTA\_implementation](https://gitlab.com/snowgem/bitfrost/commits/feature/303-DECTA_implementation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f110bfb01a1fdf3f80e03f2eb5a8d7ae7cf836c8...3808e9ee39dbdddd4e0060e553d7018d3bb90b01))</sub> | <sub>[3808e9ee](https://gitlab.com/snowgem/bitfrost/-/commit/3808e9ee39dbdddd4e0060e553d7018d3bb90b01): Fix fiat computation formula - jan.vrastil</sub> |
 | <sub>2021-03-06 15:09:26</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!191 \*WIP: Feature/303 DECTA implementation\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/191) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-06 15:09:06</sub> | <sub>Jan Vraštil pushed new branch [feature/303\-DECTA\_implementation](https://gitlab.com/snowgem/bitfrost/commits/feature/303-DECTA_implementation) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-06 07:13:38</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5fa31c260ac7dfe8dabe1444343380459f16b05c...71054dd4ca12264e8d862e011abe532eaeee779b))</sub> | <sub>[71054dd4](https://gitlab.com/snowgem/bitfrost/-/commit/71054dd4ca12264e8d862e011abe532eaeee779b): fix error when going tool page - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 3954 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-04 10:09:53</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9a5b4a8e34e1e61926d6299284d0d352d8c334b6...6f6c42da82f2d697e70c5bbf536e47004f344ec4))</sub> | <sub>[a45b5df4](https://gitlab.com/snowgem/bitfrost/-/commit/a45b5df4dad728048c1c2c10e19d00fca013f1ab): filter history for current user only - Snowgem<br>[6f6c42da](https://gitlab.com/snowgem/bitfrost/-/commit/6f6c42da82f2d697e70c5bbf536e47004f344ec4): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem</sub> |
 | <sub>2021-03-03 20:24:32</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4c4a7b077e86e74d8de095142669f94b0eb271e1...9a5b4a8e34e1e61926d6299284d0d352d8c334b6))</sub> | <sub>[3cb272d0](https://gitlab.com/snowgem/bitfrost/-/commit/3cb272d05588a0403d65e9e7aa39a1067494f583): adding user info detection to settings page - Filip Storkan<br>[9a5b4a8e](https://gitlab.com/snowgem/bitfrost/-/commit/9a5b4a8e34e1e61926d6299284d0d352d8c334b6): fix, redirecting kyc to sumsub - Filip Storkan</sub> |
 | <sub>2021-03-03 14:08:47</sub> | <sub>Txid (txid) opened merge request [\!190 \*Draft: V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/190) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-03-03 09:39:43</sub> | <sub>Txid (txid) merged merge request [\!189 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/189) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
