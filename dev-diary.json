@@ -38368,5 +38368,15 @@
       "description": "[3808e9ee](https://gitlab.com/snowgem/bitfrost/-/commit/3808e9ee39dbdddd4e0060e553d7018d3bb90b01): Fix fiat computation formula - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/71054dd4ca12264e8d862e011abe532eaeee779b...7f0e249f371bccd4b5eed6a3e558b466c27118ed))",
+    "created_at": "2021-03-06 16:39:52.777000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[82fec256](https://gitlab.com/snowgem/bitfrost/-/commit/82fec2565d31ef3f6ab88018ee37aeab08201b92): no registered error message - Filip Storkan\n\n[681ebd95](https://gitlab.com/snowgem/bitfrost/-/commit/681ebd95bc269da02ce0e90644e9fe9c2cfc58b1): verification detection update - Filip Storkan\n\n[7f0e249f](https://gitlab.com/snowgem/bitfrost/-/commit/7f0e249f371bccd4b5eed6a3e558b466c27118ed): XMerge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
