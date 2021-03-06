@@ -38348,5 +38348,15 @@
       "description": "[71054dd4](https://gitlab.com/snowgem/bitfrost/-/commit/71054dd4ca12264e8d862e011abe532eaeee779b): fix error when going tool page - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [feature/303\\-DECTA\\_implementation](https://gitlab.com/snowgem/bitfrost/commits/feature/303-DECTA_implementation) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-06 15:09:06.008000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!191 \\*WIP: Feature/303 DECTA implementation\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/191) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-06 15:09:26.086000"
   }
 ]
