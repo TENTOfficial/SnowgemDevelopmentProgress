@@ -38408,5 +38408,15 @@
       "description": "[baf17fd2](https://gitlab.com/snowgem/bitfrost/-/commit/baf17fd24f8b9057a892231f409a349319b15bc5): backup action - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/baf17fd24f8b9057a892231f409a349319b15bc5...daed2c0ba45267aafc24eb5000f559b4846df766))",
+    "created_at": "2021-03-07 17:39:44.900000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6da22e8f](https://gitlab.com/snowgem/bitfrost/-/commit/6da22e8f2aeb5d0589b8f9e6a75473212f681948): clickable slider - Filip Storkan\n\n[daed2c0b](https://gitlab.com/snowgem/bitfrost/-/commit/daed2c0ba45267aafc24eb5000f559b4846df766): transalitions update - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
