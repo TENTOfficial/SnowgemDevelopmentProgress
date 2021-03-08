@@ -38438,5 +38438,10 @@
       "description": "[1b761b1b](https://gitlab.com/snowgem/bitfrost/-/commit/1b761b1b73b9a83684ac482c633a0c05dd14f30e): fix 329, Disable creating new wallet for advance page - Snowgem\n\n[8d600f3f](https://gitlab.com/snowgem/bitfrost/-/commit/8d600f3feec848d26f2c76ac427e2e358a86106b): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem\n\n[0cb06e08](https://gitlab.com/snowgem/bitfrost/-/commit/0cb06e08eae5f88050f8405549f624a721a885e0): do not pull wallet to null - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [feature/wallet\\-swap\\-cleared](https://gitlab.com/snowgem/bitfrost/commits/feature/wallet-swap-cleared) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-08 11:28:08.803000"
   }
 ]
