@@ -38428,5 +38428,15 @@
       "description": "[a67913e1](https://gitlab.com/snowgem/freyja/-/commit/a67913e1e072b70ffb706361f23a6ee2abba5211): configuratble RM interval & interval decreased to 15min - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/daed2c0ba45267aafc24eb5000f559b4846df766...0cb06e08eae5f88050f8405549f624a721a885e0))",
+    "created_at": "2021-03-08 07:26:45.795000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1b761b1b](https://gitlab.com/snowgem/bitfrost/-/commit/1b761b1b73b9a83684ac482c633a0c05dd14f30e): fix 329, Disable creating new wallet for advance page - Snowgem\n\n[8d600f3f](https://gitlab.com/snowgem/bitfrost/-/commit/8d600f3feec848d26f2c76ac427e2e358a86106b): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem\n\n[0cb06e08](https://gitlab.com/snowgem/bitfrost/-/commit/0cb06e08eae5f88050f8405549f624a721a885e0): do not pull wallet to null - Snowgem",
+      "type": "rich"
+    }
   }
 ]
