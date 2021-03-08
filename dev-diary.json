@@ -38443,5 +38443,15 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [feature/wallet\\-swap\\-cleared](https://gitlab.com/snowgem/bitfrost/commits/feature/wallet-swap-cleared) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-08 11:28:08.803000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0cb06e08eae5f88050f8405549f624a721a885e0...a4383da6f93c1ee1005c8dd8a70d70bce421a0c5))",
+    "created_at": "2021-03-08 15:22:06.356000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[55d0872b](https://gitlab.com/snowgem/bitfrost/-/commit/55d0872b5e53d94571beaf439ed8af63f67c6aa5): twofactor before send and swap - Filip Storkan\n\n[f52013d8](https://gitlab.com/snowgem/bitfrost/-/commit/f52013d8c29df0df7ec1fabb6336ed680e6b5685): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan\n\n[a4383da6](https://gitlab.com/snowgem/bitfrost/-/commit/a4383da6f93c1ee1005c8dd8a70d70bce421a0c5): layout update - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
