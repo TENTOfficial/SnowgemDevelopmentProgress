@@ -38473,5 +38473,15 @@
       "description": "[9999ea8c](https://gitlab.com/snowgem/bitfrost/-/commit/9999ea8cd806363907af4de1ea54a8fd5b179aae): feature/303 - DECTA payment implementation - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/wallet\\-swap\\-cleared](https://gitlab.com/snowgem/bitfrost/commits/feature/wallet-swap-cleared) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cb6da3eb740afd0966cbef18ce1329f12a21a502...c18fe4447076e98c1a94901f38fc020a9518410f))",
+    "created_at": "2021-03-09 11:17:46.510000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c18fe444](https://gitlab.com/snowgem/bitfrost/-/commit/c18fe4447076e98c1a94901f38fc020a9518410f): load swap data again if go back from summary page - Snowgem",
+      "type": "rich"
+    }
   }
 ]
