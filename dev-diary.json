@@ -38483,5 +38483,15 @@
       "description": "[c18fe444](https://gitlab.com/snowgem/bitfrost/-/commit/c18fe4447076e98c1a94901f38fc020a9518410f): load swap data again if go back from summary page - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [feature/303\\-DECTA\\_implementation](https://gitlab.com/snowgem/bitfrost/commits/feature/303-DECTA_implementation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9999ea8cd806363907af4de1ea54a8fd5b179aae...54df6acd38f6c8e967b28be04bbfa904e93cf78c))",
+    "created_at": "2021-03-09 13:44:35.610000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[54df6acd](https://gitlab.com/snowgem/bitfrost/-/commit/54df6acd38f6c8e967b28be04bbfa904e93cf78c): Disable buying crypto when wallet is empty - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
