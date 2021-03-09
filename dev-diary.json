@@ -38503,5 +38503,25 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!192 \\*Bug/307 introscreen issues\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/192) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-09 14:54:29.157000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!192 \\*Bug/307 introscreen issues\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/192) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-09 15:35:24.700000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a4383da6f93c1ee1005c8dd8a70d70bce421a0c5...71b4d535201148b6c62a1cf532485c35741fc9f6))",
+    "created_at": "2021-03-09 15:35:25.194000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[14d7a03a](https://gitlab.com/snowgem/bitfrost/-/commit/14d7a03a3379ebc4045846fc5fec32a6b1c8b350): bug/307 - Fix introscreens synchronization - jan.vrastil\n\n[71b4d535](https://gitlab.com/snowgem/bitfrost/-/commit/71b4d535201148b6c62a1cf532485c35741fc9f6): Merge branch 'bug/307-introscreen_issues' into 'v0.1.5' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch bug/307-introscreen_issues from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-09 15:35:25.178000"
   }
 ]
