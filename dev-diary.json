@@ -38593,5 +38593,15 @@
       "description": "[c7b17822](https://gitlab.com/snowgem/bitfrost/-/commit/c7b17822d7c36e56515554000102910bb9c22281): save satoshi amount instead of amount - Snowgem\n\n[3f6098a3](https://gitlab.com/snowgem/bitfrost/-/commit/3f6098a325d8e31d4a925d4b08fc1ee568852896): fix ETH/token transaction issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug/332\\-network\\_trafic](https://gitlab.com/snowgem/bitfrost/commits/bug/332-network_trafic) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-10 12:58:11.104000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!194 \\*Bug/332 network trafic\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/194) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-10 12:58:28.390000"
   }
 ]
