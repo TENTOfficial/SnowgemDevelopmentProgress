@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 3979 commits since 20/01/2020. You can see the complete history in
+There is a total of 3980 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-10 08:50:54</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1847244fef671acd01f81e6b292bb7d49c5f68fd...96d4abcc3a27c833fb4a7b604f401cf6ce5ce6a5))</sub> | <sub>[96d4abcc](https://gitlab.com/snowgem/bitfrost/-/commit/96d4abcc3a27c833fb4a7b604f401cf6ce5ce6a5): fix #305, Missing history display - Snowgem</sub> |
 | <sub>2021-03-10 05:56:13</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bc8925f12904053885cce09c831662a736479837...1847244fef671acd01f81e6b292bb7d49c5f68fd))</sub> | <sub>[99d59e8d](https://gitlab.com/snowgem/bitfrost/-/commit/99d59e8d93c22103c19b1d442c9afe32b120cd1e): fix #330 - Snowgem<br>[cb6da3eb](https://gitlab.com/snowgem/bitfrost/-/commit/cb6da3eb740afd0966cbef18ce1329f12a21a502): fix #328, Handle amount in swap page - Snowgem<br>[c18fe444](https://gitlab.com/snowgem/bitfrost/-/commit/c18fe4447076e98c1a94901f38fc020a9518410f): load swap data again if go back from summary page - Snowgem<br>[9e1eee09](https://gitlab.com/snowgem/bitfrost/-/commit/9e1eee0945408b8e4b748072340a927dc2fcf3a4): fix lint - Snowgem<br>[1847244f](https://gitlab.com/snowgem/bitfrost/-/commit/1847244fef671acd01f81e6b292bb7d49c5f68fd): Merge branch 'feature/wallet-swap-cleared' into 'v0.1.5' - Txid</sub> |
 | <sub>2021-03-10 05:56:13</sub> | <sub>Txid (txid) merged merge request [\!193 \*Feature/wallet swap cleared\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/193) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-10 05:56:07</sub> | <sub>Txid (txid) opened merge request [\!193 \*Feature/wallet swap cleared\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/193) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 3979 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-09 15:35:25</sub> | <sub>Jan Vraštil removed branch bug/307-introscreen_issues from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-09 15:35:25</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a4383da6f93c1ee1005c8dd8a70d70bce421a0c5...71b4d535201148b6c62a1cf532485c35741fc9f6))</sub> | <sub>[14d7a03a](https://gitlab.com/snowgem/bitfrost/-/commit/14d7a03a3379ebc4045846fc5fec32a6b1c8b350): bug/307 - Fix introscreens synchronization - jan.vrastil<br>[71b4d535](https://gitlab.com/snowgem/bitfrost/-/commit/71b4d535201148b6c62a1cf532485c35741fc9f6): Merge branch 'bug/307-introscreen_issues' into 'v0.1.5' - Jan Vraštil</sub> |
 | <sub>2021-03-09 15:35:24</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!192 \*Bug/307 introscreen issues\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/192) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-03-09 14:54:29</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!192 \*Bug/307 introscreen issues\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/192) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
