@@ -38543,5 +38543,15 @@
       "description": "[bc8925f1](https://gitlab.com/snowgem/bitfrost/-/commit/bc8925f12904053885cce09c831662a736479837): shorting long press duration - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/wallet\\-swap\\-cleared](https://gitlab.com/snowgem/bitfrost/commits/feature/wallet-swap-cleared) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c18fe4447076e98c1a94901f38fc020a9518410f...9e1eee0945408b8e4b748072340a927dc2fcf3a4))",
+    "created_at": "2021-03-10 03:23:18.890000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9e1eee09](https://gitlab.com/snowgem/bitfrost/-/commit/9e1eee0945408b8e4b748072340a927dc2fcf3a4): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
