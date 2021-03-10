@@ -38623,5 +38623,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch bug/332-network_trafic from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-10 13:03:01.887000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [feature/303\\-DECTA\\_implementation](https://gitlab.com/snowgem/bitfrost/commits/feature/303-DECTA_implementation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e66266a44d8ac2c2390d9d6ef6e761e766fe7836...8e19ad21cc25f6bf5a2bb5ff71ca0c22a91f69b9))",
+    "created_at": "2021-03-10 13:05:17.845000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[96d4abcc](https://gitlab.com/snowgem/bitfrost/-/commit/96d4abcc3a27c833fb4a7b604f401cf6ce5ce6a5): fix #305, Missing history display - Snowgem\n\n[c7b17822](https://gitlab.com/snowgem/bitfrost/-/commit/c7b17822d7c36e56515554000102910bb9c22281): save satoshi amount instead of amount - Snowgem\n\n[3f6098a3](https://gitlab.com/snowgem/bitfrost/-/commit/3f6098a325d8e31d4a925d4b08fc1ee568852896): fix ETH/token transaction issue - Snowgem\n\n[c70c15f1](https://gitlab.com/snowgem/bitfrost/-/commit/c70c15f1185b08f2e6e74eb8084ea5b23ccb9231): bug/332 - Fix enormous network traffic in Send page - jan.vrastil\n\n[baafa7d5](https://gitlab.com/snowgem/bitfrost/-/commit/baafa7d509e1339fcf97f695e9af367098a1371e): Merge branch 'bug/332-network_trafic' into 'v0.1.5' - Jan Vra\u0161til\n\n[3888d429](https://gitlab.com/snowgem/bitfrost/-/commit/3888d429b407e9a4f1d882be4e7bc34ca5b7b401): feature/303 - DECTA payment implementation - jan.vrastil\n\n[8e19ad21](https://gitlab.com/snowgem/bitfrost/-/commit/8e19ad21cc25f6bf5a2bb5ff71ca0c22a91f69b9): Disable buying crypto when wallet is empty - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
