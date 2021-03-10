@@ -38653,5 +38653,15 @@
       "description": "[064f667c](https://gitlab.com/snowgem/bitfrost/-/commit/064f667cee2a015e7be7786d6a6944f44bd07b6f): fix for LTC - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [feature/303\\-DECTA\\_implementation](https://gitlab.com/snowgem/bitfrost/commits/feature/303-DECTA_implementation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/064f667cee2a015e7be7786d6a6944f44bd07b6f...36d29681ed9a7cfb5325f610824d49209de4f35e))",
+    "created_at": "2021-03-10 17:25:06.726000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[36d29681](https://gitlab.com/snowgem/bitfrost/-/commit/36d29681ed9a7cfb5325f610824d49209de4f35e): fix for changing wallets - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
