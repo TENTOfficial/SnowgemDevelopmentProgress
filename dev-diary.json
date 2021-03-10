@@ -38523,5 +38523,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch bug/307-introscreen_issues from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-09 15:35:25.178000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/71b4d535201148b6c62a1cf532485c35741fc9f6...45821fb1bebdba3f89e388df8de9ebf2c83da527))",
+    "created_at": "2021-03-10 00:08:35.748000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[246f3d22](https://gitlab.com/snowgem/bitfrost/-/commit/246f3d22c6559fbe9f7fcf3fb6874e4944057f68): adding sumsub current step enum - Filip Storkan\n\n[3ea0fc24](https://gitlab.com/snowgem/bitfrost/-/commit/3ea0fc248bdc282f2efd05fa6b62f6c6cbf2ebe5): updating tutorials db fix on mobile - Filip Storkan\n\n[fac927e1](https://gitlab.com/snowgem/bitfrost/-/commit/fac927e15cd117ba2243d314b7687d8877b3fdd3): fixing slow routes - Filip Storkan\n\n[3f947434](https://gitlab.com/snowgem/bitfrost/-/commit/3f947434a37673b34b1665545545be1a77dcdea8): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan\n\n[8b2fbb65](https://gitlab.com/snowgem/bitfrost/-/commit/8b2fbb6561d1aff019f55569e26ca93925985401): disabling hardware back button - Filip Storkan\n\n[91031c20](https://gitlab.com/snowgem/bitfrost/-/commit/91031c2073d42527b34c5da41fd19583fc74f89a): disabling longpress on scroll - Filip Storkan\n\n[2e3bf5e5](https://gitlab.com/snowgem/bitfrost/-/commit/2e3bf5e53c921e7fe173415cb9aabf807affc351): header back button changed to in component login - Filip Storkan\n\n[f8edf6a7](https://gitlab.com/snowgem/bitfrost/-/commit/f8edf6a7d1c135f3f75b5d49daa1a1791c2cad48): logout after wrong pin - Filip Storkan\n\n[45821fb1](https://gitlab.com/snowgem/bitfrost/-/commit/45821fb1bebdba3f89e388df8de9ebf2c83da527): updating introscreens text slides - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
