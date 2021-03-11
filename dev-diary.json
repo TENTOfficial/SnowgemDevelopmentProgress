@@ -38739,5 +38739,25 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch feature/303-DECTA_implementation from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-11 10:01:33.038000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/768397a150d321d99cc1c5ee916b488a3283439c...bfc85c0c854834858f2ada4050c31d67d754ab58))",
+    "created_at": "2021-03-11 10:20:15.032000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2aa26a64](https://gitlab.com/snowgem/bitfrost/-/commit/2aa26a641efe23ea6e96e923f0e88c2efe69fab6): fix #323, clicked CREATE button many times - Snowgem\n\n[bfc85c0c](https://gitlab.com/snowgem/bitfrost/-/commit/bfc85c0c854834858f2ada4050c31d67d754ab58): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bfc85c0c854834858f2ada4050c31d67d754ab58...31bd4d0edfa699da38842ad3f40b45307a288b2e))",
+    "created_at": "2021-03-11 10:21:27.788000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[31bd4d0e](https://gitlab.com/snowgem/bitfrost/-/commit/31bd4d0edfa699da38842ad3f40b45307a288b2e): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
