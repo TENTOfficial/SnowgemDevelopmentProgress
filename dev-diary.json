@@ -38804,5 +38804,10 @@
       "description": "[fbbd2293](https://gitlab.com/snowgem/bitfrost/-/commit/fbbd229356a9e4c4797ebf3f343dc29a6f511dc3): bug/315 - repeat entering the pin if it does not match - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug/315\\-pin\\_skipping\\_some\\_digits](https://gitlab.com/snowgem/bitfrost/commits/bug/315-pin_skipping_some_digits) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-11 16:19:03.042000"
   }
 ]
