@@ -38709,5 +38709,15 @@
       "description": "[e06a8a05](https://gitlab.com/snowgem/bitfrost/-/commit/e06a8a05c7671f33c06b8019e97cbd2aa70b6477): add res type for _getTransactionData - Snowgem\n\n[5d7850d0](https://gitlab.com/snowgem/bitfrost/-/commit/5d7850d09783ffe5c4c0b2fe7a2211a92599d81f): update bck for updatemasterseed - Snowgem\n\n[0bc092ee](https://gitlab.com/snowgem/bitfrost/-/commit/0bc092ee273ff918d50d2d60bf19d6a729c9a4dc): fix #333, no possibilities to choose wallet to swap - Snowgem\n\n[9788f935](https://gitlab.com/snowgem/bitfrost/-/commit/9788f935cac7fa795300cbfa604351fce93a8906): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [feature/303\\-DECTA\\_implementation](https://gitlab.com/snowgem/bitfrost/commits/feature/303-DECTA_implementation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/36d29681ed9a7cfb5325f610824d49209de4f35e...82f849c277bd564a62c7b961cbb9f3b0e8761452))",
+    "created_at": "2021-03-11 09:40:00.189000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[82f849c2](https://gitlab.com/snowgem/bitfrost/-/commit/82f849c277bd564a62c7b961cbb9f3b0e8761452): Changes before merge - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
