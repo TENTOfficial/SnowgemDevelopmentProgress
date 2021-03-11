@@ -38759,5 +38759,20 @@
       "description": "[31bd4d0e](https://gitlab.com/snowgem/bitfrost/-/commit/31bd4d0edfa699da38842ad3f40b45307a288b2e): fix lint - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/31bd4d0edfa699da38842ad3f40b45307a288b2e...dc5bb699124601b72f20efd6c363433477a93d5d))",
+    "created_at": "2021-03-11 10:40:47.378000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[dc5bb699](https://gitlab.com/snowgem/bitfrost/-/commit/dc5bb699124601b72f20efd6c363433477a93d5d): increase ios version - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!195 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/195) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-11 10:41:16.119000"
   }
 ]
