@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4004 commits since 20/01/2020. You can see the complete history in
+There is a total of 4005 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-11 14:32:43</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/406f159b3c74461550f8cee22569420026145acb...fbbd229356a9e4c4797ebf3f343dc29a6f511dc3))</sub> | <sub>[fbbd2293](https://gitlab.com/snowgem/bitfrost/-/commit/fbbd229356a9e4c4797ebf3f343dc29a6f511dc3): bug/315 - repeat entering the pin if it does not match - jan.vrastil</sub> |
 | <sub>2021-03-11 13:53:27</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dc5bb699124601b72f20efd6c363433477a93d5d...406f159b3c74461550f8cee22569420026145acb))</sub> | <sub>[406f159b](https://gitlab.com/snowgem/bitfrost/-/commit/406f159b3c74461550f8cee22569420026145acb): Change Expiration date labels - jan.vrastil</sub> |
 | <sub>2021-03-11 13:52:51</sub> | <sub>Jan Vraštil pushed new branch [feature/303\-DECTA\_implementation](https://gitlab.com/snowgem/bitfrost/commits/feature/303-DECTA_implementation) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-11 10:45:46</sub> | <sub>Txid (txid) merged merge request [\!195 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/195) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4004 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-11 10:20:15</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/768397a150d321d99cc1c5ee916b488a3283439c...bfc85c0c854834858f2ada4050c31d67d754ab58))</sub> | <sub>[2aa26a64](https://gitlab.com/snowgem/bitfrost/-/commit/2aa26a641efe23ea6e96e923f0e88c2efe69fab6): fix #323, clicked CREATE button many times - Snowgem<br>[bfc85c0c](https://gitlab.com/snowgem/bitfrost/-/commit/bfc85c0c854834858f2ada4050c31d67d754ab58): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem</sub> |
 | <sub>2021-03-11 10:01:33</sub> | <sub>Jan Vraštil removed branch feature/303-DECTA_implementation from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-11 10:01:33</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9788f935cac7fa795300cbfa604351fce93a8906...768397a150d321d99cc1c5ee916b488a3283439c))</sub> | <sub>[39e71822](https://gitlab.com/snowgem/bitfrost/-/commit/39e71822792ed3cd1c4e84ecbcaf69190cc1ec0e): Feature/303 DECTA implementation - Jan Vraštil<br>[768397a1](https://gitlab.com/snowgem/bitfrost/-/commit/768397a150d321d99cc1c5ee916b488a3283439c): Merge branch 'feature/303-DECTA_implementation' into 'v0.1.5' - Jan Vraštil</sub> |
-| <sub>2021-03-11 10:01:32</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!191 \*Feature/303 DECTA implementation\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/191) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
