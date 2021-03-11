@@ -38719,5 +38719,25 @@
       "description": "[82f849c2](https://gitlab.com/snowgem/bitfrost/-/commit/82f849c277bd564a62c7b961cbb9f3b0e8761452): Changes before merge - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!191 \\*Feature/303 DECTA implementation\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/191) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-11 10:01:32.586000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9788f935cac7fa795300cbfa604351fce93a8906...768397a150d321d99cc1c5ee916b488a3283439c))",
+    "created_at": "2021-03-11 10:01:33.079000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[39e71822](https://gitlab.com/snowgem/bitfrost/-/commit/39e71822792ed3cd1c4e84ecbcaf69190cc1ec0e): Feature/303 DECTA implementation - Jan Vra\u0161til\n\n[768397a1](https://gitlab.com/snowgem/bitfrost/-/commit/768397a150d321d99cc1c5ee916b488a3283439c): Merge branch 'feature/303-DECTA_implementation' into 'v0.1.5' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch feature/303-DECTA_implementation from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-11 10:01:33.038000"
   }
 ]
