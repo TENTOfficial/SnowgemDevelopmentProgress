@@ -38814,5 +38814,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!196 \\*wip: Bug/315 pin skipping some digits\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/196) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-11 16:20:39.077000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fbbd229356a9e4c4797ebf3f343dc29a6f511dc3...5954362b55af79e65c231f1b101ff7362634b829))",
+    "created_at": "2021-03-11 23:46:45.145000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[58d07a6f](https://gitlab.com/snowgem/bitfrost/-/commit/58d07a6f54c7f90bd7769392d4bae3843eefb8c2): biometrics debug - Filip Storkan\n\n[4100cdeb](https://gitlab.com/snowgem/bitfrost/-/commit/4100cdebc4c402670f1972171b441d98eb17960d): linter - Filip Storkan\n\n[5954362b](https://gitlab.com/snowgem/bitfrost/-/commit/5954362b55af79e65c231f1b101ff7362634b829): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
