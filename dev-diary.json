@@ -38894,5 +38894,15 @@
       "description": "[69dee2e7](https://gitlab.com/snowgem/bitfrost/-/commit/69dee2e7a746dc7858c240efd7891fb3581b4a62): fix #340, Restore master seed after re-install app - Snowgem\n\n[63397499](https://gitlab.com/snowgem/bitfrost/-/commit/63397499b8de2a9d1f419fcf4bd377146ba18b5b): disable validate seeds for test - Snowgem\n\n[395cd786](https://gitlab.com/snowgem/bitfrost/-/commit/395cd78621fbb35faefb7770cd99effe9ff2e598): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/395cd78621fbb35faefb7770cd99effe9ff2e598...38b39d5b674618b50178fec181ca14ff825b4356))",
+    "created_at": "2021-03-12 14:23:11.308000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[38b39d5b](https://gitlab.com/snowgem/bitfrost/-/commit/38b39d5b674618b50178fec181ca14ff825b4356): revert bip39 lib - Snowgem",
+      "type": "rich"
+    }
   }
 ]
