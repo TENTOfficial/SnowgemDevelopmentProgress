@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4011 commits since 20/01/2020. You can see the complete history in
+There is a total of 4012 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-12 08:37:15</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c02effd1b31b68ac6c843ff412fdff5d8964b42e...9e70acec5dec95a989b7a4f9e0925063d08c0ef9))</sub> | <sub>[9e70acec](https://gitlab.com/snowgem/bitfrost/-/commit/9e70acec5dec95a989b7a4f9e0925063d08c0ef9): fix lint - Snowgem</sub> |
 | <sub>2021-03-12 08:30:01</sub> | <sub>Txid (txid) opened merge request [\!197 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/197) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-12 08:29:10</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d5145cfb39804d5979bac9d0e95c17dca0faa2da...c02effd1b31b68ac6c843ff412fdff5d8964b42e))</sub> | <sub>[0757da92](https://gitlab.com/snowgem/bitfrost/-/commit/0757da922d8c4425b62550aa7cb4d92a8a755ec3): update bip39 library - Snowgem<br>[c02effd1](https://gitlab.com/snowgem/bitfrost/-/commit/c02effd1b31b68ac6c843ff412fdff5d8964b42e): update mz url back to beta for prod - Snowgem</sub> |
 | <sub>2021-03-12 03:45:57</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5954362b55af79e65c231f1b101ff7362634b829...d5145cfb39804d5979bac9d0e95c17dca0faa2da))</sub> | <sub>[3a8bc607](https://gitlab.com/snowgem/bitfrost/-/commit/3a8bc607d2128f99da4067a0eb7025f5b9958692): fix #339, QR code button - Snowgem<br>[d5145cfb](https://gitlab.com/snowgem/bitfrost/-/commit/d5145cfb39804d5979bac9d0e95c17dca0faa2da): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 4011 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-11 14:32:43</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/406f159b3c74461550f8cee22569420026145acb...fbbd229356a9e4c4797ebf3f343dc29a6f511dc3))</sub> | <sub>[fbbd2293](https://gitlab.com/snowgem/bitfrost/-/commit/fbbd229356a9e4c4797ebf3f343dc29a6f511dc3): bug/315 - repeat entering the pin if it does not match - jan.vrastil</sub> |
 | <sub>2021-03-11 13:53:27</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dc5bb699124601b72f20efd6c363433477a93d5d...406f159b3c74461550f8cee22569420026145acb))</sub> | <sub>[406f159b](https://gitlab.com/snowgem/bitfrost/-/commit/406f159b3c74461550f8cee22569420026145acb): Change Expiration date labels - jan.vrastil</sub> |
 | <sub>2021-03-11 13:52:51</sub> | <sub>Jan Vraštil pushed new branch [feature/303\-DECTA\_implementation](https://gitlab.com/snowgem/bitfrost/commits/feature/303-DECTA_implementation) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-03-11 10:45:46</sub> | <sub>Txid (txid) merged merge request [\!195 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/195) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
