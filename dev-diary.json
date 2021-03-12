@@ -38824,5 +38824,15 @@
       "description": "[58d07a6f](https://gitlab.com/snowgem/bitfrost/-/commit/58d07a6f54c7f90bd7769392d4bae3843eefb8c2): biometrics debug - Filip Storkan\n\n[4100cdeb](https://gitlab.com/snowgem/bitfrost/-/commit/4100cdebc4c402670f1972171b441d98eb17960d): linter - Filip Storkan\n\n[5954362b](https://gitlab.com/snowgem/bitfrost/-/commit/5954362b55af79e65c231f1b101ff7362634b829): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5954362b55af79e65c231f1b101ff7362634b829...d5145cfb39804d5979bac9d0e95c17dca0faa2da))",
+    "created_at": "2021-03-12 03:45:57.329000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3a8bc607](https://gitlab.com/snowgem/bitfrost/-/commit/3a8bc607d2128f99da4067a0eb7025f5b9958692): fix #339, QR code button - Snowgem\n\n[d5145cfb](https://gitlab.com/snowgem/bitfrost/-/commit/d5145cfb39804d5979bac9d0e95c17dca0faa2da): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
   }
 ]

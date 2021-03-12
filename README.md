@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4008 commits since 20/01/2020. You can see the complete history in
+There is a total of 4009 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-12 03:45:57</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5954362b55af79e65c231f1b101ff7362634b829...d5145cfb39804d5979bac9d0e95c17dca0faa2da))</sub> | <sub>[3a8bc607](https://gitlab.com/snowgem/bitfrost/-/commit/3a8bc607d2128f99da4067a0eb7025f5b9958692): fix #339, QR code button - Snowgem<br>[d5145cfb](https://gitlab.com/snowgem/bitfrost/-/commit/d5145cfb39804d5979bac9d0e95c17dca0faa2da): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem</sub> |
 | <sub>2021-03-11 23:46:45</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fbbd229356a9e4c4797ebf3f343dc29a6f511dc3...5954362b55af79e65c231f1b101ff7362634b829))</sub> | <sub>[58d07a6f](https://gitlab.com/snowgem/bitfrost/-/commit/58d07a6f54c7f90bd7769392d4bae3843eefb8c2): biometrics debug - Filip Storkan<br>[4100cdeb](https://gitlab.com/snowgem/bitfrost/-/commit/4100cdebc4c402670f1972171b441d98eb17960d): linter - Filip Storkan<br>[5954362b](https://gitlab.com/snowgem/bitfrost/-/commit/5954362b55af79e65c231f1b101ff7362634b829): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan</sub> |
 | <sub>2021-03-11 16:20:39</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!196 \*wip: Bug/315 pin skipping some digits\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/196) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-11 16:19:03</sub> | <sub>Jan Vraštil pushed new branch [bug/315\-pin\_skipping\_some\_digits](https://gitlab.com/snowgem/bitfrost/commits/bug/315-pin_skipping_some_digits) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4008 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-11 10:45:46</sub> | <sub>Txid (txid) merged merge request [\!195 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/195) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-11 10:41:16</sub> | <sub>Txid (txid) opened merge request [\!195 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/195) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-11 10:40:47</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/31bd4d0edfa699da38842ad3f40b45307a288b2e...dc5bb699124601b72f20efd6c363433477a93d5d))</sub> | <sub>[dc5bb699](https://gitlab.com/snowgem/bitfrost/-/commit/dc5bb699124601b72f20efd6c363433477a93d5d): increase ios version - Snowgem</sub> |
-| <sub>2021-03-11 10:21:27</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bfc85c0c854834858f2ada4050c31d67d754ab58...31bd4d0edfa699da38842ad3f40b45307a288b2e))</sub> | <sub>[31bd4d0e](https://gitlab.com/snowgem/bitfrost/-/commit/31bd4d0edfa699da38842ad3f40b45307a288b2e): fix lint - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
