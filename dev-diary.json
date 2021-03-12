@@ -38874,5 +38874,15 @@
       "description": "[406f159b](https://gitlab.com/snowgem/bitfrost/-/commit/406f159b3c74461550f8cee22569420026145acb): Change Expiration date labels - jan.vrastil\n\n[fbbd2293](https://gitlab.com/snowgem/bitfrost/-/commit/fbbd229356a9e4c4797ebf3f343dc29a6f511dc3): bug/315 - repeat entering the pin if it does not match - jan.vrastil\n\n[58d07a6f](https://gitlab.com/snowgem/bitfrost/-/commit/58d07a6f54c7f90bd7769392d4bae3843eefb8c2): biometrics debug - Filip Storkan\n\n[4100cdeb](https://gitlab.com/snowgem/bitfrost/-/commit/4100cdebc4c402670f1972171b441d98eb17960d): linter - Filip Storkan\n\n[5954362b](https://gitlab.com/snowgem/bitfrost/-/commit/5954362b55af79e65c231f1b101ff7362634b829): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan\n\n[3a8bc607](https://gitlab.com/snowgem/bitfrost/-/commit/3a8bc607d2128f99da4067a0eb7025f5b9958692): fix #339, QR code button - Snowgem\n\n[d5145cfb](https://gitlab.com/snowgem/bitfrost/-/commit/d5145cfb39804d5979bac9d0e95c17dca0faa2da): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem\n\n[0757da92](https://gitlab.com/snowgem/bitfrost/-/commit/0757da922d8c4425b62550aa7cb4d92a8a755ec3): update bip39 library - Snowgem\n\n[c02effd1](https://gitlab.com/snowgem/bitfrost/-/commit/c02effd1b31b68ac6c843ff412fdff5d8964b42e): update mz url back to beta for prod - Snowgem\n\n[9e70acec](https://gitlab.com/snowgem/bitfrost/-/commit/9e70acec5dec95a989b7a4f9e0925063d08c0ef9): fix lint - Snowgem\n\n[01c73c2b](https://gitlab.com/snowgem/bitfrost/-/commit/01c73c2b5dddd01394a42fa23b156abddd995fad): Merge branch 'v0.1.5' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9e70acec5dec95a989b7a4f9e0925063d08c0ef9...4e93f8a5a3c58f9dbdee1e36ebdc103329dd69bb))",
+    "created_at": "2021-03-12 10:14:30.870000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4e93f8a5](https://gitlab.com/snowgem/bitfrost/-/commit/4e93f8a5a3c58f9dbdee1e36ebdc103329dd69bb): Enable KYC - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
