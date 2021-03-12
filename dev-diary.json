@@ -38904,5 +38904,15 @@
       "description": "[38b39d5b](https://gitlab.com/snowgem/bitfrost/-/commit/38b39d5b674618b50178fec181ca14ff825b4356): revert bip39 lib - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/38b39d5b674618b50178fec181ca14ff825b4356...65ce36f111a8fa4f8c910fb670751c9a7efcd75a))",
+    "created_at": "2021-03-12 17:46:48.177000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0a753bdb](https://gitlab.com/snowgem/bitfrost/-/commit/0a753bdbed70f4465e3fd5ff8ca50449ecebdc2b): sumsub status check fix - Filip Storkan\n\n[65ce36f1](https://gitlab.com/snowgem/bitfrost/-/commit/65ce36f111a8fa4f8c910fb670751c9a7efcd75a): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
