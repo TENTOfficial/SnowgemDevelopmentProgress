@@ -38974,5 +38974,25 @@
       "description": "[f8fbfdd9](https://gitlab.com/snowgem/bitfrost/-/commit/f8fbfdd9d6666fc027268f8e5cb0484b7e7a814b): wallets refresh hanging spinner issue fix - Filip Storkan\n\n[6d00d203](https://gitlab.com/snowgem/bitfrost/-/commit/6d00d203a0d7bbad52a8b0b747f7b0f6d6afb368): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6d00d203a0d7bbad52a8b0b747f7b0f6d6afb368...9bb3cdb4a03dc3f5e35a696e8151ae7651807d92))",
+    "created_at": "2021-03-13 04:15:37.722000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a2273aa5](https://gitlab.com/snowgem/bitfrost/-/commit/a2273aa5a70a17739cdfbe16d885d0e3aaf7eaf2): fix #280, no INTERNET case - Snowgem\n\n[9bb3cdb4](https://gitlab.com/snowgem/bitfrost/-/commit/9bb3cdb4a03dc3f5e35a696e8151ae7651807d92): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9bb3cdb4a03dc3f5e35a696e8151ae7651807d92...7a59c70888bb6b875bdfa5754ef8b0b4340a766d))",
+    "created_at": "2021-03-13 04:16:16.761000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7a59c708](https://gitlab.com/snowgem/bitfrost/-/commit/7a59c70888bb6b875bdfa5754ef8b0b4340a766d): enable verify seeds again - Snowgem",
+      "type": "rich"
+    }
   }
 ]
