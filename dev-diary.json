@@ -38954,5 +38954,15 @@
       "description": "[cf3b67bc](https://gitlab.com/snowgem/bitfrost/-/commit/cf3b67bc7baf68b67cc2764f343a71ef252ebe81): verification redirects fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cf3b67bc7baf68b67cc2764f343a71ef252ebe81...1bc63a7660befeb1f9b732182a3851f3930bccec))",
+    "created_at": "2021-03-13 02:09:16.781000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[08e6e51a](https://gitlab.com/snowgem/bitfrost/-/commit/08e6e51a7c850be0636b2df6d289987a9e4aed3e): fix login on mobile - Snowgem\n\n[1bc63a76](https://gitlab.com/snowgem/bitfrost/-/commit/1bc63a7660befeb1f9b732182a3851f3930bccec): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
