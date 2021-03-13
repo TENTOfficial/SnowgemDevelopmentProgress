@@ -38944,5 +38944,15 @@
       "description": "[2bbba3bc](https://gitlab.com/snowgem/bitfrost/-/commit/2bbba3bc70c941aea55f0a8ed9dfb6e849be71b6): changing ripple colot on ion item - Filip Storkan\n\n[9fbee4fd](https://gitlab.com/snowgem/bitfrost/-/commit/9fbee4fd9b7ebf697276dd24cf0ef53b414a144c): fix #314 spinners on biometrics page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9fbee4fd9b7ebf697276dd24cf0ef53b414a144c...cf3b67bc7baf68b67cc2764f343a71ef252ebe81))",
+    "created_at": "2021-03-13 02:04:04.884000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cf3b67bc](https://gitlab.com/snowgem/bitfrost/-/commit/cf3b67bc7baf68b67cc2764f343a71ef252ebe81): verification redirects fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
