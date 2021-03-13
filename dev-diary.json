@@ -38914,5 +38914,15 @@
       "description": "[0a753bdb](https://gitlab.com/snowgem/bitfrost/-/commit/0a753bdbed70f4465e3fd5ff8ca50449ecebdc2b): sumsub status check fix - Filip Storkan\n\n[65ce36f1](https://gitlab.com/snowgem/bitfrost/-/commit/65ce36f111a8fa4f8c910fb670751c9a7efcd75a): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/65ce36f111a8fa4f8c910fb670751c9a7efcd75a...658a95f79e2681408cb4acb448c5cdd4ef73ced3))",
+    "created_at": "2021-03-13 00:27:52.408000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[658a95f7](https://gitlab.com/snowgem/bitfrost/-/commit/658a95f79e2681408cb4acb448c5cdd4ef73ced3): account pending page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
