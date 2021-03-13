@@ -38964,5 +38964,15 @@
       "description": "[08e6e51a](https://gitlab.com/snowgem/bitfrost/-/commit/08e6e51a7c850be0636b2df6d289987a9e4aed3e): fix login on mobile - Snowgem\n\n[1bc63a76](https://gitlab.com/snowgem/bitfrost/-/commit/1bc63a7660befeb1f9b732182a3851f3930bccec): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1bc63a7660befeb1f9b732182a3851f3930bccec...6d00d203a0d7bbad52a8b0b747f7b0f6d6afb368))",
+    "created_at": "2021-03-13 02:41:42.878000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f8fbfdd9](https://gitlab.com/snowgem/bitfrost/-/commit/f8fbfdd9d6666fc027268f8e5cb0484b7e7a814b): wallets refresh hanging spinner issue fix - Filip Storkan\n\n[6d00d203](https://gitlab.com/snowgem/bitfrost/-/commit/6d00d203a0d7bbad52a8b0b747f7b0f6d6afb368): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
