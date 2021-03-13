@@ -38934,5 +38934,15 @@
       "description": "[913edf5b](https://gitlab.com/snowgem/bitfrost/-/commit/913edf5bc440cdec122d521f7b736d740de3e929): changing loading icon on purchase page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/913edf5bc440cdec122d521f7b736d740de3e929...9fbee4fd9b7ebf697276dd24cf0ef53b414a144c))",
+    "created_at": "2021-03-13 01:32:53.585000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2bbba3bc](https://gitlab.com/snowgem/bitfrost/-/commit/2bbba3bc70c941aea55f0a8ed9dfb6e849be71b6): changing ripple colot on ion item - Filip Storkan\n\n[9fbee4fd](https://gitlab.com/snowgem/bitfrost/-/commit/9fbee4fd9b7ebf697276dd24cf0ef53b414a144c): fix #314 spinners on biometrics page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
