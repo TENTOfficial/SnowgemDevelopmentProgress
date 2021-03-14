@@ -38994,5 +38994,23 @@
       "description": "[7a59c708](https://gitlab.com/snowgem/bitfrost/-/commit/7a59c70888bb6b875bdfa5754ef8b0b4340a766d): enable verify seeds again - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-03-14 17:14:56.769000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`53cad74`](https://github.com/ciripel/Heimdall/commit/53cad74bde7dbf191d1598982c5ec1d5eaadd3c2) changed params: - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/53cad74bde7dbf191d1598982c5ec1d5eaadd3c2"
+    }
   }
 ]
