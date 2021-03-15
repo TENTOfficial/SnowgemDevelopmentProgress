@@ -39062,5 +39062,15 @@
       "description": "[74d4d70e](https://gitlab.com/snowgem/bitfrost/-/commit/74d4d70e1710103e546f9492464b855e00ce90f8): fix #342, Issues on select source destination of wallets in SWAP - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/74d4d70e1710103e546f9492464b855e00ce90f8...0dd0e322108c45f856cb7dd9b21222e269eaba20))",
+    "created_at": "2021-03-15 08:13:46.164000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0dd0e322](https://gitlab.com/snowgem/bitfrost/-/commit/0dd0e322108c45f856cb7dd9b21222e269eaba20): not allow to switch swap pair if it's not allowed on server - Snowgem",
+      "type": "rich"
+    }
   }
 ]
