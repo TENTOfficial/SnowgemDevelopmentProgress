@@ -39022,5 +39022,15 @@
       "description": "[b72d8a53](https://gitlab.com/snowgem/bitfrost/-/commit/b72d8a5321f5792e65030a3b23c63ce25d639c81): fix #310 #340 recovery seed after reinstall - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b72d8a5321f5792e65030a3b23c63ce25d639c81...b849d7f1b07958c04613155d59792ee4d1095372))",
+    "created_at": "2021-03-15 00:40:21.129000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2669cc58](https://gitlab.com/snowgem/bitfrost/-/commit/2669cc583dca83105c028e8f28ecf9a5734df8d9): updating dark mode components - Filip Storkan\n\n[b849d7f1](https://gitlab.com/snowgem/bitfrost/-/commit/b849d7f1b07958c04613155d59792ee4d1095372): #279 country search - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
