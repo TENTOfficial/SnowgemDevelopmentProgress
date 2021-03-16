@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4049 commits since 20/01/2020. You can see the complete history in
+There is a total of 4050 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-16 10:03:40</sub> | <sub>Txid (txid) merged merge request [\!199 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/199) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-16 09:55:22</sub> | <sub>Jan Vraštil removed branch Fresh_desk_implementation from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-16 09:55:22</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fc035ecfa6a5fa801b655a0e6f247c36fe8d2ffd...2ab4dc474884c25b0f89e4e34f162ca8461e825c))</sub> | <sub>[a11aac47](https://gitlab.com/snowgem/bitfrost/-/commit/a11aac473a22b77dbca1a0c7d5ec21526ebf4d56): feature/142 - Fresh desk implementation - Jan Vraštil<br>[2ab4dc47](https://gitlab.com/snowgem/bitfrost/-/commit/2ab4dc474884c25b0f89e4e34f162ca8461e825c): Merge branch 'Fresh_desk_implementation' into 'v0.1.5' - Jan Vraštil</sub> |
 | <sub>2021-03-16 09:55:22</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!198 \*feature/142 \- Fresh desk implementation\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/198) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4049 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-16 09:18:50</sub> | <sub>Txid (txid) opened merge request [\!199 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/199) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-16 09:18:20</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!198 \*feature/142 \- Fresh desk implementation\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/198) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-16 09:18:12</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7cfd7eb6dc92c8021775e1a863c0c372e3634971...1bd27df46fe82367f9480a77af2206542441b8f4))</sub> | <sub>[5334cc15](https://gitlab.com/snowgem/bitfrost/-/commit/5334cc15b4a0eebd1a0b64330f32f70f0d992f30): fix change msed error - Snowgem<br>[b825b6cb](https://gitlab.com/snowgem/bitfrost/-/commit/b825b6cb2e000274f084c81840829217b466f155): add export old wallets - Snowgem<br>[4771e1f4](https://gitlab.com/snowgem/bitfrost/-/commit/4771e1f4c34c0481ab671431549f2c932be69cc8): export page data - Snowgem<br>[1bd27df4](https://gitlab.com/snowgem/bitfrost/-/commit/1bd27df46fe82367f9480a77af2206542441b8f4): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem</sub> |
-| <sub>2021-03-16 09:17:21</sub> | <sub>Jan Vraštil pushed new branch [Fresh\_desk\_implementation](https://gitlab.com/snowgem/bitfrost/commits/Fresh_desk_implementation) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
