@@ -39092,5 +39092,15 @@
       "description": "[2ffda489](https://gitlab.com/snowgem/bitfrost/-/commit/2ffda489e67453e5aebd58f33b3d90fd9b0ff4bb): local storage fix - Filip Storkan\n\n[8edd89e8](https://gitlab.com/snowgem/bitfrost/-/commit/8edd89e835fcfea06b06154a22efad10471a7fcf): fullscreen loading styling fix - Filip Storkan\n\n[3cfb42d0](https://gitlab.com/snowgem/bitfrost/-/commit/3cfb42d0464ea090c43c292969833e4bd47d3034): disbaled ripple on empty header button - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3cfb42d0464ea090c43c292969833e4bd47d3034...12f20e0e1beb8acd9d390668c68b7576b2c76d01))",
+    "created_at": "2021-03-16 07:24:21.154000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d4fa039f](https://gitlab.com/snowgem/bitfrost/-/commit/d4fa039f5ab2af8f92758a71b1aefc6465acb63f): remove balance log - Snowgem\n\n[ba5277d1](https://gitlab.com/snowgem/bitfrost/-/commit/ba5277d1d230f0931f0f9ff9985fda73bb7419c8): fix alog null - Snowgem\n\n[f774524f](https://gitlab.com/snowgem/bitfrost/-/commit/f774524f5bf725d9106f622c8d468703186428f9): add generate new msed in advance - Snowgem\n\n[12f20e0e](https://gitlab.com/snowgem/bitfrost/-/commit/12f20e0e1beb8acd9d390668c68b7576b2c76d01): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
