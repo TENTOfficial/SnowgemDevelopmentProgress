@@ -39392,5 +39392,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!202 \\*WIP: Build fix\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/202) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-16 15:06:21.942000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [Build\\_fix](https://gitlab.com/snowgem/bitfrost/commits/Build_fix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c10feb2509f02cba6e29d450c468dd879aff9e20...182bd16a080a5bf5e3272db1d05dd1ade8e8837b))",
+    "created_at": "2021-03-16 15:22:18.273000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[182bd16a](https://gitlab.com/snowgem/bitfrost/-/commit/182bd16a080a5bf5e3272db1d05dd1ade8e8837b): Build fix - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
