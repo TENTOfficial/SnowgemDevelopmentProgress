@@ -39292,5 +39292,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!201 \\*WIP: Decta \\-  iframe\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/201) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-16 12:56:37.492000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e475b6a0f10d156e2f0db253fe1e5fea9cf5229b...cadf66e47339e328ec091889ea8342697c03365f))",
+    "created_at": "2021-03-16 13:25:22.809000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cadf66e4](https://gitlab.com/snowgem/bitfrost/-/commit/cadf66e47339e328ec091889ea8342697c03365f): update package lock - Snowgem",
+      "type": "rich"
+    }
   }
 ]
