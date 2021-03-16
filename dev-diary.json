@@ -39112,5 +39112,15 @@
       "description": "[520bd912](https://gitlab.com/snowgem/bitfrost/-/commit/520bd912f7c084932e3e5adddcc09b47c70356e7): hidden swap button - Filip Storkan\n\n[db680978](https://gitlab.com/snowgem/bitfrost/-/commit/db68097838fd03f20683a6ee72bdc9d43f14360b): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/db68097838fd03f20683a6ee72bdc9d43f14360b...7cfd7eb6dc92c8021775e1a863c0c372e3634971))",
+    "created_at": "2021-03-16 08:26:51.421000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7cfd7eb6](https://gitlab.com/snowgem/bitfrost/-/commit/7cfd7eb6dc92c8021775e1a863c0c372e3634971): android config updated - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
