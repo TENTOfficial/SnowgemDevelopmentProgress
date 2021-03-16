@@ -39167,5 +39167,15 @@
       "description": "[fc035ecf](https://gitlab.com/snowgem/bitfrost/-/commit/fc035ecfa6a5fa801b655a0e6f247c36fe8d2ffd): fix lint - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [Fresh\\_desk\\_implementation](https://gitlab.com/snowgem/bitfrost/commits/Fresh_desk_implementation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4b4d9c533a25ca207979ecb5a44d49d7a5af12fc...3b3f3a79004e773156df097510a9e8df83eadf2d))",
+    "created_at": "2021-03-16 09:48:05.558000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3b3f3a79](https://gitlab.com/snowgem/bitfrost/-/commit/3b3f3a79004e773156df097510a9e8df83eadf2d): fix styling - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
