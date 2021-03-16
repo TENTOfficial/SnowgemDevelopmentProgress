@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4051 commits since 20/01/2020. You can see the complete history in
+There is a total of 4052 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-16 10:16:34</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f4e83c025785ec56194e5d6e4eaa794aa5328d69...58121f9aaacd4d80faef076c32212bdcf277ffe6))</sub> | <sub>[58121f9a](https://gitlab.com/snowgem/bitfrost/-/commit/58121f9aaacd4d80faef076c32212bdcf277ffe6): hiding tapbar for support page - Filip Storkan</sub> |
 | <sub>2021-03-16 10:13:16</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2ab4dc474884c25b0f89e4e34f162ca8461e825c...f4e83c025785ec56194e5d6e4eaa794aa5328d69))</sub> | <sub>[1f066ea0](https://gitlab.com/snowgem/bitfrost/-/commit/1f066ea0ed5c97dfac9fd6ffefc54d1c88895d0f): translation updates - Filip Storkan<br>[f4e83c02](https://gitlab.com/snowgem/bitfrost/-/commit/f4e83c025785ec56194e5d6e4eaa794aa5328d69): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan</sub> |
 | <sub>2021-03-16 10:03:40</sub> | <sub>Txid (txid) merged merge request [\!199 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/199) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-16 09:55:22</sub> | <sub>Jan Vraštil removed branch Fresh_desk_implementation from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4051 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-16 09:27:10</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1bd27df46fe82367f9480a77af2206542441b8f4...fc035ecfa6a5fa801b655a0e6f247c36fe8d2ffd))</sub> | <sub>[fc035ecf](https://gitlab.com/snowgem/bitfrost/-/commit/fc035ecfa6a5fa801b655a0e6f247c36fe8d2ffd): fix lint - Snowgem</sub> |
 | <sub>2021-03-16 09:25:49</sub> | <sub>Jan Vraštil pushed to branch [Fresh\_desk\_implementation](https://gitlab.com/snowgem/bitfrost/commits/Fresh_desk_implementation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0b689c0e3a3fd95c4ddb55ae97abdadefaa8a47e...4b4d9c533a25ca207979ecb5a44d49d7a5af12fc))</sub> | <sub>[4b4d9c53](https://gitlab.com/snowgem/bitfrost/-/commit/4b4d9c533a25ca207979ecb5a44d49d7a5af12fc): feature/142 - Fresh desk issue implementation - WIP - jan.vrastil</sub> |
 | <sub>2021-03-16 09:18:50</sub> | <sub>Txid (txid) opened merge request [\!199 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/199) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-03-16 09:18:20</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!198 \*feature/142 \- Fresh desk implementation\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/198) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
