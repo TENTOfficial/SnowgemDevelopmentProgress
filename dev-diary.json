@@ -39437,5 +39437,35 @@
       "description": "[664ed29c](https://gitlab.com/snowgem/bitfrost/-/commit/664ed29c892cff3061e5a27711760d7c599d3922): Build fix - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!203 \\*restore package\\-lock\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/203) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-16 16:01:06.788000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/43bf1579a3c3b7ac16e6f4743687bca8d352809f...7a9214a342ee6ddeaa256ea771b0c4b3216d931e))",
+    "created_at": "2021-03-16 16:01:13.956000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4c780d17](https://gitlab.com/snowgem/bitfrost/-/commit/4c780d17a5853386ae2977f9debd0fac4fbd9707): restore package-lock - Snowgem\n\n[7a9214a3](https://gitlab.com/snowgem/bitfrost/-/commit/7a9214a342ee6ddeaa256ea771b0c4b3216d931e): Merge branch 'package-lock' into 'v0.1.5' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!203 \\*restore package\\-lock\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/203) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-16 16:01:24.404000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7a9214a342ee6ddeaa256ea771b0c4b3216d931e...a549c08cde20a0712c2a0e75d3b527e84c6f84d6))",
+    "created_at": "2021-03-16 16:04:08.374000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[945f7cfa](https://gitlab.com/snowgem/bitfrost/-/commit/945f7cfad64586839add67a63519610d7a723acc): remove email field in wallet - Snowgem\n\n[bd52d3a4](https://gitlab.com/snowgem/bitfrost/-/commit/bd52d3a41119c0a3665f1850a24d5f85f08e6200): mpdify import old msed text - Snowgem\n\n[a549c08c](https://gitlab.com/snowgem/bitfrost/-/commit/a549c08cde20a0712c2a0e75d3b527e84c6f84d6): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
