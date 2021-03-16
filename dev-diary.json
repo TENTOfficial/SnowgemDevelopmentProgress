@@ -39417,5 +39417,15 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [package\\-lock](https://gitlab.com/snowgem/bitfrost/commits/package-lock) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-16 15:33:05.256000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [Build\\_fix](https://gitlab.com/snowgem/bitfrost/commits/Build_fix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d26f9a78960d600d010e28023d0aea04c63b8c60...ae6916a5eb667a5156644b5f82dcf36995c57eba))",
+    "created_at": "2021-03-16 15:39:31.177000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ae6916a5](https://gitlab.com/snowgem/bitfrost/-/commit/ae6916a5eb667a5156644b5f82dcf36995c57eba): Build fix - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
