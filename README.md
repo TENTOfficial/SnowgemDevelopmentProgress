@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4067 commits since 20/01/2020. You can see the complete history in
+There is a total of 4068 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-16 14:42:59</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3b0fe14a79296f7a0ce668f666597f2c6d8db160...0d715ca18948beb92c2afa1601d359624d206574))</sub> | <sub>[0d715ca1](https://gitlab.com/snowgem/bitfrost/-/commit/0d715ca18948beb92c2afa1601d359624d206574): increase ios build ver - Snowgem</sub> |
 | <sub>2021-03-16 14:38:27</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7f75fd907277ffbb6b3d8498effa1567cd917988...3b0fe14a79296f7a0ce668f666597f2c6d8db160))</sub> | <sub>[3b0fe14a](https://gitlab.com/snowgem/bitfrost/-/commit/3b0fe14a79296f7a0ce668f666597f2c6d8db160): update package-lock - Snowgem</sub> |
 | <sub>2021-03-16 14:12:11</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d19d8320e4d9f8ca3b8ecb91d29ea43cb3d948ce...7f75fd907277ffbb6b3d8498effa1567cd917988))</sub> | <sub>[4f09799c](https://gitlab.com/snowgem/bitfrost/-/commit/4f09799c0739558942f1e3ca4807410952a9b00b): update package-lock - Snowgem<br>[7f75fd90](https://gitlab.com/snowgem/bitfrost/-/commit/7f75fd907277ffbb6b3d8498effa1567cd917988): fix conflict - Snowgem</sub> |
 | <sub>2021-03-16 14:03:09</sub> | <sub>Jan Vraštil pushed to branch [Decta\_iframe](https://gitlab.com/snowgem/bitfrost/commits/Decta_iframe) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6a7f7118067c6e0e28e23134fef5fbed196ef114...fa981a420cd0169f91e68fd43205043d6fea5ec2))</sub> | <sub>[d19d8320](https://gitlab.com/snowgem/bitfrost/-/commit/d19d8320e4d9f8ca3b8ecb91d29ea43cb3d948ce): Fix package-lock.json - jan.vrastil<br>[fa981a42](https://gitlab.com/snowgem/bitfrost/-/commit/fa981a420cd0169f91e68fd43205043d6fea5ec2): Implement DECTA payment gateway as an iframe - jan.vrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 4067 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-16 12:56:37</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!201 \*WIP: Decta \-  iframe\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/201) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-16 12:56:00</sub> | <sub>Jan Vraštil pushed new branch [Decta\_iframe](https://gitlab.com/snowgem/bitfrost/commits/Decta_iframe) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-16 12:54:06</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/114b5343c34e406af963f6ebe0189124760edb9c...e475b6a0f10d156e2f0db253fe1e5fea9cf5229b))</sub> | <sub>[e475b6a0](https://gitlab.com/snowgem/bitfrost/-/commit/e475b6a0f10d156e2f0db253fe1e5fea9cf5229b): update package - Snowgem</sub> |
-| <sub>2021-03-16 12:08:29</sub> | <sub>Txid (txid) merged merge request [\!200 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/200) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

@@ -39352,5 +39352,15 @@
       "description": "[3b0fe14a](https://gitlab.com/snowgem/bitfrost/-/commit/3b0fe14a79296f7a0ce668f666597f2c6d8db160): update package-lock - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3b0fe14a79296f7a0ce668f666597f2c6d8db160...0d715ca18948beb92c2afa1601d359624d206574))",
+    "created_at": "2021-03-16 14:42:59.694000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0d715ca1](https://gitlab.com/snowgem/bitfrost/-/commit/0d715ca18948beb92c2afa1601d359624d206574): increase ios build ver - Snowgem",
+      "type": "rich"
+    }
   }
 ]
