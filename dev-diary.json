@@ -39177,5 +39177,25 @@
       "description": "[3b3f3a79](https://gitlab.com/snowgem/bitfrost/-/commit/3b3f3a79004e773156df097510a9e8df83eadf2d): fix styling - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!198 \\*feature/142 \\- Fresh desk implementation\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/198) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-16 09:55:22.091000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fc035ecfa6a5fa801b655a0e6f247c36fe8d2ffd...2ab4dc474884c25b0f89e4e34f162ca8461e825c))",
+    "created_at": "2021-03-16 09:55:22.825000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a11aac47](https://gitlab.com/snowgem/bitfrost/-/commit/a11aac473a22b77dbca1a0c7d5ec21526ebf4d56): feature/142 - Fresh desk implementation - Jan Vra\u0161til\n\n[2ab4dc47](https://gitlab.com/snowgem/bitfrost/-/commit/2ab4dc474884c25b0f89e4e34f162ca8461e825c): Merge branch 'Fresh_desk_implementation' into 'v0.1.5' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch Fresh_desk_implementation from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-16 09:55:22.875000"
   }
 ]
