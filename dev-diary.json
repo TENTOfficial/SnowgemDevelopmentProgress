@@ -39202,5 +39202,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!199 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/199) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-16 10:03:40.108000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2ab4dc474884c25b0f89e4e34f162ca8461e825c...f4e83c025785ec56194e5d6e4eaa794aa5328d69))",
+    "created_at": "2021-03-16 10:13:16.134000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1f066ea0](https://gitlab.com/snowgem/bitfrost/-/commit/1f066ea0ed5c97dfac9fd6ffefc54d1c88895d0f): translation updates - Filip Storkan\n\n[f4e83c02](https://gitlab.com/snowgem/bitfrost/-/commit/f4e83c025785ec56194e5d6e4eaa794aa5328d69): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
