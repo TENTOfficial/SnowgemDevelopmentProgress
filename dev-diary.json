@@ -39267,5 +39267,10 @@
       "description": "[114b5343](https://gitlab.com/snowgem/bitfrost/-/commit/114b5343c34e406af963f6ebe0189124760edb9c): restore package - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!200 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/200) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-16 12:08:29.648000"
   }
 ]
