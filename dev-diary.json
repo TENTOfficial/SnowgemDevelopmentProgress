@@ -39237,5 +39237,25 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!200 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/200) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-16 11:02:47.213000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b3f2991e8a4d2066133dc40a2457b82f00c43b05...4aef61318c0d654744401a265dbd922f14d6651d))",
+    "created_at": "2021-03-16 11:15:44.665000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5220f45a](https://gitlab.com/snowgem/bitfrost/-/commit/5220f45a1b7e2f85ee3a9b2f630ae032afd33cd8): is verification detection updated - Filip Storkan\n\n[613e7193](https://gitlab.com/snowgem/bitfrost/-/commit/613e71937398b42fe8f3ed38c8c92c1ecf7867f0): lock page redirect update - Filip Storkan\n\n[32dbc66d](https://gitlab.com/snowgem/bitfrost/-/commit/32dbc66d7e9e5bd5b60f55d5ef944bb47f9885d0): report success page - Filip Storkan\n\n[a63ac5db](https://gitlab.com/snowgem/bitfrost/-/commit/a63ac5db51c2603dc0f30809166e6ef425fe31dc): style changed for swiper section button - Filip Storkan\n\n[725b1322](https://gitlab.com/snowgem/bitfrost/-/commit/725b13222282a63e247792ec0227eab746e96bca): upadting translations - Filip Storkan\n\n[4aef6131](https://gitlab.com/snowgem/bitfrost/-/commit/4aef61318c0d654744401a265dbd922f14d6651d): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4aef61318c0d654744401a265dbd922f14d6651d...28be7bff604b0c130395245421f9a9e650d0c278))",
+    "created_at": "2021-03-16 11:16:09.905000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[32a04f48](https://gitlab.com/snowgem/bitfrost/-/commit/32a04f48cf984564761d3648fdd2af2e22238491): remove zone.js - Snowgem\n\n[28be7bff](https://gitlab.com/snowgem/bitfrost/-/commit/28be7bff604b0c130395245421f9a9e650d0c278): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
