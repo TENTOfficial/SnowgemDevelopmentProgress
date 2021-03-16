@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4059 commits since 20/01/2020. You can see the complete history in
+There is a total of 4061 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-16 12:56:37</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!201 \*WIP: Decta \-  iframe\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/201) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-03-16 12:56:00</sub> | <sub>Jan Vraštil pushed new branch [Decta\_iframe](https://gitlab.com/snowgem/bitfrost/commits/Decta_iframe) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-16 12:54:06</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/114b5343c34e406af963f6ebe0189124760edb9c...e475b6a0f10d156e2f0db253fe1e5fea9cf5229b))</sub> | <sub>[e475b6a0](https://gitlab.com/snowgem/bitfrost/-/commit/e475b6a0f10d156e2f0db253fe1e5fea9cf5229b): update package - Snowgem</sub> |
 | <sub>2021-03-16 12:08:29</sub> | <sub>Txid (txid) merged merge request [\!200 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/200) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-16 11:53:35</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/28be7bff604b0c130395245421f9a9e650d0c278...114b5343c34e406af963f6ebe0189124760edb9c))</sub> | <sub>[114b5343](https://gitlab.com/snowgem/bitfrost/-/commit/114b5343c34e406af963f6ebe0189124760edb9c): restore package - Snowgem</sub> |
@@ -16,7 +18,5 @@ There is a total of 4059 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-16 11:02:47</sub> | <sub>Txid (txid) opened merge request [\!200 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/200) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-16 11:02:26</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/58121f9aaacd4d80faef076c32212bdcf277ffe6...b3f2991e8a4d2066133dc40a2457b82f00c43b05))</sub> | <sub>[b3f2991e](https://gitlab.com/snowgem/bitfrost/-/commit/b3f2991e8a4d2066133dc40a2457b82f00c43b05): update packages - Snowgem</sub> |
 | <sub>2021-03-16 10:16:34</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f4e83c025785ec56194e5d6e4eaa794aa5328d69...58121f9aaacd4d80faef076c32212bdcf277ffe6))</sub> | <sub>[58121f9a](https://gitlab.com/snowgem/bitfrost/-/commit/58121f9aaacd4d80faef076c32212bdcf277ffe6): hiding tapbar for support page - Filip Storkan</sub> |
-| <sub>2021-03-16 10:13:16</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2ab4dc474884c25b0f89e4e34f162ca8461e825c...f4e83c025785ec56194e5d6e4eaa794aa5328d69))</sub> | <sub>[1f066ea0](https://gitlab.com/snowgem/bitfrost/-/commit/1f066ea0ed5c97dfac9fd6ffefc54d1c88895d0f): translation updates - Filip Storkan<br>[f4e83c02](https://gitlab.com/snowgem/bitfrost/-/commit/f4e83c025785ec56194e5d6e4eaa794aa5328d69): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan</sub> |
-| <sub>2021-03-16 10:03:40</sub> | <sub>Txid (txid) merged merge request [\!199 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/199) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
