@@ -39147,5 +39147,25 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!199 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/199) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-16 09:18:50.243000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [Fresh\\_desk\\_implementation](https://gitlab.com/snowgem/bitfrost/commits/Fresh_desk_implementation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0b689c0e3a3fd95c4ddb55ae97abdadefaa8a47e...4b4d9c533a25ca207979ecb5a44d49d7a5af12fc))",
+    "created_at": "2021-03-16 09:25:49.076000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4b4d9c53](https://gitlab.com/snowgem/bitfrost/-/commit/4b4d9c533a25ca207979ecb5a44d49d7a5af12fc): feature/142 - Fresh desk issue implementation - WIP - jan.vrastil",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1bd27df46fe82367f9480a77af2206542441b8f4...fc035ecfa6a5fa801b655a0e6f247c36fe8d2ffd))",
+    "created_at": "2021-03-16 09:27:10.923000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fc035ecf](https://gitlab.com/snowgem/bitfrost/-/commit/fc035ecfa6a5fa801b655a0e6f247c36fe8d2ffd): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
