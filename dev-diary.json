@@ -39562,5 +39562,15 @@
       "description": "[51aa77ca](https://gitlab.com/snowgem/bitfrost/-/commit/51aa77ca349e3269f992749b61e133f6d6aafa24): fix eth fiat value in sendoverview page - Snowgem\n\n[5a2c7d45](https://gitlab.com/snowgem/bitfrost/-/commit/5a2c7d457b4a97a90926feaf3be642b09f91a9f4): handle negative amount in send and swap page - Snowgem\n\n[41b9e66a](https://gitlab.com/snowgem/bitfrost/-/commit/41b9e66ad6f0d09d1b0f2c9f79ca23440fdcd690): fix #353, show warning if there's any unconfirmation in wallet - Snowgem\n\n[c941eeef](https://gitlab.com/snowgem/bitfrost/-/commit/c941eeef18f671bc1ec7009a119ad0ce7a58cb92): remove sumcoin - Snowgem\n\n[d7e33863](https://gitlab.com/snowgem/bitfrost/-/commit/d7e33863deb390d2a62735cf2b2641c03863b973): remove generate new msed - Snowgem\n\n[c788a927](https://gitlab.com/snowgem/bitfrost/-/commit/c788a927472ba275822cecff97fdabcbbddf62fb): fix change masterseed behavior - Snowgem\n\n[01a27d43](https://gitlab.com/snowgem/bitfrost/-/commit/01a27d43a4b24db64235d8d9830d9a9a4e54e001): Implement DECTA payment gateway as an iframe - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e9e59721a6c2e3326bb97c0eeeeb6a945f8a22a7...5e43c6aa812fc4e92de580a9b898cdbebaf49e9c))",
+    "created_at": "2021-03-17 15:13:40.927000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5e43c6aa](https://gitlab.com/snowgem/bitfrost/-/commit/5e43c6aa812fc4e92de580a9b898cdbebaf49e9c): Fixes for DECTA - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
