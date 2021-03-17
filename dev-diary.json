@@ -39572,5 +39572,15 @@
       "description": "[5e43c6aa](https://gitlab.com/snowgem/bitfrost/-/commit/5e43c6aa812fc4e92de580a9b898cdbebaf49e9c): Fixes for DECTA - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5e43c6aa812fc4e92de580a9b898cdbebaf49e9c...455ecfabf7e8e093824355bb9729250a390f0ad8))",
+    "created_at": "2021-03-17 15:43:44.591000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[455ecfab](https://gitlab.com/snowgem/bitfrost/-/commit/455ecfabf7e8e093824355bb9729250a390f0ad8): Build fix - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
