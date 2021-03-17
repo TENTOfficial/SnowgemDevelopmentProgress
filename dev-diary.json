@@ -39582,5 +39582,15 @@
       "description": "[455ecfab](https://gitlab.com/snowgem/bitfrost/-/commit/455ecfabf7e8e093824355bb9729250a390f0ad8): Build fix - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/455ecfabf7e8e093824355bb9729250a390f0ad8...e7de484157dad67b139a768ca93d4e0771426195))",
+    "created_at": "2021-03-17 17:14:54.514000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[24daa901](https://gitlab.com/snowgem/bitfrost/-/commit/24daa901d44124a398dda0b1bb416e601c00afd9): error translation - Filip Storkan\n\n[66367fc1](https://gitlab.com/snowgem/bitfrost/-/commit/66367fc1066a084c0f90335e18d5075e657a5d78): import fix - Filip Storkan\n\n[f1f4875a](https://gitlab.com/snowgem/bitfrost/-/commit/f1f4875abb5b7812472bff47f8dd25aedb38c1df): swap status translations - Filip Storkan\n\n[e7de4841](https://gitlab.com/snowgem/bitfrost/-/commit/e7de484157dad67b139a768ca93d4e0771426195): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
