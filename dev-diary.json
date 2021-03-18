@@ -39687,5 +39687,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [new\\_machine](https://gitlab.com/snowgem/activation-tent-microsite/commits/new_machine) to [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
     "created_at": "2021-03-18 15:39:59.319000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1005969df23504141312893f416f99783a7cd24d...71f1edbd8c0bd0750998f12d272747b6ff8ade12))",
+    "created_at": "2021-03-18 15:42:37.218000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[64b8e507](https://gitlab.com/snowgem/bitfrost/-/commit/64b8e507963ea5fa33bd50d8154757a79502668b): adding a ws event for gateway payment - Filip Storkan\n\n[3a5fe133](https://gitlab.com/snowgem/bitfrost/-/commit/3a5fe1336a280aaa8a2286767856359d891d1046): fixing offset on swap page - Filip Storkan\n\n[f82dc79a](https://gitlab.com/snowgem/bitfrost/-/commit/f82dc79aa666b27792d87d240d52735121b839c6): fix - Filip Storkan\n\n[71f1edbd](https://gitlab.com/snowgem/bitfrost/-/commit/71f1edbd8c0bd0750998f12d272747b6ff8ade12): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
