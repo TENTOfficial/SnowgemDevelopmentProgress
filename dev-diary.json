@@ -39612,5 +39612,15 @@
       "description": "[24daa901](https://gitlab.com/snowgem/bitfrost/-/commit/24daa901d44124a398dda0b1bb416e601c00afd9): error translation - Filip Storkan\n\n[455ecfab](https://gitlab.com/snowgem/bitfrost/-/commit/455ecfabf7e8e093824355bb9729250a390f0ad8): Build fix - jan.vrastil\n\n[66367fc1](https://gitlab.com/snowgem/bitfrost/-/commit/66367fc1066a084c0f90335e18d5075e657a5d78): import fix - Filip Storkan\n\n[f1f4875a](https://gitlab.com/snowgem/bitfrost/-/commit/f1f4875abb5b7812472bff47f8dd25aedb38c1df): swap status translations - Filip Storkan\n\n[e7de4841](https://gitlab.com/snowgem/bitfrost/-/commit/e7de484157dad67b139a768ca93d4e0771426195): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan\n\n[1fad6c99](https://gitlab.com/snowgem/bitfrost/-/commit/1fad6c99bfddfab4d09b6316b1b46fa08fb7ac69): Fix minimum fiat amount - jan.vrastil\n\n[7e57f4eb](https://gitlab.com/snowgem/bitfrost/-/commit/7e57f4eb8b39ea6e6a5773bc1ae8f192d33691f5): Implement DECTA payment gateway as an iframe - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1fad6c99bfddfab4d09b6316b1b46fa08fb7ac69...890c2cf6eea37c6663dd528de15343d663628ccf))",
+    "created_at": "2021-03-18 11:03:16.439000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b436f556](https://gitlab.com/snowgem/bitfrost/-/commit/b436f556a79f0fe2eb873faf8b6d72c5a6ca00e6): fix estimate swap behavior - Snowgem\n\n[74b9f9e9](https://gitlab.com/snowgem/bitfrost/-/commit/74b9f9e98e95c7c84f8d5e9db4b989f796de098b): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem\n\n[fb4f6a04](https://gitlab.com/snowgem/bitfrost/-/commit/fb4f6a04ca93b61cb12072deeb80192f6e97c1cc): fix swap on mobile - Snowgem\n\n[890c2cf6](https://gitlab.com/snowgem/bitfrost/-/commit/890c2cf6eea37c6663dd528de15343d663628ccf): Merge branch 'v-1.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
