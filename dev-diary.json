@@ -39672,5 +39672,15 @@
       "description": "[67f8228b](https://gitlab.com/snowgem/bitfrost/-/commit/67f8228bd9a9ed76b003a3f85f9b0c6477887d70): Fix for DECTA - jan.vrastil\n\n[1005969d](https://gitlab.com/snowgem/bitfrost/-/commit/1005969df23504141312893f416f99783a7cd24d): Merge remote-tracking branch 'origin/v0.1.5' into v0.1.5 - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!205 \\*card overview requested data update\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/205) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-18 13:28:30.470000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!205 \\*card overview requested data update\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/205) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-18 13:28:36.852000"
   }
 ]
