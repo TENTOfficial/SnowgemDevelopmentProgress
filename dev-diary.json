@@ -39702,5 +39702,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!5 \\*Update script for new machine \\- 209\\.145\\.50\\.255\\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/5) in [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
     "created_at": "2021-03-18 15:48:52.990000"
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/71f1edbd8c0bd0750998f12d272747b6ff8ade12...6a743aa2abed0178f319797c99bf1ff4bc38e05c))",
+    "created_at": "2021-03-18 19:23:07.637000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6a743aa2](https://gitlab.com/snowgem/bitfrost/-/commit/6a743aa2abed0178f319797c99bf1ff4bc38e05c): fixed json - ciripel",
+      "type": "rich"
+    }
   }
 ]
