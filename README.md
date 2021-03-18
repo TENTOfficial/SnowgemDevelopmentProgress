@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4112 commits since 20/01/2020. You can see the complete history in
+There is a total of 4113 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-18 22:18:39</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c249e529018bdb97ad621a07d773293daf08a5a3...04b5e1ff42d31f341cb79df243556dec922c6905))</sub> | <sub>[04b5e1ff](https://gitlab.com/snowgem/bitfrost/-/commit/04b5e1ff42d31f341cb79df243556dec922c6905): button transaltion update - Filip Storkan</sub> |
 | <sub>2021-03-18 21:51:44</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6a743aa2abed0178f319797c99bf1ff4bc38e05c...c249e529018bdb97ad621a07d773293daf08a5a3))</sub> | <sub>[84e68bf9](https://gitlab.com/snowgem/bitfrost/-/commit/84e68bf9dbb52ff064d4499161ee15689734dfe7): Pucrhase with external gateway - Filip Storkan<br>[c249e529](https://gitlab.com/snowgem/bitfrost/-/commit/c249e529018bdb97ad621a07d773293daf08a5a3): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan</sub> |
 | <sub>2021-03-18 19:39:48</sub> | <sub>[[TENT-CoreLangPack:master] 1 new commit](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/eacbc41cf7d7c6430e272b91958c26ffdb7bf824)</sub> | <sub>[eacbc41](https://github.com/TENTOfficial/TENT-CoreLangPack/commit/eacbc41cf7d7c6430e272b91958c26ffdb7bf824) fixed RU and IT - ciripel</sub> |
 | <sub>2021-03-18 19:36:08</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/bd59169927b696377c1fcbf47f08d90f4206a50d...a5efac77f7c22021018037ae128fa68419571ff0))</sub> | <sub>[a5efac77](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/a5efac77f7c22021018037ae128fa68419571ff0): fixes in RU and IT. - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4112 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-18 15:39:59</sub> | <sub>Jan Vraštil pushed new branch [new\_machine](https://gitlab.com/snowgem/activation-tent-microsite/commits/new_machine) to [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-18 13:28:36</sub> | <sub>Txid (txid) merged merge request [\!205 \*card overview requested data update\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/205) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-18 13:28:30</sub> | <sub>Txid (txid) opened merge request [\!205 \*card overview requested data update\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/205) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-03-18 13:11:32</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6ae148e9d9d2b9fa383b293f6c82b1d239c40150...1005969df23504141312893f416f99783a7cd24d))</sub> | <sub>[67f8228b](https://gitlab.com/snowgem/bitfrost/-/commit/67f8228bd9a9ed76b003a3f85f9b0c6477887d70): Fix for DECTA - jan.vrastil<br>[1005969d](https://gitlab.com/snowgem/bitfrost/-/commit/1005969df23504141312893f416f99783a7cd24d): Merge remote-tracking branch 'origin/v0.1.5' into v0.1.5 - jan.vrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

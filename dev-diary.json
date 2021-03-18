@@ -39750,5 +39750,15 @@
       "description": "[84e68bf9](https://gitlab.com/snowgem/bitfrost/-/commit/84e68bf9dbb52ff064d4499161ee15689734dfe7): Pucrhase with external gateway - Filip Storkan\n\n[c249e529](https://gitlab.com/snowgem/bitfrost/-/commit/c249e529018bdb97ad621a07d773293daf08a5a3): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c249e529018bdb97ad621a07d773293daf08a5a3...04b5e1ff42d31f341cb79df243556dec922c6905))",
+    "created_at": "2021-03-18 22:18:39.968000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[04b5e1ff](https://gitlab.com/snowgem/bitfrost/-/commit/04b5e1ff42d31f341cb79df243556dec922c6905): button transaltion update - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
