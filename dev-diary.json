@@ -39662,5 +39662,15 @@
       "description": "[6ae148e9](https://gitlab.com/snowgem/bitfrost/-/commit/6ae148e9d9d2b9fa383b293f6c82b1d239c40150): increase ios build ver - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6ae148e9d9d2b9fa383b293f6c82b1d239c40150...1005969df23504141312893f416f99783a7cd24d))",
+    "created_at": "2021-03-18 13:11:32.870000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[67f8228b](https://gitlab.com/snowgem/bitfrost/-/commit/67f8228bd9a9ed76b003a3f85f9b0c6477887d70): Fix for DECTA - jan.vrastil\n\n[1005969d](https://gitlab.com/snowgem/bitfrost/-/commit/1005969df23504141312893f416f99783a7cd24d): Merge remote-tracking branch 'origin/v0.1.5' into v0.1.5 - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
