@@ -39602,5 +39602,15 @@
       "description": "[1fad6c99](https://gitlab.com/snowgem/bitfrost/-/commit/1fad6c99bfddfab4d09b6316b1b46fa08fb7ac69): Fix minimum fiat amount - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [Decta\\_iframe](https://gitlab.com/snowgem/bitfrost/commits/Decta_iframe) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2b5c6d3f93f908cca17ac9bc35c11488115d78b9...7e57f4eb8b39ea6e6a5773bc1ae8f192d33691f5))",
+    "created_at": "2021-03-18 09:25:43.339000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[24daa901](https://gitlab.com/snowgem/bitfrost/-/commit/24daa901d44124a398dda0b1bb416e601c00afd9): error translation - Filip Storkan\n\n[455ecfab](https://gitlab.com/snowgem/bitfrost/-/commit/455ecfabf7e8e093824355bb9729250a390f0ad8): Build fix - jan.vrastil\n\n[66367fc1](https://gitlab.com/snowgem/bitfrost/-/commit/66367fc1066a084c0f90335e18d5075e657a5d78): import fix - Filip Storkan\n\n[f1f4875a](https://gitlab.com/snowgem/bitfrost/-/commit/f1f4875abb5b7812472bff47f8dd25aedb38c1df): swap status translations - Filip Storkan\n\n[e7de4841](https://gitlab.com/snowgem/bitfrost/-/commit/e7de484157dad67b139a768ca93d4e0771426195): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan\n\n[1fad6c99](https://gitlab.com/snowgem/bitfrost/-/commit/1fad6c99bfddfab4d09b6316b1b46fa08fb7ac69): Fix minimum fiat amount - jan.vrastil\n\n[7e57f4eb](https://gitlab.com/snowgem/bitfrost/-/commit/7e57f4eb8b39ea6e6a5773bc1ae8f192d33691f5): Implement DECTA payment gateway as an iframe - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
