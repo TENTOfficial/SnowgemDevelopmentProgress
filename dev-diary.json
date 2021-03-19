@@ -39790,5 +39790,15 @@
       "description": "[3c039483](https://gitlab.com/snowgem/bitfrost/-/commit/3c0394832a52f31ea698688ff5a7d9fc7856de05): loading is stopped with ws response - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3c0394832a52f31ea698688ff5a7d9fc7856de05...ef0f574ce4bac3c315a5b341d883d506e8dca018))",
+    "created_at": "2021-03-19 13:33:30.362000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ef0f574c](https://gitlab.com/snowgem/bitfrost/-/commit/ef0f574ce4bac3c315a5b341d883d506e8dca018): fix #355 import and add wallet - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
