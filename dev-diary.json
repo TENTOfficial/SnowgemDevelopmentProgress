@@ -39800,5 +39800,15 @@
       "description": "[ef0f574c](https://gitlab.com/snowgem/bitfrost/-/commit/ef0f574ce4bac3c315a5b341d883d506e8dca018): fix #355 import and add wallet - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ef0f574ce4bac3c315a5b341d883d506e8dca018...0e7b8486b7f566397fa315333d9b84fea5aeef1a))",
+    "created_at": "2021-03-19 14:34:29.053000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[067c96cf](https://gitlab.com/snowgem/bitfrost/-/commit/067c96cfa785e2720dd1a8d7bb0a25e868815f45): fix eth estimate behavior, only patch input if data is changed - Snowgem\n\n[0e7b8486](https://gitlab.com/snowgem/bitfrost/-/commit/0e7b8486b7f566397fa315333d9b84fea5aeef1a): Merge branch 'v-1.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
