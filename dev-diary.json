@@ -39820,5 +39820,15 @@
       "description": "[29eb7e21](https://gitlab.com/snowgem/bitfrost/-/commit/29eb7e211dd562961a411fa4b1b347e4e119ab71): update new server urls - Snowgem\n\n[2cee6da4](https://gitlab.com/snowgem/bitfrost/-/commit/2cee6da4d7682f956a897d613fbf3a1b8e2479ef): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2cee6da4d7682f956a897d613fbf3a1b8e2479ef...27f214ddc51f7e843a552bec240c470d56adda52))",
+    "created_at": "2021-03-20 09:57:53.479000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[27f214dd](https://gitlab.com/snowgem/bitfrost/-/commit/27f214ddc51f7e843a552bec240c470d56adda52): increase ios build ver - Snowgem",
+      "type": "rich"
+    }
   }
 ]
