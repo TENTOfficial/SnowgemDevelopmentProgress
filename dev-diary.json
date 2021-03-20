@@ -39830,5 +39830,15 @@
       "description": "[27f214dd](https://gitlab.com/snowgem/bitfrost/-/commit/27f214ddc51f7e843a552bec240c470d56adda52): increase ios build ver - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!206 \\*Pucrhase with external gateway\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/206) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-20 10:08:56.847000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!206 \\*Pucrhase with external gateway\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/206) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-20 10:09:22.551000"
   }
 ]
