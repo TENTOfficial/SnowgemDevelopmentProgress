@@ -39870,5 +39870,15 @@
       "description": "[26ddb348](https://gitlab.com/snowgem/bitfrost/-/commit/26ddb34809d8e9a78e21a890a1f617f968d42c18): show delete button in tool page for old wallet type - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/26ddb34809d8e9a78e21a890a1f617f968d42c18...d3ded7c2b9e5b41fb32ebea7fc51f3ffb23a455b))",
+    "created_at": "2021-03-22 13:08:27.907000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d3ded7c2](https://gitlab.com/snowgem/bitfrost/-/commit/d3ded7c2b9e5b41fb32ebea7fc51f3ffb23a455b): scan wallet again after added - Snowgem",
+      "type": "rich"
+    }
   }
 ]
