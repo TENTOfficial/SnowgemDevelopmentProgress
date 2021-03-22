@@ -39850,5 +39850,15 @@
       "description": "[0566cd45](https://gitlab.com/snowgem/bitfrost/-/commit/0566cd45ea09023987117c1b8bc653394147737a): default value for icon id in swap - Snowgem\n\n[091a1a0a](https://gitlab.com/snowgem/bitfrost/-/commit/091a1a0a7c52961e5e3b56a4f5c4cc5f011a9126): add cache if null - Snowgem\n\n[52e6ee6d](https://gitlab.com/snowgem/bitfrost/-/commit/52e6ee6d2047aaef644e4ef871b1c91af5202deb): select option in export page - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/52e6ee6d2047aaef644e4ef871b1c91af5202deb...06b6432d695d27bee425cf33548e0d8753fc14f6))",
+    "created_at": "2021-03-22 09:55:30.958000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[06b6432d](https://gitlab.com/snowgem/bitfrost/-/commit/06b6432d695d27bee425cf33548e0d8753fc14f6): fix #369, show the correct message - Snowgem",
+      "type": "rich"
+    }
   }
 ]
