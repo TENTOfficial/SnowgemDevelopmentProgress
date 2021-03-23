@@ -39910,5 +39910,15 @@
       "description": "[bbff6f72](https://gitlab.com/snowgem/bitfrost/-/commit/bbff6f727b6b66d1b8040cd55224ced3aa226cbb): increase ios version - DaX",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "DaX pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bbff6f727b6b66d1b8040cd55224ced3aa226cbb...483c42d9d150aaa3e4147c0092aab9e10cb0dd5b))",
+    "created_at": "2021-03-23 10:14:45.646000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[483c42d9](https://gitlab.com/snowgem/bitfrost/-/commit/483c42d9d150aaa3e4147c0092aab9e10cb0dd5b): increase ios version - DaX",
+      "type": "rich"
+    }
   }
 ]
