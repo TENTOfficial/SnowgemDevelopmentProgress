@@ -40040,5 +40040,25 @@
       "description": "[eb24b7c3](https://gitlab.com/snowgem/bitfrost/-/commit/eb24b7c302a3f778f045417d32a7e611f3c4a093): fix ok/cancel text ion-select, fix build - Snowgem\n\n[84920b07](https://gitlab.com/snowgem/bitfrost/-/commit/84920b07b819b5baf7f4caf84bbbb7422d98e65d): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!209 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/209) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-25 08:30:49.487000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!209 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/209) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-25 08:31:08.875000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ebc092ccb346600a166fe1f2100da667e1245c94...e5d7bce8cbaacf2ffe4af31a636d1842e68194f0))",
+    "created_at": "2021-03-25 08:31:09.483000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d3d1a001](https://gitlab.com/snowgem/bitfrost/-/commit/d3d1a0011ed2b22dc419dcced613c66803aa7731): Fix incorrect translation for 'completed purchases' - jan.vrastil\n\n[eb24b7c3](https://gitlab.com/snowgem/bitfrost/-/commit/eb24b7c302a3f778f045417d32a7e611f3c4a093): fix ok/cancel text ion-select, fix build - Snowgem\n\n[84920b07](https://gitlab.com/snowgem/bitfrost/-/commit/84920b07b819b5baf7f4caf84bbbb7422d98e65d): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem\n\n[e5d7bce8](https://gitlab.com/snowgem/bitfrost/-/commit/e5d7bce8cbaacf2ffe4af31a636d1842e68194f0): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
