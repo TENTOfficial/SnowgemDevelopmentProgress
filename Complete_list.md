@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-25 08:20:12</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2a9cd5f85be2cd42aa7d5ad3777af58ec517f1d6...d3d1a0011ed2b22dc419dcced613c66803aa7731))</sub> | <sub>[d3d1a001](https://gitlab.com/snowgem/bitfrost/-/commit/d3d1a0011ed2b22dc419dcced613c66803aa7731): Fix incorrect translation for 'completed purchases' - jan.vrastil</sub> |
 | <sub>2021-03-25 08:12:34</sub> | <sub>Txid (txid) merged merge request [\!208 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/208) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-25 08:09:47</sub> | <sub>Txid (txid) opened merge request [\!208 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/208) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-25 08:09:17</sub> | <sub>Txid removed branch fix/purchases-icons-and-values from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |

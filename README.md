@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4143 commits since 20/01/2020. You can see the complete history in
+There is a total of 4144 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-25 08:20:12</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2a9cd5f85be2cd42aa7d5ad3777af58ec517f1d6...d3d1a0011ed2b22dc419dcced613c66803aa7731))</sub> | <sub>[d3d1a001](https://gitlab.com/snowgem/bitfrost/-/commit/d3d1a0011ed2b22dc419dcced613c66803aa7731): Fix incorrect translation for 'completed purchases' - jan.vrastil</sub> |
 | <sub>2021-03-25 08:12:34</sub> | <sub>Txid (txid) merged merge request [\!208 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/208) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-25 08:09:47</sub> | <sub>Txid (txid) opened merge request [\!208 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/208) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-25 08:09:17</sub> | <sub>Txid removed branch fix/purchases-icons-and-values from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4143 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-25 07:58:06</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fe6a1ace6ee65a52900042ba700ef215257a2939...a19ba1d607625285d5498ff16b0d26c123e09784))</sub> | <sub>[a19ba1d6](https://gitlab.com/snowgem/bitfrost/-/commit/a19ba1d607625285d5498ff16b0d26c123e09784): add ionchange on selecting account - Snowgem</sub> |
 | <sub>2021-03-25 07:45:15</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9371ccdea73c7bcd66f6ae953ec40e66d4373f33...fe6a1ace6ee65a52900042ba700ef215257a2939))</sub> | <sub>[fe6a1ace](https://gitlab.com/snowgem/bitfrost/-/commit/fe6a1ace6ee65a52900042ba700ef215257a2939): fix #378, #379 - Snowgem</sub> |
 | <sub>2021-03-25 07:02:16</sub> | <sub>Daniil Lisovskiy pushed to branch [fix/purchases\-icons\-and\-values](https://gitlab.com/snowgem/bitfrost/commits/fix/purchases-icons-and-values) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/72b83801a2b35a67eca365382ed03908f0066781...8c5b8d18c7a09e49b0cf57eccd816c8d39c2eda4))</sub> | <sub>[8c5b8d18](https://gitlab.com/snowgem/bitfrost/-/commit/8c5b8d18c7a09e49b0cf57eccd816c8d39c2eda4): "No previous transactions" swap page markup fix - Daniil Lisovskiy</sub> |
-| <sub>2021-03-25 05:59:01</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e495311be54abe0e2e76dcc8b71fc2aedbddf2b3...9371ccdea73c7bcd66f6ae953ec40e66d4373f33))</sub> | <sub>[9371ccde](https://gitlab.com/snowgem/bitfrost/-/commit/9371ccdea73c7bcd66f6ae953ec40e66d4373f33): fix #379, Cannot ExportOldWallets - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
