@@ -40100,5 +40100,20 @@
       "description": "[3d3abb1b](https://gitlab.com/snowgem/bitfrost/-/commit/3d3abb1b7e911aa5dc50e81363c4c29523c2906c): fix max button eth - Snowgem\n\n[5abaae82](https://gitlab.com/snowgem/bitfrost/-/commit/5abaae827d1ad39716781b15dc49a7c06fd26c1a): fix #251 - Snowgem\n\n[287164fe](https://gitlab.com/snowgem/bitfrost/-/commit/287164fe5cfbc78cb42760a0256c8055e79826c7): Merge branch 'v0.1.5' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5abaae827d1ad39716781b15dc49a7c06fd26c1a...f5627d22094a0163f68ee780f18934659cd16216))",
+    "created_at": "2021-03-25 09:14:29.865000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f5627d22](https://gitlab.com/snowgem/bitfrost/-/commit/f5627d22094a0163f68ee780f18934659cd16216): increase ios build version - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!211 \\*increase ios build version\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/211) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-25 09:14:48.751000"
   }
 ]
