@@ -40080,5 +40080,25 @@
       "description": "[5abaae82](https://gitlab.com/snowgem/bitfrost/-/commit/5abaae827d1ad39716781b15dc49a7c06fd26c1a): fix #251 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!210 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/210) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-25 09:03:39.354000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!210 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/210) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-03-25 09:03:46.180000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e5d7bce8cbaacf2ffe4af31a636d1842e68194f0...287164fe5cfbc78cb42760a0256c8055e79826c7))",
+    "created_at": "2021-03-25 09:03:46.179000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3d3abb1b](https://gitlab.com/snowgem/bitfrost/-/commit/3d3abb1b7e911aa5dc50e81363c4c29523c2906c): fix max button eth - Snowgem\n\n[5abaae82](https://gitlab.com/snowgem/bitfrost/-/commit/5abaae827d1ad39716781b15dc49a7c06fd26c1a): fix #251 - Snowgem\n\n[287164fe](https://gitlab.com/snowgem/bitfrost/-/commit/287164fe5cfbc78cb42760a0256c8055e79826c7): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
