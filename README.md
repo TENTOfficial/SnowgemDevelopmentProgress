@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4148 commits since 20/01/2020. You can see the complete history in
+There is a total of 4149 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-25 08:53:48</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/84920b07b819b5baf7f4caf84bbbb7422d98e65d...3d3abb1b7e911aa5dc50e81363c4c29523c2906c))</sub> | <sub>[3d3abb1b](https://gitlab.com/snowgem/bitfrost/-/commit/3d3abb1b7e911aa5dc50e81363c4c29523c2906c): fix max button eth - Snowgem</sub> |
 | <sub>2021-03-25 08:31:09</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ebc092ccb346600a166fe1f2100da667e1245c94...e5d7bce8cbaacf2ffe4af31a636d1842e68194f0))</sub> | <sub>[d3d1a001](https://gitlab.com/snowgem/bitfrost/-/commit/d3d1a0011ed2b22dc419dcced613c66803aa7731): Fix incorrect translation for 'completed purchases' - jan.vrastil<br>[eb24b7c3](https://gitlab.com/snowgem/bitfrost/-/commit/eb24b7c302a3f778f045417d32a7e611f3c4a093): fix ok/cancel text ion-select, fix build - Snowgem<br>[84920b07](https://gitlab.com/snowgem/bitfrost/-/commit/84920b07b819b5baf7f4caf84bbbb7422d98e65d): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem<br>[e5d7bce8](https://gitlab.com/snowgem/bitfrost/-/commit/e5d7bce8cbaacf2ffe4af31a636d1842e68194f0): Merge branch 'v0.1.5' into 'testing' - Txid</sub> |
 | <sub>2021-03-25 08:31:08</sub> | <sub>Txid (txid) merged merge request [\!209 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/209) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-25 08:30:49</sub> | <sub>Txid (txid) opened merge request [\!209 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/209) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4148 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-25 08:09:47</sub> | <sub>Txid (txid) opened merge request [\!208 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/208) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-25 08:09:17</sub> | <sub>Txid removed branch fix/purchases-icons-and-values from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-25 08:09:16</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0475f93ba54250f10c9f9bef04d086910620b8a6...2a9cd5f85be2cd42aa7d5ad3777af58ec517f1d6))</sub> | <sub>[72b83801](https://gitlab.com/snowgem/bitfrost/-/commit/72b83801a2b35a67eca365382ed03908f0066781): purchase pages icons and amount fix - Daniil Lisovskiy<br>[8c5b8d18](https://gitlab.com/snowgem/bitfrost/-/commit/8c5b8d18c7a09e49b0cf57eccd816c8d39c2eda4): "No previous transactions" swap page markup fix - Daniil Lisovskiy<br>[2a9cd5f8](https://gitlab.com/snowgem/bitfrost/-/commit/2a9cd5f85be2cd42aa7d5ad3777af58ec517f1d6): Merge branch 'fix/purchases-icons-and-values' into 'v0.1.5' - Txid</sub> |
-| <sub>2021-03-25 08:09:16</sub> | <sub>Txid (txid) merged merge request [\!207 \*Purchase pages icons and amount fix\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/207) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
