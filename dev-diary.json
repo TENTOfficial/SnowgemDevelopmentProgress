@@ -40070,5 +40070,15 @@
       "description": "[3d3abb1b](https://gitlab.com/snowgem/bitfrost/-/commit/3d3abb1b7e911aa5dc50e81363c4c29523c2906c): fix max button eth - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3d3abb1b7e911aa5dc50e81363c4c29523c2906c...5abaae827d1ad39716781b15dc49a7c06fd26c1a))",
+    "created_at": "2021-03-25 08:58:29.609000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5abaae82](https://gitlab.com/snowgem/bitfrost/-/commit/5abaae827d1ad39716781b15dc49a7c06fd26c1a): fix #251 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
