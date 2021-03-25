@@ -39950,5 +39950,15 @@
       "description": "[9371ccde](https://gitlab.com/snowgem/bitfrost/-/commit/9371ccdea73c7bcd66f6ae953ec40e66d4373f33): fix #379, Cannot ExportOldWallets - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [fix/purchases\\-icons\\-and\\-values](https://gitlab.com/snowgem/bitfrost/commits/fix/purchases-icons-and-values) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/72b83801a2b35a67eca365382ed03908f0066781...8c5b8d18c7a09e49b0cf57eccd816c8d39c2eda4))",
+    "created_at": "2021-03-25 07:02:16.027000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8c5b8d18](https://gitlab.com/snowgem/bitfrost/-/commit/8c5b8d18c7a09e49b0cf57eccd816c8d39c2eda4): \"No previous transactions\" swap page markup fix - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
