@@ -40140,5 +40140,15 @@
       "description": "[fe0edf9c](https://gitlab.com/snowgem/bitfrost/-/commit/fe0edf9cd6d7aca8d6813b4b3a4c4197f2ec4c00): handle negative amount in swap - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fe0edf9cd6d7aca8d6813b4b3a4c4197f2ec4c00...400a42bc1768dbb7a901b1a544f6d58f3acc26b3))",
+    "created_at": "2021-03-26 09:32:15.281000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[400a42bc](https://gitlab.com/snowgem/bitfrost/-/commit/400a42bc1768dbb7a901b1a544f6d58f3acc26b3): Fix missing fiat on send page - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]

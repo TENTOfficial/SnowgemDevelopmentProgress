@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4158 commits since 20/01/2020. You can see the complete history in
+There is a total of 4159 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-26 09:32:15</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fe0edf9cd6d7aca8d6813b4b3a4c4197f2ec4c00...400a42bc1768dbb7a901b1a544f6d58f3acc26b3))</sub> | <sub>[400a42bc](https://gitlab.com/snowgem/bitfrost/-/commit/400a42bc1768dbb7a901b1a544f6d58f3acc26b3): Fix missing fiat on send page - jan.vrastil</sub> |
 | <sub>2021-03-25 13:05:34</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f5627d22094a0163f68ee780f18934659cd16216...fe0edf9cd6d7aca8d6813b4b3a4c4197f2ec4c00))</sub> | <sub>[fe0edf9c](https://gitlab.com/snowgem/bitfrost/-/commit/fe0edf9cd6d7aca8d6813b4b3a4c4197f2ec4c00): handle negative amount in swap - Snowgem</sub> |
 | <sub>2021-03-25 09:17:49</sub> | <sub>Txid (txid) merged merge request [\!211 \*increase ios build version\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/211) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-25 09:17:48</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/287164fe5cfbc78cb42760a0256c8055e79826c7...b8eddae66337c097a045d575a5485eb5e542793f))</sub> | <sub>[f5627d22](https://gitlab.com/snowgem/bitfrost/-/commit/f5627d22094a0163f68ee780f18934659cd16216): increase ios build version - Snowgem<br>[b8eddae6](https://gitlab.com/snowgem/bitfrost/-/commit/b8eddae66337c097a045d575a5485eb5e542793f): Merge branch 'v0.1.5' into 'testing' - Txid</sub> |
@@ -17,6 +18,5 @@ There is a total of 4158 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-25 09:03:46</sub> | <sub>Txid (txid) merged merge request [\!210 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/210) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-25 09:03:39</sub> | <sub>Txid (txid) opened merge request [\!210 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/210) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-25 08:58:29</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3d3abb1b7e911aa5dc50e81363c4c29523c2906c...5abaae827d1ad39716781b15dc49a7c06fd26c1a))</sub> | <sub>[5abaae82](https://gitlab.com/snowgem/bitfrost/-/commit/5abaae827d1ad39716781b15dc49a7c06fd26c1a): fix #251 - Snowgem</sub> |
-| <sub>2021-03-25 08:53:48</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/84920b07b819b5baf7f4caf84bbbb7422d98e65d...3d3abb1b7e911aa5dc50e81363c4c29523c2906c))</sub> | <sub>[3d3abb1b](https://gitlab.com/snowgem/bitfrost/-/commit/3d3abb1b7e911aa5dc50e81363c4c29523c2906c): fix max button eth - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
