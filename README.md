@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4163 commits since 20/01/2020. You can see the complete history in
+There is a total of 4164 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-29 14:18:56</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/716e4fd6da5c049b852cab7bf7e4030c61eeb46d...011828fdcaca5c98b94171d2a6d30e95ab728687))</sub> | <sub>[011828fd](https://gitlab.com/snowgem/bitfrost/-/commit/011828fdcaca5c98b94171d2a6d30e95ab728687): fix buy-swap cors - Snowgem</sub> |
 | <sub>2021-03-29 11:17:05</sub> | <sub>Jan Vraštil pushed new branch [decta\_presentation](https://gitlab.com/snowgem/bitfrost/commits/decta_presentation) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-29 08:19:45</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3a59e7e80cc1db189918c4700c6e37d8ee25a22f...716e4fd6da5c049b852cab7bf7e4030c61eeb46d))</sub> | <sub>[716e4fd6](https://gitlab.com/snowgem/bitfrost/-/commit/716e4fd6da5c049b852cab7bf7e4030c61eeb46d): increase ios build version - jan.vrastil</sub> |
 | <sub>2021-03-27 10:28:50</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fe9b5244bbdcfa54b3084746ff22e288ecc440df...3a59e7e80cc1db189918c4700c6e37d8ee25a22f))</sub> | <sub>[3a59e7e8](https://gitlab.com/snowgem/bitfrost/-/commit/3a59e7e80cc1db189918c4700c6e37d8ee25a22f): Enable KYC guard for buying crypto - jan.vrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 4163 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-25 09:17:49</sub> | <sub>Txid (txid) merged merge request [\!211 \*increase ios build version\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/211) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-25 09:17:48</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/287164fe5cfbc78cb42760a0256c8055e79826c7...b8eddae66337c097a045d575a5485eb5e542793f))</sub> | <sub>[f5627d22](https://gitlab.com/snowgem/bitfrost/-/commit/f5627d22094a0163f68ee780f18934659cd16216): increase ios build version - Snowgem<br>[b8eddae6](https://gitlab.com/snowgem/bitfrost/-/commit/b8eddae66337c097a045d575a5485eb5e542793f): Merge branch 'v0.1.5' into 'testing' - Txid</sub> |
 | <sub>2021-03-25 09:14:48</sub> | <sub>Txid (txid) opened merge request [\!211 \*increase ios build version\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/211) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-03-25 09:14:29</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5abaae827d1ad39716781b15dc49a7c06fd26c1a...f5627d22094a0163f68ee780f18934659cd16216))</sub> | <sub>[f5627d22](https://gitlab.com/snowgem/bitfrost/-/commit/f5627d22094a0163f68ee780f18934659cd16216): increase ios build version - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

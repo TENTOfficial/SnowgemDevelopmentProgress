@@ -40185,5 +40185,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [decta\\_presentation](https://gitlab.com/snowgem/bitfrost/commits/decta_presentation) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-03-29 11:17:05.956000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/716e4fd6da5c049b852cab7bf7e4030c61eeb46d...011828fdcaca5c98b94171d2a6d30e95ab728687))",
+    "created_at": "2021-03-29 14:18:56.552000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[011828fd](https://gitlab.com/snowgem/bitfrost/-/commit/011828fdcaca5c98b94171d2a6d30e95ab728687): fix buy-swap cors - Snowgem",
+      "type": "rich"
+    }
   }
 ]
