@@ -40260,5 +40260,15 @@
       "description": "[56daacee](https://gitlab.com/snowgem/bitfrost/-/commit/56daaceec3ab1aea816287a6a8675cf5c237ffb9): wip - jan.vrastil\n\n[33d4f573](https://gitlab.com/snowgem/bitfrost/-/commit/33d4f57374ac5f9591c0dad7612d909a118575bf): fix buy-swap cors - Snowgem\n\n[b6fbee30](https://gitlab.com/snowgem/bitfrost/-/commit/b6fbee300e4b6ab8a420a18352817052a6e2b9bb): wip - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/114168e9de7d490d28d662b9bc89912689b04a8c...a1071cea107c0ee1bafecf2dc7d1a8fd1d3dc6cd))",
+    "created_at": "2021-03-30 09:26:08.050000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a1071cea](https://gitlab.com/snowgem/bitfrost/-/commit/a1071cea107c0ee1bafecf2dc7d1a8fd1d3dc6cd): fix #385, filter swap with no sagaid for mobile - Snowgem",
+      "type": "rich"
+    }
   }
 ]
