@@ -40250,5 +40250,15 @@
       "description": "[114168e9](https://gitlab.com/snowgem/bitfrost/-/commit/114168e9de7d490d28d662b9bc89912689b04a8c): fix #353 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [decta\\_presentation](https://gitlab.com/snowgem/bitfrost/commits/decta_presentation) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0f902efc070736e4134d159cf68fc5a0c580aaaf...b6fbee300e4b6ab8a420a18352817052a6e2b9bb))",
+    "created_at": "2021-03-30 09:14:10.215000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[56daacee](https://gitlab.com/snowgem/bitfrost/-/commit/56daaceec3ab1aea816287a6a8675cf5c237ffb9): wip - jan.vrastil\n\n[33d4f573](https://gitlab.com/snowgem/bitfrost/-/commit/33d4f57374ac5f9591c0dad7612d909a118575bf): fix buy-swap cors - Snowgem\n\n[b6fbee30](https://gitlab.com/snowgem/bitfrost/-/commit/b6fbee300e4b6ab8a420a18352817052a6e2b9bb): wip - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
