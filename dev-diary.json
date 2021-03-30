@@ -40220,5 +40220,25 @@
       "description": "[c8fcd036](https://gitlab.com/snowgem/bitfrost/-/commit/c8fcd0369f18c3cd9dcb022d31f7d1bd15297f9a): fix #388, App is hanging - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c8fcd0369f18c3cd9dcb022d31f7d1bd15297f9a...250d93caba1ad5145b736547aee0a934da1094c2))",
+    "created_at": "2021-03-30 08:02:56.451000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[250d93ca](https://gitlab.com/snowgem/bitfrost/-/commit/250d93caba1ad5145b736547aee0a934da1094c2): fix #386, handle maximum number - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/250d93caba1ad5145b736547aee0a934da1094c2...5bccf2e9639371baf17a042728918f79249bf0ef))",
+    "created_at": "2021-03-30 08:03:46.328000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5bccf2e9](https://gitlab.com/snowgem/bitfrost/-/commit/5bccf2e9639371baf17a042728918f79249bf0ef): use math.trunc instead of tofix - Snowgem",
+      "type": "rich"
+    }
   }
 ]
