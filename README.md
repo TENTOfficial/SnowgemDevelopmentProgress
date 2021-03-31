@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4190 commits since 20/01/2020. You can see the complete history in
+There is a total of 4191 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-31 22:49:42</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f5f90693522cfdf49289d3c720bb838a2533b2d5...6bb874919bea31790b0027af1ef98d74f1b758b4))</sub> | <sub>[6bb87491](https://gitlab.com/snowgem/bitfrost/-/commit/6bb874919bea31790b0027af1ef98d74f1b758b4): resend request update - Filip Storkan</sub> |
 | <sub>2021-03-31 18:42:13</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/db3aa9513e0b84f0c4467badf14456e078f264ec...f5f90693522cfdf49289d3c720bb838a2533b2d5))</sub> | <sub>[a8958362](https://gitlab.com/snowgem/bitfrost/-/commit/a8958362093027a27ee8460d7f2d757438a5a358): Translatinos for 2fa - Filip Storkan<br>[4fdf1194](https://gitlab.com/snowgem/bitfrost/-/commit/4fdf1194e2e171d0bdb5f3702d0bba4476b74a33): filtering countries - Filip Storkan<br>[f5f90693](https://gitlab.com/snowgem/bitfrost/-/commit/f5f90693522cfdf49289d3c720bb838a2533b2d5): united payment verification - Filip Storkan</sub> |
 | <sub>2021-03-31 12:43:02</sub> | <sub>Daniil Lisovskiy pushed new branch [fix/cancelled\-swaps\-reports](https://gitlab.com/snowgem/bitfrost/commits/fix/cancelled-swaps-reports) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-31 11:08:07</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ffbdb45eb90191f9ab2142f08186b8779762b96b...db3aa9513e0b84f0c4467badf14456e078f264ec))</sub> | <sub>[db3aa951](https://gitlab.com/snowgem/bitfrost/-/commit/db3aa9513e0b84f0c4467badf14456e078f264ec): adding padding to final page - Filip Storkan</sub> |
@@ -17,6 +18,5 @@ There is a total of 4190 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-31 10:09:17</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8116de9941af60948e1de18c90c1abda6b1508d9...f679302428607aeb540d1fb5c2fe4b885d35910f))</sub> | <sub>[f6793024](https://gitlab.com/snowgem/bitfrost/-/commit/f679302428607aeb540d1fb5c2fe4b885d35910f): wyre payment params updated - Filip Storkan</sub> |
 | <sub>2021-03-31 10:06:42</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!212 \*WIP: bug/343 \- Fix KYC styling\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/212) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-31 10:06:08</sub> | <sub>Jan Vraštil pushed new branch [bug/343\-kyc\_styling](https://gitlab.com/snowgem/bitfrost/commits/bug/343-kyc_styling) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-03-31 09:54:40</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3da6d1e333123cd22c2677a4157699d88db8722e...8116de9941af60948e1de18c90c1abda6b1508d9))</sub> | <sub>[8116de99](https://gitlab.com/snowgem/bitfrost/-/commit/8116de9941af60948e1de18c90c1abda6b1508d9): updated wyre urls - Filip Storkan</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

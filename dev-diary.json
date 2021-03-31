@@ -40435,5 +40435,15 @@
       "description": "[a8958362](https://gitlab.com/snowgem/bitfrost/-/commit/a8958362093027a27ee8460d7f2d757438a5a358): Translatinos for 2fa - Filip Storkan\n\n[4fdf1194](https://gitlab.com/snowgem/bitfrost/-/commit/4fdf1194e2e171d0bdb5f3702d0bba4476b74a33): filtering countries - Filip Storkan\n\n[f5f90693](https://gitlab.com/snowgem/bitfrost/-/commit/f5f90693522cfdf49289d3c720bb838a2533b2d5): united payment verification - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f5f90693522cfdf49289d3c720bb838a2533b2d5...6bb874919bea31790b0027af1ef98d74f1b758b4))",
+    "created_at": "2021-03-31 22:49:42.580000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6bb87491](https://gitlab.com/snowgem/bitfrost/-/commit/6bb874919bea31790b0027af1ef98d74f1b758b4): resend request update - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
