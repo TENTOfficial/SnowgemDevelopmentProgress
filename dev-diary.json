@@ -40270,5 +40270,15 @@
       "description": "[a1071cea](https://gitlab.com/snowgem/bitfrost/-/commit/a1071cea107c0ee1bafecf2dc7d1a8fd1d3dc6cd): fix #385, filter swap with no sagaid for mobile - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a1071cea107c0ee1bafecf2dc7d1a8fd1d3dc6cd...c10326f84a734b34ecfee99ddce337debb47c608))",
+    "created_at": "2021-03-31 07:14:06.854000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f884b8cf](https://gitlab.com/snowgem/bitfrost/-/commit/f884b8cf068feb511f8fbdbc55faa1c2b1b6cf78): updating delayed swap transaction - Filip Storkan\n\n[4dcbf9c9](https://gitlab.com/snowgem/bitfrost/-/commit/4dcbf9c92831095e472c17d082e2de7cc4e251d7): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan\n\n[5ad31970](https://gitlab.com/snowgem/bitfrost/-/commit/5ad31970cb10bd546a9a135026631b4281a28f34): wyre cards implementation - Filip Storkan\n\n[c10326f8](https://gitlab.com/snowgem/bitfrost/-/commit/c10326f84a734b34ecfee99ddce337debb47c608): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
