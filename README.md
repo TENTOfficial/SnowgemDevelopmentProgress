@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4184 commits since 20/01/2020. You can see the complete history in
+There is a total of 4185 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-03-31 10:26:15</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f679302428607aeb540d1fb5c2fe4b885d35910f...3557a498145ecf077c0ef3eea02824171056b322))</sub> | <sub>[3557a498](https://gitlab.com/snowgem/bitfrost/-/commit/3557a498145ecf077c0ef3eea02824171056b322): wyre month update - Filip Storkan</sub> |
 | <sub>2021-03-31 10:09:17</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8116de9941af60948e1de18c90c1abda6b1508d9...f679302428607aeb540d1fb5c2fe4b885d35910f))</sub> | <sub>[f6793024](https://gitlab.com/snowgem/bitfrost/-/commit/f679302428607aeb540d1fb5c2fe4b885d35910f): wyre payment params updated - Filip Storkan</sub> |
 | <sub>2021-03-31 10:06:42</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!212 \*WIP: bug/343 \- Fix KYC styling\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/212) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-03-31 10:06:08</sub> | <sub>Jan Vraštil pushed new branch [bug/343\-kyc\_styling](https://gitlab.com/snowgem/bitfrost/commits/bug/343-kyc_styling) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4184 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-03-31 09:20:27</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9a5e3752f46b67c3a0b5b47fa85eaeab8a4c657b...9ed70c8cc3416f3e0314673dd09a9548a88c81bf))</sub> | <sub>[9ed70c8c](https://gitlab.com/snowgem/bitfrost/-/commit/9ed70c8cc3416f3e0314673dd09a9548a88c81bf): adding maximum value validator to purchase page - Filip Storkan</sub> |
 | <sub>2021-03-31 09:08:26</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3791a4291146f97625ec410b8465c13b9c9da9a2...9a5e3752f46b67c3a0b5b47fa85eaeab8a4c657b))</sub> | <sub>[9a5e3752](https://gitlab.com/snowgem/bitfrost/-/commit/9a5e3752f46b67c3a0b5b47fa85eaeab8a4c657b): hiding a card holder name - Filip Storkan</sub> |
 | <sub>2021-03-31 08:10:43</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/eeb89ec253d8cecc1e155806e278258b6b196d0a...3791a4291146f97625ec410b8465c13b9c9da9a2))</sub> | <sub>[3791a429](https://gitlab.com/snowgem/bitfrost/-/commit/3791a4291146f97625ec410b8465c13b9c9da9a2): infoscreen graphics updated - Filip Storkan</sub> |
-| <sub>2021-03-31 07:54:31</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/88f6dbcfa73816b7430a6733bb0e4187975148b3...eeb89ec253d8cecc1e155806e278258b6b196d0a))</sub> | <sub>[eeb89ec2](https://gitlab.com/snowgem/bitfrost/-/commit/eeb89ec253d8cecc1e155806e278258b6b196d0a): changing wyre params - Filip Storkan</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
