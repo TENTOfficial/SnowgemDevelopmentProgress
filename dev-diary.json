@@ -40330,5 +40330,15 @@
       "description": "[9ed70c8c](https://gitlab.com/snowgem/bitfrost/-/commit/9ed70c8cc3416f3e0314673dd09a9548a88c81bf): adding maximum value validator to purchase page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9ed70c8cc3416f3e0314673dd09a9548a88c81bf...272c516bff26a7f6387399930b92a2fcf307190c))",
+    "created_at": "2021-03-31 09:25:22.979000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[66cff514](https://gitlab.com/snowgem/bitfrost/-/commit/66cff514ce21e1219fc5f4cdeefacfdc26200781): fix #395 ZEC calculation on SWAP deosn't work - Snowgem\n\n[9c9488ec](https://gitlab.com/snowgem/bitfrost/-/commit/9c9488ecc4a98a6ae4ebfa9ac9a854b7b06db231): increase debounceTime to 2s, fix value display - Snowgem\n\n[cee3f543](https://gitlab.com/snowgem/bitfrost/-/commit/cee3f543b00a38ae71a07ae8d811ebfd3bbb5da0): update text in address page, add warning in export - Snowgem\n\n[272c516b](https://gitlab.com/snowgem/bitfrost/-/commit/272c516bff26a7f6387399930b92a2fcf307190c): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
