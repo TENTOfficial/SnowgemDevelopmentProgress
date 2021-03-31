@@ -40280,5 +40280,25 @@
       "description": "[f884b8cf](https://gitlab.com/snowgem/bitfrost/-/commit/f884b8cf068feb511f8fbdbc55faa1c2b1b6cf78): updating delayed swap transaction - Filip Storkan\n\n[4dcbf9c9](https://gitlab.com/snowgem/bitfrost/-/commit/4dcbf9c92831095e472c17d082e2de7cc4e251d7): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan\n\n[5ad31970](https://gitlab.com/snowgem/bitfrost/-/commit/5ad31970cb10bd546a9a135026631b4281a28f34): wyre cards implementation - Filip Storkan\n\n[c10326f8](https://gitlab.com/snowgem/bitfrost/-/commit/c10326f84a734b34ecfee99ddce337debb47c608): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c10326f84a734b34ecfee99ddce337debb47c608...88f6dbcfa73816b7430a6733bb0e4187975148b3))",
+    "created_at": "2021-03-31 07:52:02.057000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[88f6dbcf](https://gitlab.com/snowgem/bitfrost/-/commit/88f6dbcfa73816b7430a6733bb0e4187975148b3): value input text scaling fix - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/88f6dbcfa73816b7430a6733bb0e4187975148b3...eeb89ec253d8cecc1e155806e278258b6b196d0a))",
+    "created_at": "2021-03-31 07:54:31.367000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eeb89ec2](https://gitlab.com/snowgem/bitfrost/-/commit/eeb89ec253d8cecc1e155806e278258b6b196d0a): changing wyre params - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
