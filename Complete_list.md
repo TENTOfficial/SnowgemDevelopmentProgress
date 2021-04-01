@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-01 10:26:39</sub> | <sub>Jan Vraštil (jan.vrastil) closed merge request [\!149 \*WIP: Feature/new registration flow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/149) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-01 10:12:23</sub> | <sub>Jan Vraštil removed branch bug/343-kyc_styling from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-01 10:12:23</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9f8f71ae50215353493bc81bd89e632368923048...1eac8aa730cf2ad1d031bcad483783c557b04e5e))</sub> | <sub>[f34a7ada](https://gitlab.com/snowgem/bitfrost/-/commit/f34a7adad1b2382ea9149d532f3c2b385c1014d5): bug/343 - Fix KYC styling - Jan Vraštil<br>[1eac8aa7](https://gitlab.com/snowgem/bitfrost/-/commit/1eac8aa730cf2ad1d031bcad483783c557b04e5e): Merge branch 'bug/343-kyc_styling' into 'v0.1.5' - Jan Vraštil</sub> |
 | <sub>2021-04-01 10:12:22</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!212 \*bug/343 \- Fix KYC styling\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/212) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
