@@ -40508,5 +40508,15 @@
       "description": "[f54a827a](https://gitlab.com/snowgem/bitfrost/-/commit/f54a827a77c65a1e7b3f3555367440a4e4cbcdb8): cancel swap button is disabled if cancellation has been requested # fix 392 - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/343\\-kyc\\_styling](https://gitlab.com/snowgem/bitfrost/commits/bug/343-kyc_styling) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/04da5b47010dd6433aa9483ca8e72eecd83b8b6e...0a61eaff9fb01294f6d2afd73585c0700399748a))",
+    "created_at": "2021-04-01 10:08:08.907000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0a61eaff](https://gitlab.com/snowgem/bitfrost/-/commit/0a61eaff9fb01294f6d2afd73585c0700399748a): bug/343 - Fix KYC styling - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
