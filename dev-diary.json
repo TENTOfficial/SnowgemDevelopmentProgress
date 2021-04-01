@@ -40478,5 +40478,15 @@
     "author": "GitLab",
     "content": "Daniil Lisovskiy (d.lisovskiy) opened merge request [\\!213 \\*amount value and title text fixed for cancelled swap\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/213) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-01 06:29:27.086000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/59989ea53aa02649864f3a707fc7d3a19c450653...95ffa95c29196c7288838dce726e8c1d948c4962))",
+    "created_at": "2021-04-01 08:07:48.246000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[95ffa95c](https://gitlab.com/snowgem/bitfrost/-/commit/95ffa95c29196c7288838dce726e8c1d948c4962): fix #353, throw erro when no utxo - Snowgem",
+      "type": "rich"
+    }
   }
 ]
