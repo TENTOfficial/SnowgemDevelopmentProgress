@@ -40445,5 +40445,23 @@
       "description": "[6bb87491](https://gitlab.com/snowgem/bitfrost/-/commit/6bb874919bea31790b0027af1ef98d74f1b758b4): resend request update - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-04-01 03:43:53.653000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`f77d401`](https://github.com/TENTOfficial/TENT/commit/f77d40138596979f4a06b6c420bf445401527f2e) update ATLANTIS init - TENTOfficial",
+      "title": "[TENT:upgrade/atlantis] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/commit/f77d40138596979f4a06b6c420bf445401527f2e"
+    }
   }
 ]
