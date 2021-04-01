@@ -40518,5 +40518,40 @@
       "description": "[0a61eaff](https://gitlab.com/snowgem/bitfrost/-/commit/0a61eaff9fb01294f6d2afd73585c0700399748a): bug/343 - Fix KYC styling - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7d63691f629cc4e28d2543de736b4ecae683f3c2...9f8f71ae50215353493bc81bd89e632368923048))",
+    "created_at": "2021-04-01 10:11:20.346000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3df198ff](https://gitlab.com/snowgem/bitfrost/-/commit/3df198ffdc134c46b84386a01617e6cfc7c8727b): amount value and title text fixed for cancelled swap - Daniil Lisovskiy\n\n[f54a827a](https://gitlab.com/snowgem/bitfrost/-/commit/f54a827a77c65a1e7b3f3555367440a4e4cbcdb8): cancel swap button is disabled if cancellation has been requested # fix 392 - Daniil Lisovskiy\n\n[9f8f71ae](https://gitlab.com/snowgem/bitfrost/-/commit/9f8f71ae50215353493bc81bd89e632368923048): Merge branch 'fix/cancelled-swaps-reports' into 'v0.1.5' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!213 \\*amount value and title text fixed for cancelled swap\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/213) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-01 10:11:25.347000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!212 \\*bug/343 \\- Fix KYC styling\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/212) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-01 10:12:22.930000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9f8f71ae50215353493bc81bd89e632368923048...1eac8aa730cf2ad1d031bcad483783c557b04e5e))",
+    "created_at": "2021-04-01 10:12:23.170000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f34a7ada](https://gitlab.com/snowgem/bitfrost/-/commit/f34a7adad1b2382ea9149d532f3c2b385c1014d5): bug/343 - Fix KYC styling - Jan Vra\u0161til\n\n[1eac8aa7](https://gitlab.com/snowgem/bitfrost/-/commit/1eac8aa730cf2ad1d031bcad483783c557b04e5e): Merge branch 'bug/343-kyc_styling' into 'v0.1.5' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch bug/343-kyc_styling from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-01 10:12:23.303000"
   }
 ]
