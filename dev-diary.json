@@ -40498,5 +40498,15 @@
       "description": "[7d63691f](https://gitlab.com/snowgem/bitfrost/-/commit/7d63691f629cc4e28d2543de736b4ecae683f3c2): check empty utxo before creating transaction - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [fix/cancelled\\-swaps\\-reports](https://gitlab.com/snowgem/bitfrost/commits/fix/cancelled-swaps-reports) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3df198ffdc134c46b84386a01617e6cfc7c8727b...f54a827a77c65a1e7b3f3555367440a4e4cbcdb8))",
+    "created_at": "2021-04-01 09:32:37.899000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f54a827a](https://gitlab.com/snowgem/bitfrost/-/commit/f54a827a77c65a1e7b3f3555367440a4e4cbcdb8): cancel swap button is disabled if cancellation has been requested # fix 392 - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
