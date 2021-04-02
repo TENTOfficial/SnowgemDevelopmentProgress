@@ -40628,5 +40628,23 @@
       "description": "[5d933527](https://gitlab.com/snowgem/bitfrost/-/commit/5d9335274f5a98f09a9a92a9dd791d4d4ee6eb03): get locale f\u1ecf send-c onfirm page - Snowgem\n\n[b2ae8e30](https://gitlab.com/snowgem/bitfrost/-/commit/b2ae8e303bda26e5dfa5de4ec747828b7c885664): Merge branch 'v0.1.5' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-04-02 03:45:51.852000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`b027b05`](https://github.com/TENTOfficial/TENT/commit/b027b0586169570f8e7a9fb0ca9afbcaf9f25517) add check transparent address - TENTOfficial",
+      "title": "[TENT:upgrade/atlantis] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/commit/b027b0586169570f8e7a9fb0ca9afbcaf9f25517"
+    }
   }
 ]
