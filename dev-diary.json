@@ -40651,5 +40651,35 @@
     "author": "GitLab",
     "content": "Daniil Lisovskiy pushed new branch [fix/failed\\-purchase\\-value](https://gitlab.com/snowgem/bitfrost/commits/fix/failed-purchase-value) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-02 08:31:35.032000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy (d.lisovskiy) opened merge request [\\!216 \\*0 amount is fixed for purchases, same isCancelled logic for swap items\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/216) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-02 08:42:06.174000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!216 \\*0 amount is fixed for purchases, same isCancelled logic for swap items\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/216) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-02 08:44:15.042000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5d9335274f5a98f09a9a92a9dd791d4d4ee6eb03...20a80d66248dbdb5388ceb77fd578af17a2dab2b))",
+    "created_at": "2021-04-02 08:44:15.360000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[617e24c4](https://gitlab.com/snowgem/bitfrost/-/commit/617e24c48f48b085417524d02a491ad1fa97f319): 0 amount is fixed for purchases, same isCancelled logic for swap items - Daniil Lisovskiy\n\n[20a80d66](https://gitlab.com/snowgem/bitfrost/-/commit/20a80d66248dbdb5388ceb77fd578af17a2dab2b): Merge branch 'fix/failed-purchase-value' into 'v0.1.5' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid removed branch fix/failed-purchase-value from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-02 08:44:27.793000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!217 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/217) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-02 08:44:53.600000"
   }
 ]
