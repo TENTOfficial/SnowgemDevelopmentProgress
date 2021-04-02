@@ -40681,5 +40681,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!217 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/217) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-02 08:44:53.600000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b2ae8e303bda26e5dfa5de4ec747828b7c885664...9dc701f9c1f48e6f283a1f8fd2f30e66ce239182))",
+    "created_at": "2021-04-02 08:47:33.004000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[617e24c4](https://gitlab.com/snowgem/bitfrost/-/commit/617e24c48f48b085417524d02a491ad1fa97f319): 0 amount is fixed for purchases, same isCancelled logic for swap items - Daniil Lisovskiy\n\n[20a80d66](https://gitlab.com/snowgem/bitfrost/-/commit/20a80d66248dbdb5388ceb77fd578af17a2dab2b): Merge branch 'fix/failed-purchase-value' into 'v0.1.5' - Txid\n\n[9dc701f9](https://gitlab.com/snowgem/bitfrost/-/commit/9dc701f9c1f48e6f283a1f8fd2f30e66ce239182): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!217 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/217) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-02 08:47:33.197000"
   }
 ]
