@@ -40904,5 +40904,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/commit/f027b4fdafbbd5a324365f56854fdc70e5b7cad0"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-04-03 08:28:43.572000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`6c40b0c`](https://github.com/TENTOfficial/TENT/commit/6c40b0c505aef62be72450ee02ef1e9f30e6c4c9) update rpc call for new payment process - TENTOfficial",
+      "title": "[TENT:upgrade/atlantis] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/commit/6c40b0c505aef62be72450ee02ef1e9f30e6c4c9"
+    }
   }
 ]
