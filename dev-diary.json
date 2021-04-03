@@ -40732,5 +40732,95 @@
       "type": "rich",
       "url": "https://github.com/ciripel/Heimdall/commit/ad026484425f848ac56955f5990bd1dfdb37c58a"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/20a80d66248dbdb5388ceb77fd578af17a2dab2b...d0654434912f3d2538aec284ce18e8dd48420837))",
+    "created_at": "2021-04-02 18:35:00.433000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d0654434](https://gitlab.com/snowgem/bitfrost/-/commit/d0654434912f3d2538aec284ce18e8dd48420837): fix go to advance with biometric on ios (not 100%) - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d0654434912f3d2538aec284ce18e8dd48420837...029394da5c3df9ff5a657e95ca982ca7082ac41d))",
+    "created_at": "2021-04-02 18:36:28.495000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[029394da](https://gitlab.com/snowgem/bitfrost/-/commit/029394da5c3df9ff5a657e95ca982ca7082ac41d): increase ios build version - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/029394da5c3df9ff5a657e95ca982ca7082ac41d...2dfad002c8532587d31542ede23826bb5bd17e3f))",
+    "created_at": "2021-04-02 20:41:51.853000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[120d9f0d](https://gitlab.com/snowgem/bitfrost/-/commit/120d9f0df56dc43ad389bc4a35824d70b0565351): direct wyre payment - Filip Storkan\n\n[2dfad002](https://gitlab.com/snowgem/bitfrost/-/commit/2dfad002c8532587d31542ede23826bb5bd17e3f): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN (filipstrkn) opened merge request [\\!218 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/218) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-02 20:45:29.422000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2dfad002c8532587d31542ede23826bb5bd17e3f...cb0c16b09d3e1911d0dfa166ffbb84793e0bd6e6))",
+    "created_at": "2021-04-02 20:49:30.418000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cb0c16b0](https://gitlab.com/snowgem/bitfrost/-/commit/cb0c16b09d3e1911d0dfa166ffbb84793e0bd6e6): return fix - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN (filipstrkn) merged merge request [\\!218 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/218) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-02 20:53:00.148000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9dc701f9c1f48e6f283a1f8fd2f30e66ce239182...581c8e875b63805a3aad556a8a2d9ab39a75dd7f))",
+    "created_at": "2021-04-02 20:53:00.341000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d0654434](https://gitlab.com/snowgem/bitfrost/-/commit/d0654434912f3d2538aec284ce18e8dd48420837): fix go to advance with biometric on ios (not 100%) - Snowgem\n\n[029394da](https://gitlab.com/snowgem/bitfrost/-/commit/029394da5c3df9ff5a657e95ca982ca7082ac41d): increase ios build version - Snowgem\n\n[120d9f0d](https://gitlab.com/snowgem/bitfrost/-/commit/120d9f0df56dc43ad389bc4a35824d70b0565351): direct wyre payment - Filip Storkan\n\n[2dfad002](https://gitlab.com/snowgem/bitfrost/-/commit/2dfad002c8532587d31542ede23826bb5bd17e3f): Merge branch 'v0.1.5' of gitlab.com:snowgem/bitfrost into v0.1.5 - Filip Storkan\n\n[cb0c16b0](https://gitlab.com/snowgem/bitfrost/-/commit/cb0c16b09d3e1911d0dfa166ffbb84793e0bd6e6): return fix - Filip Storkan\n\n[581c8e87](https://gitlab.com/snowgem/bitfrost/-/commit/581c8e875b63805a3aad556a8a2d9ab39a75dd7f): Merge branch 'v0.1.5' into 'testing' - qNaN",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cb0c16b09d3e1911d0dfa166ffbb84793e0bd6e6...b19849a3449942e3e8c6cfa1edd603d4cb614f03))",
+    "created_at": "2021-04-03 04:37:48.699000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[51d268f0](https://gitlab.com/snowgem/bitfrost/-/commit/51d268f03470281f66f2dc5347546ab00b77dc99): fix bio verification in advance - Snowgem\n\n[b19849a3](https://gitlab.com/snowgem/bitfrost/-/commit/b19849a3449942e3e8c6cfa1edd603d4cb614f03): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!219 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/219) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-03 04:56:17.219000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!219 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/219) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-03 04:56:23.993000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/581c8e875b63805a3aad556a8a2d9ab39a75dd7f...f9764b379c869b682f34466133d4dd0e6e36c938))",
+    "created_at": "2021-04-03 04:56:24.105000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[51d268f0](https://gitlab.com/snowgem/bitfrost/-/commit/51d268f03470281f66f2dc5347546ab00b77dc99): fix bio verification in advance - Snowgem\n\n[b19849a3](https://gitlab.com/snowgem/bitfrost/-/commit/b19849a3449942e3e8c6cfa1edd603d4cb614f03): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem\n\n[f9764b37](https://gitlab.com/snowgem/bitfrost/-/commit/f9764b379c869b682f34466133d4dd0e6e36c938): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
