@@ -40927,5 +40927,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [new\\_wotkflow](https://gitlab.com/snowgem/bitfrost/commits/new_wotkflow) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-03 13:35:36.818000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [new\\_wotkflow](https://gitlab.com/snowgem/bitfrost/commits/new_wotkflow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a3f8a3a69f128fd9e6fda7adc85d890342a14b1b...b7163ed9f7eb1e98085979598d7b7db4df093fab))",
+    "created_at": "2021-04-03 14:08:42.118000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b7163ed9](https://gitlab.com/snowgem/bitfrost/-/commit/b7163ed9f7eb1e98085979598d7b7db4df093fab): adding loading - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
