@@ -41037,5 +41037,25 @@
       "description": "[e5f47ec8](https://gitlab.com/snowgem/bitfrost/-/commit/e5f47ec8c58563554908b6e00b8053731ab64729): Response type fix - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!222 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/222) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-05 18:33:13.114000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!222 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/222) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-05 18:33:18.585000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/acaf849877b411042affe266c827ce8fabc1e2b5...52a970a99da087e5ef5112a46f0dbf5504bb8afe))",
+    "created_at": "2021-04-05 18:33:19.437000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c7432ee0](https://gitlab.com/snowgem/bitfrost/-/commit/c7432ee0e24ce70094ed668579b48578b1ac5dbc): Implement new workflow for payment process - Jan Vra\u0161til\n\n[91c0688a](https://gitlab.com/snowgem/bitfrost/-/commit/91c0688a18370e10852af54b314fcbdc8b281057): Merge branch 'new_wotkflow' into 'v0.1.5' - Jan Vra\u0161til\n\n[8c9f9174](https://gitlab.com/snowgem/bitfrost/-/commit/8c9f91740ceba275c91577e0927da8856859a1a5): fetching ip address - Filip Storkan\n\n[fcaae9ce](https://gitlab.com/snowgem/bitfrost/-/commit/fcaae9ce2e4fba8ae628debf1fb16377b11be6ee): response fix - Filip Storkan\n\n[980411d4](https://gitlab.com/snowgem/bitfrost/-/commit/980411d4050bd541c82bc88d9e006db6b56e5fd1): enabling inputs - Filip Storkan\n\n[1d2dae83](https://gitlab.com/snowgem/bitfrost/-/commit/1d2dae8320094dcaaaee0b50c76a109c99f44b2e): tx authorization update - Filip Storkan\n\n[3ee625ba](https://gitlab.com/snowgem/bitfrost/-/commit/3ee625ba318ad5bc5c0b171b45c9756e910ef7b1): logging - Filip Storkan\n\n[1594c9df](https://gitlab.com/snowgem/bitfrost/-/commit/1594c9df81cf8a8cd0383628e39fdfd153c6d6df): retry updated - Filip Storkan\n\n[7e6fec98](https://gitlab.com/snowgem/bitfrost/-/commit/7e6fec9887c1c017ada8973f4386c29db1f6a3d0): global loading - Filip Storkan\n\n[3f32e5fb](https://gitlab.com/snowgem/bitfrost/-/commit/3f32e5fb1372155154b5f3a1e7a9036316f30034): authorization - Filip Storkan\n\n[ee11a71e](https://gitlab.com/snowgem/bitfrost/-/commit/ee11a71e29df6b3af9840a8a2abcd611fbca397d): catching err - Filip Storkan\n\n[e5f47ec8](https://gitlab.com/snowgem/bitfrost/-/commit/e5f47ec8c58563554908b6e00b8053731ab64729): Response type fix - jan.vrastil\n\n[52a970a9](https://gitlab.com/snowgem/bitfrost/-/commit/52a970a99da087e5ef5112a46f0dbf5504bb8afe): Merge branch 'v0.1.5' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
