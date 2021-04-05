@@ -40997,5 +40997,15 @@
       "description": "[1594c9df](https://gitlab.com/snowgem/bitfrost/-/commit/1594c9df81cf8a8cd0383628e39fdfd153c6d6df): retry updated - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1594c9df81cf8a8cd0383628e39fdfd153c6d6df...7e6fec9887c1c017ada8973f4386c29db1f6a3d0))",
+    "created_at": "2021-04-05 13:08:34.063000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7e6fec98](https://gitlab.com/snowgem/bitfrost/-/commit/7e6fec9887c1c017ada8973f4386c29db1f6a3d0): global loading - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
