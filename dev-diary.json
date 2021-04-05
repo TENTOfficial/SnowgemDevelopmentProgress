@@ -40977,5 +40977,15 @@
       "description": "[980411d4](https://gitlab.com/snowgem/bitfrost/-/commit/980411d4050bd541c82bc88d9e006db6b56e5fd1): enabling inputs - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/980411d4050bd541c82bc88d9e006db6b56e5fd1...3ee625ba318ad5bc5c0b171b45c9756e910ef7b1))",
+    "created_at": "2021-04-05 12:13:46.617000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1d2dae83](https://gitlab.com/snowgem/bitfrost/-/commit/1d2dae8320094dcaaaee0b50c76a109c99f44b2e): tx authorization update - Filip Storkan\n\n[3ee625ba](https://gitlab.com/snowgem/bitfrost/-/commit/3ee625ba318ad5bc5c0b171b45c9756e910ef7b1): logging - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
