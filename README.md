@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4253 commits since 20/01/2020. You can see the complete history in
+There is a total of 4254 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-05 13:37:51</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3f32e5fb1372155154b5f3a1e7a9036316f30034...ee11a71e29df6b3af9840a8a2abcd611fbca397d))</sub> | <sub>[ee11a71e](https://gitlab.com/snowgem/bitfrost/-/commit/ee11a71e29df6b3af9840a8a2abcd611fbca397d): catching err - Filip Storkan</sub> |
 | <sub>2021-04-05 13:24:21</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7e6fec9887c1c017ada8973f4386c29db1f6a3d0...3f32e5fb1372155154b5f3a1e7a9036316f30034))</sub> | <sub>[3f32e5fb](https://gitlab.com/snowgem/bitfrost/-/commit/3f32e5fb1372155154b5f3a1e7a9036316f30034): authorization - Filip Storkan</sub> |
 | <sub>2021-04-05 13:08:34</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1594c9df81cf8a8cd0383628e39fdfd153c6d6df...7e6fec9887c1c017ada8973f4386c29db1f6a3d0))</sub> | <sub>[7e6fec98](https://gitlab.com/snowgem/bitfrost/-/commit/7e6fec9887c1c017ada8973f4386c29db1f6a3d0): global loading - Filip Storkan</sub> |
 | <sub>2021-04-05 12:46:05</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3ee625ba318ad5bc5c0b171b45c9756e910ef7b1...1594c9df81cf8a8cd0383628e39fdfd153c6d6df))</sub> | <sub>[1594c9df](https://gitlab.com/snowgem/bitfrost/-/commit/1594c9df81cf8a8cd0383628e39fdfd153c6d6df): retry updated - Filip Storkan</sub> |
@@ -17,6 +18,5 @@ There is a total of 4253 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-05 08:14:17</sub> | <sub>Jan Vraštil removed branch new_wotkflow from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-05 08:14:17</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4988700c946ef3ed90e90f4daced5f8c6cce696b...91c0688a18370e10852af54b314fcbdc8b281057))</sub> | <sub>[c7432ee0](https://gitlab.com/snowgem/bitfrost/-/commit/c7432ee0e24ce70094ed668579b48578b1ac5dbc): Implement new workflow for payment process - Jan Vraštil<br>[91c0688a](https://gitlab.com/snowgem/bitfrost/-/commit/91c0688a18370e10852af54b314fcbdc8b281057): Merge branch 'new_wotkflow' into 'v0.1.5' - Jan Vraštil</sub> |
 | <sub>2021-04-05 08:14:17</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!221 \*New workflow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/221) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-04-03 14:08:42</sub> | <sub>qNaN pushed to branch [new\_wotkflow](https://gitlab.com/snowgem/bitfrost/commits/new_wotkflow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a3f8a3a69f128fd9e6fda7adc85d890342a14b1b...b7163ed9f7eb1e98085979598d7b7db4df093fab))</sub> | <sub>[b7163ed9](https://gitlab.com/snowgem/bitfrost/-/commit/b7163ed9f7eb1e98085979598d7b7db4df093fab): adding loading - Filip Storkan</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
