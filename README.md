@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4250 commits since 20/01/2020. You can see the complete history in
+There is a total of 4251 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-05 12:46:05</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3ee625ba318ad5bc5c0b171b45c9756e910ef7b1...1594c9df81cf8a8cd0383628e39fdfd153c6d6df))</sub> | <sub>[1594c9df](https://gitlab.com/snowgem/bitfrost/-/commit/1594c9df81cf8a8cd0383628e39fdfd153c6d6df): retry updated - Filip Storkan</sub> |
 | <sub>2021-04-05 12:13:46</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/980411d4050bd541c82bc88d9e006db6b56e5fd1...3ee625ba318ad5bc5c0b171b45c9756e910ef7b1))</sub> | <sub>[1d2dae83](https://gitlab.com/snowgem/bitfrost/-/commit/1d2dae8320094dcaaaee0b50c76a109c99f44b2e): tx authorization update - Filip Storkan<br>[3ee625ba](https://gitlab.com/snowgem/bitfrost/-/commit/3ee625ba318ad5bc5c0b171b45c9756e910ef7b1): logging - Filip Storkan</sub> |
 | <sub>2021-04-05 11:11:24</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fcaae9ce2e4fba8ae628debf1fb16377b11be6ee...980411d4050bd541c82bc88d9e006db6b56e5fd1))</sub> | <sub>[980411d4](https://gitlab.com/snowgem/bitfrost/-/commit/980411d4050bd541c82bc88d9e006db6b56e5fd1): enabling inputs - Filip Storkan</sub> |
 | <sub>2021-04-05 11:03:54</sub> | <sub>qNaN pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8c9f91740ceba275c91577e0927da8856859a1a5...fcaae9ce2e4fba8ae628debf1fb16377b11be6ee))</sub> | <sub>[fcaae9ce](https://gitlab.com/snowgem/bitfrost/-/commit/fcaae9ce2e4fba8ae628debf1fb16377b11be6ee): response fix - Filip Storkan</sub> |
@@ -17,6 +18,5 @@ There is a total of 4250 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-03 14:08:42</sub> | <sub>qNaN pushed to branch [new\_wotkflow](https://gitlab.com/snowgem/bitfrost/commits/new_wotkflow) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a3f8a3a69f128fd9e6fda7adc85d890342a14b1b...b7163ed9f7eb1e98085979598d7b7db4df093fab))</sub> | <sub>[b7163ed9](https://gitlab.com/snowgem/bitfrost/-/commit/b7163ed9f7eb1e98085979598d7b7db4df093fab): adding loading - Filip Storkan</sub> |
 | <sub>2021-04-03 13:35:36</sub> | <sub>Jan Vraštil pushed new branch [new\_wotkflow](https://gitlab.com/snowgem/bitfrost/commits/new_wotkflow) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-03 08:28:43</sub> | <sub>[[TENT:upgrade/atlantis] 1 new commit](https://github.com/TENTOfficial/TENT/commit/6c40b0c505aef62be72450ee02ef1e9f30e6c4c9)</sub> | <sub>[6c40b0c](https://github.com/TENTOfficial/TENT/commit/6c40b0c505aef62be72450ee02ef1e9f30e6c4c9) update rpc call for new payment process - TENTOfficial</sub> |
-| <sub>2021-04-03 07:40:59</sub> | <sub>[[TENT:upgrade/atlantis] 1 new commit](https://github.com/TENTOfficial/TENT/commit/f027b4fdafbbd5a324365f56854fdc70e5b7cad0)</sub> | <sub>[f027b4f](https://github.com/TENTOfficial/TENT/commit/f027b4fdafbbd5a324365f56854fdc70e5b7cad0) update new payment process - TENTOfficial</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
