@@ -41107,5 +41107,15 @@
       "description": "[5eff1990](https://gitlab.com/snowgem/bitfrost/-/commit/5eff1990f32542a0e8c6fc1999e74af57b0d78de): removing network interface plugin - Filip Storkan\n\n[fce807bd](https://gitlab.com/snowgem/bitfrost/-/commit/fce807bd1398a767b769afdc67c5d5872e99bfd0): switching swap tabs - Filip Storkan\n\n[2a6fa3a7](https://gitlab.com/snowgem/bitfrost/-/commit/2a6fa3a7dfb84e7d87c38127f7aea346d791c043): coming soon badge for init tut - Filip Storkan\n\n[c292a30d](https://gitlab.com/snowgem/bitfrost/-/commit/c292a30d1a31c36a0fb2e1a9573f7293cb3c3ff5): hiding buy button - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!224 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/224) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-06 13:49:03.413000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!224 \\*V0\\.1\\.5\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/224) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-06 13:49:49.058000"
   }
 ]
