@@ -41097,5 +41097,15 @@
       "description": "[905f70ef](https://gitlab.com/snowgem/bitfrost/-/commit/905f70ef2a056c2ffb544f184dc383db8bbd9e1f): New backend Flow - wip - jan.vrastil\n\n[96807693](https://gitlab.com/snowgem/bitfrost/-/commit/96807693522b07ef6bf99c55bd900921550b8d94): increase ios build version - Snowgem\n\n[c83ad213](https://gitlab.com/snowgem/bitfrost/-/commit/c83ad21324844a4fe78587b88e680cebe380a512): Merge branch 'v0.1.5' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/96807693522b07ef6bf99c55bd900921550b8d94...c292a30d1a31c36a0fb2e1a9573f7293cb3c3ff5))",
+    "created_at": "2021-04-06 11:50:36.217000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5eff1990](https://gitlab.com/snowgem/bitfrost/-/commit/5eff1990f32542a0e8c6fc1999e74af57b0d78de): removing network interface plugin - Filip Storkan\n\n[fce807bd](https://gitlab.com/snowgem/bitfrost/-/commit/fce807bd1398a767b769afdc67c5d5872e99bfd0): switching swap tabs - Filip Storkan\n\n[2a6fa3a7](https://gitlab.com/snowgem/bitfrost/-/commit/2a6fa3a7dfb84e7d87c38127f7aea346d791c043): coming soon badge for init tut - Filip Storkan\n\n[c292a30d](https://gitlab.com/snowgem/bitfrost/-/commit/c292a30d1a31c36a0fb2e1a9573f7293cb3c3ff5): hiding buy button - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
