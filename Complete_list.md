@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-07 10:51:18</sub> | <sub>Txid (txid) merged merge request [\!226 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/226) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-04-07 10:51:09</sub> | <sub>Txid (txid) approved merge request [\!226 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/226) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-07 10:20:08</sub> | <sub>Txid removed tag 0.1.6 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-07 10:19:27</sub> | <sub>Txid pushed new tag [0\.1\.5](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.5) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-07 10:09:12</sub> | <sub>Txid (txid) opened merge request [\!226 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/226) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
