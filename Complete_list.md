@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-07 11:43:48</sub> | <sub>ciripel pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/aa3747269f2a41be76a06155d8a2e928c82d733d...9977dda8d19d7a5e09c5e85f05457d2fec5d63b0))</sub> | <sub>[9977dda8](https://gitlab.com/snowgem/bitfrost/-/commit/9977dda8d19d7a5e09c5e85f05457d2fec5d63b0): finished translations files - ciripel</sub> |
 | <sub>2021-04-07 10:51:18</sub> | <sub>Txid (txid) merged merge request [\!226 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/226) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-07 10:51:09</sub> | <sub>Txid (txid) approved merge request [\!226 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/226) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-07 10:20:08</sub> | <sub>Txid removed tag 0.1.6 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
