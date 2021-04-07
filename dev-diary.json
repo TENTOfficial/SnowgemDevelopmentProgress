@@ -41177,5 +41177,10 @@
     "author": "GitLab",
     "content": "Txid pushed new tag [0\\.1\\.5](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.5) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-07 10:19:27.684000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid removed tag 0.1.6 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-07 10:20:08.135000"
   }
 ]
