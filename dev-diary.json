@@ -41202,5 +41202,15 @@
       "description": "[9977dda8](https://gitlab.com/snowgem/bitfrost/-/commit/9977dda8d19d7a5e09c5e85f05457d2fec5d63b0): finished translations files - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9977dda8d19d7a5e09c5e85f05457d2fec5d63b0...314e87d476f1b5f24547ebd0b488a4c640a51b00))",
+    "created_at": "2021-04-07 12:17:52.242000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[314e87d4](https://gitlab.com/snowgem/bitfrost/-/commit/314e87d476f1b5f24547ebd0b488a4c640a51b00): deleted extra wrong field - ciripel",
+      "type": "rich"
+    }
   }
 ]
