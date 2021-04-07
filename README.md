@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4274 commits since 20/01/2020. You can see the complete history in
+There is a total of 4275 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-07 10:19:27</sub> | <sub>Txid pushed new tag [0\.1\.5](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.5) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-07 10:09:12</sub> | <sub>Txid (txid) opened merge request [\!226 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/226) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-07 10:08:19</sub> | <sub>Txid pushed new tag [0\.1\.6](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.6) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-06 15:32:04</sub> | <sub>Jan Vraštil pushed new branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4274 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-06 13:52:39</sub> | <sub>Txid pushed to branch [v0\.1\.5](https://gitlab.com/snowgem/bitfrost/commits/v0.1.5) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c292a30d1a31c36a0fb2e1a9573f7293cb3c3ff5...fc95b8582bee24d8cc0dee31f82e3faeee8e7fbc))</sub> | <sub>[ca223d80](https://gitlab.com/snowgem/bitfrost/-/commit/ca223d80891b8ea55830a7077ba7c051d9aa79a0): increase ios build version - Snowgem<br>[fc95b858](https://gitlab.com/snowgem/bitfrost/-/commit/fc95b8582bee24d8cc0dee31f82e3faeee8e7fbc): Merge branch 'v0.1.5' of https://gitlab.com/snowgem/bitfrost into v0.1.5 - Snowgem</sub> |
 | <sub>2021-04-06 13:50:04</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c83ad21324844a4fe78587b88e680cebe380a512...8ddcb41eec1731dadf551b362a43d5bba8a4db9e))</sub> | <sub>[5eff1990](https://gitlab.com/snowgem/bitfrost/-/commit/5eff1990f32542a0e8c6fc1999e74af57b0d78de): removing network interface plugin - Filip Storkan<br>[fce807bd](https://gitlab.com/snowgem/bitfrost/-/commit/fce807bd1398a767b769afdc67c5d5872e99bfd0): switching swap tabs - Filip Storkan<br>[2a6fa3a7](https://gitlab.com/snowgem/bitfrost/-/commit/2a6fa3a7dfb84e7d87c38127f7aea346d791c043): coming soon badge for init tut - Filip Storkan<br>[c292a30d](https://gitlab.com/snowgem/bitfrost/-/commit/c292a30d1a31c36a0fb2e1a9573f7293cb3c3ff5): hiding buy button - Filip Storkan<br>[8ddcb41e](https://gitlab.com/snowgem/bitfrost/-/commit/8ddcb41eec1731dadf551b362a43d5bba8a4db9e): Merge branch 'v0.1.5' into 'testing' - Txid</sub> |
 | <sub>2021-04-06 13:49:49</sub> | <sub>Txid (txid) merged merge request [\!224 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/224) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-04-06 13:49:03</sub> | <sub>Txid (txid) opened merge request [\!224 \*V0\.1\.5\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/224) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
