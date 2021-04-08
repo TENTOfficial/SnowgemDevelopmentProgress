@@ -41212,5 +41212,23 @@
       "description": "[314e87d4](https://gitlab.com/snowgem/bitfrost/-/commit/314e87d476f1b5f24547ebd0b488a4c640a51b00): deleted extra wrong field - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-04-08 06:20:06.028000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`d854018`](https://github.com/TENTOfficial/TENT/commit/d8540189feb286ba632f2d14994bfaad82919f93) TLS Testing - jrharp\n[`2ebbda9`](https://github.com/TENTOfficial/TENT/commit/2ebbda99af9d2fcc0b2260c18bfb185c670c5296) fix net.h - jrharp\n[`ea2014d`](https://github.com/TENTOfficial/TENT/commit/ea2014da0db6ea79531ecc245273ff633be8fccd) Fix metrics.cpp - jrharp\n[`758d681`](https://github.com/TENTOfficial/TENT/commit/758d681813efad32a3f7373b12b9553dbfc81e2d) Fix metrics.cpp - jrharp\n[`ceddd59`](https://github.com/TENTOfficial/TENT/commit/ceddd59418591d376034f2f85a6ec65befdc1d8e) Add Zen tlsmanager - jrharp",
+      "title": "[TENT:dev] 171 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/compare/c9cde185d616...e758d1fce68e"
+    }
   }
 ]
