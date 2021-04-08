@@ -41266,5 +41266,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/compare/e758d1fce68e...cfccb732c9ad"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/314e87d476f1b5f24547ebd0b488a4c640a51b00...6837eaf38325644c1a252dad86267cf753cc0908))",
+    "created_at": "2021-04-08 10:00:25.348000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6837eaf3](https://gitlab.com/snowgem/bitfrost/-/commit/6837eaf38325644c1a252dad86267cf753cc0908): updated (complete) translations - ciripel",
+      "type": "rich"
+    }
   }
 ]
