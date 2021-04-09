@@ -41326,5 +41326,15 @@
       "description": "[08614f17](https://gitlab.com/snowgem/bitfrost/-/commit/08614f177e53a2577a50486f24f69257d4809b28): Hot fix (2) - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/08614f177e53a2577a50486f24f69257d4809b28...72413bde42e1edfb8186223e88ca97320f2f7199))",
+    "created_at": "2021-04-09 13:07:03.078000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[72413bde](https://gitlab.com/snowgem/bitfrost/-/commit/72413bde42e1edfb8186223e88ca97320f2f7199): Changes for report issue api calling - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
