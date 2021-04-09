@@ -41346,5 +41346,10 @@
       "description": "[514a3e09](https://gitlab.com/snowgem/bitfrost/-/commit/514a3e09b827fc60b639e1d5ea5db3d0cffc4352): KYC status changes - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed new branch [feature/cancelled\\_status](https://gitlab.com/snowgem/bitfrost/commits/feature/cancelled_status) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-09 15:19:39.770000"
   }
 ]
