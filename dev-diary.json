@@ -41276,5 +41276,15 @@
       "description": "[6837eaf3](https://gitlab.com/snowgem/bitfrost/-/commit/6837eaf38325644c1a252dad86267cf753cc0908): updated (complete) translations - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6837eaf38325644c1a252dad86267cf753cc0908...5dbfbc4862ab1ba8f26359a83b597d3245ff1320))",
+    "created_at": "2021-04-09 06:59:13.043000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5dbfbc48](https://gitlab.com/snowgem/bitfrost/-/commit/5dbfbc4862ab1ba8f26359a83b597d3245ff1320): Decta re-implementation - WIP - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]

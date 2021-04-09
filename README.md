@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4284 commits since 20/01/2020. You can see the complete history in
+There is a total of 4285 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-09 06:59:13</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6837eaf38325644c1a252dad86267cf753cc0908...5dbfbc4862ab1ba8f26359a83b597d3245ff1320))</sub> | <sub>[5dbfbc48](https://gitlab.com/snowgem/bitfrost/-/commit/5dbfbc4862ab1ba8f26359a83b597d3245ff1320): Decta re-implementation - WIP - jan.vrastil</sub> |
 | <sub>2021-04-08 10:00:25</sub> | <sub>ciripel pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/314e87d476f1b5f24547ebd0b488a4c640a51b00...6837eaf38325644c1a252dad86267cf753cc0908))</sub> | <sub>[6837eaf3](https://gitlab.com/snowgem/bitfrost/-/commit/6837eaf38325644c1a252dad86267cf753cc0908): updated (complete) translations - ciripel</sub> |
 | <sub>2021-04-08 06:37:55</sub> | <sub>[[TENT:dev] 2 new commits](https://github.com/TENTOfficial/TENT/compare/e758d1fce68e...cfccb732c9ad)</sub> | <sub>[92e50c8](https://github.com/TENTOfficial/TENT/commit/92e50c8066cadf518c9f0c3f30efb28c6d171827) Revert "feature/TLS Update" - TENTOfficial<br>[cfccb73](https://github.com/TENTOfficial/TENT/commit/cfccb732c9adb2da23dc8524198250a486c150f0) Merge pull request #36 from TENTOfficial/revert... - TENTOfficial</sub> |
 | <sub>2021-04-08 06:36:05</sub> | <sub>[[TENT:revert\-35\-master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/92e50c8066cadf518c9f0c3f30efb28c6d171827)</sub> | <sub>[92e50c8](https://github.com/TENTOfficial/TENT/commit/92e50c8066cadf518c9f0c3f30efb28c6d171827) Revert "feature/TLS Update" - TENTOfficial</sub> |
@@ -17,6 +18,5 @@ There is a total of 4284 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-07 10:51:18</sub> | <sub>Txid (txid) merged merge request [\!226 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/226) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-07 10:51:09</sub> | <sub>Txid (txid) approved merge request [\!226 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/226) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-07 10:20:08</sub> | <sub>Txid removed tag 0.1.6 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-04-07 10:19:27</sub> | <sub>Txid pushed new tag [0\.1\.5](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.5) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
