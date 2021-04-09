@@ -41306,5 +41306,15 @@
       "description": "[86e2fb42](https://gitlab.com/snowgem/bitfrost/-/commit/86e2fb42d63cd9589d379d9e0d361b12f206189d): fix #411, part 2, syncronise behavior - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/86e2fb42d63cd9589d379d9e0d361b12f206189d...269be8e5986ab8e42067432600e9736722917101))",
+    "created_at": "2021-04-09 11:51:51.129000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[269be8e5](https://gitlab.com/snowgem/bitfrost/-/commit/269be8e5986ab8e42067432600e9736722917101): Hot fix - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
