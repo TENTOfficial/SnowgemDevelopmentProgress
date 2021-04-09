@@ -41371,5 +41371,15 @@
       "description": "[e14aedbd](https://gitlab.com/snowgem/bitfrost/-/commit/e14aedbd59c68617ae1f779bfabbf378a8c15cf6): Disable swipe back - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e14aedbd59c68617ae1f779bfabbf378a8c15cf6...164540e6b72414338411ac941305c678e8d0689b))",
+    "created_at": "2021-04-09 18:42:13.256000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[164540e6](https://gitlab.com/snowgem/bitfrost/-/commit/164540e6b72414338411ac941305c678e8d0689b): Increase ios version - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
