@@ -41296,5 +41296,15 @@
       "description": "[6b559368](https://gitlab.com/snowgem/bitfrost/-/commit/6b5593685d63a8416e4afa8fe798d975a2a410b6): fix #411, Swap with more coins - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6b5593685d63a8416e4afa8fe798d975a2a410b6...86e2fb42d63cd9589d379d9e0d361b12f206189d))",
+    "created_at": "2021-04-09 11:30:08.427000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[86e2fb42](https://gitlab.com/snowgem/bitfrost/-/commit/86e2fb42d63cd9589d379d9e0d361b12f206189d): fix #411, part 2, syncronise behavior - Snowgem",
+      "type": "rich"
+    }
   }
 ]

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4286 commits since 20/01/2020. You can see the complete history in
+There is a total of 4287 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-09 11:30:08</sub> | <sub>Txid pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6b5593685d63a8416e4afa8fe798d975a2a410b6...86e2fb42d63cd9589d379d9e0d361b12f206189d))</sub> | <sub>[86e2fb42](https://gitlab.com/snowgem/bitfrost/-/commit/86e2fb42d63cd9589d379d9e0d361b12f206189d): fix #411, part 2, syncronise behavior - Snowgem</sub> |
 | <sub>2021-04-09 11:02:20</sub> | <sub>Txid pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5dbfbc4862ab1ba8f26359a83b597d3245ff1320...6b5593685d63a8416e4afa8fe798d975a2a410b6))</sub> | <sub>[6b559368](https://gitlab.com/snowgem/bitfrost/-/commit/6b5593685d63a8416e4afa8fe798d975a2a410b6): fix #411, Swap with more coins - Snowgem</sub> |
 | <sub>2021-04-09 06:59:13</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6837eaf38325644c1a252dad86267cf753cc0908...5dbfbc4862ab1ba8f26359a83b597d3245ff1320))</sub> | <sub>[5dbfbc48](https://gitlab.com/snowgem/bitfrost/-/commit/5dbfbc4862ab1ba8f26359a83b597d3245ff1320): Decta re-implementation - WIP - jan.vrastil</sub> |
 | <sub>2021-04-08 10:00:25</sub> | <sub>ciripel pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/314e87d476f1b5f24547ebd0b488a4c640a51b00...6837eaf38325644c1a252dad86267cf753cc0908))</sub> | <sub>[6837eaf3](https://gitlab.com/snowgem/bitfrost/-/commit/6837eaf38325644c1a252dad86267cf753cc0908): updated (complete) translations - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4286 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-07 12:17:52</sub> | <sub>ciripel pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9977dda8d19d7a5e09c5e85f05457d2fec5d63b0...314e87d476f1b5f24547ebd0b488a4c640a51b00))</sub> | <sub>[314e87d4](https://gitlab.com/snowgem/bitfrost/-/commit/314e87d476f1b5f24547ebd0b488a4c640a51b00): deleted extra wrong field - ciripel</sub> |
 | <sub>2021-04-07 11:43:48</sub> | <sub>ciripel pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/aa3747269f2a41be76a06155d8a2e928c82d733d...9977dda8d19d7a5e09c5e85f05457d2fec5d63b0))</sub> | <sub>[9977dda8](https://gitlab.com/snowgem/bitfrost/-/commit/9977dda8d19d7a5e09c5e85f05457d2fec5d63b0): finished translations files - ciripel</sub> |
 | <sub>2021-04-07 10:51:18</sub> | <sub>Txid (txid) merged merge request [\!226 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/226) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-04-07 10:51:09</sub> | <sub>Txid (txid) approved merge request [\!226 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/226) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
