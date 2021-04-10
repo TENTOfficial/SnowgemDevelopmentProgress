@@ -41401,5 +41401,41 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!227 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/227) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-10 02:23:31.855000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-04-10 05:30:38.310000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`2b63ae0`](https://github.com/TENTOfficial/TENT/commit/2b63ae01732e56141d092f722e29b74dd6ead88e) disable z_getnewaddress - TENTOfficial\n[`0cd07ec`](https://github.com/TENTOfficial/TENT/commit/0cd07ec2896ef7a1374c60af4a1b34b11f2baace) update testnet data - TENTOfficial\n[`b8fbc5b`](https://github.com/TENTOfficial/TENT/commit/b8fbc5b81f85efa22a4debca3ec739184e76c2c0) update fork block in testnet - TENTOfficial\n[`65e1b01`](https://github.com/TENTOfficial/TENT/commit/65e1b01f0096d62e1b5e5cf2fa8d3104d08f1205) check priv transaction, sendcoinbase - TENTOfficial\n[`a4482c4`](https://github.com/TENTOfficial/TENT/commit/a4482c4b20816bac39bca52dcf6936f0c82523d4) implement freyja rpc command - TENTOfficial",
+      "title": "[TENT:upgrade/atlantis] 7 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/compare/6c40b0c505ae...6b38d29b8594"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-04-10 05:34:49.831000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`9a56e47`](https://github.com/TENTOfficial/TENT/commit/9a56e475b80b023d5d6325ac3ab25e66c06eca9e) correct APPROX_RELEASE_HEIGHT - TENTOfficial",
+      "title": "[TENT:upgrade/atlantis] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/commit/9a56e475b80b023d5d6325ac3ab25e66c06eca9e"
+    }
   }
 ]
