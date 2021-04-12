@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4305 commits since 20/01/2020. You can see the complete history in
+There is a total of 4306 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-12 10:00:47</sub> | <sub>[[TENT:upgrade/atlantis] 1 new commit](https://github.com/TENTOfficial/TENT/commit/f302601fcbfe6a3184430631ae8ed486f433439f)</sub> | <sub>[f302601](https://github.com/TENTOfficial/TENT/commit/f302601fcbfe6a3184430631ae8ed486f433439f) update checkpoint - TENTOfficial</sub> |
 | <sub>2021-04-12 08:16:05</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f6a1035b818ab0eb28770d2da36095d4bf74c47a...1ae088f516e83e58efe54375e3aa11814b351a7f))</sub> | <sub>[1ae088f5](https://gitlab.com/snowgem/bitfrost/-/commit/1ae088f516e83e58efe54375e3aa11814b351a7f): Update isVerified guard - jan.vrastil</sub> |
 | <sub>2021-04-10 19:08:34</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/237da854bd3498df41e05e79528513e0e4bf1998...f6a1035b818ab0eb28770d2da36095d4bf74c47a))</sub> | <sub>[f6a1035b](https://gitlab.com/snowgem/bitfrost/-/commit/f6a1035b818ab0eb28770d2da36095d4bf74c47a): Add PaymentGateways parameter - jan.vrastil</sub> |
 | <sub>2021-04-10 17:15:15</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/307d79e138f364c10e09787bc37a8ebc7f99100a)</sub> | <sub>[307d79e](https://github.com/TENTOfficial/ServerConfig/commit/307d79e138f364c10e09787bc37a8ebc7f99100a) adjusted banner and popup - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4305 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-10 05:30:38</sub> | <sub>[[TENT:upgrade/atlantis] 7 new commits](https://github.com/TENTOfficial/TENT/compare/6c40b0c505ae...6b38d29b8594)</sub> | <sub>[2b63ae0](https://github.com/TENTOfficial/TENT/commit/2b63ae01732e56141d092f722e29b74dd6ead88e) disable z_getnewaddress - TENTOfficial<br>[0cd07ec](https://github.com/TENTOfficial/TENT/commit/0cd07ec2896ef7a1374c60af4a1b34b11f2baace) update testnet data - TENTOfficial<br>[b8fbc5b](https://github.com/TENTOfficial/TENT/commit/b8fbc5b81f85efa22a4debca3ec739184e76c2c0) update fork block in testnet - TENTOfficial<br>[65e1b01](https://github.com/TENTOfficial/TENT/commit/65e1b01f0096d62e1b5e5cf2fa8d3104d08f1205) check priv transaction, sendcoinbase - TENTOfficial<br>[a4482c4](https://github.com/TENTOfficial/TENT/commit/a4482c4b20816bac39bca52dcf6936f0c82523d4) implement freyja rpc command - TENTOfficial</sub> |
 | <sub>2021-04-10 02:23:31</sub> | <sub>Txid (txid) merged merge request [\!227 \*V0\.1\.6\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/227) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-10 02:20:50</sub> | <sub>Txid (txid) opened merge request [\!227 \*V0\.1\.6\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/227) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-04-10 02:19:44</sub> | <sub>Txid pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/164540e6b72414338411ac941305c678e8d0689b...237da854bd3498df41e05e79528513e0e4bf1998))</sub> | <sub>[237da854](https://gitlab.com/snowgem/bitfrost/-/commit/237da854bd3498df41e05e79528513e0e4bf1998): increase version - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
