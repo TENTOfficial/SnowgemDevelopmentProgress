@@ -41529,5 +41529,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/commit/f302601fcbfe6a3184430631ae8ed486f433439f"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1ae088f516e83e58efe54375e3aa11814b351a7f...1ca20f57ced04ebedb4f3fbd82a62790f0d07fdc))",
+    "created_at": "2021-04-12 10:08:29.006000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1ca20f57](https://gitlab.com/snowgem/bitfrost/-/commit/1ca20f57ced04ebedb4f3fbd82a62790f0d07fdc): Fix incorrect decta api call - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
