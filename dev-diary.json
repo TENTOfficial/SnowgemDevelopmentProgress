@@ -41501,5 +41501,15 @@
       "description": "[f6a1035b](https://gitlab.com/snowgem/bitfrost/-/commit/f6a1035b818ab0eb28770d2da36095d4bf74c47a): Add PaymentGateways parameter - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f6a1035b818ab0eb28770d2da36095d4bf74c47a...1ae088f516e83e58efe54375e3aa11814b351a7f))",
+    "created_at": "2021-04-12 08:16:05.816000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1ae088f5](https://gitlab.com/snowgem/bitfrost/-/commit/1ae088f516e83e58efe54375e3aa11814b351a7f): Update isVerified guard - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
