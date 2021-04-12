@@ -41539,5 +41539,23 @@
       "description": "[1ca20f57](https://gitlab.com/snowgem/bitfrost/-/commit/1ca20f57ced04ebedb4f3fbd82a62790f0d07fdc): Fix incorrect decta api call - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-04-12 18:06:05.851000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e15c898`](https://github.com/TENTOfficial/ServerConfig/commit/e15c89812b462781ed70497c11699fb7b5294fb4) updated BZEdge and Vidulum to latest versions - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/e15c89812b462781ed70497c11699fb7b5294fb4"
+    }
   }
 ]
