@@ -41633,5 +41633,15 @@
       "description": "[3c00f6f9](https://gitlab.com/snowgem/bitfrost/-/commit/3c00f6f99813b56ce7070c7fc288cd9523295b27): fix #406, Hide PIRL and BITG from main wallet page - Snowgem\n\n[28285d72](https://gitlab.com/snowgem/bitfrost/-/commit/28285d723bfba09ea66cce84e58967ed455f0a1f): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/28285d723bfba09ea66cce84e58967ed455f0a1f...a1edfc999c5dbf4ae8633b94ba67d52e341532ff))",
+    "created_at": "2021-04-13 10:02:59.731000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a1edfc99](https://gitlab.com/snowgem/bitfrost/-/commit/a1edfc999c5dbf4ae8633b94ba67d52e341532ff): Fix support page - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
