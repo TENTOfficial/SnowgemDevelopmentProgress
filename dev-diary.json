@@ -41603,5 +41603,15 @@
       "description": "[f16f7777](https://gitlab.com/snowgem/bitfrost/-/commit/f16f77773044de6ac3649c049d7c763747bc262c): #412 - changing information icon - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f16f77773044de6ac3649c049d7c763747bc262c...210ed4921f533b90a8f52e0cbec8a385acc1d7b7))",
+    "created_at": "2021-04-13 09:22:59.704000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6550dd31](https://gitlab.com/snowgem/bitfrost/-/commit/6550dd31d483545f41afb605b628dbb7228d4865): fix #454, Lower all seed words - Snowgem\n\n[210ed492](https://gitlab.com/snowgem/bitfrost/-/commit/210ed4921f533b90a8f52e0cbec8a385acc1d7b7): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
