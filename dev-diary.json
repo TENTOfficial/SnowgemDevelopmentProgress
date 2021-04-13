@@ -41663,5 +41663,15 @@
       "description": "[a4537fa2](https://gitlab.com/snowgem/bitfrost/-/commit/a4537fa286eebfa0599d2658f28fdc83a9afde14): #410 padding fix - Filip Storkan\n\n[3bfca713](https://gitlab.com/snowgem/bitfrost/-/commit/3bfca7136b59a1188c9724bda9c349bddce29e41): #446 - restricted coutries - Filip Storkan\n\n[772c48c5](https://gitlab.com/snowgem/bitfrost/-/commit/772c48c503c0ebc241c51c33ae231c3b5ea3f770): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/772c48c503c0ebc241c51c33ae231c3b5ea3f770...c437267a6b6eb2d8253418e7aad1d6e6c45ef92d))",
+    "created_at": "2021-04-13 16:07:52.856000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c437267a](https://gitlab.com/snowgem/bitfrost/-/commit/c437267a6b6eb2d8253418e7aad1d6e6c45ef92d): activated and updated italian - fixed #438 - ciripel",
+      "type": "rich"
+    }
   }
 ]
