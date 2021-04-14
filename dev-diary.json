@@ -41703,5 +41703,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch bug/409-biometrics_fix from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-14 02:27:37.871000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c981a5fe91a6df9e8cfc56d288b687d815f9c27c...59a8f96195e724e2864c031957eeca81500caf82))",
+    "created_at": "2021-04-14 07:32:33.064000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[32515d05](https://gitlab.com/snowgem/bitfrost/-/commit/32515d05be53bb08b768ac87d998e4d9a5bdf0e2): #446 Updated calling list - Filip Storkan\n\n[59a8f961](https://gitlab.com/snowgem/bitfrost/-/commit/59a8f96195e724e2864c031957eeca81500caf82): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
