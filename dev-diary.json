@@ -41723,5 +41723,15 @@
       "description": "[b52d2edf](https://gitlab.com/snowgem/bitfrost/-/commit/b52d2edf7e07fd3cd534234762d6a27848704b6b): support export old wallet with master password - Snowgem\n\n[f3c38204](https://gitlab.com/snowgem/bitfrost/-/commit/f3c38204c5433a3ab2d68cb6607ca75d68c988ed): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy pushed to branch [feature/cancelled\\_status](https://gitlab.com/snowgem/bitfrost/commits/feature/cancelled_status) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/92f8dc3732b21b5686a8b3b6c05f61c7925d9bf8...59cd13bbcd993cae6a26103908a8e81a1f17cf20))",
+    "created_at": "2021-04-15 11:52:00.807000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[59cd13bb](https://gitlab.com/snowgem/bitfrost/-/commit/59cd13bbcd993cae6a26103908a8e81a1f17cf20): lint fix - Daniil Lisovskiy",
+      "type": "rich"
+    }
   }
 ]
