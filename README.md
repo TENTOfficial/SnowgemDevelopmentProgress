@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4330 commits since 20/01/2020. You can see the complete history in
+There is a total of 4331 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-15 13:11:47</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/e542ed87d582a64004019909fac6061cd65ba70f)</sub> | <sub>[e542ed8](https://github.com/TENTOfficial/ServerConfig/commit/e542ed87d582a64004019909fac6061cd65ba70f) upated to 3.1.2 - ciripel</sub> |
 | <sub>2021-04-15 12:55:47</sub> | <sub>[[masternode-setup:master] 1 new commit](https://github.com/TENTOfficial/masternode-setup/commit/349890167f05174124c71546719479a22d69b53e)</sub> | <sub>[3498901](https://github.com/TENTOfficial/masternode-setup/commit/349890167f05174124c71546719479a22d69b53e) corrected readme - ciripel</sub> |
 | <sub>2021-04-15 12:54:55</sub> | <sub>[[masternode-upgrade:master] 1 new commit](https://github.com/TENTOfficial/masternode-upgrade/commit/415c7786d18d4bcef7c1fe0b82fff72ba1d1e4c5)</sub> | <sub>[415c778](https://github.com/TENTOfficial/masternode-upgrade/commit/415c7786d18d4bcef7c1fe0b82fff72ba1d1e4c5) updated scripts to scripting releases - ciripel</sub> |
 | <sub>2021-04-15 12:54:18</sub> | <sub>[[masternode-setup:master] 1 new commit](https://github.com/TENTOfficial/masternode-setup/commit/62f32403f2b31082fce7cb189d6a850d9475362b)</sub> | <sub>[62f3240](https://github.com/TENTOfficial/masternode-setup/commit/62f32403f2b31082fce7cb189d6a850d9475362b) updated scripts to scripting releases - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4330 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-14 07:32:33</sub> | <sub>qNaN pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c981a5fe91a6df9e8cfc56d288b687d815f9c27c...59a8f96195e724e2864c031957eeca81500caf82))</sub> | <sub>[32515d05](https://gitlab.com/snowgem/bitfrost/-/commit/32515d05be53bb08b768ac87d998e4d9a5bdf0e2): #446 Updated calling list - Filip Storkan<br>[59a8f961](https://gitlab.com/snowgem/bitfrost/-/commit/59a8f96195e724e2864c031957eeca81500caf82): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan</sub> |
 | <sub>2021-04-14 02:27:37</sub> | <sub>Jan Vraštil removed branch bug/409-biometrics_fix from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-14 02:27:37</sub> | <sub>Txid (txid) merged merge request [\!228 \*Bug/409 biometrics fix\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/228) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-04-14 02:27:37</sub> | <sub>Txid pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c437267a6b6eb2d8253418e7aad1d6e6c45ef92d...c981a5fe91a6df9e8cfc56d288b687d815f9c27c))</sub> | <sub>[3d60e915](https://gitlab.com/snowgem/bitfrost/-/commit/3d60e9154466309fb7938fe8c9f02f1b23b31d93): Bug/409 - fix for Biometrics issue - jan.vrastil<br>[c981a5fe](https://gitlab.com/snowgem/bitfrost/-/commit/c981a5fe91a6df9e8cfc56d288b687d815f9c27c): Merge branch 'bug/409-biometrics_fix' into 'v0.1.6' - Txid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
