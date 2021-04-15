@@ -41723,10 +41723,5 @@
       "description": "[b52d2edf](https://gitlab.com/snowgem/bitfrost/-/commit/b52d2edf7e07fd3cd534234762d6a27848704b6b): support export old wallet with master password - Snowgem\n\n[f3c38204](https://gitlab.com/snowgem/bitfrost/-/commit/f3c38204c5433a3ab2d68cb6607ca75d68c988ed): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
       "type": "rich"
     }
-  },
-  {
-    "author": "GitLab",
-    "content": "Daniil Lisovskiy (d.lisovskiy) opened merge request [\\!229 \\*Handling swap reports Cancelled status\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/229) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
-    "created_at": "2021-04-15 06:44:56.456000"
   }
 ]
