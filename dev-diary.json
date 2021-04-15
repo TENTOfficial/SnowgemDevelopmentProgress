@@ -41743,5 +41743,41 @@
       "description": "[c0541c85](https://gitlab.com/snowgem/bitfrost/-/commit/c0541c85124de60012d4fc18f4f9fe6e4b5e0a15): buy update - Filip Storkan\n\n[bdc503e8](https://gitlab.com/snowgem/bitfrost/-/commit/bdc503e839fb94462cee7159f95f397fc1336347): small update - Filip Storkan\n\n[5381c129](https://gitlab.com/snowgem/bitfrost/-/commit/5381c1298db3466dc65d3483de12951476d7e865): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-04-15 12:54:18.009000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`62f3240`](https://github.com/TENTOfficial/masternode-setup/commit/62f32403f2b31082fce7cb189d6a850d9475362b) updated scripts to scripting releases - ciripel",
+      "title": "[masternode-setup:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/masternode-setup/commit/62f32403f2b31082fce7cb189d6a850d9475362b"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-04-15 12:54:55.192000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`415c778`](https://github.com/TENTOfficial/masternode-upgrade/commit/415c7786d18d4bcef7c1fe0b82fff72ba1d1e4c5) updated scripts to scripting releases - ciripel",
+      "title": "[masternode-upgrade:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/masternode-upgrade/commit/415c7786d18d4bcef7c1fe0b82fff72ba1d1e4c5"
+    }
   }
 ]
