@@ -41825,5 +41825,23 @@
       "description": "[aabd02dd](https://gitlab.com/snowgem/bitfrost/-/commit/aabd02ddb8756e5b920537661797ebe99dbb03c3): lint fix - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-04-15 20:08:05.643000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`0cdb230`](https://github.com/TENTOfficial/masternode-upgrade/commit/0cdb23038fe7903f6dcb579551f567c64223db00) fixed scripts - ciripel",
+      "title": "[masternode-upgrade:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/masternode-upgrade/commit/0cdb23038fe7903f6dcb579551f567c64223db00"
+    }
   }
 ]
