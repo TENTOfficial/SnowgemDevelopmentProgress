@@ -41733,5 +41733,15 @@
       "description": "[59cd13bb](https://gitlab.com/snowgem/bitfrost/-/commit/59cd13bbcd993cae6a26103908a8e81a1f17cf20): lint fix - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cd8d647ab228a32fb23d866a538f96a66d5f0114...5381c1298db3466dc65d3483de12951476d7e865))",
+    "created_at": "2021-04-15 12:09:28.278000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c0541c85](https://gitlab.com/snowgem/bitfrost/-/commit/c0541c85124de60012d4fc18f4f9fe6e4b5e0a15): buy update - Filip Storkan\n\n[bdc503e8](https://gitlab.com/snowgem/bitfrost/-/commit/bdc503e839fb94462cee7159f95f397fc1336347): small update - Filip Storkan\n\n[5381c129](https://gitlab.com/snowgem/bitfrost/-/commit/5381c1298db3466dc65d3483de12951476d7e865): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
