@@ -41815,5 +41815,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/e542ed87d582a64004019909fac6061cd65ba70f"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5381c1298db3466dc65d3483de12951476d7e865...aabd02ddb8756e5b920537661797ebe99dbb03c3))",
+    "created_at": "2021-04-15 15:41:56.114000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[aabd02dd](https://gitlab.com/snowgem/bitfrost/-/commit/aabd02ddb8756e5b920537661797ebe99dbb03c3): lint fix - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
