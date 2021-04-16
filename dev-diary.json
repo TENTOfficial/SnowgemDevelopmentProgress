@@ -41868,5 +41868,15 @@
       "description": "[92f8dc37](https://gitlab.com/snowgem/bitfrost/-/commit/92f8dc3732b21b5686a8b3b6c05f61c7925d9bf8): Handling swap reports Cancelled status - Daniil Lisovskiy\n\n[59cd13bb](https://gitlab.com/snowgem/bitfrost/-/commit/59cd13bbcd993cae6a26103908a8e81a1f17cf20): lint fix - Daniil Lisovskiy\n\n[c92e19d3](https://gitlab.com/snowgem/bitfrost/-/commit/c92e19d343222e286f204f7f6f91a2b9c6163858): Merge branch 'feature/cancelled_status' into 'v0.1.6' - Daniil Lisovskiy",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c92e19d343222e286f204f7f6f91a2b9c6163858...42d6c3438262816a68fbeacb2b910805d7b79973))",
+    "created_at": "2021-04-16 14:22:14.635000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[42d6c343](https://gitlab.com/snowgem/bitfrost/-/commit/42d6c3438262816a68fbeacb2b910805d7b79973): updated worklet message - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
