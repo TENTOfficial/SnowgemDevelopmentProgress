@@ -41878,5 +41878,15 @@
       "description": "[42d6c343](https://gitlab.com/snowgem/bitfrost/-/commit/42d6c3438262816a68fbeacb2b910805d7b79973): updated worklet message - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/42d6c3438262816a68fbeacb2b910805d7b79973...a0370349aa24b5bf92be5eb357bd807c3ef8c80f))",
+    "created_at": "2021-04-16 14:49:57.328000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a0370349](https://gitlab.com/snowgem/bitfrost/-/commit/a0370349aa24b5bf92be5eb357bd807c3ef8c80f): Bug/448 - Add warning fow non valid passwords during creations - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
