@@ -41843,5 +41843,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/masternode-upgrade/commit/0cdb23038fe7903f6dcb579551f567c64223db00"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/aabd02ddb8756e5b920537661797ebe99dbb03c3...53c0544c6eec8d135512d725b3f5ba0b91793ef8))",
+    "created_at": "2021-04-16 11:16:38.112000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[53c0544c](https://gitlab.com/snowgem/bitfrost/-/commit/53c0544c6eec8d135512d725b3f5ba0b91793ef8): adding agreements - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
