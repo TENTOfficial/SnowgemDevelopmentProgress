@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4339 commits since 20/01/2020. You can see the complete history in
+There is a total of 4340 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-16 15:40:52</sub> | <sub>ciripel pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/efec7e3c73fec819da489ac1b15b6a2af3e362c8...d2221db1f6723ba50d56e08df95af3911468d217))</sub> | <sub>[d2221db1](https://gitlab.com/snowgem/bitfrost/-/commit/d2221db1f6723ba50d56e08df95af3911468d217): Placed untranslated fields at the end of en.json - ciripel</sub> |
 | <sub>2021-04-16 15:28:47</sub> | <sub>ciripel pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a0370349aa24b5bf92be5eb357bd807c3ef8c80f...efec7e3c73fec819da489ac1b15b6a2af3e362c8))</sub> | <sub>[efec7e3c](https://gitlab.com/snowgem/bitfrost/-/commit/efec7e3c73fec819da489ac1b15b6a2af3e362c8): fixed CREATE_PASSWORD_DESC - ciripel</sub> |
 | <sub>2021-04-16 14:49:57</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/42d6c3438262816a68fbeacb2b910805d7b79973...a0370349aa24b5bf92be5eb357bd807c3ef8c80f))</sub> | <sub>[a0370349](https://gitlab.com/snowgem/bitfrost/-/commit/a0370349aa24b5bf92be5eb357bd807c3ef8c80f): Bug/448 - Add warning fow non valid passwords during creations - jan.vrastil</sub> |
 | <sub>2021-04-16 14:22:14</sub> | <sub>qNaN pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c92e19d343222e286f204f7f6f91a2b9c6163858...42d6c3438262816a68fbeacb2b910805d7b79973))</sub> | <sub>[42d6c343](https://gitlab.com/snowgem/bitfrost/-/commit/42d6c3438262816a68fbeacb2b910805d7b79973): updated worklet message - Filip Storkan</sub> |
@@ -17,6 +18,5 @@ There is a total of 4339 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-15 20:08:05</sub> | <sub>[[masternode-upgrade:master] 1 new commit](https://github.com/TENTOfficial/masternode-upgrade/commit/0cdb23038fe7903f6dcb579551f567c64223db00)</sub> | <sub>[0cdb230](https://github.com/TENTOfficial/masternode-upgrade/commit/0cdb23038fe7903f6dcb579551f567c64223db00) fixed scripts - ciripel</sub> |
 | <sub>2021-04-15 15:41:56</sub> | <sub>qNaN pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5381c1298db3466dc65d3483de12951476d7e865...aabd02ddb8756e5b920537661797ebe99dbb03c3))</sub> | <sub>[aabd02dd](https://gitlab.com/snowgem/bitfrost/-/commit/aabd02ddb8756e5b920537661797ebe99dbb03c3): lint fix - Filip Storkan</sub> |
 | <sub>2021-04-15 13:11:47</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/e542ed87d582a64004019909fac6061cd65ba70f)</sub> | <sub>[e542ed8](https://github.com/TENTOfficial/ServerConfig/commit/e542ed87d582a64004019909fac6061cd65ba70f) upated to 3.1.2 - ciripel</sub> |
-| <sub>2021-04-15 12:55:47</sub> | <sub>[[masternode-setup:master] 1 new commit](https://github.com/TENTOfficial/masternode-setup/commit/349890167f05174124c71546719479a22d69b53e)</sub> | <sub>[3498901](https://github.com/TENTOfficial/masternode-setup/commit/349890167f05174124c71546719479a22d69b53e) corrected readme - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

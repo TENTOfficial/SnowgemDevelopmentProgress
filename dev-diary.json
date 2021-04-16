@@ -41898,5 +41898,15 @@
       "description": "[efec7e3c](https://gitlab.com/snowgem/bitfrost/-/commit/efec7e3c73fec819da489ac1b15b6a2af3e362c8): fixed CREATE_PASSWORD_DESC - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/efec7e3c73fec819da489ac1b15b6a2af3e362c8...d2221db1f6723ba50d56e08df95af3911468d217))",
+    "created_at": "2021-04-16 15:40:52.019000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d2221db1](https://gitlab.com/snowgem/bitfrost/-/commit/d2221db1f6723ba50d56e08df95af3911468d217): Placed untranslated fields at the end of en.json - ciripel",
+      "type": "rich"
+    }
   }
 ]
