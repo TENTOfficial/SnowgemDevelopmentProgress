@@ -41983,5 +41983,20 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!230 \\*Feature/api\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/230) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-17 10:29:56.679000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!231 \\*Merge v0\\.1\\.6 to testing\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/231) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-17 10:31:00.721000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b2c52bd586b3f8e2b987d1bc4fdf29e10cfcd190...b5dad00f9f7f5a2c2726612f3eb608f16e97c0fb))",
+    "created_at": "2021-04-17 10:33:03.570000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ff2eb03a](https://gitlab.com/snowgem/bitfrost/-/commit/ff2eb03a362463637e7e7388711dfe90db1d5766): increase ios build version - Snowgem\n\n[b5dad00f](https://gitlab.com/snowgem/bitfrost/-/commit/b5dad00f9f7f5a2c2726612f3eb608f16e97c0fb): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
