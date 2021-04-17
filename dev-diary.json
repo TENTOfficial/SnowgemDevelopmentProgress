@@ -42033,5 +42033,20 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!232 \\*update gitlab\\-ci\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/232) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-17 11:21:40.263000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c309d4427e0ff9c756d5e9e012e9bdc47ee7f958...40b30554ce8db3a363dd89ab9d1d9b5d3cf605fb))",
+    "created_at": "2021-04-17 11:33:33.819000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[40b30554](https://gitlab.com/snowgem/bitfrost/-/commit/40b30554ce8db3a363dd89ab9d1d9b5d3cf605fb): creat api folder for prod - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!233 \\*creat api folder for prod\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/233) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-17 11:33:59.808000"
   }
 ]
