@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4351 commits since 20/01/2020. You can see the complete history in
+There is a total of 4352 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-17 10:36:21</sub> | <sub>Txid (txid) merged merge request [\!231 \*Merge v0\.1\.6 to testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/231) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-17 10:33:03</sub> | <sub>Txid pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b2c52bd586b3f8e2b987d1bc4fdf29e10cfcd190...b5dad00f9f7f5a2c2726612f3eb608f16e97c0fb))</sub> | <sub>[ff2eb03a](https://gitlab.com/snowgem/bitfrost/-/commit/ff2eb03a362463637e7e7388711dfe90db1d5766): increase ios build version - Snowgem<br>[b5dad00f](https://gitlab.com/snowgem/bitfrost/-/commit/b5dad00f9f7f5a2c2726612f3eb608f16e97c0fb): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem</sub> |
 | <sub>2021-04-17 10:31:00</sub> | <sub>Txid (txid) opened merge request [\!231 \*Merge v0\.1\.6 to testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/231) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-17 10:29:56</sub> | <sub>Txid (txid) merged merge request [\!230 \*Feature/api\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/230) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4351 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-17 10:22:54</sub> | <sub>Txid pushed to branch [feature/api](https://gitlab.com/snowgem/bitfrost/commits/feature/api) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/982935a253a845dd3c65547b2560cefd6dddbb5c...243d407a5d8bbddca7e308a7ca29538194152394))</sub> | <sub>[243d407a](https://gitlab.com/snowgem/bitfrost/-/commit/243d407a5d8bbddca7e308a7ca29538194152394): uglify before building prod - Snowgem</sub> |
 | <sub>2021-04-17 10:10:07</sub> | <sub>Txid pushed to branch [feature/api](https://gitlab.com/snowgem/bitfrost/commits/feature/api) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/02cb013ddf85415771cf9ac66ad555c8aba38f38...982935a253a845dd3c65547b2560cefd6dddbb5c))</sub> | <sub>[9776ece3](https://gitlab.com/snowgem/bitfrost/-/commit/9776ece37e8b15e40b49e46c733d7aceabb2a791): fix lint #2 - Snowgem<br>[982935a2](https://gitlab.com/snowgem/bitfrost/-/commit/982935a253a845dd3c65547b2560cefd6dddbb5c): fix bitgo transaction - Snowgem</sub> |
 | <sub>2021-04-17 08:18:32</sub> | <sub>Txid pushed to branch [feature/api](https://gitlab.com/snowgem/bitfrost/commits/feature/api) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b7f07f11eb8cc3cdbe196df8388246ca5822554a...02cb013ddf85415771cf9ac66ad555c8aba38f38))</sub> | <sub>[c639f395](https://gitlab.com/snowgem/bitfrost/-/commit/c639f395226ae9614f0d5d6b19313f365c390568): update libs after build - Snowgem<br>[d49ccd94](https://gitlab.com/snowgem/bitfrost/-/commit/d49ccd94f113360eb6552ffc1104c7714fc3bbaf): update .gitignore - Snowgem<br>[02cb013d](https://gitlab.com/snowgem/bitfrost/-/commit/02cb013ddf85415771cf9ac66ad555c8aba38f38): fix lint #1 - Snowgem</sub> |
-| <sub>2021-04-17 07:47:08</sub> | <sub>Txid pushed new branch [feature/api](https://gitlab.com/snowgem/bitfrost/commits/feature/api) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
