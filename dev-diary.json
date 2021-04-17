@@ -41923,5 +41923,15 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [feature/api](https://gitlab.com/snowgem/bitfrost/commits/feature/api) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-17 07:47:08.198000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/api](https://gitlab.com/snowgem/bitfrost/commits/feature/api) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b7f07f11eb8cc3cdbe196df8388246ca5822554a...02cb013ddf85415771cf9ac66ad555c8aba38f38))",
+    "created_at": "2021-04-17 08:18:32.817000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c639f395](https://gitlab.com/snowgem/bitfrost/-/commit/c639f395226ae9614f0d5d6b19313f365c390568): update libs after build - Snowgem\n\n[d49ccd94](https://gitlab.com/snowgem/bitfrost/-/commit/d49ccd94f113360eb6552ffc1104c7714fc3bbaf): update .gitignore - Snowgem\n\n[02cb013d](https://gitlab.com/snowgem/bitfrost/-/commit/02cb013ddf85415771cf9ac66ad555c8aba38f38): fix lint #1 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
