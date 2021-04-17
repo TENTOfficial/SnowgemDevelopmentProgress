@@ -42003,5 +42003,20 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!231 \\*Merge v0\\.1\\.6 to testing\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/231) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-17 10:36:21.480000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b5dad00f9f7f5a2c2726612f3eb608f16e97c0fb...c309d4427e0ff9c756d5e9e012e9bdc47ee7f958))",
+    "created_at": "2021-04-17 11:18:28.492000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c309d442](https://gitlab.com/snowgem/bitfrost/-/commit/c309d4427e0ff9c756d5e9e012e9bdc47ee7f958): update gitlab-ci - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!232 \\*update gitlab\\-ci\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/232) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-17 11:18:36.636000"
   }
 ]
