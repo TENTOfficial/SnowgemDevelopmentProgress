@@ -41943,5 +41943,15 @@
       "description": "[9776ece3](https://gitlab.com/snowgem/bitfrost/-/commit/9776ece37e8b15e40b49e46c733d7aceabb2a791): fix lint #2 - Snowgem\n\n[982935a2](https://gitlab.com/snowgem/bitfrost/-/commit/982935a253a845dd3c65547b2560cefd6dddbb5c): fix bitgo transaction - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/api](https://gitlab.com/snowgem/bitfrost/commits/feature/api) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/982935a253a845dd3c65547b2560cefd6dddbb5c...243d407a5d8bbddca7e308a7ca29538194152394))",
+    "created_at": "2021-04-17 10:22:54.546000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[243d407a](https://gitlab.com/snowgem/bitfrost/-/commit/243d407a5d8bbddca7e308a7ca29538194152394): uglify before building prod - Snowgem",
+      "type": "rich"
+    }
   }
 ]
