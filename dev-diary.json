@@ -42073,5 +42073,25 @@
       "description": "[6df13d06](https://gitlab.com/snowgem/bitfrost/-/commit/6df13d06f792f7ae3a9b6e399c9d1191d25efd3c): update js api - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!234 \\*update js api\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/234) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-17 12:33:45.443000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6d4cabfff0027e5a53e67840a7ed1302675bd956...80fb8d4b818c307044ea853c830935a010dc41ef))",
+    "created_at": "2021-04-17 12:34:07.752000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6df13d06](https://gitlab.com/snowgem/bitfrost/-/commit/6df13d06f792f7ae3a9b6e399c9d1191d25efd3c): update js api - Snowgem\n\n[80fb8d4b](https://gitlab.com/snowgem/bitfrost/-/commit/80fb8d4b818c307044ea853c830935a010dc41ef): Merge branch 'v0.1.6' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!234 \\*update js api\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/234) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-17 12:34:07.876000"
   }
 ]
