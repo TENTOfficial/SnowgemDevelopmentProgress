@@ -42063,5 +42063,15 @@
       "description": "[40b30554](https://gitlab.com/snowgem/bitfrost/-/commit/40b30554ce8db3a363dd89ab9d1d9b5d3cf605fb): creat api folder for prod - Snowgem\n\n[6d4cabff](https://gitlab.com/snowgem/bitfrost/-/commit/6d4cabfff0027e5a53e67840a7ed1302675bd956): Merge branch 'v0.1.6' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/40b30554ce8db3a363dd89ab9d1d9b5d3cf605fb...6df13d06f792f7ae3a9b6e399c9d1191d25efd3c))",
+    "created_at": "2021-04-17 12:27:33.809000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6df13d06](https://gitlab.com/snowgem/bitfrost/-/commit/6df13d06f792f7ae3a9b6e399c9d1191d25efd3c): update js api - Snowgem",
+      "type": "rich"
+    }
   }
 ]
