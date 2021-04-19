@@ -42173,5 +42173,15 @@
       "description": "[8b3ca168](https://gitlab.com/snowgem/bitfrost/-/commit/8b3ca1688b4a3b28b8f20ffe914d65c979fc9bb9): Add checkbox to KYC process - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8b3ca1688b4a3b28b8f20ffe914d65c979fc9bb9...2931c55af22b0eb1136110c9538cf874c0ff5e6e))",
+    "created_at": "2021-04-19 18:13:27.590000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2931c55a](https://gitlab.com/snowgem/bitfrost/-/commit/2931c55af22b0eb1136110c9538cf874c0ff5e6e): Hide loading after successful payment - WIP - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
