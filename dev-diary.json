@@ -42153,5 +42153,15 @@
       "description": "[4e24d989](https://gitlab.com/snowgem/bitfrost/-/commit/4e24d98916f1618139f5a934a0577bc75e218807): Add bullet list with password complexity rules - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4e24d98916f1618139f5a934a0577bc75e218807...cdbd77441b6c225ef6c0107ecd794ad5b542114e))",
+    "created_at": "2021-04-19 10:17:33.195000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4954f988](https://gitlab.com/snowgem/bitfrost/-/commit/4954f988423e8a3f911feb387644cba302580e2e): fix msed craete issue - Snowgem\n\n[cdbd7744](https://gitlab.com/snowgem/bitfrost/-/commit/cdbd77441b6c225ef6c0107ecd794ad5b542114e): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
