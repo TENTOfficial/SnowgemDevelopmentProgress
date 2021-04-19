@@ -42143,5 +42143,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!235 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/235) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-19 03:50:45.194000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fecebe392233b9941c4f234e79d3af371158ae85...4e24d98916f1618139f5a934a0577bc75e218807))",
+    "created_at": "2021-04-19 09:46:52.213000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4e24d989](https://gitlab.com/snowgem/bitfrost/-/commit/4e24d98916f1618139f5a934a0577bc75e218807): Add bullet list with password complexity rules - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
