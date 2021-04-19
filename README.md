@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4364 commits since 20/01/2020. You can see the complete history in
+There is a total of 4365 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-19 03:35:07</sub> | <sub>Txid pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6df13d06f792f7ae3a9b6e399c9d1191d25efd3c...f82a9c306a2b26708ae83dc9331c957673917c5a))</sub> | <sub>[ce53582d](https://gitlab.com/snowgem/bitfrost/-/commit/ce53582d6e572c36e0aaa0a8c9c3b2e896db8066): improve build process - Snowgem<br>[f82a9c30](https://gitlab.com/snowgem/bitfrost/-/commit/f82a9c306a2b26708ae83dc9331c957673917c5a): update gitignore file - Snowgem</sub> |
 | <sub>2021-04-17 12:34:07</sub> | <sub>Txid (txid) merged merge request [\!234 \*update js api\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/234) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-17 12:34:07</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6d4cabfff0027e5a53e67840a7ed1302675bd956...80fb8d4b818c307044ea853c830935a010dc41ef))</sub> | <sub>[6df13d06](https://gitlab.com/snowgem/bitfrost/-/commit/6df13d06f792f7ae3a9b6e399c9d1191d25efd3c): update js api - Snowgem<br>[80fb8d4b](https://gitlab.com/snowgem/bitfrost/-/commit/80fb8d4b818c307044ea853c830935a010dc41ef): Merge branch 'v0.1.6' into 'testing' - Txid</sub> |
 | <sub>2021-04-17 12:33:45</sub> | <sub>Txid (txid) opened merge request [\!234 \*update js api\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/234) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4364 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-17 11:33:59</sub> | <sub>Txid (txid) opened merge request [\!233 \*creat api folder for prod\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/233) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-17 11:33:33</sub> | <sub>Txid pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c309d4427e0ff9c756d5e9e012e9bdc47ee7f958...40b30554ce8db3a363dd89ab9d1d9b5d3cf605fb))</sub> | <sub>[40b30554](https://gitlab.com/snowgem/bitfrost/-/commit/40b30554ce8db3a363dd89ab9d1d9b5d3cf605fb): creat api folder for prod - Snowgem</sub> |
 | <sub>2021-04-17 11:21:40</sub> | <sub>Txid (txid) merged merge request [\!232 \*update gitlab\-ci\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/232) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-04-17 11:21:40</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e571414bffd056fafcc88ca464f1a8303d14c191...402cd563847efefaee361e22fb943d976ede517b))</sub> | <sub>[c309d442](https://gitlab.com/snowgem/bitfrost/-/commit/c309d4427e0ff9c756d5e9e012e9bdc47ee7f958): update gitlab-ci - Snowgem<br>[402cd563](https://gitlab.com/snowgem/bitfrost/-/commit/402cd563847efefaee361e22fb943d976ede517b): Merge branch 'v0.1.6' into 'testing' - Txid</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
