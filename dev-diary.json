@@ -42103,5 +42103,15 @@
       "description": "[ce53582d](https://gitlab.com/snowgem/bitfrost/-/commit/ce53582d6e572c36e0aaa0a8c9c3b2e896db8066): improve build process - Snowgem\n\n[f82a9c30](https://gitlab.com/snowgem/bitfrost/-/commit/f82a9c306a2b26708ae83dc9331c957673917c5a): update gitignore file - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f82a9c306a2b26708ae83dc9331c957673917c5a...a8310c5ebe57d74210c14c869d228659f10f94f3))",
+    "created_at": "2021-04-19 03:43:12.195000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[45b38464](https://gitlab.com/snowgem/bitfrost/-/commit/45b384643ddbed93b57697a69d8395d41c531af9): update ignore files - Snowgem\n\n[a8310c5e](https://gitlab.com/snowgem/bitfrost/-/commit/a8310c5ebe57d74210c14c869d228659f10f94f3): update pach node - Snowgem",
+      "type": "rich"
+    }
   }
 ]
