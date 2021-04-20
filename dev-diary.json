@@ -42228,5 +42228,10 @@
       "description": "[9968b1bb](https://gitlab.com/snowgem/freyja/-/commit/9968b1bb550c24ea59c564157ecb7cd3aa8bffbc): added status file to simplify lookups - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [decta\\_fixes](https://gitlab.com/snowgem/bitfrost/commits/decta_fixes) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-20 13:33:12.314000"
   }
 ]
