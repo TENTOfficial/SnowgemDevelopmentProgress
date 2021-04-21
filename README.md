@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4387 commits since 20/01/2020. You can see the complete history in
+There is a total of 4388 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-21 06:06:07</sub> | <sub>Txid pushed to branch [feature/http](https://gitlab.com/snowgem/bitfrost/commits/feature/http) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3e72cd759456111501949c611a925b9006f21e25...143e7af873562a306ff31a25b00e713b93fceac7))</sub> | <sub>[f10f97e6](https://gitlab.com/snowgem/bitfrost/-/commit/f10f97e6da670217fc281a19ed85640523bb0ca3): fix get jwt issue - Snowgem<br>[143e7af8](https://gitlab.com/snowgem/bitfrost/-/commit/143e7af873562a306ff31a25b00e713b93fceac7): update cors for testing - Snowgem</sub> |
 | <sub>2021-04-20 19:22:04</sub> | <sub>Jan Vraštil removed branch decta_fixes from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-20 19:22:04</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!236 \*decta fixes\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/236) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-20 19:22:04</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fa8cea9893229a9641effce1845aa84c5eac63d7...3cfd5511b605645a01835d56ffef5f0ae3533730))</sub> | <sub>[ec2c208a](https://gitlab.com/snowgem/bitfrost/-/commit/ec2c208a95d5d37c21749e50809e28e421515403): Finish Decta payment gateway (iframe solution) - Jan Vraštil<br>[3cfd5511](https://gitlab.com/snowgem/bitfrost/-/commit/3cfd5511b605645a01835d56ffef5f0ae3533730): Merge branch 'decta_fixes' into 'v0.1.6' - Jan Vraštil</sub> |
@@ -17,6 +18,5 @@ There is a total of 4387 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-20 19:11:55</sub> | <sub>Jan Vraštil pushed to branch [decta\_fixes](https://gitlab.com/snowgem/bitfrost/commits/decta_fixes) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8a1650ab072a40df571343c5261f1eea5707bfb5...10eb4a520d729e7e376338ae18ab74d25c5fa39c))</sub> | <sub>[10eb4a52](https://gitlab.com/snowgem/bitfrost/-/commit/10eb4a520d729e7e376338ae18ab74d25c5fa39c): Decta fixes - wip - jan.vrastil</sub> |
 | <sub>2021-04-20 13:33:12</sub> | <sub>Jan Vraštil pushed new branch [decta\_fixes](https://gitlab.com/snowgem/bitfrost/commits/decta_fixes) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-20 12:15:51</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/e1936ac02905d023e53b659d1bdd966acb350656...9968b1bb550c24ea59c564157ecb7cd3aa8bffbc))</sub> | <sub>[9968b1bb](https://gitlab.com/snowgem/freyja/-/commit/9968b1bb550c24ea59c564157ecb7cd3aa8bffbc): added status file to simplify lookups - V</sub> |
-| <sub>2021-04-20 12:01:07</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/a67913e1e072b70ffb706361f23a6ee2abba5211...e1936ac02905d023e53b659d1bdd966acb350656))</sub> | <sub>[e1936ac0](https://gitlab.com/snowgem/freyja/-/commit/e1936ac02905d023e53b659d1bdd966acb350656): configurable memory limit - V</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

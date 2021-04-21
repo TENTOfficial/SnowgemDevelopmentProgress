@@ -42283,5 +42283,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch decta_fixes from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-20 19:22:04.667000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/http](https://gitlab.com/snowgem/bitfrost/commits/feature/http) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3e72cd759456111501949c611a925b9006f21e25...143e7af873562a306ff31a25b00e713b93fceac7))",
+    "created_at": "2021-04-21 06:06:07.435000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f10f97e6](https://gitlab.com/snowgem/bitfrost/-/commit/f10f97e6da670217fc281a19ed85640523bb0ca3): fix get jwt issue - Snowgem\n\n[143e7af8](https://gitlab.com/snowgem/bitfrost/-/commit/143e7af873562a306ff31a25b00e713b93fceac7): update cors for testing - Snowgem",
+      "type": "rich"
+    }
   }
 ]
