@@ -42428,5 +42428,15 @@
       "description": "[a78a2cd1](https://gitlab.com/snowgem/bitfrost/-/commit/a78a2cd161991a6ba9a388dbd21e18020317bde8): fix lint #5 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/13f72c70ebd86583756459e7d4a1720b887c7326...87b7c864b636a816e664a5b51b2e7c06e32ebd5d))",
+    "created_at": "2021-04-22 05:16:35.378000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[28adb992](https://gitlab.com/snowgem/bitfrost/-/commit/28adb9923ebef0e8d346a0601c990ae43785926f): add header for logging in - Snowgem\n\n[87b7c864](https://gitlab.com/snowgem/bitfrost/-/commit/87b7c864b636a816e664a5b51b2e7c06e32ebd5d): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
