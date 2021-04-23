@@ -42474,5 +42474,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/d64c8216808874e7e20d7377ea99faafaf8c5b2f"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/87b7c864b636a816e664a5b51b2e7c06e32ebd5d...cedeace6cf91872c5a2687ecc7d60ea45ebcddce))",
+    "created_at": "2021-04-23 10:03:08.329000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cedeace6](https://gitlab.com/snowgem/bitfrost/-/commit/cedeace6cf91872c5a2687ecc7d60ea45ebcddce): update support email - Snowgem",
+      "type": "rich"
+    }
   }
 ]
