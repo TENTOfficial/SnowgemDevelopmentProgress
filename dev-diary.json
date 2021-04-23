@@ -42484,5 +42484,15 @@
       "description": "[cedeace6](https://gitlab.com/snowgem/bitfrost/-/commit/cedeace6cf91872c5a2687ecc7d60ea45ebcddce): update support email - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cedeace6cf91872c5a2687ecc7d60ea45ebcddce...1cc7482a833b7c4147c9e8bd8481769e4cc4e4f2))",
+    "created_at": "2021-04-23 12:47:43.777000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1cc7482a](https://gitlab.com/snowgem/bitfrost/-/commit/1cc7482a833b7c4147c9e8bd8481769e4cc4e4f2): bug/462 - Fix second purchase of crypto - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
