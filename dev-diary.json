@@ -42456,5 +42456,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/commit/91fea033bf10d1527c20aa20c92c7710dddd8406"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-04-23 07:09:26.105000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d64c821`](https://github.com/TENTOfficial/ServerConfig/commit/d64c8216808874e7e20d7377ea99faafaf8c5b2f) updated Vidulum to 2.2.1 - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/d64c8216808874e7e20d7377ea99faafaf8c5b2f"
+    }
   }
 ]
