@@ -42517,5 +42517,15 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [feature/add\\_bnb](https://gitlab.com/snowgem/bitfrost/commits/feature/add_bnb) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-24 02:02:57.085000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\_bnb](https://gitlab.com/snowgem/bitfrost/commits/feature/add_bnb) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/67357c55e9025bea353d26ea6bfeebba57d5b171...5d23b1f5d1a6f6332372d629d87f6661fbc0e843))",
+    "created_at": "2021-04-24 02:23:44.364000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5d23b1f5](https://gitlab.com/snowgem/bitfrost/-/commit/5d23b1f5d1a6f6332372d629d87f6661fbc0e843): remove coin sticker - Snowgem",
+      "type": "rich"
+    }
   }
 ]
