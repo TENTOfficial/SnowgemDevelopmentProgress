@@ -42527,5 +42527,15 @@
       "description": "[5d23b1f5](https://gitlab.com/snowgem/bitfrost/-/commit/5d23b1f5d1a6f6332372d629d87f6661fbc0e843): remove coin sticker - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\_bnb](https://gitlab.com/snowgem/bitfrost/commits/feature/add_bnb) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5d23b1f5d1a6f6332372d629d87f6661fbc0e843...c6ba5e86cfc4629a77041b0081ac4bcc7c0ed4fd))",
+    "created_at": "2021-04-24 02:41:35.652000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c6ba5e86](https://gitlab.com/snowgem/bitfrost/-/commit/c6ba5e86cfc4629a77041b0081ac4bcc7c0ed4fd): fix data type for get token - Snowgem",
+      "type": "rich"
+    }
   }
 ]
