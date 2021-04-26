@@ -42600,5 +42600,15 @@
       "description": "[e546c903](https://gitlab.com/snowgem/bitfrost/-/commit/e546c90306df490f38f6cc372f08768332a4191e): fix bnb pipe - Snowgem\n\n[c0079b46](https://gitlab.com/snowgem/bitfrost/-/commit/c0079b462ecb6aae8a3edfefea7cf2841528e1ba): fix bnb transaction - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b2f00b6cf8bcb27a32efd5ed589e2a9ce7efd315...b31415a51be01c2c444130a3e35f0d86050be07e))",
+    "created_at": "2021-04-26 12:06:58.156000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b31415a5](https://gitlab.com/snowgem/bitfrost/-/commit/b31415a51be01c2c444130a3e35f0d86050be07e): #469 ios shape issue during animation fixed - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4420 commits since 20/01/2020. You can see the complete history in
+There is a total of 4421 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-26 12:06:58</sub> | <sub>qNaN pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b2f00b6cf8bcb27a32efd5ed589e2a9ce7efd315...b31415a51be01c2c444130a3e35f0d86050be07e))</sub> | <sub>[b31415a5](https://gitlab.com/snowgem/bitfrost/-/commit/b31415a51be01c2c444130a3e35f0d86050be07e): #469 ios shape issue during animation fixed - Filip Storkan</sub> |
 | <sub>2021-04-26 11:12:38</sub> | <sub>Txid pushed to branch [feature/add\_bnb](https://gitlab.com/snowgem/bitfrost/commits/feature/add_bnb) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c6ba5e86cfc4629a77041b0081ac4bcc7c0ed4fd...c0079b462ecb6aae8a3edfefea7cf2841528e1ba))</sub> | <sub>[e546c903](https://gitlab.com/snowgem/bitfrost/-/commit/e546c90306df490f38f6cc372f08768332a4191e): fix bnb pipe - Snowgem<br>[c0079b46](https://gitlab.com/snowgem/bitfrost/-/commit/c0079b462ecb6aae8a3edfefea7cf2841528e1ba): fix bnb transaction - Snowgem</sub> |
 | <sub>2021-04-26 10:40:35</sub> | <sub>qNaN pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/455ea4e37d089546d541ffd4c11cc14c88c7129c...b2f00b6cf8bcb27a32efd5ed589e2a9ce7efd315))</sub> | <sub>[b2f00b6c](https://gitlab.com/snowgem/bitfrost/-/commit/b2f00b6cf8bcb27a32efd5ed589e2a9ce7efd315): #465 removing bottom padding on ios - Filip Storkan</sub> |
 | <sub>2021-04-26 09:49:14</sub> | <sub>Jan Vraštil pushed new branch [bug/463\-check\_for\_isEnabled](https://gitlab.com/snowgem/bitfrost/commits/bug/463-check_for_isEnabled) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4420 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-24 02:41:35</sub> | <sub>Txid pushed to branch [feature/add\_bnb](https://gitlab.com/snowgem/bitfrost/commits/feature/add_bnb) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5d23b1f5d1a6f6332372d629d87f6661fbc0e843...c6ba5e86cfc4629a77041b0081ac4bcc7c0ed4fd))</sub> | <sub>[c6ba5e86](https://gitlab.com/snowgem/bitfrost/-/commit/c6ba5e86cfc4629a77041b0081ac4bcc7c0ed4fd): fix data type for get token - Snowgem</sub> |
 | <sub>2021-04-24 02:23:44</sub> | <sub>Txid pushed to branch [feature/add\_bnb](https://gitlab.com/snowgem/bitfrost/commits/feature/add_bnb) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/67357c55e9025bea353d26ea6bfeebba57d5b171...5d23b1f5d1a6f6332372d629d87f6661fbc0e843))</sub> | <sub>[5d23b1f5](https://gitlab.com/snowgem/bitfrost/-/commit/5d23b1f5d1a6f6332372d629d87f6661fbc0e843): remove coin sticker - Snowgem</sub> |
 | <sub>2021-04-24 02:02:57</sub> | <sub>Txid pushed new branch [feature/add\_bnb](https://gitlab.com/snowgem/bitfrost/commits/feature/add_bnb) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-04-23 13:49:54</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/1d731e35347f7e40784057e5e0740fe0ffd4c08c)</sub> | <sub>[1d731e3](https://github.com/TENTOfficial/ServerConfig/commit/1d731e35347f7e40784057e5e0740fe0ffd4c08c) updated BitcoinZ to 2.0.7 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
