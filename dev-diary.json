@@ -42635,5 +42635,15 @@
       "description": "[e56cbc19](https://gitlab.com/snowgem/bitfrost/-/commit/e56cbc193014786e0cba39ce0a76a07dca785526): fix broadcast eth - Snowgem\n\n[f03c7a68](https://gitlab.com/snowgem/bitfrost/-/commit/f03c7a68e3d6a0eae548242aa4ffdff2adb13cf8): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f03c7a68e3d6a0eae548242aa4ffdff2adb13cf8...3edb1f4158a71c9e2b55d265d42a84a4c935f945))",
+    "created_at": "2021-04-26 18:00:19.425000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3edb1f41](https://gitlab.com/snowgem/bitfrost/-/commit/3edb1f4158a71c9e2b55d265d42a84a4c935f945): Bug/471 - Notify user if phone number is already in use - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
