@@ -42590,5 +42590,15 @@
       "description": "[b2f00b6c](https://gitlab.com/snowgem/bitfrost/-/commit/b2f00b6cf8bcb27a32efd5ed589e2a9ce7efd315): #465 removing bottom padding on ios - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\_bnb](https://gitlab.com/snowgem/bitfrost/commits/feature/add_bnb) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c6ba5e86cfc4629a77041b0081ac4bcc7c0ed4fd...c0079b462ecb6aae8a3edfefea7cf2841528e1ba))",
+    "created_at": "2021-04-26 11:12:38.348000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e546c903](https://gitlab.com/snowgem/bitfrost/-/commit/e546c90306df490f38f6cc372f08768332a4191e): fix bnb pipe - Snowgem\n\n[c0079b46](https://gitlab.com/snowgem/bitfrost/-/commit/c0079b462ecb6aae8a3edfefea7cf2841528e1ba): fix bnb transaction - Snowgem",
+      "type": "rich"
+    }
   }
 ]
