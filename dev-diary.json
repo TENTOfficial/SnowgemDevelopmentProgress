@@ -42625,5 +42625,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!240 \\*WIP: Fixes for \\#463 and \\#460\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/240) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-26 12:24:30.161000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b31415a51be01c2c444130a3e35f0d86050be07e...f03c7a68e3d6a0eae548242aa4ffdff2adb13cf8))",
+    "created_at": "2021-04-26 12:45:16.282000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e56cbc19](https://gitlab.com/snowgem/bitfrost/-/commit/e56cbc193014786e0cba39ce0a76a07dca785526): fix broadcast eth - Snowgem\n\n[f03c7a68](https://gitlab.com/snowgem/bitfrost/-/commit/f03c7a68e3d6a0eae548242aa4ffdff2adb13cf8): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
