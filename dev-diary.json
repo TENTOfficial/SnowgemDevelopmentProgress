@@ -42565,5 +42565,15 @@
       "description": "[020f32e0](https://gitlab.com/snowgem/freyja/-/commit/020f32e088b7111a6c4592891dd2e0b7f871bfe0): fixed: last status does not report status message - V",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1cc7482a833b7c4147c9e8bd8481769e4cc4e4f2...455ea4e37d089546d541ffd4c11cc14c88c7129c))",
+    "created_at": "2021-04-26 06:50:43.060000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[455ea4e3](https://gitlab.com/snowgem/bitfrost/-/commit/455ea4e37d089546d541ffd4c11cc14c88c7129c): Display purchases in swaps dashboard - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
