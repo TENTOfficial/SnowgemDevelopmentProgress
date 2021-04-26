@@ -42620,5 +42620,10 @@
       "description": "[d9dc82d5](https://gitlab.com/snowgem/bitfrost/-/commit/d9dc82d5cefc95a33edeb25d225c3821766531cb): Bug/463 - Check if Swap / Purchase is Enabled - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!240 \\*WIP: Fixes for \\#463 and \\#460\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/240) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-26 12:24:30.161000"
   }
 ]
