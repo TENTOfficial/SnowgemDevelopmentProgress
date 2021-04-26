@@ -42655,5 +42655,15 @@
       "description": "[a7e7f026](https://gitlab.com/snowgem/bitfrost/-/commit/a7e7f0260a4379306737dd0f96466935553608eb): Build fix - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a7e7f0260a4379306737dd0f96466935553608eb...8de9a2c8a63ce89dac31de8d106a940f336ca869))",
+    "created_at": "2021-04-26 20:51:37.184000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[965d8eea](https://gitlab.com/snowgem/bitfrost/-/commit/965d8eea58268ca7101b28ee411fbeab49465e93): changing purchase flow - Filip Storkan\n\n[8de9a2c8](https://gitlab.com/snowgem/bitfrost/-/commit/8de9a2c8a63ce89dac31de8d106a940f336ca869): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
