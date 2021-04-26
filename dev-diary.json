@@ -42610,5 +42610,15 @@
       "description": "[b31415a5](https://gitlab.com/snowgem/bitfrost/-/commit/b31415a51be01c2c444130a3e35f0d86050be07e): #469 ios shape issue during animation fixed - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/463\\-check\\_for\\_isEnabled](https://gitlab.com/snowgem/bitfrost/commits/bug/463-check_for_isEnabled) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1e668e318bf0a9be5e3601f40e48f0d39f737a29...d9dc82d5cefc95a33edeb25d225c3821766531cb))",
+    "created_at": "2021-04-26 12:15:43.519000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d9dc82d5](https://gitlab.com/snowgem/bitfrost/-/commit/d9dc82d5cefc95a33edeb25d225c3821766531cb): Bug/463 - Check if Swap / Purchase is Enabled - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
