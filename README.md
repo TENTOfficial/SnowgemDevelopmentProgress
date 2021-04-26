@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4418 commits since 20/01/2020. You can see the complete history in
+There is a total of 4419 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-04-26 10:40:35</sub> | <sub>qNaN pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/455ea4e37d089546d541ffd4c11cc14c88c7129c...b2f00b6cf8bcb27a32efd5ed589e2a9ce7efd315))</sub> | <sub>[b2f00b6c](https://gitlab.com/snowgem/bitfrost/-/commit/b2f00b6cf8bcb27a32efd5ed589e2a9ce7efd315): #465 removing bottom padding on ios - Filip Storkan</sub> |
 | <sub>2021-04-26 09:49:14</sub> | <sub>Jan Vraštil pushed new branch [bug/463\-check\_for\_isEnabled](https://gitlab.com/snowgem/bitfrost/commits/bug/463-check_for_isEnabled) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-26 06:50:43</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1cc7482a833b7c4147c9e8bd8481769e4cc4e4f2...455ea4e37d089546d541ffd4c11cc14c88c7129c))</sub> | <sub>[455ea4e3](https://gitlab.com/snowgem/bitfrost/-/commit/455ea4e37d089546d541ffd4c11cc14c88c7129c): Display purchases in swaps dashboard - jan.vrastil</sub> |
 | <sub>2021-04-25 10:46:09</sub> | <sub>V 010 pushed to branch [master](https://gitlab.com/snowgem/freyja/commits/master) of [snowgem / freyja](https://gitlab.com/snowgem/freyja) ([Compare changes](https://gitlab.com/snowgem/freyja/compare/9968b1bb550c24ea59c564157ecb7cd3aa8bffbc...020f32e088b7111a6c4592891dd2e0b7f871bfe0))</sub> | <sub>[020f32e0](https://gitlab.com/snowgem/freyja/-/commit/020f32e088b7111a6c4592891dd2e0b7f871bfe0): fixed: last status does not report status message - V</sub> |
@@ -17,6 +18,5 @@ There is a total of 4418 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-24 02:02:57</sub> | <sub>Txid pushed new branch [feature/add\_bnb](https://gitlab.com/snowgem/bitfrost/commits/feature/add_bnb) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-23 13:49:54</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/1d731e35347f7e40784057e5e0740fe0ffd4c08c)</sub> | <sub>[1d731e3](https://github.com/TENTOfficial/ServerConfig/commit/1d731e35347f7e40784057e5e0740fe0ffd4c08c) updated BitcoinZ to 2.0.7 - ciripel</sub> |
 | <sub>2021-04-23 12:47:43</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cedeace6cf91872c5a2687ecc7d60ea45ebcddce...1cc7482a833b7c4147c9e8bd8481769e4cc4e4f2))</sub> | <sub>[1cc7482a](https://gitlab.com/snowgem/bitfrost/-/commit/1cc7482a833b7c4147c9e8bd8481769e4cc4e4f2): bug/462 - Fix second purchase of crypto - jan.vrastil</sub> |
-| <sub>2021-04-23 10:03:08</sub> | <sub>Txid pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/87b7c864b636a816e664a5b51b2e7c06e32ebd5d...cedeace6cf91872c5a2687ecc7d60ea45ebcddce))</sub> | <sub>[cedeace6](https://gitlab.com/snowgem/bitfrost/-/commit/cedeace6cf91872c5a2687ecc7d60ea45ebcddce): update support email - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
