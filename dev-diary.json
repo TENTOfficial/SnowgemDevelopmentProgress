@@ -42765,5 +42765,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch info_changes from [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
     "created_at": "2021-04-27 14:27:08.368000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8c7213ca0cc454bb25a69c16a7caab0b93160fa6...5064ae07eef8364af6a87cea6b3e3b41241c308e))",
+    "created_at": "2021-04-27 18:30:56.823000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5120f648](https://gitlab.com/snowgem/bitfrost/-/commit/5120f6481500b702380bbbc9d27825ff7502a228): updated purchase timer - Filip Storkan\n\n[da3dd51d](https://gitlab.com/snowgem/bitfrost/-/commit/da3dd51dfa85a79aca7e1c9dcf0f3f283021f1fb): iframe update - Filip Storkan\n\n[5064ae07](https://gitlab.com/snowgem/bitfrost/-/commit/5064ae07eef8364af6a87cea6b3e3b41241c308e): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
