@@ -42735,5 +42735,15 @@
       "description": "[b59592ca](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/b59592ca2aaec57b65857c72e6d21299fd7713a8): update TAC version - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [info\\_changes](https://gitlab.com/snowgem/activation-tent-microsite/commits/info_changes) of [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite) ([Compare changes](https://gitlab.com/snowgem/activation-tent-microsite/compare/b59592ca2aaec57b65857c72e6d21299fd7713a8...70a88256e59539837a08160acdb16c4ff84c7980))",
+    "created_at": "2021-04-27 14:20:50.640000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[70a88256](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/70a88256e59539837a08160acdb16c4ff84c7980): update TAC version - Jan Vrastil",
+      "type": "rich"
+    }
   }
 ]
