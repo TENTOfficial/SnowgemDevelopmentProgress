@@ -42705,5 +42705,15 @@
       "description": "[eda51faf](https://gitlab.com/snowgem/bitfrost/-/commit/eda51faf41e987934854fcc81a3d970d31ec8514): fix import old wallet error - Snowgem\n\n[7ed3e72c](https://gitlab.com/snowgem/bitfrost/-/commit/7ed3e72cd4081ad33c739e82421be1e511e8f107): update gettransaction v2 - Snowgem\n\n[da555024](https://gitlab.com/snowgem/bitfrost/-/commit/da5550241d51a6001a7fd91d83390d9f45e7cf38): report new coin to server - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fb890417d3356f38399cfa07db926bef126a25c0...8c7213ca0cc454bb25a69c16a7caab0b93160fa6))",
+    "created_at": "2021-04-27 11:52:09.025000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8c7213ca](https://gitlab.com/snowgem/bitfrost/-/commit/8c7213ca0cc454bb25a69c16a7caab0b93160fa6): Feature/458 - Disable buying crypto or ordering card for users with AML status 4 or 5 - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
