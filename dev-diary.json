@@ -42695,5 +42695,15 @@
       "description": "[ec4e0ebc](https://gitlab.com/snowgem/bitfrost/-/commit/ec4e0ebc15da4b41d4692e3dca6a64d537ecaf42): swaping slide tabs on swap page - Filip Storkan\n\n[f5c14db2](https://gitlab.com/snowgem/bitfrost/-/commit/f5c14db24a87a25916efa2ba85633074064cd5a9): extending spacer at the end of history - Filip Storkan\n\n[fb890417](https://gitlab.com/snowgem/bitfrost/-/commit/fb890417d3356f38399cfa07db926bef126a25c0): updated ws messages - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\_bnb](https://gitlab.com/snowgem/bitfrost/commits/feature/add_bnb) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ee9ff8d8379ddd69afc1198d797d12b4a5dba49f...da5550241d51a6001a7fd91d83390d9f45e7cf38))",
+    "created_at": "2021-04-27 09:44:21.064000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eda51faf](https://gitlab.com/snowgem/bitfrost/-/commit/eda51faf41e987934854fcc81a3d970d31ec8514): fix import old wallet error - Snowgem\n\n[7ed3e72c](https://gitlab.com/snowgem/bitfrost/-/commit/7ed3e72cd4081ad33c739e82421be1e511e8f107): update gettransaction v2 - Snowgem\n\n[da555024](https://gitlab.com/snowgem/bitfrost/-/commit/da5550241d51a6001a7fd91d83390d9f45e7cf38): report new coin to server - Snowgem",
+      "type": "rich"
+    }
   }
 ]
