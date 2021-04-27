@@ -42675,5 +42675,15 @@
       "description": "[06e683f7](https://gitlab.com/snowgem/bitfrost/-/commit/06e683f7e80a10237094c8a34a4695f8bd3c5728): remove unneccesary function - Snowgem\n\n[260401d3](https://gitlab.com/snowgem/bitfrost/-/commit/260401d32975b45f3fda01b36cb28dca1b0e872b): implement api fallback - Snowgem\n\n[83410b96](https://gitlab.com/snowgem/bitfrost/-/commit/83410b9676c4e1fd7559f5d045b2cd0eb599d62b): clean code - Snowgem\n\n[032626f2](https://gitlab.com/snowgem/bitfrost/-/commit/032626f2c01d295ba6c22832b5faaf8c0d6e36b0): fix lint - Snowgem\n\n[081fa937](https://gitlab.com/snowgem/bitfrost/-/commit/081fa9370b9bf5389ddc73cbec5d23714203d657): fix lint #2 - Snowgem\n\n[3e9892a6](https://gitlab.com/snowgem/bitfrost/-/commit/3e9892a67d4f1f49676742e9e816a94b9f630582): fix lint #3 - Snowgem\n\n[f3d5006a](https://gitlab.com/snowgem/bitfrost/-/commit/f3d5006accb778502ca3ed1d0d68e38d295f043c): fix lint #4 - Snowgem\n\n[a78a2cd1](https://gitlab.com/snowgem/bitfrost/-/commit/a78a2cd161991a6ba9a388dbd21e18020317bde8): fix lint #5 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\_bnb](https://gitlab.com/snowgem/bitfrost/commits/feature/add_bnb) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/72d322c58d3db3a581c52bb2279efc80855f093d...ee9ff8d8379ddd69afc1198d797d12b4a5dba49f))",
+    "created_at": "2021-04-27 07:18:39.990000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ee9ff8d8](https://gitlab.com/snowgem/bitfrost/-/commit/ee9ff8d8379ddd69afc1198d797d12b4a5dba49f): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
