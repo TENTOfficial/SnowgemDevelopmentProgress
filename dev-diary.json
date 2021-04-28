@@ -42865,5 +42865,15 @@
       "description": "[ec865760](https://gitlab.com/snowgem/bitfrost/-/commit/ec865760eb8a4685bda21edfce4dcb2ab0ed2a85): Fix 'aml_category of undefined' issue - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec865760eb8a4685bda21edfce4dcb2ab0ed2a85...16e9c445274a72f7a14cb7fe2b278bbd2ce44fa6))",
+    "created_at": "2021-04-28 07:04:16.110000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[16e9c445](https://gitlab.com/snowgem/bitfrost/-/commit/16e9c445274a72f7a14cb7fe2b278bbd2ce44fa6): Feature/476 - Disable more than 2 decimal places for crypto purchases - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
