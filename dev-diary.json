@@ -42815,5 +42815,20 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch bug/463-check_for_isEnabled from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-27 19:37:00.888000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/57b633765762570a911a19f080f764f95560f49b...bc1ad5d5bfef8043c06d97c2c96a243d322dcc3b))",
+    "created_at": "2021-04-28 00:55:41.699000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[135b311f](https://gitlab.com/snowgem/bitfrost/-/commit/135b311f00ed36ae88652cfb7f28d7c919ef8670): increase ios bild version - Snowgem\n\n[bc1ad5d5](https://gitlab.com/snowgem/bitfrost/-/commit/bc1ad5d5bfef8043c06d97c2c96a243d322dcc3b): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!241 \\*changing purchase flow\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/241) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-28 00:56:34.341000"
   }
 ]
