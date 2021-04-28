@@ -42885,5 +42885,20 @@
       "description": "[5eedddc5](https://gitlab.com/snowgem/bitfrost/-/commit/5eedddc5e74ec35c681e77872d5f80e2140418ed): forcing niput height - Filip Storkan\n\n[18f51e42](https://gitlab.com/snowgem/bitfrost/-/commit/18f51e42b5f6e9ba5eada5b4cc1616bb54b5f01c): 3d secure logos - Filip Storkan\n\n[81736264](https://gitlab.com/snowgem/bitfrost/-/commit/817362645ec80caf485c50432063a9cafbfc3e84): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/817362645ec80caf485c50432063a9cafbfc3e84...82e84a1b5f1ad4a9fe291955c09a6b1cab9315ca))",
+    "created_at": "2021-04-28 11:22:33.848000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f29bc690](https://gitlab.com/snowgem/bitfrost/-/commit/f29bc690f655ec864c5381c28fc3369436903301): increase ios  build  version - Snowgem\n\n[82e84a1b](https://gitlab.com/snowgem/bitfrost/-/commit/82e84a1b5f1ad4a9fe291955c09a6b1cab9315ca): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!242 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/242) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-28 11:24:15.153000"
   }
 ]
