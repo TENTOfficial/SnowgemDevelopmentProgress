@@ -42970,5 +42970,15 @@
       "description": "[d69d060b](https://gitlab.com/snowgem/bitfrost/-/commit/d69d060b212e985ce8625f4572c2819c8c2525a0): lockfileupdate - Filip Storkan\n\n[e420aa67](https://gitlab.com/snowgem/bitfrost/-/commit/e420aa6793db6a714775a2480141a8bc47b88551): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e420aa6793db6a714775a2480141a8bc47b88551...6c77c8d124568ab27f41b9c07693017611baec8f))",
+    "created_at": "2021-04-29 22:18:07.919000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6c77c8d1](https://gitlab.com/snowgem/bitfrost/-/commit/6c77c8d124568ab27f41b9c07693017611baec8f): removing lockfile - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
