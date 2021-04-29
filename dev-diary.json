@@ -42925,5 +42925,15 @@
       "description": "[4ac845e5](https://gitlab.com/snowgem/bitfrost/-/commit/4ac845e55b6145bc23542f087a2aace9166850eb): #470 overlaped submit button on ios - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4ac845e55b6145bc23542f087a2aace9166850eb...19fa78a17f7cbf3832a6354bb13985db7372ae40))",
+    "created_at": "2021-04-29 07:38:52.867000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[19fa78a1](https://gitlab.com/snowgem/bitfrost/-/commit/19fa78a17f7cbf3832a6354bb13985db7372ae40): updated gateway icons - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
