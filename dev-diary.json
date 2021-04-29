@@ -42980,5 +42980,15 @@
       "description": "[6c77c8d1](https://gitlab.com/snowgem/bitfrost/-/commit/6c77c8d124568ab27f41b9c07693017611baec8f): removing lockfile - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6c77c8d124568ab27f41b9c07693017611baec8f...a31e504ec7e1f55b0e0c020fae459c9d47a0c8ae))",
+    "created_at": "2021-04-29 23:10:40.021000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a31e504e](https://gitlab.com/snowgem/bitfrost/-/commit/a31e504ec7e1f55b0e0c020fae459c9d47a0c8ae): updating pipe install with yarn - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
