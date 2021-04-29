@@ -42960,5 +42960,15 @@
       "description": "[81d1afe1](https://gitlab.com/snowgem/bitfrost/-/commit/81d1afe1071cb7f393126b979d65249f461a138c): update build step for gitlab - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/81d1afe1071cb7f393126b979d65249f461a138c...e420aa6793db6a714775a2480141a8bc47b88551))",
+    "created_at": "2021-04-29 14:38:10.334000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d69d060b](https://gitlab.com/snowgem/bitfrost/-/commit/d69d060b212e985ce8625f4572c2819c8c2525a0): lockfileupdate - Filip Storkan\n\n[e420aa67](https://gitlab.com/snowgem/bitfrost/-/commit/e420aa6793db6a714775a2480141a8bc47b88551): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
