@@ -42945,5 +42945,10 @@
       "description": "[a504bd19](https://gitlab.com/snowgem/bitfrost/-/commit/a504bd1979a8a7f8432669d449ab6b82e8bedf54): changing ws gateway events - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!243 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/243) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-29 13:28:59.621000"
   }
 ]
