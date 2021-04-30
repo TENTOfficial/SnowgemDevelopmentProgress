@@ -43115,5 +43115,10 @@
       "description": "[f49cfe06](https://gitlab.com/snowgem/bitfrost/-/commit/f49cfe06264f4d5397a09f425257226b9d3da4c5): increase ios build version - Snowgem\n\n[bee1eb64](https://gitlab.com/snowgem/bitfrost/-/commit/bee1eb64779d3b211e357de8e90692dee18de882): Merge branch 'v0.1.6' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-30 12:13:45.793000"
   }
 ]
