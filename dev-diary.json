@@ -43040,5 +43040,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!244 \\*update package\\-lock\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/244) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-30 08:34:42.590000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0a9719bfb9f11fee05af1f5ff13dbfea82ae1020...3fd2d0b30b66819d6ddfcb215d4fa7ee561d0a14))",
+    "created_at": "2021-04-30 08:55:57.398000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[88ee5bed](https://gitlab.com/snowgem/bitfrost/-/commit/88ee5bed9c12f06d162d5c04d503a782b7140f16): update package-lock - Snowgem\n\n[3fd2d0b3](https://gitlab.com/snowgem/bitfrost/-/commit/3fd2d0b30b66819d6ddfcb215d4fa7ee561d0a14): Merge branch 'v0.1.6' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!244 \\*update package\\-lock\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/244) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-30 08:55:57.441000"
   }
 ]
