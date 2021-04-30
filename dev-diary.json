@@ -43055,5 +43055,20 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!244 \\*update package\\-lock\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/244) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-30 08:55:57.441000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/88ee5bed9c12f06d162d5c04d503a782b7140f16...42ee12015efa521201b07aa53db0b2556c24bb8f))",
+    "created_at": "2021-04-30 09:36:54.528000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[42ee1201](https://gitlab.com/snowgem/bitfrost/-/commit/42ee12015efa521201b07aa53db0b2556c24bb8f): update package-lock - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!245 \\*update package\\-lock\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/245) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-30 09:39:02.134000"
   }
 ]
