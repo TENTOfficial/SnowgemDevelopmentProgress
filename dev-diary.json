@@ -43125,5 +43125,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!247 \\*WIP: bug/285 \\- CREDIT Cards \\- IN PROGRESS\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/247) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-04-30 12:15:01.601000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/de49d617db47cf56616b38d440d07900586609ee...297ef8a8492019373894bda1c8d17f6d5b7e5cab))",
+    "created_at": "2021-04-30 12:46:01.856000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[297ef8a8](https://gitlab.com/snowgem/bitfrost/-/commit/297ef8a8492019373894bda1c8d17f6d5b7e5cab): Add localization strings - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
