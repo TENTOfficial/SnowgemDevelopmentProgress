@@ -43010,5 +43010,20 @@
       "description": "[2da11193](https://gitlab.com/snowgem/bitfrost/-/commit/2da11193d052333404bd4dd46f34e9f78d3160c3): update package.json file - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!243 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/243) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-04-30 07:28:53.906000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec7e5c285ad1835cac47d323055c0d3361bcafdc...0a9719bfb9f11fee05af1f5ff13dbfea82ae1020))",
+    "created_at": "2021-04-30 07:28:54.127000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4ac845e5](https://gitlab.com/snowgem/bitfrost/-/commit/4ac845e55b6145bc23542f087a2aace9166850eb): #470 overlaped submit button on ios - Filip Storkan\n\n[19fa78a1](https://gitlab.com/snowgem/bitfrost/-/commit/19fa78a17f7cbf3832a6354bb13985db7372ae40): updated gateway icons - Filip Storkan\n\n[a504bd19](https://gitlab.com/snowgem/bitfrost/-/commit/a504bd1979a8a7f8432669d449ab6b82e8bedf54): changing ws gateway events - Filip Storkan\n\n[6d57b554](https://gitlab.com/snowgem/bitfrost/-/commit/6d57b554155aca15a69a35038647141421c4db76): update build step for gitlab - Snowgem\n\n[2da11193](https://gitlab.com/snowgem/bitfrost/-/commit/2da11193d052333404bd4dd46f34e9f78d3160c3): update package.json file - Snowgem\n\n[0a9719bf](https://gitlab.com/snowgem/bitfrost/-/commit/0a9719bfb9f11fee05af1f5ff13dbfea82ae1020): Merge branch 'v0.1.6' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
