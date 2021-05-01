@@ -43135,5 +43135,25 @@
       "description": "[297ef8a8](https://gitlab.com/snowgem/bitfrost/-/commit/297ef8a8492019373894bda1c8d17f6d5b7e5cab): Add localization strings - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f49cfe06264f4d5397a09f425257226b9d3da4c5...9a2f6ff055b8e3efa67053663306cde58be527fb))",
+    "created_at": "2021-05-01 01:22:54.968000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9a2f6ff0](https://gitlab.com/snowgem/bitfrost/-/commit/9a2f6ff055b8e3efa67053663306cde58be527fb): trim address on sending page - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9a2f6ff055b8e3efa67053663306cde58be527fb...9f9677e0e59f7c07e4739cd2c847e4ca539c4670))",
+    "created_at": "2021-05-01 01:23:27.208000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9f9677e0](https://gitlab.com/snowgem/bitfrost/-/commit/9f9677e0e59f7c07e4739cd2c847e4ca539c4670): increase ios build version - Snowgem",
+      "type": "rich"
+    }
   }
 ]

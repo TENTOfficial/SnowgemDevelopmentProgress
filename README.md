@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4484 commits since 20/01/2020. You can see the complete history in
+There is a total of 4486 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-01 01:23:27</sub> | <sub>Txid pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9a2f6ff055b8e3efa67053663306cde58be527fb...9f9677e0e59f7c07e4739cd2c847e4ca539c4670))</sub> | <sub>[9f9677e0](https://gitlab.com/snowgem/bitfrost/-/commit/9f9677e0e59f7c07e4739cd2c847e4ca539c4670): increase ios build version - Snowgem</sub> |
+| <sub>2021-05-01 01:22:54</sub> | <sub>Txid pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f49cfe06264f4d5397a09f425257226b9d3da4c5...9a2f6ff055b8e3efa67053663306cde58be527fb))</sub> | <sub>[9a2f6ff0](https://gitlab.com/snowgem/bitfrost/-/commit/9a2f6ff055b8e3efa67053663306cde58be527fb): trim address on sending page - Snowgem</sub> |
 | <sub>2021-04-30 12:46:01</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/de49d617db47cf56616b38d440d07900586609ee...297ef8a8492019373894bda1c8d17f6d5b7e5cab))</sub> | <sub>[297ef8a8](https://gitlab.com/snowgem/bitfrost/-/commit/297ef8a8492019373894bda1c8d17f6d5b7e5cab): Add localization strings - jan.vrastil</sub> |
 | <sub>2021-04-30 12:15:01</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!247 \*WIP: bug/285 \- CREDIT Cards \- IN PROGRESS\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/247) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-30 12:13:45</sub> | <sub>Jan Vraštil pushed new branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -16,7 +18,5 @@ There is a total of 4484 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-04-30 10:16:19</sub> | <sub>Txid (txid) opened merge request [\!246 \*increase ios build version\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/246) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-04-30 10:16:02</sub> | <sub>Txid pushed to branch [v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/42ee12015efa521201b07aa53db0b2556c24bb8f...f49cfe06264f4d5397a09f425257226b9d3da4c5))</sub> | <sub>[f49cfe06](https://gitlab.com/snowgem/bitfrost/-/commit/f49cfe06264f4d5397a09f425257226b9d3da4c5): increase ios build version - Snowgem</sub> |
 | <sub>2021-04-30 09:40:51</sub> | <sub>Txid (txid) merged merge request [\!245 \*update package\-lock\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/245) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-04-30 09:40:51</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3fd2d0b30b66819d6ddfcb215d4fa7ee561d0a14...2785765bdcfdbaeed09a62bc40e9ad261db3b63e))</sub> | <sub>[42ee1201](https://gitlab.com/snowgem/bitfrost/-/commit/42ee12015efa521201b07aa53db0b2556c24bb8f): update package-lock - Snowgem<br>[2785765b](https://gitlab.com/snowgem/bitfrost/-/commit/2785765bdcfdbaeed09a62bc40e9ad261db3b63e): Merge branch 'v0.1.6' into 'testing' - Txid</sub> |
-| <sub>2021-04-30 09:39:02</sub> | <sub>Txid (txid) opened merge request [\!245 \*update package\-lock\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/245) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
