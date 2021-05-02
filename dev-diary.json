@@ -43165,5 +43165,15 @@
       "description": "[df9a6709](https://gitlab.com/snowgem/bitfrost/-/commit/df9a67092381e22a140131fa56872dc3d29088f2): reload app after changing seeds - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/a5efac77f7c22021018037ae128fa68419571ff0...06e531c6046e96c2ae6361748dc4ba37fbe8706c))",
+    "created_at": "2021-05-02 02:30:20.490000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[14d22f65](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/14d22f65bf6b08effe062e46403a2dcad6ad82ac): clear mn output when get data again - Snowgem\n\n[06e531c6](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/06e531c6046e96c2ae6361748dc4ba37fbe8706c): update check wallet command - Snowgem",
+      "type": "rich"
+    }
   }
 ]
