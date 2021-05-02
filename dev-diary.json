@@ -43175,5 +43175,23 @@
       "description": "[14d22f65](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/14d22f65bf6b08effe062e46403a2dcad6ad82ac): clear mn output when get data again - Snowgem\n\n[06e531c6](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/06e531c6046e96c2ae6361748dc4ba37fbe8706c): update check wallet command - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-02 02:45:54.171000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`c11bc11`](https://github.com/TENTOfficial/TENT/commit/c11bc1123c0f8f2e1f2efb11a60147d3aeffcddd) show encrypt value - TENTOfficial",
+      "title": "[TENT:dev] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/commit/c11bc1123c0f8f2e1f2efb11a60147d3aeffcddd"
+    }
   }
 ]
