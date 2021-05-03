@@ -43243,5 +43243,15 @@
       "description": "[f23fcdac](https://gitlab.com/snowgem/bitfrost/-/commit/f23fcdac8926a17733ce0e3ea45aeb7b82e763e7): increase ios build version - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!248 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/248) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-03 11:06:36.616000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!248 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/248) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-03 11:09:53.890000"
   }
 ]
