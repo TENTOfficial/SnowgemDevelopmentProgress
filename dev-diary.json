@@ -43298,5 +43298,20 @@
       "description": "[b9352cd1](https://gitlab.com/snowgem/bitfrost/-/commit/b9352cd1f0b462af974b3690b0b96331c53462fb): Build fix - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4310828d26269b20ba3f3ff42649388d5573cf2d...d874c6e927e6b7862befe7d4361ac669f5010c2b))",
+    "created_at": "2021-05-03 13:26:44.532000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[25128881](https://gitlab.com/snowgem/bitfrost/-/commit/25128881150c53595f5f19fba62ed4a7728298af): Update ios version - Jan Vra\u0161til\n\n[d874c6e9](https://gitlab.com/snowgem/bitfrost/-/commit/d874c6e927e6b7862befe7d4361ac669f5010c2b): Merge branch 'v0.1.6' into 'testing' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!249 \\*Update ios version\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/249) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-03 13:26:44.641000"
   }
 ]
