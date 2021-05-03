@@ -43193,5 +43193,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/commit/c11bc1123c0f8f2e1f2efb11a60147d3aeffcddd"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/df9a67092381e22a140131fa56872dc3d29088f2...1a0e6982287d10b8e169d1e919bd2654db33899f))",
+    "created_at": "2021-05-03 07:59:09.397000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1a0e6982](https://gitlab.com/snowgem/bitfrost/-/commit/1a0e6982287d10b8e169d1e919bd2654db33899f): Fix Swap message - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
