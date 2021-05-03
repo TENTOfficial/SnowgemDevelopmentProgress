@@ -43263,5 +43263,15 @@
       "description": "[a6a1bc1b](https://gitlab.com/snowgem/bitfrost/-/commit/a6a1bc1b72940b60ab205fd116d894776acd4d11): Hide verification message  in settings for verified user - jan.vrastil\n\n[0945e21a](https://gitlab.com/snowgem/bitfrost/-/commit/0945e21a1f10f071c150c71bef189201c4e45db4): Fix KYC Sms messages - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0945e21a1f10f071c150c71bef189201c4e45db4...00ca8696a9c9cd6f77e725aa49d56c08094534d2))",
+    "created_at": "2021-05-03 13:04:23.450000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[00ca8696](https://gitlab.com/snowgem/bitfrost/-/commit/00ca8696a9c9cd6f77e725aa49d56c08094534d2): increase ios version - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
