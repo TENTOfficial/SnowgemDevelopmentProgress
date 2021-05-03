@@ -43288,5 +43288,15 @@
       "description": "[33225732](https://gitlab.com/snowgem/bitfrost/-/commit/33225732f98638f73518b09508aea40ef36aa6e8): fix #479, reload wallet after creating new tx - Snowgem\n\n[d5e49de9](https://gitlab.com/snowgem/bitfrost/-/commit/d5e49de92eb318cd84c617d6e5ff6f02b35e5726): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d5e49de92eb318cd84c617d6e5ff6f02b35e5726...b9352cd1f0b462af974b3690b0b96331c53462fb))",
+    "created_at": "2021-05-03 13:19:54.560000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b9352cd1](https://gitlab.com/snowgem/bitfrost/-/commit/b9352cd1f0b462af974b3690b0b96331c53462fb): Build fix - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
