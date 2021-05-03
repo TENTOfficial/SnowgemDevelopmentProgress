@@ -43223,5 +43223,15 @@
       "description": "[3e7c63b8](https://gitlab.com/snowgem/bitfrost/-/commit/3e7c63b8f4942f89da4ff3d4cd7d54f4ab45b19a): Disable aml_category check - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3e7c63b8f4942f89da4ff3d4cd7d54f4ab45b19a...b2dbf69811b86562bb79b3e4cfceae85e35754ef))",
+    "created_at": "2021-05-03 10:09:50.844000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3579fcbe](https://gitlab.com/snowgem/bitfrost/-/commit/3579fcbe6e3c92059afbcc998960a5b2939281c4): swap arrow visibility fix on ios - Filip Storkan\n\n[b2dbf698](https://gitlab.com/snowgem/bitfrost/-/commit/b2dbf69811b86562bb79b3e4cfceae85e35754ef): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
