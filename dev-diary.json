@@ -43493,5 +43493,15 @@
       "description": "[03e8c80b](https://gitlab.com/snowgem/bitfrost/-/commit/03e8c80ba7d14a1a392d239a2df25f18dc41a1e9): KYC - Add INIT status to pending actions scope - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5be26c4d39504f1afa053dc6756fc58220391d0a...f2b057e018b3f57ac6fb2ec67f70773121e49133))",
+    "created_at": "2021-05-04 13:00:54.235000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2e7d5453](https://gitlab.com/snowgem/bitfrost/-/commit/2e7d5453bfcc96ee5e3d9f74e786b8e8605cea2f): check amount before estimated fee - Snowgem\n\n[a8d0b756](https://gitlab.com/snowgem/bitfrost/-/commit/a8d0b7569b4337abafae91596705ea4bc2446ba6): Setting remaining KYC actions changes - jan.vrastil\n\n[5ca43a0c](https://gitlab.com/snowgem/bitfrost/-/commit/5ca43a0cf5dca8857d30471d88e9df8e1659320c): Use unknown error as default - jan.vrastil\n\n[03e8c80b](https://gitlab.com/snowgem/bitfrost/-/commit/03e8c80ba7d14a1a392d239a2df25f18dc41a1e9): KYC - Add INIT status to pending actions scope - jan.vrastil\n\n[cfb6e302](https://gitlab.com/snowgem/bitfrost/-/commit/cfb6e302bc42c451ba7651dc2d090c97b502e494): bug/285 - Finish Debit cards - jan.vrastil\n\n[ede51e5d](https://gitlab.com/snowgem/bitfrost/-/commit/ede51e5dd81bd72b5ab282ccdac4692f9a3dd0f8): topup - wip - jan.vrastil\n\n[f2b057e0](https://gitlab.com/snowgem/bitfrost/-/commit/f2b057e018b3f57ac6fb2ec67f70773121e49133): topup - wip - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
