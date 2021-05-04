@@ -43408,5 +43408,15 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!252 \\*Revert \"Disable aml\\_category check\"\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/252) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-04 07:15:25.274000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/248a9e7f0d3d346b5f0feaeaa088ae2771052281...7b809099c4e955028068c787b06cfe36f26fc3fe))",
+    "created_at": "2021-05-04 07:22:40.765000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7b809099](https://gitlab.com/snowgem/bitfrost/-/commit/7b809099c4e955028068c787b06cfe36f26fc3fe): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
