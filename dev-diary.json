@@ -43338,5 +43338,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!250 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/250) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-04 01:06:31.523000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!250 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/250) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-04 01:16:19.234000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d874c6e927e6b7862befe7d4361ac669f5010c2b...ceb8d260e703d5d480af4685db595b4493621df5))",
+    "created_at": "2021-05-04 01:16:19.346000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a6a1bc1b](https://gitlab.com/snowgem/bitfrost/-/commit/a6a1bc1b72940b60ab205fd116d894776acd4d11): Hide verification message  in settings for verified user - jan.vrastil\n\n[0945e21a](https://gitlab.com/snowgem/bitfrost/-/commit/0945e21a1f10f071c150c71bef189201c4e45db4): Fix KYC Sms messages - jan.vrastil\n\n[00ca8696](https://gitlab.com/snowgem/bitfrost/-/commit/00ca8696a9c9cd6f77e725aa49d56c08094534d2): increase ios version - jan.vrastil\n\n[33225732](https://gitlab.com/snowgem/bitfrost/-/commit/33225732f98638f73518b09508aea40ef36aa6e8): fix #479, reload wallet after creating new tx - Snowgem\n\n[d5e49de9](https://gitlab.com/snowgem/bitfrost/-/commit/d5e49de92eb318cd84c617d6e5ff6f02b35e5726): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem\n\n[b9352cd1](https://gitlab.com/snowgem/bitfrost/-/commit/b9352cd1f0b462af974b3690b0b96331c53462fb): Build fix - jan.vrastil\n\n[815abf06](https://gitlab.com/snowgem/bitfrost/-/commit/815abf06c69616cc1aa0f2ee54be4e9535a35633): purchase deactivated - Filip Storkan\n\n[7f3b46bd](https://gitlab.com/snowgem/bitfrost/-/commit/7f3b46bd481d132dc282a6e4817956689a6f4a73): adding links to about page - Filip Storkan\n\n[b04d8c34](https://gitlab.com/snowgem/bitfrost/-/commit/b04d8c34f2eb5c340f8c4a42add04144454485d9): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan\n\n[48215075](https://gitlab.com/snowgem/bitfrost/-/commit/48215075ac31f478749959c19753be29025ec23f): fix cannot estimated amount for TENT - Snowgem\n\n[60eb610a](https://gitlab.com/snowgem/bitfrost/-/commit/60eb610a1e41822181cca173a22c0ecb3baec80b): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem\n\n[ceb8d260](https://gitlab.com/snowgem/bitfrost/-/commit/ceb8d260e703d5d480af4685db595b4493621df5): Merge branch 'v0.1.6' into testing - Snowgem",
+      "type": "rich"
+    }
   }
 ]
