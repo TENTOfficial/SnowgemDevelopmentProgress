@@ -43483,5 +43483,15 @@
       "description": "[5ca43a0c](https://gitlab.com/snowgem/bitfrost/-/commit/5ca43a0cf5dca8857d30471d88e9df8e1659320c): Use unknown error as default - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5ca43a0cf5dca8857d30471d88e9df8e1659320c...03e8c80ba7d14a1a392d239a2df25f18dc41a1e9))",
+    "created_at": "2021-05-04 12:26:38.104000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[03e8c80b](https://gitlab.com/snowgem/bitfrost/-/commit/03e8c80ba7d14a1a392d239a2df25f18dc41a1e9): KYC - Add INIT status to pending actions scope - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
