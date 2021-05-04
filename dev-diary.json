@@ -43433,5 +43433,20 @@
       "description": "[d8ffc1ef](https://gitlab.com/snowgem/bitfrost/-/commit/d8ffc1efa76c32ea7292e5d20cd0966f307d13eb): Revert \"Disable aml_category check\" - jan.vrastil\n\n[d99d5291](https://gitlab.com/snowgem/bitfrost/-/commit/d99d5291195369a5a2622dc35ef893a63cbabf80): reject transaction with more amount than total utxos - Snowgem\n\n[248a9e7f](https://gitlab.com/snowgem/bitfrost/-/commit/248a9e7f0d3d346b5f0feaeaa088ae2771052281): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem\n\n[7b809099](https://gitlab.com/snowgem/bitfrost/-/commit/7b809099c4e955028068c787b06cfe36f26fc3fe): fix lint - Snowgem\n\n[e11c3c8e](https://gitlab.com/snowgem/bitfrost/-/commit/e11c3c8e01de474231683a17ed895f36b484f34e): Merge branch 'v0.1.6' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7b809099c4e955028068c787b06cfe36f26fc3fe...2e7d5453bfcc96ee5e3d9f74e786b8e8605cea2f))",
+    "created_at": "2021-05-04 08:05:26.811000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2e7d5453](https://gitlab.com/snowgem/bitfrost/-/commit/2e7d5453bfcc96ee5e3d9f74e786b8e8605cea2f): check amount before estimated fee - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!253 \\*check amount before estimated fee\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/253) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-04 08:05:45.779000"
   }
 ]
