@@ -43463,5 +43463,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!253 \\*check amount before estimated fee\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/253) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-04 08:12:45.135000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2e7d5453bfcc96ee5e3d9f74e786b8e8605cea2f...a8d0b7569b4337abafae91596705ea4bc2446ba6))",
+    "created_at": "2021-05-04 11:51:55.376000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a8d0b756](https://gitlab.com/snowgem/bitfrost/-/commit/a8d0b7569b4337abafae91596705ea4bc2446ba6): Setting remaining KYC actions changes - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
