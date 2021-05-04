@@ -43518,5 +43518,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!254 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/254) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-04 14:24:59.948000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!254 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/254) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-04 14:31:33.414000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1601812a399da24e12df079ad628f45572c8079f...e4eb3d92a064f508631037ce7aca158755cd0d70))",
+    "created_at": "2021-05-04 14:31:35.446000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a8d0b756](https://gitlab.com/snowgem/bitfrost/-/commit/a8d0b7569b4337abafae91596705ea4bc2446ba6): Setting remaining KYC actions changes - jan.vrastil\n\n[5ca43a0c](https://gitlab.com/snowgem/bitfrost/-/commit/5ca43a0cf5dca8857d30471d88e9df8e1659320c): Use unknown error as default - jan.vrastil\n\n[03e8c80b](https://gitlab.com/snowgem/bitfrost/-/commit/03e8c80ba7d14a1a392d239a2df25f18dc41a1e9): KYC - Add INIT status to pending actions scope - jan.vrastil\n\n[1f962f05](https://gitlab.com/snowgem/bitfrost/-/commit/1f962f057a92a042b2e38f50bd3c93b5e704cfad): increase ios build version - Snowgem\n\n[e4eb3d92](https://gitlab.com/snowgem/bitfrost/-/commit/e4eb3d92a064f508631037ce7aca158755cd0d70): Merge branch 'v0.1.6' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
