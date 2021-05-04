@@ -43323,5 +43323,20 @@
       "description": "[815abf06](https://gitlab.com/snowgem/bitfrost/-/commit/815abf06c69616cc1aa0f2ee54be4e9535a35633): purchase deactivated - Filip Storkan\n\n[7f3b46bd](https://gitlab.com/snowgem/bitfrost/-/commit/7f3b46bd481d132dc282a6e4817956689a6f4a73): adding links to about page - Filip Storkan\n\n[b04d8c34](https://gitlab.com/snowgem/bitfrost/-/commit/b04d8c34f2eb5c340f8c4a42add04144454485d9): Merge branch 'v0.1.6' of gitlab.com:snowgem/bitfrost into v0.1.6 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b04d8c34f2eb5c340f8c4a42add04144454485d9...60eb610a1e41822181cca173a22c0ecb3baec80b))",
+    "created_at": "2021-05-04 01:06:04.601000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[48215075](https://gitlab.com/snowgem/bitfrost/-/commit/48215075ac31f478749959c19753be29025ec23f): fix cannot estimated amount for TENT - Snowgem\n\n[60eb610a](https://gitlab.com/snowgem/bitfrost/-/commit/60eb610a1e41822181cca173a22c0ecb3baec80b): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!250 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/250) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-04 01:06:31.523000"
   }
 ]
