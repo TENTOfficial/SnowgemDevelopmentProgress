@@ -43393,5 +43393,15 @@
       "description": "[d8ffc1ef](https://gitlab.com/snowgem/bitfrost/-/commit/d8ffc1efa76c32ea7292e5d20cd0966f307d13eb): Revert \"Disable aml_category check\" - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d8ffc1efa76c32ea7292e5d20cd0966f307d13eb...248a9e7f0d3d346b5f0feaeaa088ae2771052281))",
+    "created_at": "2021-05-04 07:14:44.268000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d99d5291](https://gitlab.com/snowgem/bitfrost/-/commit/d99d5291195369a5a2622dc35ef893a63cbabf80): reject transaction with more amount than total utxos - Snowgem\n\n[248a9e7f](https://gitlab.com/snowgem/bitfrost/-/commit/248a9e7f0d3d346b5f0feaeaa088ae2771052281): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
