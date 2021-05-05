@@ -43614,5 +43614,15 @@
       "description": "[ff6089cd](https://gitlab.com/snowgem/bitfrost/-/commit/ff6089cd51874802438b95e62c00e63c1a8f812c): increase ios build version - Snowgem\n\n[fd5620b7](https://gitlab.com/snowgem/bitfrost/-/commit/fd5620b7f8d51448a79af461e90099c1d4c1062c): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem\n\n[6c7f3ed2](https://gitlab.com/snowgem/bitfrost/-/commit/6c7f3ed211ab18f25c5b7d21c7e053a695ce64d3): Merge branch 'v0.1.6' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/v0.1.6) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fd5620b7f8d51448a79af461e90099c1d4c1062c...730cd18093e1957a4fd1425827ab66d5a4107316))",
+    "created_at": "2021-05-05 14:35:48.853000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[02e2fa98](https://gitlab.com/snowgem/bitfrost/-/commit/02e2fa98e9ca2967c292b925adf178e0e2ebeb42): zel to flux - Snowgem\n\n[e545bd5c](https://gitlab.com/snowgem/bitfrost/-/commit/e545bd5c8f6107b51e72830fd6aaed381750a3d3): increase ios build version - Snowgem\n\n[730cd180](https://gitlab.com/snowgem/bitfrost/-/commit/730cd18093e1957a4fd1425827ab66d5a4107316): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
