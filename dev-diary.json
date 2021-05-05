@@ -43543,5 +43543,10 @@
       "description": "[5de4c5c6](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/5de4c5c696cf092765fe7a1188cbad35fd8bbc26): update check wallet command #2 - Snowgem\n\n[fc5faeb5](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/fc5faeb5b5156f7f195c29a0273ed74906b476e8): fix not loading wallet if not sync - Snowgem\n\n[6bec049b](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/6bec049b671ef0baa0c81dc525f503f27c95bb8c): ewmove unused language - Snowgem\n\n[151dfea1](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/151dfea14600b5e279aad01d8930a0bc98b33ef0): add sentoaddress rpc call - Snowgem\n\n[0bb80386](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/0bb80386937e4283f389ebbb60691237a8d7b86e): set tx fee before sendtoaddress - Snowgem\n\n[b2338bb6](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/b2338bb6bf2fc2d1bd2b17e1fc66da4d387e5e03): update hide shield button - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed new branch [bug/password\\-input\\-extended](https://gitlab.com/snowgem/bitfrost/commits/bug/password-input-extended) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-05 08:12:55.548000"
   }
 ]
