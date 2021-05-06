@@ -43674,5 +43674,15 @@
     "author": "GitLab",
     "content": "Txid pushed new tag [0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.6) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-06 10:11:30.932000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ebc2b2210a62102705bb544879c5dd6d0a37b00b...ec3008e76f6d2064108c508d2e50a6822f3677aa))",
+    "created_at": "2021-05-06 10:38:31.005000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ec3008e7](https://gitlab.com/snowgem/bitfrost/-/commit/ec3008e76f6d2064108c508d2e50a6822f3677aa): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
