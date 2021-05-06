@@ -43709,5 +43709,25 @@
     "author": "GitLab",
     "content": "qNaN (filipstrkn) closed merge request [\\!258 \\*Revert \"Disable aml\\_category check\"\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/258) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-06 14:51:33.940000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ec3008e76f6d2064108c508d2e50a6822f3677aa...0df398feed51e1ab778057dc28f538e1af1e9f6d))",
+    "created_at": "2021-05-06 14:58:54.112000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8c7f2b4d](https://gitlab.com/snowgem/bitfrost/-/commit/8c7f2b4d91de99e8aa02f9db85d92d8ee94239f5): Merge branch 'testing' into 'v0.1.6' - Txid\n\n[516e4789](https://gitlab.com/snowgem/bitfrost/-/commit/516e4789a6a3f915c8711db30b58aac68c00289c): increase ios build version - Snowgem\n\n[fa14d74f](https://gitlab.com/snowgem/bitfrost/-/commit/fa14d74fcfe7e4194b1f53bbb54012fb44a481b3): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem\n\n[d8ffc1ef](https://gitlab.com/snowgem/bitfrost/-/commit/d8ffc1efa76c32ea7292e5d20cd0966f307d13eb): Revert \"Disable aml_category check\" - jan.vrastil\n\n[d99d5291](https://gitlab.com/snowgem/bitfrost/-/commit/d99d5291195369a5a2622dc35ef893a63cbabf80): reject transaction with more amount than total utxos - Snowgem\n\n[248a9e7f](https://gitlab.com/snowgem/bitfrost/-/commit/248a9e7f0d3d346b5f0feaeaa088ae2771052281): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem\n\n[7b809099](https://gitlab.com/snowgem/bitfrost/-/commit/7b809099c4e955028068c787b06cfe36f26fc3fe): fix lint - Snowgem\n\n[2e7d5453](https://gitlab.com/snowgem/bitfrost/-/commit/2e7d5453bfcc96ee5e3d9f74e786b8e8605cea2f): check amount before estimated fee - Snowgem\n\n[e1c9127d](https://gitlab.com/snowgem/bitfrost/-/commit/e1c9127d5f688fcc6adffbc7b04c3570d9d0fa23): password extended component - Filip Storkan\n\n[b51943c0](https://gitlab.com/snowgem/bitfrost/-/commit/b51943c0a5a0605ca8890479679046eb91aa77dd): applying password component - Filip Storkan\n\n[9e029988](https://gitlab.com/snowgem/bitfrost/-/commit/9e0299889b7d8f695d75fb1c323ed9899a2384b0): removing old password component - Filip Storkan\n\n[4668cad6](https://gitlab.com/snowgem/bitfrost/-/commit/4668cad67c6440d3476ffce2c8c4cd96924622a2): renaming password component - Filip Storkan\n\n[0df398fe](https://gitlab.com/snowgem/bitfrost/-/commit/0df398feed51e1ab778057dc28f538e1af1e9f6d): Merge branch 'bug/password-input-extended' into v0.1.8 - Filip Storkan",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0df398feed51e1ab778057dc28f538e1af1e9f6d...90501caea553b16f962b5f494b71c84d3b5e271f))",
+    "created_at": "2021-05-06 14:59:55.807000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d416a80f](https://gitlab.com/snowgem/bitfrost/-/commit/d416a80f8cea476e3767b75b4103fd84af028259): updated into page - Filip Storkan\n\n[90501cae](https://gitlab.com/snowgem/bitfrost/-/commit/90501caea553b16f962b5f494b71c84d3b5e271f): Merge branch 'feature/start-flow-update' into v0.1.8 - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
