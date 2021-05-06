@@ -43644,5 +43644,10 @@
       "description": "[02e2fa98](https://gitlab.com/snowgem/bitfrost/-/commit/02e2fa98e9ca2967c292b925adf178e0e2ebeb42): zel to flux - Snowgem\n\n[e545bd5c](https://gitlab.com/snowgem/bitfrost/-/commit/e545bd5c8f6107b51e72830fd6aaed381750a3d3): increase ios build version - Snowgem\n\n[730cd180](https://gitlab.com/snowgem/bitfrost/-/commit/730cd18093e1957a4fd1425827ab66d5a4107316): Merge branch 'v0.1.6' of https://gitlab.com/snowgem/bitfrost into v0.1.6 - Snowgem\n\n[39df1e22](https://gitlab.com/snowgem/bitfrost/-/commit/39df1e229da6357bda87295c9124b2a8c9c306b7): Merge branch 'v0.1.6' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!257 \\*V0\\.1\\.6\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/257) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-06 02:55:46.607000"
   }
 ]
