@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4556 commits since 20/01/2020. You can see the complete history in
+There is a total of 4557 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-07 11:40:15</sub> | <sub>qNaN pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/90501caea553b16f962b5f494b71c84d3b5e271f...3d284412fc3cfaf586eb79c529944ba247c53f30))</sub> | <sub>[3d284412](https://gitlab.com/snowgem/bitfrost/-/commit/3d284412fc3cfaf586eb79c529944ba247c53f30): #493 - password component with parent validators - Filip Storkan</sub> |
 | <sub>2021-05-07 09:23:43</sub> | <sub>qNaN (filipstrkn) opened merge request [\!259 \*Feature/custom action modal\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/259) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-07 09:21:03</sub> | <sub>qNaN pushed new branch [feature/custom\-action\-modal](https://gitlab.com/snowgem/bitfrost/commits/feature/custom-action-modal) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-06 14:59:55</sub> | <sub>qNaN pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0df398feed51e1ab778057dc28f538e1af1e9f6d...90501caea553b16f962b5f494b71c84d3b5e271f))</sub> | <sub>[d416a80f](https://gitlab.com/snowgem/bitfrost/-/commit/d416a80f8cea476e3767b75b4103fd84af028259): updated into page - Filip Storkan<br>[90501cae](https://gitlab.com/snowgem/bitfrost/-/commit/90501caea553b16f962b5f494b71c84d3b5e271f): Merge branch 'feature/start-flow-update' into v0.1.8 - Filip Storkan</sub> |
@@ -17,6 +18,5 @@ There is a total of 4556 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-06 12:23:52</sub> | <sub>qNaN pushed to branch [feature/start\-flow\-update](https://gitlab.com/snowgem/bitfrost/commits/feature/start-flow-update) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4668cad67c6440d3476ffce2c8c4cd96924622a2...d416a80f8cea476e3767b75b4103fd84af028259))</sub> | <sub>[d416a80f](https://gitlab.com/snowgem/bitfrost/-/commit/d416a80f8cea476e3767b75b4103fd84af028259): updated into page - Filip Storkan</sub> |
 | <sub>2021-05-06 12:02:13</sub> | <sub>qNaN pushed new branch [feature/start\-flow\-update](https://gitlab.com/snowgem/bitfrost/commits/feature/start-flow-update) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-06 10:38:31</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ebc2b2210a62102705bb544879c5dd6d0a37b00b...ec3008e76f6d2064108c508d2e50a6822f3677aa))</sub> | <sub>[ec3008e7](https://gitlab.com/snowgem/bitfrost/-/commit/ec3008e76f6d2064108c508d2e50a6822f3677aa): fix lint - Snowgem</sub> |
-| <sub>2021-05-06 10:11:30</sub> | <sub>Txid pushed new tag [0\.1\.6](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.6) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
