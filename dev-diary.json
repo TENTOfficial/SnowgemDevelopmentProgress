@@ -43729,5 +43729,15 @@
       "description": "[d416a80f](https://gitlab.com/snowgem/bitfrost/-/commit/d416a80f8cea476e3767b75b4103fd84af028259): updated into page - Filip Storkan\n\n[90501cae](https://gitlab.com/snowgem/bitfrost/-/commit/90501caea553b16f962b5f494b71c84d3b5e271f): Merge branch 'feature/start-flow-update' into v0.1.8 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed new branch [feature/custom\\-action\\-modal](https://gitlab.com/snowgem/bitfrost/commits/feature/custom-action-modal) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-07 09:21:03.778000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN (filipstrkn) opened merge request [\\!259 \\*Feature/custom action modal\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/259) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-07 09:23:43.094000"
   }
 ]
