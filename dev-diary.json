@@ -43759,5 +43759,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!7 \\*Change MZ api url to multic\\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/7) in [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
     "created_at": "2021-05-07 13:09:53.042000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ceb8d260e703d5d480af4685db595b4493621df5...c70abf6c66922825690902a06ad8d4af5351e8e3))",
+    "created_at": "2021-05-07 22:20:03.934000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5c1ff85d](https://gitlab.com/snowgem/bitfrost/-/commit/5c1ff85dad4e1843b5c4d25bfdedc68f8023d411): #492 broken terms-and-condition link - Filip Storkan\n\n[c70abf6c](https://gitlab.com/snowgem/bitfrost/-/commit/c70abf6c66922825690902a06ad8d4af5351e8e3): #490 - fix - hidden direction arrow in swap pairs - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
