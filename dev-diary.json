@@ -43749,5 +43749,15 @@
       "description": "[3d284412](https://gitlab.com/snowgem/bitfrost/-/commit/3d284412fc3cfaf586eb79c529944ba247c53f30): #493 - password component with parent validators - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [update\\_to\\_multic\\_api](https://gitlab.com/snowgem/activation-tent-microsite/commits/update_to_multic_api) to [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
+    "created_at": "2021-05-07 13:09:30.030000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!7 \\*Change MZ api url to multic\\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/7) in [snowgem / activation\\-tent\\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)",
+    "created_at": "2021-05-07 13:09:53.042000"
   }
 ]
