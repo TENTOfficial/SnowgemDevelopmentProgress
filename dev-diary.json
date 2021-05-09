@@ -43769,5 +43769,10 @@
       "description": "[5c1ff85d](https://gitlab.com/snowgem/bitfrost/-/commit/5c1ff85dad4e1843b5c4d25bfdedc68f8023d411): #492 broken terms-and-condition link - Filip Storkan\n\n[c70abf6c](https://gitlab.com/snowgem/bitfrost/-/commit/c70abf6c66922825690902a06ad8d4af5351e8e3): #490 - fix - hidden direction arrow in swap pairs - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [hoxfix/v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/hoxfix/v0.1.6) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-09 01:08:10.554000"
   }
 ]
