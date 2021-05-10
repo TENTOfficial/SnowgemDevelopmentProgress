@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4580 commits since 20/01/2020. You can see the complete history in
+There is a total of 4581 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-10 14:10:09</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d6b2b1e41c602933039105acb6f02c5b6ea16301...91d5c4731335362d9c6e8efc08999e0c313d3501))</sub> | <sub>[91d5c473](https://gitlab.com/snowgem/bitfrost/-/commit/91d5c4731335362d9c6e8efc08999e0c313d3501): after rebase changes - jan.vrastil</sub> |
 | <sub>2021-05-10 14:08:38</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/59d93f5db10cc029e4f2ae6f87c42f9e9b848b34...d6b2b1e41c602933039105acb6f02c5b6ea16301))</sub> | <sub>[05f4c30f](https://gitlab.com/snowgem/bitfrost/-/commit/05f4c30f960b3223c4fb6bd33589c51794a3dd0c): after rebase changes - jan.vrastil<br>[d6b2b1e4](https://gitlab.com/snowgem/bitfrost/-/commit/d6b2b1e41c602933039105acb6f02c5b6ea16301): after rebase changes - jan.vrastil</sub> |
 | <sub>2021-05-10 14:04:36</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/def566f013baeb609438ea474e1a67fe83d7959c...59d93f5db10cc029e4f2ae6f87c42f9e9b848b34))</sub> | <sub>[59d93f5d](https://gitlab.com/snowgem/bitfrost/-/commit/59d93f5db10cc029e4f2ae6f87c42f9e9b848b34): after rebase changes - jan.vrastil</sub> |
 | <sub>2021-05-10 14:01:17</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2b40e693223ed28323144240e50a606dabea28f3...def566f013baeb609438ea474e1a67fe83d7959c))</sub> | <sub>[def566f0](https://gitlab.com/snowgem/bitfrost/-/commit/def566f013baeb609438ea474e1a67fe83d7959c): after rebase changes - jan.vrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 4580 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-10 13:39:58</sub> | <sub>Txid (txid) opened merge request [\!262 \*V0\.1\.7\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/262) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-10 13:39:27</sub> | <sub>Txid (txid) merged merge request [\!261 \*changing purchase flow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/261) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-10 13:38:58</sub> | <sub>Txid (txid) opened merge request [\!261 \*changing purchase flow\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/261) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-05-10 13:28:06</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/41191c3bf63d0bf190cdbdff81803ee0bdf7eeb7...2b40e693223ed28323144240e50a606dabea28f3))</sub> | <sub>[2b40e693](https://gitlab.com/snowgem/bitfrost/-/commit/2b40e693223ed28323144240e50a606dabea28f3): bug/285 - Finish Debit cards - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
