@@ -43839,5 +43839,15 @@
       "description": "[399b23a3](https://gitlab.com/snowgem/bitfrost/-/commit/399b23a3f396b45b33aa9fe456abb38297c9713f): fix #494, Coin amount was not updated in swap - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/399b23a3f396b45b33aa9fe456abb38297c9713f...7ca0258a50c1597711f6d182c142246cd8fcfb17))",
+    "created_at": "2021-05-10 12:18:12.722000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7ca0258a](https://gitlab.com/snowgem/bitfrost/-/commit/7ca0258a50c1597711f6d182c142246cd8fcfb17): #485 - fix - add return btn to biometrics page - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
