@@ -43954,5 +43954,15 @@
     "author": "GitLab",
     "content": "qNaN removed branch feature/custom-action-modal from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-10 14:38:43.270000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/91d5c4731335362d9c6e8efc08999e0c313d3501...f446782c682b70406117d565643b966acff8605b))",
+    "created_at": "2021-05-10 14:54:00.759000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f446782c](https://gitlab.com/snowgem/bitfrost/-/commit/f446782c682b70406117d565643b966acff8605b): after rebase changes - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
