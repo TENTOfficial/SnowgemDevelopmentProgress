@@ -43849,5 +43849,15 @@
       "description": "[7ca0258a](https://gitlab.com/snowgem/bitfrost/-/commit/7ca0258a50c1597711f6d182c142246cd8fcfb17): #485 - fix - add return btn to biometrics page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/41191c3bf63d0bf190cdbdff81803ee0bdf7eeb7...2b40e693223ed28323144240e50a606dabea28f3))",
+    "created_at": "2021-05-10 13:28:06.510000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2b40e693](https://gitlab.com/snowgem/bitfrost/-/commit/2b40e693223ed28323144240e50a606dabea28f3): bug/285 - Finish Debit cards - Snowgem",
+      "type": "rich"
+    }
   }
 ]
