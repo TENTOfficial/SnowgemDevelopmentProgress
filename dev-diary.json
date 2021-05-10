@@ -43774,5 +43774,15 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [hoxfix/v0\\.1\\.6](https://gitlab.com/snowgem/bitfrost/commits/hoxfix/v0.1.6) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-09 01:08:10.554000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/b2338bb6bf2fc2d1bd2b17e1fc66da4d387e5e03...b4cf6b8176f2ff2616d1af8a0ea92650bb188d06))",
+    "created_at": "2021-05-10 04:11:36.553000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b4cf6b81](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/b4cf6b8176f2ff2616d1af8a0ea92650bb188d06): add show/hide private address in sending list - Snowgem",
+      "type": "rich"
+    }
   }
 ]
