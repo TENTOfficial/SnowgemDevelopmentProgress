@@ -43809,5 +43809,15 @@
       "description": "[e9431155](https://gitlab.com/snowgem/bitfrost/-/commit/e9431155524598d8af5ff36df0b0c413c659925a): increase version to 0.1.7 - Snowgem\n\n[033beffd](https://gitlab.com/snowgem/bitfrost/-/commit/033beffdf9485b36e01749e9c8cd3288c93fe1cb): Merge branch 'v0.1.7' of https://gitlab.com/snowgem/bitfrost into v0.1.7 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/033beffdf9485b36e01749e9c8cd3288c93fe1cb...2477a099902c2b14f3d6c53ddb0c47ef9f62c9b6))",
+    "created_at": "2021-05-10 09:13:56.126000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2477a099](https://gitlab.com/snowgem/bitfrost/-/commit/2477a099902c2b14f3d6c53ddb0c47ef9f62c9b6): fix #495, missing source wallet in swap - Snowgem",
+      "type": "rich"
+    }
   }
 ]
