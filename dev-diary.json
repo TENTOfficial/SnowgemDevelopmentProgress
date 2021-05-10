@@ -43934,5 +43934,25 @@
       "description": "[91d5c473](https://gitlab.com/snowgem/bitfrost/-/commit/91d5c4731335362d9c6e8efc08999e0c313d3501): after rebase changes - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3d284412fc3cfaf586eb79c529944ba247c53f30...23dc9356658157a9f26f265652d8503a2d8f7bbe))",
+    "created_at": "2021-05-10 14:38:42.863000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[32bfde34](https://gitlab.com/snowgem/bitfrost/-/commit/32bfde34a2b32ca68a4d758576118171730ed651): custom modal - Filip Storkan\n\n[a7d8472f](https://gitlab.com/snowgem/bitfrost/-/commit/a7d8472fb1e22796ec2c7d8622aa68aaa23f7433): aplying custom action module - Filip Storkan\n\n[23dc9356](https://gitlab.com/snowgem/bitfrost/-/commit/23dc9356658157a9f26f265652d8503a2d8f7bbe): Merge branch 'feature/custom-action-modal' into 'v0.1.8' - qNaN",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN (filipstrkn) merged merge request [\\!259 \\*Feature/custom action modal\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/259) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-10 14:38:42.869000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN removed branch feature/custom-action-modal from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-10 14:38:43.270000"
   }
 ]
