@@ -43784,5 +43784,10 @@
       "description": "[b4cf6b81](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/b4cf6b8176f2ff2616d1af8a0ea92650bb188d06): add show/hide private address in sending list - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!260 \\*Revert \"Disable aml\\_category check\"\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/260) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-10 06:14:44.816000"
   }
 ]
