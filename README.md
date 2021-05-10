@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4563 commits since 20/01/2020. You can see the complete history in
+There is a total of 4565 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-10 06:15:57</sub> | <sub>Txid removed branch hoxfix/v0.1.6 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-05-10 06:15:57</sub> | <sub>Txid (txid) merged merge request [\!260 \*Revert "Disable aml\_category check"\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/260) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-10 06:14:44</sub> | <sub>Txid (txid) opened merge request [\!260 \*Revert "Disable aml\_category check"\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/260) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-10 04:11:36</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/b2338bb6bf2fc2d1bd2b17e1fc66da4d387e5e03...b4cf6b8176f2ff2616d1af8a0ea92650bb188d06))</sub> | <sub>[b4cf6b81](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/b4cf6b8176f2ff2616d1af8a0ea92650bb188d06): add show/hide private address in sending list - Snowgem</sub> |
 | <sub>2021-05-09 01:08:10</sub> | <sub>Txid pushed new branch [hoxfix/v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/hoxfix/v0.1.6) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -16,7 +18,5 @@ There is a total of 4563 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-07 13:09:30</sub> | <sub>Jan Vraštil pushed new branch [update\_to\_multic\_api](https://gitlab.com/snowgem/activation-tent-microsite/commits/update_to_multic_api) to [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-07 11:40:15</sub> | <sub>qNaN pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/90501caea553b16f962b5f494b71c84d3b5e271f...3d284412fc3cfaf586eb79c529944ba247c53f30))</sub> | <sub>[3d284412](https://gitlab.com/snowgem/bitfrost/-/commit/3d284412fc3cfaf586eb79c529944ba247c53f30): #493 - password component with parent validators - Filip Storkan</sub> |
 | <sub>2021-05-07 09:23:43</sub> | <sub>qNaN (filipstrkn) opened merge request [\!259 \*Feature/custom action modal\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/259) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-05-07 09:21:03</sub> | <sub>qNaN pushed new branch [feature/custom\-action\-modal](https://gitlab.com/snowgem/bitfrost/commits/feature/custom-action-modal) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-05-06 14:59:55</sub> | <sub>qNaN pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0df398feed51e1ab778057dc28f538e1af1e9f6d...90501caea553b16f962b5f494b71c84d3b5e271f))</sub> | <sub>[d416a80f](https://gitlab.com/snowgem/bitfrost/-/commit/d416a80f8cea476e3767b75b4103fd84af028259): updated into page - Filip Storkan<br>[90501cae](https://gitlab.com/snowgem/bitfrost/-/commit/90501caea553b16f962b5f494b71c84d3b5e271f): Merge branch 'feature/start-flow-update' into v0.1.8 - Filip Storkan</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-10 06:15:57</sub> | <sub>Txid removed branch hoxfix/v0.1.6 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-05-10 06:15:57</sub> | <sub>Txid (txid) merged merge request [\!260 \*Revert "Disable aml\_category check"\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/260) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-10 06:14:44</sub> | <sub>Txid (txid) opened merge request [\!260 \*Revert "Disable aml\_category check"\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/260) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-10 04:11:36</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/b2338bb6bf2fc2d1bd2b17e1fc66da4d387e5e03...b4cf6b8176f2ff2616d1af8a0ea92650bb188d06))</sub> | <sub>[b4cf6b81](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/b4cf6b8176f2ff2616d1af8a0ea92650bb188d06): add show/hide private address in sending list - Snowgem</sub> |
 | <sub>2021-05-09 01:08:10</sub> | <sub>Txid pushed new branch [hoxfix/v0\.1\.6](https://gitlab.com/snowgem/bitfrost/commits/hoxfix/v0.1.6) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
