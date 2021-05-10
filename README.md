@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4565 commits since 20/01/2020. You can see the complete history in
+There is a total of 4566 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-10 06:20:16</sub> | <sub>Txid pushed to branch [v0\.1\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6fee6a92cd80019439366d31070bb6ebb3f79c97...033beffdf9485b36e01749e9c8cd3288c93fe1cb))</sub> | <sub>[e9431155](https://gitlab.com/snowgem/bitfrost/-/commit/e9431155524598d8af5ff36df0b0c413c659925a): increase version to 0.1.7 - Snowgem<br>[033beffd](https://gitlab.com/snowgem/bitfrost/-/commit/033beffdf9485b36e01749e9c8cd3288c93fe1cb): Merge branch 'v0.1.7' of https://gitlab.com/snowgem/bitfrost into v0.1.7 - Snowgem</sub> |
 | <sub>2021-05-10 06:15:57</sub> | <sub>Txid removed branch hoxfix/v0.1.6 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-10 06:15:57</sub> | <sub>Txid (txid) merged merge request [\!260 \*Revert "Disable aml\_category check"\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/260) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-10 06:14:44</sub> | <sub>Txid (txid) opened merge request [\!260 \*Revert "Disable aml\_category check"\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/260) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4565 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-07 13:09:53</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!7 \*Change MZ api url to multic\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/7) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-07 13:09:30</sub> | <sub>Jan Vraštil pushed new branch [update\_to\_multic\_api](https://gitlab.com/snowgem/activation-tent-microsite/commits/update_to_multic_api) to [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-07 11:40:15</sub> | <sub>qNaN pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/90501caea553b16f962b5f494b71c84d3b5e271f...3d284412fc3cfaf586eb79c529944ba247c53f30))</sub> | <sub>[3d284412](https://gitlab.com/snowgem/bitfrost/-/commit/3d284412fc3cfaf586eb79c529944ba247c53f30): #493 - password component with parent validators - Filip Storkan</sub> |
-| <sub>2021-05-07 09:23:43</sub> | <sub>qNaN (filipstrkn) opened merge request [\!259 \*Feature/custom action modal\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/259) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

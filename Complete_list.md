@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-10 06:20:16</sub> | <sub>Txid pushed to branch [v0\.1\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6fee6a92cd80019439366d31070bb6ebb3f79c97...033beffdf9485b36e01749e9c8cd3288c93fe1cb))</sub> | <sub>[e9431155](https://gitlab.com/snowgem/bitfrost/-/commit/e9431155524598d8af5ff36df0b0c413c659925a): increase version to 0.1.7 - Snowgem<br>[033beffd](https://gitlab.com/snowgem/bitfrost/-/commit/033beffdf9485b36e01749e9c8cd3288c93fe1cb): Merge branch 'v0.1.7' of https://gitlab.com/snowgem/bitfrost into v0.1.7 - Snowgem</sub> |
 | <sub>2021-05-10 06:15:57</sub> | <sub>Txid removed branch hoxfix/v0.1.6 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-10 06:15:57</sub> | <sub>Txid (txid) merged merge request [\!260 \*Revert "Disable aml\_category check"\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/260) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-10 06:14:44</sub> | <sub>Txid (txid) opened merge request [\!260 \*Revert "Disable aml\_category check"\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/260) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
