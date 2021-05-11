@@ -44048,5 +44048,15 @@
       "description": "[2473f2d1](https://gitlab.com/snowgem/bitfrost/-/commit/2473f2d106c8fb528441b93ba9770dbecb431596): wip - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/23dc9356658157a9f26f265652d8503a2d8f7bbe...eaeb8a4884637fb248ef24be8f6ca183210ec69f))",
+    "created_at": "2021-05-11 06:40:54.763000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eaeb8a48](https://gitlab.com/snowgem/bitfrost/-/commit/eaeb8a4884637fb248ef24be8f6ca183210ec69f): fix login issue - Snowgem",
+      "type": "rich"
+    }
   }
 ]
