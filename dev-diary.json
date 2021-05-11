@@ -44164,5 +44164,25 @@
       "description": "[7ddcdf12](https://gitlab.com/snowgem/bitfrost/-/commit/7ddcdf12a8644ec20cdb28f7d36d261b9b0c03a4): Update KYC process workflow - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3473c7f0d01917ec94b830675ebc7f129e57102c...851ff59c3b75f107960079cdf836400d9a1c2850))",
+    "created_at": "2021-05-11 12:02:27.868000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[851ff59c](https://gitlab.com/snowgem/bitfrost/-/commit/851ff59c3b75f107960079cdf836400d9a1c2850): wip - jan.vrastil",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/851ff59c3b75f107960079cdf836400d9a1c2850...9cf47531c31015b1f264339cf7eec8d198251c38))",
+    "created_at": "2021-05-11 12:03:02.937000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e9dff995](https://gitlab.com/snowgem/bitfrost/-/commit/e9dff995cb6e418a35c48f04bd99c55cc5dcf1c0): fix #498, Missing default wallets - Snowgem\n\n[79706665](https://gitlab.com/snowgem/bitfrost/-/commit/797066652ea4dc63e5e23732035d084b6cf89cbc): Merge branch 'v0.1.7' of https://gitlab.com/snowgem/bitfrost into v0.1.7 - Snowgem\n\n[034ff210](https://gitlab.com/snowgem/bitfrost/-/commit/034ff210a6b1defc38db35f61deb1c27f70ef158): increase ios build version - Snowgem\n\n[7ddcdf12](https://gitlab.com/snowgem/bitfrost/-/commit/7ddcdf12a8644ec20cdb28f7d36d261b9b0c03a4): Update KYC process workflow - jan.vrastil\n\n[27747cce](https://gitlab.com/snowgem/bitfrost/-/commit/27747cceb788d9d41246108b0cb3bab83b3a511c): bug/285 - Finish Debit cards - Snowgem\n\n[9cf47531](https://gitlab.com/snowgem/bitfrost/-/commit/9cf47531c31015b1f264339cf7eec8d198251c38): wip - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
