@@ -44136,5 +44136,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/commit/fdfbe8d65adcdbf41ce2afc3cbdd84d0dde1925c"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-11 09:22:10.916000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`735a167`](https://github.com/TENTOfficial/TENT/commit/735a167fe32303705f5806062e9c2b369e7aeae4) implement sendtoaddressnochange rpc call - TENTOfficial\n[`c76a877`](https://github.com/TENTOfficial/TENT/commit/c76a8776738e49933099df1566d75e39a040da4a) Merge branch 'master' of https://github.com/Sno... - TENTOfficial",
+      "title": "[TENT:master] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/compare/fdfbe8d65adc...c76a8776738e"
+    }
   }
 ]
