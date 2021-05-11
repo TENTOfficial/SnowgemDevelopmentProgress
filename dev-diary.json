@@ -44038,5 +44038,15 @@
       "description": "[a595ad68](https://gitlab.com/snowgem/bitfrost/-/commit/a595ad688803d54d24dac47a6a913e81971734fe): show correct message when explorer is down, partial fix #496 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f446782c682b70406117d565643b966acff8605b...2473f2d106c8fb528441b93ba9770dbecb431596))",
+    "created_at": "2021-05-11 06:28:03.965000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2473f2d1](https://gitlab.com/snowgem/bitfrost/-/commit/2473f2d106c8fb528441b93ba9770dbecb431596): wip - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
