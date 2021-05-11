@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4592 commits since 20/01/2020. You can see the complete history in
+There is a total of 4593 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-11 07:53:16</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a595ad688803d54d24dac47a6a913e81971734fe...fffc683828c2081f2c1b54ee60bf74d3b902d74e))</sub> | <sub>[fffc6838](https://gitlab.com/snowgem/bitfrost/-/commit/fffc683828c2081f2c1b54ee60bf74d3b902d74e): Add INCONSEQUENTIAL KYC error message - jan.vrastil</sub> |
 | <sub>2021-05-11 06:40:54</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/23dc9356658157a9f26f265652d8503a2d8f7bbe...eaeb8a4884637fb248ef24be8f6ca183210ec69f))</sub> | <sub>[eaeb8a48](https://gitlab.com/snowgem/bitfrost/-/commit/eaeb8a4884637fb248ef24be8f6ca183210ec69f): fix login issue - Snowgem</sub> |
 | <sub>2021-05-11 06:28:03</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f446782c682b70406117d565643b966acff8605b...2473f2d106c8fb528441b93ba9770dbecb431596))</sub> | <sub>[2473f2d1](https://gitlab.com/snowgem/bitfrost/-/commit/2473f2d106c8fb528441b93ba9770dbecb431596): wip - jan.vrastil</sub> |
 | <sub>2021-05-11 02:55:58</sub> | <sub>Txid pushed to branch [v0\.1\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/34ba834bd814d1874c350d29978950ac991bc100...a595ad688803d54d24dac47a6a913e81971734fe))</sub> | <sub>[a595ad68](https://gitlab.com/snowgem/bitfrost/-/commit/a595ad688803d54d24dac47a6a913e81971734fe): show correct message when explorer is down, partial fix #496 - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 4592 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-10 15:49:48</sub> | <sub>[[insight-api-tent:master] 2 new commits](https://github.com/TENTOfficial/insight-api-tent/compare/ab473ff2cb3b...30af8b609e42)</sub> | <sub>[9d311aa](https://github.com/TENTOfficial/insight-api-tent/commit/9d311aa0d388e5656107c1555a3ec3f749c3cd28) EquiHub.pro -> MinerPool.org - shmocs<br>[30af8b6](https://github.com/TENTOfficial/insight-api-tent/commit/30af8b609e428c3276bcdc372b56b4dd47fa4416) Merge pull request #1 from shmocs/patch-1 - ciripel</sub> |
 | <sub>2021-05-10 14:54:00</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/91d5c4731335362d9c6e8efc08999e0c313d3501...f446782c682b70406117d565643b966acff8605b))</sub> | <sub>[f446782c](https://gitlab.com/snowgem/bitfrost/-/commit/f446782c682b70406117d565643b966acff8605b): after rebase changes - jan.vrastil</sub> |
 | <sub>2021-05-10 14:38:43</sub> | <sub>qNaN removed branch feature/custom-action-modal from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-05-10 14:38:42</sub> | <sub>qNaN (filipstrkn) merged merge request [\!259 \*Feature/custom action modal\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/259) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
