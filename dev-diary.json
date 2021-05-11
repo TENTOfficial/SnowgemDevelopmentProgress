@@ -44154,5 +44154,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/compare/fdfbe8d65adc...c76a8776738e"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/034ff210a6b1defc38db35f61deb1c27f70ef158...7ddcdf12a8644ec20cdb28f7d36d261b9b0c03a4))",
+    "created_at": "2021-05-11 11:52:40.820000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7ddcdf12](https://gitlab.com/snowgem/bitfrost/-/commit/7ddcdf12a8644ec20cdb28f7d36d261b9b0c03a4): Update KYC process workflow - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
