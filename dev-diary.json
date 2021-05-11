@@ -44018,5 +44018,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/compare/38f201a43342...1aca4c25b76b"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7ca0258a50c1597711f6d182c142246cd8fcfb17...34ba834bd814d1874c350d29978950ac991bc100))",
+    "created_at": "2021-05-11 02:40:05.629000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[81b56a95](https://gitlab.com/snowgem/bitfrost/-/commit/81b56a9576ab5f435f507350896943306d2fbc30): fix #497, Cannot send ZEC and DOGE - Snowgem\n\n[34ba834b](https://gitlab.com/snowgem/bitfrost/-/commit/34ba834bd814d1874c350d29978950ac991bc100): Merge branch 'v0.1.7' of https://gitlab.com/snowgem/bitfrost into v0.1.7 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
