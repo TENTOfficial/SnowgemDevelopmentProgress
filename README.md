@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4608 commits since 20/01/2020. You can see the complete history in
+There is a total of 4609 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-12 08:26:47</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/9fb0abe0ba44acc894a440e7358d358a122a497e...3119339095c9bcd1eac867f84ba1200bfb11cfb8))</sub> | <sub>[31193390](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/3119339095c9bcd1eac867f84ba1200bfb11cfb8): show/hide privacy option - Snowgem</sub> |
 | <sub>2021-05-12 08:06:00</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/b4cf6b8176f2ff2616d1af8a0ea92650bb188d06...9fb0abe0ba44acc894a440e7358d358a122a497e))</sub> | <sub>[9fb0abe0](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/9fb0abe0ba44acc894a440e7358d358a122a497e): show/hide create priv address - Snowgem</sub> |
 | <sub>2021-05-12 03:37:47</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/23f2024f9e5ff3b51153d3340cd9ec09c4c0d911)</sub> | <sub>[23f2024](https://github.com/TENTOfficial/TENT/commit/23f2024f9e5ff3b51153d3340cd9ec09c4c0d911) add sendmanynochange rpc call - TENTOfficial</sub> |
 | <sub>2021-05-12 02:14:06</sub> | <sub>Txid pushed to branch [v0\.1\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7ddcdf12a8644ec20cdb28f7d36d261b9b0c03a4...3584757c769403af181dfa9355bf01785ee5c4d3))</sub> | <sub>[3584757c](https://gitlab.com/snowgem/bitfrost/-/commit/3584757c769403af181dfa9355bf01785ee5c4d3): fix #489 - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 4608 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-11 11:52:40</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/034ff210a6b1defc38db35f61deb1c27f70ef158...7ddcdf12a8644ec20cdb28f7d36d261b9b0c03a4))</sub> | <sub>[7ddcdf12](https://gitlab.com/snowgem/bitfrost/-/commit/7ddcdf12a8644ec20cdb28f7d36d261b9b0c03a4): Update KYC process workflow - jan.vrastil</sub> |
 | <sub>2021-05-11 09:22:10</sub> | <sub>[[TENT:master] 2 new commits](https://github.com/TENTOfficial/TENT/compare/fdfbe8d65adc...c76a8776738e)</sub> | <sub>[735a167](https://github.com/TENTOfficial/TENT/commit/735a167fe32303705f5806062e9c2b369e7aeae4) implement sendtoaddressnochange rpc call - TENTOfficial<br>[c76a877](https://github.com/TENTOfficial/TENT/commit/c76a8776738e49933099df1566d75e39a040da4a) Merge branch 'master' of https://github.com/Sno... - TENTOfficial</sub> |
 | <sub>2021-05-11 09:14:08</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/fdfbe8d65adcdbf41ce2afc3cbdd84d0dde1925c)</sub> | <sub>[fdfbe8d](https://github.com/TENTOfficial/TENT/commit/fdfbe8d65adcdbf41ce2afc3cbdd84d0dde1925c) added src/Makefile to gitignore - ciripel</sub> |
-| <sub>2021-05-11 08:39:02</sub> | <sub>Txid (txid) merged merge request [\!263 \*V0\.1\.7\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/263) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
