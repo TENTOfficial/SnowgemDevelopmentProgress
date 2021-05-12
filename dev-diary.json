@@ -44288,5 +44288,15 @@
       "description": "[4766dd39](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/4766dd3930cc1186a2be78ea06415b0554aac926): add lock icon - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fbae17625c8e66a27cb72f6818ff5b9ffa988348...8ae6bf4f271f163c8a11aa9c754237b071c4b64a))",
+    "created_at": "2021-05-12 11:11:19.721000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8ae6bf4f](https://gitlab.com/snowgem/bitfrost/-/commit/8ae6bf4f271f163c8a11aa9c754237b071c4b64a): wip - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
