@@ -44204,5 +44204,23 @@
       "description": "[3584757c](https://gitlab.com/snowgem/bitfrost/-/commit/3584757c769403af181dfa9355bf01785ee5c4d3): fix #489 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-12 03:37:47.396000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`23f2024`](https://github.com/TENTOfficial/TENT/commit/23f2024f9e5ff3b51153d3340cd9ec09c4c0d911) add sendmanynochange rpc call - TENTOfficial",
+      "title": "[TENT:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/commit/23f2024f9e5ff3b51153d3340cd9ec09c4c0d911"
+    }
   }
 ]
