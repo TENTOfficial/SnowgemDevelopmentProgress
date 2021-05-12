@@ -44222,5 +44222,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/commit/23f2024f9e5ff3b51153d3340cd9ec09c4c0d911"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/b4cf6b8176f2ff2616d1af8a0ea92650bb188d06...9fb0abe0ba44acc894a440e7358d358a122a497e))",
+    "created_at": "2021-05-12 08:06:00.061000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9fb0abe0](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/9fb0abe0ba44acc894a440e7358d358a122a497e): show/hide create priv address - Snowgem",
+      "type": "rich"
+    }
   }
 ]
