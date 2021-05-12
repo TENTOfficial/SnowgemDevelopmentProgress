@@ -44278,5 +44278,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/commit/b675d2a5c94505ac57de304967c632b8232418c4"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/3119339095c9bcd1eac867f84ba1200bfb11cfb8...4766dd3930cc1186a2be78ea06415b0554aac926))",
+    "created_at": "2021-05-12 10:22:06.135000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4766dd39](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/4766dd3930cc1186a2be78ea06415b0554aac926): add lock icon - Snowgem",
+      "type": "rich"
+    }
   }
 ]
