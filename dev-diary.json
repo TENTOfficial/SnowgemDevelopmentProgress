@@ -44328,5 +44328,15 @@
       "description": "[c6b40e3f](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/c6b40e3f47c226010849405ac0186923187aff5e): Revert \"prepared release 1.1.5\" - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/cbbd0706a94b7e1f922d52a3af3ae604f3a1b251...8155232ea2bf726f7dce2daa21354f33ff0aa8bd))",
+    "created_at": "2021-05-12 12:47:11.157000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8155232e](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/8155232ea2bf726f7dce2daa21354f33ff0aa8bd): prepared release 1.1.5 - ciripel",
+      "type": "rich"
+    }
   }
 ]
