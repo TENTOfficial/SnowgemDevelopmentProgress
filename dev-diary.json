@@ -44308,5 +44308,15 @@
       "description": "[cbbd0706](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/cbbd0706a94b7e1f922d52a3af3ae604f3a1b251): removed dk, is wastes - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/cbbd0706a94b7e1f922d52a3af3ae604f3a1b251...1f5fe88ae445b4343a0765c86c380a2a3b33f1cc))",
+    "created_at": "2021-05-12 12:31:58.112000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1f5fe88a](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/1f5fe88ae445b4343a0765c86c380a2a3b33f1cc): prepared release 1.1.5 - ciripel",
+      "type": "rich"
+    }
   }
 ]
