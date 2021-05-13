@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-13 11:24:39</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/614513d36e1f54880a73f8ef36d0cffda0bc1fcc)</sub> | <sub>[614513d](https://github.com/TENTOfficial/ServerConfig/commit/614513d36e1f54880a73f8ef36d0cffda0bc1fcc) removed encryption from other coins for safety - ciripel</sub> |
 | <sub>2021-05-13 11:17:07</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/1cd5658f0477964dbd04b54df8d3b84d3eb2628e)</sub> | <sub>[1cd5658](https://github.com/TENTOfficial/ServerConfig/commit/1cd5658f0477964dbd04b54df8d3b84d3eb2628e) Added Encrypted wallet for TENT - beta - ciripel</sub> |
 | <sub>2021-05-13 11:14:06</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/3ddcd798293e51359a8c4c4a9e9838490c035914)</sub> | <sub>[3ddcd79](https://github.com/TENTOfficial/ServerConfig/commit/3ddcd798293e51359a8c4c4a9e9838490c035914) added Privacy options to other coins: - ciripel</sub> |
 | <sub>2021-05-13 11:00:30</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/33e9deb5c8966a2c7f455e40ca64e73dd0b7584b)</sub> | <sub>[33e9deb](https://github.com/TENTOfficial/ServerConfig/commit/33e9deb5c8966a2c7f455e40ca64e73dd0b7584b) added privacy fields to Vidulum - ciripel</sub> |

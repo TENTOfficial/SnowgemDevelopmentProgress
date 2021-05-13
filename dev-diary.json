@@ -44538,5 +44538,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/1cd5658f0477964dbd04b54df8d3b84d3eb2628e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-13 11:24:39.463000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`614513d`](https://github.com/TENTOfficial/ServerConfig/commit/614513d36e1f54880a73f8ef36d0cffda0bc1fcc) removed encryption from other coins for safety - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/614513d36e1f54880a73f8ef36d0cffda0bc1fcc"
+    }
   }
 ]
