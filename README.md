@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4634 commits since 20/01/2020. You can see the complete history in
+There is a total of 4635 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-13 11:17:07</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/1cd5658f0477964dbd04b54df8d3b84d3eb2628e)</sub> | <sub>[1cd5658](https://github.com/TENTOfficial/ServerConfig/commit/1cd5658f0477964dbd04b54df8d3b84d3eb2628e) Added Encrypted wallet for TENT - beta - ciripel</sub> |
 | <sub>2021-05-13 11:14:06</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/3ddcd798293e51359a8c4c4a9e9838490c035914)</sub> | <sub>[3ddcd79](https://github.com/TENTOfficial/ServerConfig/commit/3ddcd798293e51359a8c4c4a9e9838490c035914) added Privacy options to other coins: - ciripel</sub> |
 | <sub>2021-05-13 11:00:30</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/33e9deb5c8966a2c7f455e40ca64e73dd0b7584b)</sub> | <sub>[33e9deb](https://github.com/TENTOfficial/ServerConfig/commit/33e9deb5c8966a2c7f455e40ca64e73dd0b7584b) added privacy fields to Vidulum - ciripel</sub> |
 | <sub>2021-05-13 10:48:55</sub> | <sub>Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/1caf57220a4be7d20e2630bd0386f521f97cc133...9f7f390129018db64496a440990e5376cc367181))</sub> | <sub>[9f7f3901](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/9f7f390129018db64496a440990e5376cc367181): add show/hide configuration encryption: - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 4634 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-13 07:47:45</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0374c391930a66c90ef270d9d1e9edadd6e0dcfc...48bb84e78011261a6de06c2961e48c4167205562))</sub> | <sub>[3fca307c](https://gitlab.com/snowgem/bitfrost/-/commit/3fca307c51df0e47d0b87167949f6422a97afa0e): increase ios build version - Snowgem<br>[40c0115e](https://gitlab.com/snowgem/bitfrost/-/commit/40c0115e6d673504324f881751dcf70e8e61af30): Merge branch 'v0.1.7' of https://gitlab.com/snowgem/bitfrost into v0.1.7 - Snowgem<br>[48bb84e7](https://gitlab.com/snowgem/bitfrost/-/commit/48bb84e78011261a6de06c2961e48c4167205562): Merge branch 'v0.1.7' into 'testing' - Txid</sub> |
 | <sub>2021-05-13 07:47:45</sub> | <sub>Txid (txid) merged merge request [\!265 \*V0\.1\.7\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/265) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-13 07:46:34</sub> | <sub>Txid (txid) opened merge request [\!265 \*V0\.1\.7\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/265) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-05-13 07:42:39</sub> | <sub>Txid pushed to branch [v0\.1\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2567d8def37109c5c91b53ad7844c4d13d5c9104...40c0115e6d673504324f881751dcf70e8e61af30))</sub> | <sub>[3fca307c](https://gitlab.com/snowgem/bitfrost/-/commit/3fca307c51df0e47d0b87167949f6422a97afa0e): increase ios build version - Snowgem<br>[40c0115e](https://gitlab.com/snowgem/bitfrost/-/commit/40c0115e6d673504324f881751dcf70e8e61af30): Merge branch 'v0.1.7' of https://gitlab.com/snowgem/bitfrost into v0.1.7 - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
