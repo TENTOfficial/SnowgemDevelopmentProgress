@@ -44484,5 +44484,23 @@
       "description": "[9f7f3901](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/9f7f390129018db64496a440990e5376cc367181): add show/hide configuration encryption: - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-13 11:00:30.958000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`33e9deb`](https://github.com/TENTOfficial/ServerConfig/commit/33e9deb5c8966a2c7f455e40ca64e73dd0b7584b) added privacy fields to Vidulum - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/33e9deb5c8966a2c7f455e40ca64e73dd0b7584b"
+    }
   }
 ]
