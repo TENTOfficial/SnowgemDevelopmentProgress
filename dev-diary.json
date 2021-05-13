@@ -44444,5 +44444,15 @@
       "description": "[3fca307c](https://gitlab.com/snowgem/bitfrost/-/commit/3fca307c51df0e47d0b87167949f6422a97afa0e): increase ios build version - Snowgem\n\n[40c0115e](https://gitlab.com/snowgem/bitfrost/-/commit/40c0115e6d673504324f881751dcf70e8e61af30): Merge branch 'v0.1.7' of https://gitlab.com/snowgem/bitfrost into v0.1.7 - Snowgem\n\n[48bb84e7](https://gitlab.com/snowgem/bitfrost/-/commit/48bb84e78011261a6de06c2961e48c4167205562): Merge branch 'v0.1.7' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/30c38321e9aef17dfde48109b5e2e94e8f8e77cb...1e9907ac02355425b593044b33c5e692501b4a62))",
+    "created_at": "2021-05-13 08:46:28.400000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[bc07b5c0](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/bc07b5c07655df2fcfd7ba004d673847925a2fed): Add encryption rpc call - Snowgem\n\n[a7ab2776](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/a7ab2776ea0a69d846d8dd005f71b299edc1a22a): Merge branch 'master' of https://gitlab.com/snowgem/modernwallet_desktop_angular - Snowgem\n\n[1e9907ac](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/1e9907ac02355425b593044b33c5e692501b4a62): show unlock modal to put password - Snowgem",
+      "type": "rich"
+    }
   }
 ]
