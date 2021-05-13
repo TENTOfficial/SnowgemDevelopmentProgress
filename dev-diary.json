@@ -44474,5 +44474,15 @@
       "description": "[1caf5722](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/1caf57220a4be7d20e2630bd0386f521f97cc133): add change password button - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/1caf57220a4be7d20e2630bd0386f521f97cc133...9f7f390129018db64496a440990e5376cc367181))",
+    "created_at": "2021-05-13 10:48:55.378000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9f7f3901](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/9f7f390129018db64496a440990e5376cc367181): add show/hide configuration encryption: - Snowgem",
+      "type": "rich"
+    }
   }
 ]
