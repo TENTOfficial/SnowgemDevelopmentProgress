@@ -44729,5 +44729,15 @@
       "description": "[692723a3](https://gitlab.com/snowgem/bitfrost/-/commit/692723a3ebc84f1ef03131b6e4418463f052d348): fix lint #3 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/622f1841219caac6f3f6952a0e9ebf25177dd641...78c42166993f639440afe778f7501e20de1e5e7c))",
+    "created_at": "2021-05-14 13:14:52.527000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[78c42166](https://gitlab.com/snowgem/bitfrost/-/commit/78c42166993f639440afe778f7501e20de1e5e7c): increase ios build version - Snowgem",
+      "type": "rich"
+    }
   }
 ]
