@@ -44669,5 +44669,15 @@
       "title": "[TENT] Branch feature/wallet\\-encryption was force-pushed to `5c44acc`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/eaeb8a4884637fb248ef24be8f6ca183210ec69f...20ae440f948bb1dc0bfe8e197ab79144eb464683))",
+    "created_at": "2021-05-14 08:51:01.425000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[20ae440f](https://gitlab.com/snowgem/bitfrost/-/commit/20ae440f948bb1dc0bfe8e197ab79144eb464683): support 24 seed words - Snowgem",
+      "type": "rich"
+    }
   }
 ]
