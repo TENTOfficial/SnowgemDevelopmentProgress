@@ -44789,5 +44789,20 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!268 \\*V0\\.1\\.7\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/268) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-14 13:31:25.251000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8151cc2d5c9c7362141f65a4bb9964e665066a40...a99c5d8a288c85861a193ea42bc1ac6fdee2498f))",
+    "created_at": "2021-05-14 15:52:24.402000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a99c5d8a](https://gitlab.com/snowgem/bitfrost/-/commit/a99c5d8a288c85861a193ea42bc1ac6fdee2498f): fix build - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!269 \\*fix build\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/269) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-14 15:52:55.665000"
   }
 ]
