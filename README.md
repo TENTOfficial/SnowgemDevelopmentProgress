@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4643 commits since 20/01/2020. You can see the complete history in
+There is a total of 4644 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-14 07:41:41</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/TENTOfficial/TENT/compare/0b446534ee1a...5c44accf491a)</sub> |
 | <sub>2021-05-14 07:37:16</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/TENTOfficial/TENT/compare/0b446534ee1a...4b4c7846ab74)</sub> |
 | <sub>2021-05-14 07:19:17</sub> | <sub>[[TENT:feature/wallet\-encryption] 5 new commits](https://github.com/TENTOfficial/TENT/compare/b675d2a5c945...0b446534ee1a)</sub> | <sub>[8987f26](https://github.com/TENTOfficial/TENT/commit/8987f26b52835589dfef345dd0594fe3f78c64e2) implement sendtoaddressnochange rpc call - TENTOfficial<br>[b322279](https://github.com/TENTOfficial/TENT/commit/b322279f621cdff1935b1c3ddea9442a7fe2aa72) added src/Makefile to gitignore - ciripel<br>[b35c97d](https://github.com/TENTOfficial/TENT/commit/b35c97dd6d4d7b1e7011111cf4c7aaafc0ea5227) add sendmanynochange rpc call - TENTOfficial<br>[be2795d](https://github.com/TENTOfficial/TENT/commit/be2795ddf11723f01ab5ca24b714803a988cf4f4) uncomment test code - TENTOfficial<br>[0b44653](https://github.com/TENTOfficial/TENT/commit/0b446534ee1a90bf03944e7923ca270962f02898) add blocks to all data, comment encrtption code - TENTOfficial</sub> |
 | <sub>2021-05-14 05:55:30</sub> | <sub>[[TENT:master] 2 new commits](https://github.com/TENTOfficial/TENT/compare/4b4c7846ab74...51fabcc0f433)</sub> | <sub>[5c44acc](https://github.com/TENTOfficial/TENT/commit/5c44accf491a112fc225def61268d6c9d793116c) add blocks to all data, comment encrtption code - TENTOfficial<br>[51fabcc](https://github.com/TENTOfficial/TENT/commit/51fabcc0f433b80f14f46987ede361ee891be84b) Merge branch 'feature/wallet-encryption' - TENTOfficial</sub> |
@@ -17,6 +18,5 @@ There is a total of 4643 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-13 15:11:20</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/40c0115e6d673504324f881751dcf70e8e61af30...4b3bd426221232aa8299852f454bd5ca015f06c7))</sub> | <sub>[4b3bd426](https://gitlab.com/snowgem/bitfrost/-/commit/4b3bd426221232aa8299852f454bd5ca015f06c7): KYC - improve catching errors - jan.vrastil</sub> |
 | <sub>2021-05-13 11:24:39</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/614513d36e1f54880a73f8ef36d0cffda0bc1fcc)</sub> | <sub>[614513d](https://github.com/TENTOfficial/ServerConfig/commit/614513d36e1f54880a73f8ef36d0cffda0bc1fcc) removed encryption from other coins for safety - ciripel</sub> |
 | <sub>2021-05-13 11:17:07</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/1cd5658f0477964dbd04b54df8d3b84d3eb2628e)</sub> | <sub>[1cd5658](https://github.com/TENTOfficial/ServerConfig/commit/1cd5658f0477964dbd04b54df8d3b84d3eb2628e) Added Encrypted wallet for TENT - beta - ciripel</sub> |
-| <sub>2021-05-13 11:14:06</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/3ddcd798293e51359a8c4c4a9e9838490c035914)</sub> | <sub>[3ddcd79](https://github.com/TENTOfficial/ServerConfig/commit/3ddcd798293e51359a8c4c4a9e9838490c035914) added Privacy options to other coins: - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
