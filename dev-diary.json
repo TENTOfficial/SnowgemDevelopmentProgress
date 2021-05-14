@@ -44759,5 +44759,20 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!267 \\*increase ios build version\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/267) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-14 13:19:50.341000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/78c42166993f639440afe778f7501e20de1e5e7c...8151cc2d5c9c7362141f65a4bb9964e665066a40))",
+    "created_at": "2021-05-14 13:26:47.707000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5352c04e](https://gitlab.com/snowgem/bitfrost/-/commit/5352c04e2f4d7dcbb60a632a13cc7b61f4f0f815): KYC - Handle refreshJwt error & SumSub plugin update - jan.vrastil\n\n[8151cc2d](https://gitlab.com/snowgem/bitfrost/-/commit/8151cc2d5c9c7362141f65a4bb9964e665066a40): Increase ios version to 0.1.7.6 - jan.vrastil",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!268 \\*V0\\.1\\.7\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/268) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-14 13:28:50.854000"
   }
 ]
