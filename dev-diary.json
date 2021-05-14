@@ -44699,5 +44699,15 @@
       "description": "[4b3bd426](https://gitlab.com/snowgem/bitfrost/-/commit/4b3bd426221232aa8299852f454bd5ca015f06c7): KYC - improve catching errors - jan.vrastil\n\n[622f1841](https://gitlab.com/snowgem/bitfrost/-/commit/622f1841219caac6f3f6952a0e9ebf25177dd641): Increase ios version - jan.vrastil\n\n[b5a2f034](https://gitlab.com/snowgem/bitfrost/-/commit/b5a2f0341015f913d10e5b1153ad2e559f4654f8): Merge branch 'v0.1.7' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/20ae440f948bb1dc0bfe8e197ab79144eb464683...4f927d9fdb88d30b249a2c8539b420006cf1b860))",
+    "created_at": "2021-05-14 10:33:23.738000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2c68bde1](https://gitlab.com/snowgem/bitfrost/-/commit/2c68bde1ee66cc0f9777871eb8746ef9f3c92836): add fast import for beta - Snowgem\n\n[7d71916f](https://gitlab.com/snowgem/bitfrost/-/commit/7d71916fd34ffffba7bb936689bc4ec14ec41809): add estimate BTC balance for wallet - Snowgem\n\n[4f927d9f](https://gitlab.com/snowgem/bitfrost/-/commit/4f927d9fdb88d30b249a2c8539b420006cf1b860): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
