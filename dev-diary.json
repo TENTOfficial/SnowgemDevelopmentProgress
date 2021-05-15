@@ -44836,5 +44836,15 @@
       "title": "[TENT] Branch master was force-pushed to `72d6242`",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/692723a3ebc84f1ef03131b6e4418463f052d348...c04caacff5abe8aaa65444029b388c0bd78c65ce))",
+    "created_at": "2021-05-15 11:41:09.290000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[02f9478f](https://gitlab.com/snowgem/bitfrost/-/commit/02f9478fa7b4377a91046b208bbe4ba0fb10e980): set serialize type for http service - Snowgem\n\n[2409a209](https://gitlab.com/snowgem/bitfrost/-/commit/2409a209a7be64aa830b8515f3024ac9704d5122): fix get swap data issue - Snowgem\n\n[c04caacf](https://gitlab.com/snowgem/bitfrost/-/commit/c04caacff5abe8aaa65444029b388c0bd78c65ce): throw error when adding swap issue - Snowgem",
+      "type": "rich"
+    }
   }
 ]
