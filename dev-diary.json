@@ -44856,5 +44856,15 @@
       "description": "[83f80a42](https://gitlab.com/snowgem/bitfrost/-/commit/83f80a42c2031e2f2487d620383e972e3996f72a): fix get swap data issue - Snowgem\n\n[2bab508a](https://gitlab.com/snowgem/bitfrost/-/commit/2bab508a35ade85f9e8d8919b244861466e5de0f): throw error when adding address swap issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c04caacff5abe8aaa65444029b388c0bd78c65ce...92a064c32cbfe814a91ef2c3418d32cf6aab5cae))",
+    "created_at": "2021-05-16 03:26:13.387000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d1508b5a](https://gitlab.com/snowgem/bitfrost/-/commit/d1508b5a7bb2d85f686ba8b8829ef8bc6a8daa6f): show 4 digits only in wallets-overview page - Snowgem\n\n[a1f9efc3](https://gitlab.com/snowgem/bitfrost/-/commit/a1f9efc392206bf19fe45fd1300000cb2dacb5de): hide header for wallets-overview page - Snowgem\n\n[ebfd97df](https://gitlab.com/snowgem/bitfrost/-/commit/ebfd97dff9f60441a9c5e8050e04d22ece64aac3): chart height to 150 px - Snowgem\n\n[92a064c3](https://gitlab.com/snowgem/bitfrost/-/commit/92a064c32cbfe814a91ef2c3418d32cf6aab5cae): complete event in dorefresh overview page - Snowgem",
+      "type": "rich"
+    }
   }
 ]
