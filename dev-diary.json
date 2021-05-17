@@ -44981,5 +44981,15 @@
     "author": "GitLab",
     "content": "qNaN pushed new branch [feature/notification\\-center](https://gitlab.com/snowgem/bitfrost/commits/feature/notification-center) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-17 10:27:25.381000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/73eb11bf83a67df77c74c0c8a37416e87fcfbce2...82d3297a4576d2218fb840615d649c3184d5fc13))",
+    "created_at": "2021-05-17 14:04:01.983000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[82d3297a](https://gitlab.com/snowgem/bitfrost/-/commit/82d3297a4576d2218fb840615d649c3184d5fc13): wip - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
