@@ -44946,5 +44946,15 @@
       "description": "[f8046f2d](https://gitlab.com/snowgem/bitfrost/-/commit/f8046f2dcb65df5699dbc91b8a9c49794c51eac8): Add timeout for sending report - jan.vrastil\n\n[68ee5c12](https://gitlab.com/snowgem/bitfrost/-/commit/68ee5c12429674be8d9ea1caac41a0207c4a83b9): Merge branch 'v0.1.7' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/9f7f390129018db64496a440990e5376cc367181...43a30485d71431d3aa16bb6114e3536a83ae9dca))",
+    "created_at": "2021-05-17 07:36:38.554000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[43a30485](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/43a30485d71431d3aa16bb6114e3536a83ae9dca): fix parse raw data - Snowgem",
+      "type": "rich"
+    }
   }
 ]
