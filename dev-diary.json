@@ -44901,5 +44901,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!270 \\*V0\\.1\\.7\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/270) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-17 06:19:47.077000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!270 \\*V0\\.1\\.7\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/270) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-17 06:23:32.112000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/342bf326282a5919db3dff5621871425a63491f8...a9ef3e65bba4ca28ebda72113302edc813d7221f))",
+    "created_at": "2021-05-17 06:23:33.234000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[83f80a42](https://gitlab.com/snowgem/bitfrost/-/commit/83f80a42c2031e2f2487d620383e972e3996f72a): fix get swap data issue - Snowgem\n\n[2bab508a](https://gitlab.com/snowgem/bitfrost/-/commit/2bab508a35ade85f9e8d8919b244861466e5de0f): throw error when adding address swap issue - Snowgem\n\n[02147078](https://gitlab.com/snowgem/bitfrost/-/commit/0214707881b5de79bd73b2bb848da1dd146bcfbc): fix lint - Snowgem\n\n[ac8e55f2](https://gitlab.com/snowgem/bitfrost/-/commit/ac8e55f22b7e29f54d109264ce518491ed233b78): increase ios build version - Snowgem\n\n[a9ef3e65](https://gitlab.com/snowgem/bitfrost/-/commit/a9ef3e65bba4ca28ebda72113302edc813d7221f): Merge branch 'v0.1.7' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
