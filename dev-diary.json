@@ -45031,5 +45031,15 @@
       "description": "[163108ba](https://gitlab.com/snowgem/bitfrost/-/commit/163108bae8e3ae78569dcedcf44b877dbb7f15cb): fix swap estimated issue - Snowgem\n\n[8a8707aa](https://gitlab.com/snowgem/bitfrost/-/commit/8a8707aaa6dadc7fb240da2ef4cc4c7478487024): Merge branch 'v-1.1.7' of https://gitlab.com/snowgem/bitfrost into v0.1.7 - Snowgem\n\n[ec2a90f7](https://gitlab.com/snowgem/bitfrost/-/commit/ec2a90f7c90938f89b185c1828d7bdb997a5b721): increase ios build version - Snowgem\n\n[465a1a78](https://gitlab.com/snowgem/bitfrost/-/commit/465a1a788e1abc50c0fe9082eac120c5e3225e28): Merge branch 'v0.1.7' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/43a30485d71431d3aa16bb6114e3536a83ae9dca...54e4016abe2aa35844b120c9dceec0e57586c402))",
+    "created_at": "2021-05-17 19:19:27.701000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[54e4016a](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/54e4016abe2aa35844b120c9dceec0e57586c402): Updated ae, cz, fr, hu & kr - ciripel",
+      "type": "rich"
+    }
   }
 ]
