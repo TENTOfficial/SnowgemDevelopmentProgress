@@ -44926,5 +44926,25 @@
       "description": "[f8046f2d](https://gitlab.com/snowgem/bitfrost/-/commit/f8046f2dcb65df5699dbc91b8a9c49794c51eac8): Add timeout for sending report - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!271 \\*Add timeout for sending report\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/271) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-17 07:02:56.833000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!271 \\*Add timeout for sending report\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/271) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-17 07:03:02.089000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a9ef3e65bba4ca28ebda72113302edc813d7221f...68ee5c12429674be8d9ea1caac41a0207c4a83b9))",
+    "created_at": "2021-05-17 07:03:02.142000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f8046f2d](https://gitlab.com/snowgem/bitfrost/-/commit/f8046f2dcb65df5699dbc91b8a9c49794c51eac8): Add timeout for sending report - jan.vrastil\n\n[68ee5c12](https://gitlab.com/snowgem/bitfrost/-/commit/68ee5c12429674be8d9ea1caac41a0207c4a83b9): Merge branch 'v0.1.7' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
