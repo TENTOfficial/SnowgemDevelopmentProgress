@@ -44866,5 +44866,40 @@
       "description": "[d1508b5a](https://gitlab.com/snowgem/bitfrost/-/commit/d1508b5a7bb2d85f686ba8b8829ef8bc6a8daa6f): show 4 digits only in wallets-overview page - Snowgem\n\n[a1f9efc3](https://gitlab.com/snowgem/bitfrost/-/commit/a1f9efc392206bf19fe45fd1300000cb2dacb5de): hide header for wallets-overview page - Snowgem\n\n[ebfd97df](https://gitlab.com/snowgem/bitfrost/-/commit/ebfd97dff9f60441a9c5e8050e04d22ece64aac3): chart height to 150 px - Snowgem\n\n[92a064c3](https://gitlab.com/snowgem/bitfrost/-/commit/92a064c32cbfe814a91ef2c3418d32cf6aab5cae): complete event in dorefresh overview page - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/92a064c32cbfe814a91ef2c3418d32cf6aab5cae...b8fc8fc26b453c5eb7ce879e4aa17132e34f3dd9))",
+    "created_at": "2021-05-17 06:17:36.700000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b8fc8fc2](https://gitlab.com/snowgem/bitfrost/-/commit/b8fc8fc26b453c5eb7ce879e4aa17132e34f3dd9): fix lint - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2bab508a35ade85f9e8d8919b244861466e5de0f...0214707881b5de79bd73b2bb848da1dd146bcfbc))",
+    "created_at": "2021-05-17 06:18:27.515000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[02147078](https://gitlab.com/snowgem/bitfrost/-/commit/0214707881b5de79bd73b2bb848da1dd146bcfbc): fix lint - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.7](https://gitlab.com/snowgem/bitfrost/commits/v0.1.7) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0214707881b5de79bd73b2bb848da1dd146bcfbc...ac8e55f22b7e29f54d109264ce518491ed233b78))",
+    "created_at": "2021-05-17 06:19:03.743000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ac8e55f2](https://gitlab.com/snowgem/bitfrost/-/commit/ac8e55f22b7e29f54d109264ce518491ed233b78): increase ios build version - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!270 \\*V0\\.1\\.7\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/270) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-17 06:19:47.077000"
   }
 ]
