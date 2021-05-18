@@ -45041,5 +45041,10 @@
       "description": "[54e4016a](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/54e4016abe2aa35844b120c9dceec0e57586c402): Updated ae, cz, fr, hu & kr - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new tag [0\\.1\\.7](https://gitlab.com/snowgem/bitfrost/-/tags/0.1.7) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-18 07:32:44.663000"
   }
 ]
