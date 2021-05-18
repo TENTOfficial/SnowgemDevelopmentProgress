@@ -45066,5 +45066,15 @@
       "description": "[90fa0ff0](https://gitlab.com/snowgem/bitfrost/-/commit/90fa0ff08c962d2f027c88af7cf3c0582be351da): fix ETH & remove console.logs - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/90fa0ff08c962d2f027c88af7cf3c0582be351da...8c278cc837f4dd8a89d65986c0fbc3c151d185c7))",
+    "created_at": "2021-05-18 20:07:14.561000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8c278cc8](https://gitlab.com/snowgem/bitfrost/-/commit/8c278cc837f4dd8a89d65986c0fbc3c151d185c7): wip - swap pairs - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
