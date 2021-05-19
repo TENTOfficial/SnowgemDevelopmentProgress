@@ -45086,5 +45086,15 @@
       "description": "[dde5657b](https://gitlab.com/snowgem/bitfrost/-/commit/dde5657baf2df15829097db749afa8696ae17c66): fix - rawTx to txId - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/54e4016abe2aa35844b120c9dceec0e57586c402...8bbdc219abf75b7e32353e503e6076f7fc31b9a9))",
+    "created_at": "2021-05-19 16:12:24.036000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8bbdc219](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/8bbdc219abf75b7e32353e503e6076f7fc31b9a9): updated de lang - ciripel",
+      "type": "rich"
+    }
   }
 ]
