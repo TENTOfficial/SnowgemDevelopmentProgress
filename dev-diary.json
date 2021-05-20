@@ -45129,5 +45129,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/compare/72d6242160e6...95aa039417bf"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/dde5657baf2df15829097db749afa8696ae17c66...beae81d61f6a9051fae11f51689173e8d9434016))",
+    "created_at": "2021-05-20 19:09:20.301000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[beae81d6](https://gitlab.com/snowgem/bitfrost/-/commit/beae81d61f6a9051fae11f51689173e8d9434016): fix - address - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
