@@ -45149,5 +45149,41 @@
       "description": "[9c4a13b8](https://gitlab.com/snowgem/bitfrost/-/commit/9c4a13b8e8e1d82dfe8dd0f2f374b4a4ec7410c7): activating byt - Filip Storkan\n\n[8512294e](https://gitlab.com/snowgem/bitfrost/-/commit/8512294efb1d7dc79ed248daffcfa6278b26ca28): Merge branch 'v0.1.8' of gitlab.com:snowgem/bitfrost into v0.1.8 - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-21 08:42:38.801000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`4b4c784`](https://github.com/TENTOfficial/TENT/commit/4b4c7846ab7446b0f3ffa3bfc63740c98b5e4277) uncomment test code - TENTOfficial\n[`51fabcc`](https://github.com/TENTOfficial/TENT/commit/51fabcc0f433b80f14f46987ede361ee891be84b) Merge branch 'feature/wallet-encryption' - TENTOfficial\n[`beb9dc5`](https://github.com/TENTOfficial/TENT/commit/beb9dc552a054a8e6ba07cc013c217f0c3a477b9) Merge branch 'master' of https://github.com/Sno... - TENTOfficial\n[`dea20f7`](https://github.com/TENTOfficial/TENT/commit/dea20f7e804c4bdb7b92e4b1c3e79b7901bee2be) comment unused function - TENTOfficial",
+      "title": "[TENT:master] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/compare/95aa039417bf...dea20f7e804c"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-21 08:43:19.192000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`3619cb3`](https://github.com/TENTOfficial/TENT/commit/3619cb340f8e6a43465ff69584d24c9fe9e0e234) comment unused function - TENTOfficial\n[`37d75da`](https://github.com/TENTOfficial/TENT/commit/37d75da40f35f5ea09e42ea0c3e4249786b9dd85) Fix deadlock in GetNextMasternodeInQueueForPayment - TENTOfficial\n[`5e6cc6b`](https://github.com/TENTOfficial/TENT/commit/5e6cc6bc30f60c60b81362a014591138e9fe5ba4) Merge branch 'bugs/deadlock_GetNextMasternodeIn... - TENTOfficial",
+      "title": "[TENT:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/compare/dea20f7e804c...5e6cc6bc30f6"
+    }
   }
 ]
