@@ -45210,5 +45210,15 @@
       "description": "[7cdd8a44](https://gitlab.com/snowgem/bitfrost/-/commit/7cdd8a44fe0f493a3385be528b0010f21a38ed7f): fix lint - Snowgem\n\n[809933c9](https://gitlab.com/snowgem/bitfrost/-/commit/809933c97c91dafdd9b1c09d66fd8b1dd38e11eb): Merge branch 'v0.1.8' into feature/add-etc - Snowgem\n\n[ee385525](https://gitlab.com/snowgem/bitfrost/-/commit/ee385525354e45116a6625b85678d8820d72eb1b): add icon for etc - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7cdd8a44fe0f493a3385be528b0010f21a38ed7f...de83f7bfb6b51c5c56b09d2f1a2e4435a87dce7d))",
+    "created_at": "2021-05-21 14:20:27.883000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[461acbd0](https://gitlab.com/snowgem/bitfrost/-/commit/461acbd0f509cd28c40c2ce2149c68b617f3f77b): fix login for verified user - Snowgem\n\n[de83f7bf](https://gitlab.com/snowgem/bitfrost/-/commit/de83f7bfb6b51c5c56b09d2f1a2e4435a87dce7d): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
