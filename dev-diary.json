@@ -45220,5 +45220,15 @@
       "description": "[461acbd0](https://gitlab.com/snowgem/bitfrost/-/commit/461acbd0f509cd28c40c2ce2149c68b617f3f77b): fix login for verified user - Snowgem\n\n[de83f7bf](https://gitlab.com/snowgem/bitfrost/-/commit/de83f7bfb6b51c5c56b09d2f1a2e4435a87dce7d): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/beae81d61f6a9051fae11f51689173e8d9434016...b112d5a997c59a7f3c7e74c232dd4c6991283c07))",
+    "created_at": "2021-05-21 18:01:57.753000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b112d5a9](https://gitlab.com/snowgem/bitfrost/-/commit/b112d5a997c59a7f3c7e74c232dd4c6991283c07): fix - address (2) - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
