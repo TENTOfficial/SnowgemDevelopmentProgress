@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4718 commits since 20/01/2020. You can see the complete history in
+There is a total of 4719 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-24 21:48:19</sub> | <sub>[[TENTSLP_scripts:master] 1 new commit](https://github.com/ciripel/TENTSLP_scripts/commit/99746b37a38e3501cd63ab8a5c5954caa28e1ece)</sub> | <sub>[99746b3](https://github.com/ciripel/TENTSLP_scripts/commit/99746b37a38e3501cd63ab8a5c5954caa28e1ece) doc adjusted - ciripel</sub> |
 | <sub>2021-05-24 21:41:02</sub> | <sub>[[TENTSLP_scripts:master] 1 new commit](https://github.com/ciripel/TENTSLP_scripts/commit/e7778cf54c48e275d37422e8921b37628e0ba6d8)</sub> | <sub>[e7778cf](https://github.com/ciripel/TENTSLP_scripts/commit/e7778cf54c48e275d37422e8921b37628e0ba6d8) little improvements and refactoring - ciripel</sub> |
 | <sub>2021-05-24 19:42:18</sub> | <sub>Jan Vraštil pushed new branch [ENABLE\_DECTA\_ON\_017](https://gitlab.com/snowgem/bitfrost/commits/ENABLE_DECTA_ON_017) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-24 19:39:14</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f3aac74d3ba487cf000e4462dc331dd6db26c9d8...ca4f150558105ae78229fdd6ed254af4b95859df))</sub> | <sub>[ca4f1505](https://gitlab.com/snowgem/bitfrost/-/commit/ca4f150558105ae78229fdd6ed254af4b95859df): after filip's changes - wip - jan.vrastil</sub> |
@@ -17,6 +18,5 @@ There is a total of 4718 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-24 13:29:38</sub> | <sub>qNaN pushed to branch [feature/start\-flow\-update](https://gitlab.com/snowgem/bitfrost/commits/feature/start-flow-update) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8512294efb1d7dc79ed248daffcfa6278b26ca28...499a6ccf168813d42e0cf60fe9d5c14dae64427e))</sub> | <sub>[499a6ccf](https://gitlab.com/snowgem/bitfrost/-/commit/499a6ccf168813d42e0cf60fe9d5c14dae64427e): lint fix - Filip Storkan</sub> |
 | <sub>2021-05-24 13:23:54</sub> | <sub>qNaN (filipstrkn) opened merge request [\!273 \*Draft: Feature/start flow update\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/273) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-24 12:57:36</sub> | <sub>qNaN pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/21f205d8d1bc56e93b23f439bbeb7d1244f46da5...f3aac74d3ba487cf000e4462dc331dd6db26c9d8))</sub> | <sub>[9966e7f3](https://gitlab.com/snowgem/bitfrost/-/commit/9966e7f3bc1173cee830faab606e754a19674cb3): start page with banner - Filip Storkan<br>[83cf4583](https://gitlab.com/snowgem/bitfrost/-/commit/83cf45839c8e7fab121f9db4373d09c7d1a3f544): wip - new card dashboard - Filip Storkan<br>[30dbe33e](https://gitlab.com/snowgem/bitfrost/-/commit/30dbe33e9a7822abb2494bb00ab47a85686ffa99): Merge branch 'bug/285-debit_cards' of gitlab.com:snowgem/bitfrost into bug/285-debit_cards - Filip Storkan<br>[f3aac74d](https://gitlab.com/snowgem/bitfrost/-/commit/f3aac74d3ba487cf000e4462dc331dd6db26c9d8): adding street parametr - Filip Storkan</sub> |
-| <sub>2021-05-24 12:33:40</sub> | <sub>[[TENTSLP_scripts:master] 1 new commit](https://github.com/ciripel/TENTSLP_scripts/commit/a0daf34ca4d7f65fb6181e2de486797dd67f61cf)</sub> | <sub>[a0daf34](https://github.com/ciripel/TENTSLP_scripts/commit/a0daf34ca4d7f65fb6181e2de486797dd67f61cf) Adjustments: - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
