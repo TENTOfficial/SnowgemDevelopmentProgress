@@ -45240,5 +45240,15 @@
       "description": "[f4fb46a7](https://gitlab.com/snowgem/bitfrost/-/commit/f4fb46a7c0f3017f91c0e1fe3ccc3f1cde3f7cac): send change coin to first external address - Snowgem\n\n[0ca9565b](https://gitlab.com/snowgem/bitfrost/-/commit/0ca9565b20376bc466704d69c1ba1da4be116411): update some apis for tent-token - Snowgem\n\n[db099a59](https://gitlab.com/snowgem/bitfrost/-/commit/db099a59990c517b5000c23430b291c35355e19a): update rest url for tent token - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b112d5a997c59a7f3c7e74c232dd4c6991283c07...21f205d8d1bc56e93b23f439bbeb7d1244f46da5))",
+    "created_at": "2021-05-24 09:11:30.334000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[21f205d8](https://gitlab.com/snowgem/bitfrost/-/commit/21f205d8d1bc56e93b23f439bbeb7d1244f46da5): wip - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
