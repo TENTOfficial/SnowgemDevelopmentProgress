@@ -45318,5 +45318,15 @@
       "description": "[ef2d1b93](https://gitlab.com/snowgem/bitfrost/-/commit/ef2d1b932ac7be317ba0f2aede23fce0070c4915): updated index bitgo - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f3aac74d3ba487cf000e4462dc331dd6db26c9d8...ca4f150558105ae78229fdd6ed254af4b95859df))",
+    "created_at": "2021-05-24 19:39:14.042000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ca4f1505](https://gitlab.com/snowgem/bitfrost/-/commit/ca4f150558105ae78229fdd6ed254af4b95859df): after filip's changes - wip - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
