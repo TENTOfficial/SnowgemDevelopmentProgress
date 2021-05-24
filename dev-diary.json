@@ -45308,5 +45308,15 @@
       "description": "[499a6ccf](https://gitlab.com/snowgem/bitfrost/-/commit/499a6ccf168813d42e0cf60fe9d5c14dae64427e): lint fix - Filip Storkan\n\n[347fb373](https://gitlab.com/snowgem/bitfrost/-/commit/347fb37347433549a7ffb9586aee9c10c2835cc8): Merge branch 'feature/start-flow-update' into 'v0.1.8' - qNaN",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/347fb37347433549a7ffb9586aee9c10c2835cc8...ef2d1b932ac7be317ba0f2aede23fce0070c4915))",
+    "created_at": "2021-05-24 13:47:30.061000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ef2d1b93](https://gitlab.com/snowgem/bitfrost/-/commit/ef2d1b932ac7be317ba0f2aede23fce0070c4915): updated index bitgo - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
