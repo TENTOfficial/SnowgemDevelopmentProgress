@@ -45268,5 +45268,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/TENTSLP_scripts/commit/a0daf34ca4d7f65fb6181e2de486797dd67f61cf"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/21f205d8d1bc56e93b23f439bbeb7d1244f46da5...f3aac74d3ba487cf000e4462dc331dd6db26c9d8))",
+    "created_at": "2021-05-24 12:57:36.740000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9966e7f3](https://gitlab.com/snowgem/bitfrost/-/commit/9966e7f3bc1173cee830faab606e754a19674cb3): start page with banner - Filip Storkan\n\n[83cf4583](https://gitlab.com/snowgem/bitfrost/-/commit/83cf45839c8e7fab121f9db4373d09c7d1a3f544): wip - new card dashboard - Filip Storkan\n\n[30dbe33e](https://gitlab.com/snowgem/bitfrost/-/commit/30dbe33e9a7822abb2494bb00ab47a85686ffa99): Merge branch 'bug/285-debit_cards' of gitlab.com:snowgem/bitfrost into bug/285-debit_cards - Filip Storkan\n\n[f3aac74d](https://gitlab.com/snowgem/bitfrost/-/commit/f3aac74d3ba487cf000e4462dc331dd6db26c9d8): adding street parametr - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
