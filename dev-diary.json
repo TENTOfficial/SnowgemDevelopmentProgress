@@ -45399,5 +45399,15 @@
       "description": "[1c2f0841](https://gitlab.com/snowgem/bitfrost/-/commit/1c2f0841231269811d39d1e53d4ebb087295361d): add etc - Snowgem\n\n[5b864428](https://gitlab.com/snowgem/bitfrost/-/commit/5b86442831d8c69fa5b834d25ea91aaa52041e16): update estimate gas for web3 - Snowgem\n\n[809933c9](https://gitlab.com/snowgem/bitfrost/-/commit/809933c97c91dafdd9b1c09d66fd8b1dd38e11eb): Merge branch 'v0.1.8' into feature/add-etc - Snowgem\n\n[ee385525](https://gitlab.com/snowgem/bitfrost/-/commit/ee385525354e45116a6625b85678d8820d72eb1b): add icon for etc - Snowgem\n\n[8c6a0025](https://gitlab.com/snowgem/bitfrost/-/commit/8c6a0025153d79d515b46b6c97c2a05aa65a1330): parseint for get gas price, fix new transaction check - Snowgem\n\n[8863616f](https://gitlab.com/snowgem/bitfrost/-/commit/8863616f22a90f32f50bc7fab4bb74c194690a21): Merge branch 'feature/add-etc' into v0.1.8 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8863616f22a90f32f50bc7fab4bb74c194690a21...4f38cc14d0584e48beae391aae8c711d1b5d98c3))",
+    "created_at": "2021-05-25 08:17:52.430000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4f38cc14](https://gitlab.com/snowgem/bitfrost/-/commit/4f38cc14d0584e48beae391aae8c711d1b5d98c3): update copy function - Snowgem",
+      "type": "rich"
+    }
   }
 ]
