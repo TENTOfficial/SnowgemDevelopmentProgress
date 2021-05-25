@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4720 commits since 20/01/2020. You can see the complete history in
+There is a total of 4721 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-25 05:43:01</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/254cf5225ce7db01cd2590ef35fcaf3b74daab29...b647386046a75ba91bb467401d708c6fcd036d41))</sub> | <sub>[b6473860](https://gitlab.com/snowgem/bitfrost/-/commit/b647386046a75ba91bb467401d708c6fcd036d41): fix #513, fix routing in import old wallet page - Snowgem</sub> |
 | <sub>2021-05-25 03:33:06</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ef2d1b932ac7be317ba0f2aede23fce0070c4915...254cf5225ce7db01cd2590ef35fcaf3b74daab29))</sub> | <sub>[8e8d190c](https://gitlab.com/snowgem/bitfrost/-/commit/8e8d190c52bf27a4ef34bf7cf4ee26908353663a): fix #508, add copy address button - Snowgem<br>[254cf522](https://gitlab.com/snowgem/bitfrost/-/commit/254cf5225ce7db01cd2590ef35fcaf3b74daab29): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem</sub> |
 | <sub>2021-05-24 21:48:19</sub> | <sub>[[TENTSLP_scripts:master] 1 new commit](https://github.com/ciripel/TENTSLP_scripts/commit/99746b37a38e3501cd63ab8a5c5954caa28e1ece)</sub> | <sub>[99746b3](https://github.com/ciripel/TENTSLP_scripts/commit/99746b37a38e3501cd63ab8a5c5954caa28e1ece) doc adjusted - ciripel</sub> |
 | <sub>2021-05-24 21:41:02</sub> | <sub>[[TENTSLP_scripts:master] 1 new commit](https://github.com/ciripel/TENTSLP_scripts/commit/e7778cf54c48e275d37422e8921b37628e0ba6d8)</sub> | <sub>[e7778cf](https://github.com/ciripel/TENTSLP_scripts/commit/e7778cf54c48e275d37422e8921b37628e0ba6d8) little improvements and refactoring - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4720 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-24 13:35:35</sub> | <sub>qNaN pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/de83f7bfb6b51c5c56b09d2f1a2e4435a87dce7d...347fb37347433549a7ffb9586aee9c10c2835cc8))</sub> | <sub>[499a6ccf](https://gitlab.com/snowgem/bitfrost/-/commit/499a6ccf168813d42e0cf60fe9d5c14dae64427e): lint fix - Filip Storkan<br>[347fb373](https://gitlab.com/snowgem/bitfrost/-/commit/347fb37347433549a7ffb9586aee9c10c2835cc8): Merge branch 'feature/start-flow-update' into 'v0.1.8' - qNaN</sub> |
 | <sub>2021-05-24 13:35:34</sub> | <sub>qNaN (filipstrkn) merged merge request [\!273 \*Feature/start flow update\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/273) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-24 13:29:38</sub> | <sub>qNaN pushed to branch [feature/start\-flow\-update](https://gitlab.com/snowgem/bitfrost/commits/feature/start-flow-update) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8512294efb1d7dc79ed248daffcfa6278b26ca28...499a6ccf168813d42e0cf60fe9d5c14dae64427e))</sub> | <sub>[499a6ccf](https://gitlab.com/snowgem/bitfrost/-/commit/499a6ccf168813d42e0cf60fe9d5c14dae64427e): lint fix - Filip Storkan</sub> |
-| <sub>2021-05-24 13:23:54</sub> | <sub>qNaN (filipstrkn) opened merge request [\!273 \*Draft: Feature/start flow update\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/273) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

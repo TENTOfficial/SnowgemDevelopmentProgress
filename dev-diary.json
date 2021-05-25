@@ -45379,5 +45379,15 @@
       "description": "[8e8d190c](https://gitlab.com/snowgem/bitfrost/-/commit/8e8d190c52bf27a4ef34bf7cf4ee26908353663a): fix #508, add copy address button - Snowgem\n\n[254cf522](https://gitlab.com/snowgem/bitfrost/-/commit/254cf5225ce7db01cd2590ef35fcaf3b74daab29): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/254cf5225ce7db01cd2590ef35fcaf3b74daab29...b647386046a75ba91bb467401d708c6fcd036d41))",
+    "created_at": "2021-05-25 05:43:01.503000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b6473860](https://gitlab.com/snowgem/bitfrost/-/commit/b647386046a75ba91bb467401d708c6fcd036d41): fix #513, fix routing in import old wallet page - Snowgem",
+      "type": "rich"
+    }
   }
 ]
