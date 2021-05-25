@@ -45449,5 +45449,15 @@
       "description": "[963748a1](https://gitlab.com/snowgem/bitfrost/-/commit/963748a1600659a3cd0b57ad612190d96aa4ba32): fix - card data type error - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/963748a1600659a3cd0b57ad612190d96aa4ba32...2cf39f75b990653e19c8ed81aa160c312164734d))",
+    "created_at": "2021-05-25 13:08:27.570000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e5d9bf78](https://gitlab.com/snowgem/bitfrost/-/commit/e5d9bf784ebd927633e65a6fd653e2a8a33073d0): first topup from the card detail page - Filip Storkan\n\n[2cf39f75](https://gitlab.com/snowgem/bitfrost/-/commit/2cf39f75b990653e19c8ed81aa160c312164734d): removing dummy transactions - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
