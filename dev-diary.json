@@ -45419,5 +45419,25 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [v0\\.1\\.8\\_old](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8_old) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-25 10:24:23.816000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid removed branch v0.1.8 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-25 10:30:28.951000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-25 10:30:35.125000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/465a1a788e1abc50c0fe9082eac120c5e3225e28...ce7aa389cc9ad3fbcb79a61aac22e96bfb8cb657))",
+    "created_at": "2021-05-25 10:33:31.880000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ce7aa389](https://gitlab.com/snowgem/bitfrost/-/commit/ce7aa389cc9ad3fbcb79a61aac22e96bfb8cb657): increase version to 0.1.8 - Snowgem",
+      "type": "rich"
+    }
   }
 ]

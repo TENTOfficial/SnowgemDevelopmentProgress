@@ -5,6 +5,9 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-25 10:33:31</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/465a1a788e1abc50c0fe9082eac120c5e3225e28...ce7aa389cc9ad3fbcb79a61aac22e96bfb8cb657))</sub> | <sub>[ce7aa389](https://gitlab.com/snowgem/bitfrost/-/commit/ce7aa389cc9ad3fbcb79a61aac22e96bfb8cb657): increase version to 0.1.8 - Snowgem</sub> |
+| <sub>2021-05-25 10:30:35</sub> | <sub>Txid pushed new branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-05-25 10:30:28</sub> | <sub>Txid removed branch v0.1.8 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-25 10:24:23</sub> | <sub>Txid pushed new branch [v0\.1\.8\_old](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8_old) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-25 10:22:00</sub> | <sub>Txid pushed new branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-25 08:17:52</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8863616f22a90f32f50bc7fab4bb74c194690a21...4f38cc14d0584e48beae391aae8c711d1b5d98c3))</sub> | <sub>[4f38cc14](https://gitlab.com/snowgem/bitfrost/-/commit/4f38cc14d0584e48beae391aae8c711d1b5d98c3): update copy function - Snowgem</sub> |
