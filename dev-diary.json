@@ -45459,5 +45459,10 @@
       "description": "[e5d9bf78](https://gitlab.com/snowgem/bitfrost/-/commit/e5d9bf784ebd927633e65a6fd653e2a8a33073d0): first topup from the card detail page - Filip Storkan\n\n[2cf39f75](https://gitlab.com/snowgem/bitfrost/-/commit/2cf39f75b990653e19c8ed81aa160c312164734d): removing dummy transactions - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug/285\\-debit\\_cards\\_018](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_018) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-25 15:10:47.655000"
   }
 ]
