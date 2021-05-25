@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-25 12:48:06</sub> | <sub>qNaN pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ca4f150558105ae78229fdd6ed254af4b95859df...963748a1600659a3cd0b57ad612190d96aa4ba32))</sub> | <sub>[963748a1](https://gitlab.com/snowgem/bitfrost/-/commit/963748a1600659a3cd0b57ad612190d96aa4ba32): fix - card data type error - Filip Storkan</sub> |
 | <sub>2021-05-25 10:33:31</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/465a1a788e1abc50c0fe9082eac120c5e3225e28...ce7aa389cc9ad3fbcb79a61aac22e96bfb8cb657))</sub> | <sub>[ce7aa389](https://gitlab.com/snowgem/bitfrost/-/commit/ce7aa389cc9ad3fbcb79a61aac22e96bfb8cb657): increase version to 0.1.8 - Snowgem</sub> |
 | <sub>2021-05-25 10:30:35</sub> | <sub>Txid pushed new branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-25 10:30:28</sub> | <sub>Txid removed branch v0.1.8 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |

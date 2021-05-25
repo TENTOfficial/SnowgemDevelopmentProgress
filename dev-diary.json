@@ -45439,5 +45439,15 @@
       "description": "[ce7aa389](https://gitlab.com/snowgem/bitfrost/-/commit/ce7aa389cc9ad3fbcb79a61aac22e96bfb8cb657): increase version to 0.1.8 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [bug/285\\-debit\\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ca4f150558105ae78229fdd6ed254af4b95859df...963748a1600659a3cd0b57ad612190d96aa4ba32))",
+    "created_at": "2021-05-25 12:48:06.962000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[963748a1](https://gitlab.com/snowgem/bitfrost/-/commit/963748a1600659a3cd0b57ad612190d96aa4ba32): fix - card data type error - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
