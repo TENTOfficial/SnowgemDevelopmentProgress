@@ -45583,5 +45583,23 @@
       "description": "[6e589392](https://gitlab.com/snowgem/bitfrost/-/commit/6e5893921726cd9f5aac74aee9e613bc39461275): update icons - Snowgem\n\n[f9857d29](https://gitlab.com/snowgem/bitfrost/-/commit/f9857d291369461a0a5862943749cf91025213ce): update bnb icon - Snowgem\n\n[f90ab996](https://gitlab.com/snowgem/bitfrost/-/commit/f90ab9963b7abfcd7287380c75a9b6080ae9cea2): update transaction service for web3 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-26 11:55:55.572000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b3623de`](https://github.com/ciripel/electrumx-tent/commit/b3623ded79661a73b9049f5356ee856d7190d7d6) fixed server_task - ciripel",
+      "title": "[electrumx-tent:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrumx-tent/commit/b3623ded79661a73b9049f5356ee856d7190d7d6"
+    }
   }
 ]
