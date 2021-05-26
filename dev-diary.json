@@ -45555,5 +45555,23 @@
       "description": "[55a83e0b](https://gitlab.com/snowgem/bitfrost/-/commit/55a83e0b99f292610a951156c21e6fb4f57115e9): Enable purchasing crypto - jan.vrastil\n\n[20ffd5cf](https://gitlab.com/snowgem/bitfrost/-/commit/20ffd5cfa40065d38505e43422ac408fdecc753b): Merge branch 'ENABLE_DECTA_ON_017' into 'v0.1.8' - Txid\n\n[3eee3539](https://gitlab.com/snowgem/bitfrost/-/commit/3eee3539175aa1f7db4cfd0f170244ba7ed5d5c2): Merge branch 'v0.1.8' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-26 07:49:50.815000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`e812d41`](https://github.com/TENTSLP/mint/commit/e812d4104cc25b703d668cc5358def0a6a0429ad) changed rest address - ciripel",
+      "title": "[mint:waiting\\_for\\_dax] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTSLP/mint/commit/e812d4104cc25b703d668cc5358def0a6a0429ad"
+    }
   }
 ]
