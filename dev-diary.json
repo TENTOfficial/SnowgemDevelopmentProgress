@@ -45492,5 +45492,23 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-26 02:57:46.058000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-26 07:12:34.591000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f512552`](https://github.com/ciripel/TENTSLP_scripts/commit/f512552a2855b04d329fbe28496b6d72f5953719) adjusted rest service - ciripel",
+      "title": "[TENTSLP_scripts:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/TENTSLP_scripts/commit/f512552a2855b04d329fbe28496b6d72f5953719"
+    }
   }
 ]

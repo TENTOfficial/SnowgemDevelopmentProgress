@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4734 commits since 20/01/2020. You can see the complete history in
+There is a total of 4735 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-26 07:12:34</sub> | <sub>[[TENTSLP_scripts:master] 1 new commit](https://github.com/ciripel/TENTSLP_scripts/commit/f512552a2855b04d329fbe28496b6d72f5953719)</sub> | <sub>[f512552](https://github.com/ciripel/TENTSLP_scripts/commit/f512552a2855b04d329fbe28496b6d72f5953719) adjusted rest service - ciripel</sub> |
 | <sub>2021-05-26 02:57:46</sub> | <sub>Txid pushed new branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-26 02:56:29</sub> | <sub>Txid removed branch v0.1.8 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-25 19:51:20</sub> | <sub>[[electrumx-tent:master] 1 new commit](https://github.com/ciripel/electrumx-tent/commit/6e1b425ac57ba23054080858003aec3d9759349e)</sub> | <sub>[6e1b425](https://github.com/ciripel/electrumx-tent/commit/6e1b425ac57ba23054080858003aec3d9759349e) README and changelog - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4734 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-25 10:33:31</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/465a1a788e1abc50c0fe9082eac120c5e3225e28...ce7aa389cc9ad3fbcb79a61aac22e96bfb8cb657))</sub> | <sub>[ce7aa389](https://gitlab.com/snowgem/bitfrost/-/commit/ce7aa389cc9ad3fbcb79a61aac22e96bfb8cb657): increase version to 0.1.8 - Snowgem</sub> |
 | <sub>2021-05-25 10:30:35</sub> | <sub>Txid pushed new branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-25 10:30:28</sub> | <sub>Txid removed branch v0.1.8 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-05-25 10:24:23</sub> | <sub>Txid pushed new branch [v0\.1\.8\_old](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8_old) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
