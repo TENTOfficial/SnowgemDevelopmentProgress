@@ -45601,5 +45601,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrumx-tent/commit/b3623ded79661a73b9049f5356ee856d7190d7d6"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/205591ae1f1918784d5c1d3367103d2c2c40c590...afaaae24a40faae2cf56c3cafe5ff0dd282a67ad))",
+    "created_at": "2021-05-26 18:11:44.602000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[afaaae24](https://gitlab.com/snowgem/bitfrost/-/commit/afaaae24a40faae2cf56c3cafe5ff0dd282a67ad): Display correct purchase history - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
