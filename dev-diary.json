@@ -45482,5 +45482,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrumx-tent/commit/6e1b425ac57ba23054080858003aec3d9759349e"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid removed branch v0.1.8 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-26 02:56:29.764000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-26 02:57:46.058000"
   }
 ]

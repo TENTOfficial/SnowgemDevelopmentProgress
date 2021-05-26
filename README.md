@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4732 commits since 20/01/2020. You can see the complete history in
+There is a total of 4734 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-26 02:57:46</sub> | <sub>Txid pushed new branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-05-26 02:56:29</sub> | <sub>Txid removed branch v0.1.8 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-25 19:51:20</sub> | <sub>[[electrumx-tent:master] 1 new commit](https://github.com/ciripel/electrumx-tent/commit/6e1b425ac57ba23054080858003aec3d9759349e)</sub> | <sub>[6e1b425](https://github.com/ciripel/electrumx-tent/commit/6e1b425ac57ba23054080858003aec3d9759349e) README and changelog - ciripel</sub> |
 | <sub>2021-05-25 15:10:47</sub> | <sub>Jan Vraštil pushed new branch [bug/285\-debit\_cards\_018](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_018) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-25 13:08:27</sub> | <sub>qNaN pushed to branch [bug/285\-debit\_cards](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/963748a1600659a3cd0b57ad612190d96aa4ba32...2cf39f75b990653e19c8ed81aa160c312164734d))</sub> | <sub>[e5d9bf78](https://gitlab.com/snowgem/bitfrost/-/commit/e5d9bf784ebd927633e65a6fd653e2a8a33073d0): first topup from the card detail page - Filip Storkan<br>[2cf39f75](https://gitlab.com/snowgem/bitfrost/-/commit/2cf39f75b990653e19c8ed81aa160c312164734d): removing dummy transactions - Filip Storkan</sub> |
@@ -16,7 +18,5 @@ There is a total of 4732 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-25 10:30:35</sub> | <sub>Txid pushed new branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-25 10:30:28</sub> | <sub>Txid removed branch v0.1.8 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-25 10:24:23</sub> | <sub>Txid pushed new branch [v0\.1\.8\_old](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8_old) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-05-25 10:22:00</sub> | <sub>Txid pushed new branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-05-25 08:17:52</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8863616f22a90f32f50bc7fab4bb74c194690a21...4f38cc14d0584e48beae391aae8c711d1b5d98c3))</sub> | <sub>[4f38cc14](https://gitlab.com/snowgem/bitfrost/-/commit/4f38cc14d0584e48beae391aae8c711d1b5d98c3): update copy function - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
