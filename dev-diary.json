@@ -45639,5 +45639,23 @@
       "description": "[a091957e](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/a091957e3b9a1d867f8c359dea316c8d67773f9d): updated ru lang - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-27 09:58:57.014000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7a83cdf`](https://github.com/TENTSLP/tentslp-explorer/commit/7a83cdfcc374db762b12c210cc547b8ab47b963a) Added Translations, adjusted docs - ciripel",
+      "title": "[tentslp-explorer:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTSLP/tentslp-explorer/commit/7a83cdfcc374db762b12c210cc547b8ab47b963a"
+    }
   }
 ]
