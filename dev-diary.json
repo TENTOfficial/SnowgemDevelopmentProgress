@@ -45723,5 +45723,23 @@
       "type": "rich",
       "url": "https://github.com/TENTSLP/tentslp-explorer/commit/c7b0c3577f47279e8f36b8b58427bc5f7c66fc19"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-27 11:20:21.631000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`94fa1b5`](https://github.com/TENTSLP/tentslp-explorer/commit/94fa1b5965ca1573887c383517fd2a6d869ae49b) Implemented Translations, adjusted docs - ciripel",
+      "title": "[tentslp-explorer:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTSLP/tentslp-explorer/commit/94fa1b5965ca1573887c383517fd2a6d869ae49b"
+    }
   }
 ]
