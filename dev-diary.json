@@ -45781,5 +45781,15 @@
       "description": "[66fd0d78](https://gitlab.com/snowgem/bitfrost/-/commit/66fd0d784bdf62efe20d4678da72c5f5e921cefe): fix get all txs tent token - Snowgem\n\n[66051880](https://gitlab.com/snowgem/bitfrost/-/commit/66051880f0d38fb781ff3e76c98c1787bfa1648a): fix list transactions error - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/tent\\-token](https://gitlab.com/snowgem/bitfrost/commits/feature/tent-token) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/66051880f0d38fb781ff3e76c98c1787bfa1648a...05044e89ba6bbaee9a73b14f5c775a95ffd4afe4))",
+    "created_at": "2021-05-28 03:41:08.363000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[e4a0606c](https://gitlab.com/snowgem/bitfrost/-/commit/e4a0606c1bcf1c8cfdf752fdf597b5344d7cb848): fix get main priv for tent token - Snowgem\n\n[35106662](https://gitlab.com/snowgem/bitfrost/-/commit/3510666206c83f5652740c65961d369bf8544839): fix translate copy with no space - Snowgem\n\n[07825cfc](https://gitlab.com/snowgem/bitfrost/-/commit/07825cfc473e6ae146c3846c060fd0524c331fa4): show legacy address in tent token - Snowgem\n\n[05044e89](https://gitlab.com/snowgem/bitfrost/-/commit/05044e89ba6bbaee9a73b14f5c775a95ffd4afe4): implement get token data from id - Snowgem",
+      "type": "rich"
+    }
   }
 ]
