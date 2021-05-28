@@ -46007,5 +46007,23 @@
       "type": "rich",
       "url": "https://github.com/TENTSLP/rest.bitcoin.com/commit/fb598afa7887e8f9e49ae97e11dde3500fb526c6"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-28 19:16:52.536000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`dea32b9`](https://github.com/ciripel/TENTSLP_scripts/commit/dea32b939080c9334e2f55e548531693a3b61079) renamed rest repo - ciripel",
+      "title": "[TENTSLP_scripts:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/TENTSLP_scripts/commit/dea32b939080c9334e2f55e548531693a3b61079"
+    }
   }
 ]
