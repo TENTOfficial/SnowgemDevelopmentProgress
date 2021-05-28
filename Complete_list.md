@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-28 17:24:10</sub> | <sub>[[rest.bitcoin.com:upstream] 1 new commit](https://github.com/TENTSLP/rest.bitcoin.com/commit/7da3caec28a20b974bf155b0f9ed33e0b9772f22)</sub> | <sub>[7da3cae](https://github.com/TENTSLP/rest.bitcoin.com/commit/7da3caec28a20b974bf155b0f9ed33e0b9772f22) dist - ciripel</sub> |
 | <sub>2021-05-28 17:12:10</sub> | <sub>[[rest.bitcoin.com:upstream] 1 new commit](https://github.com/TENTSLP/rest.bitcoin.com/commit/df5d371063a17814609085da02f728b498bf8aa5)</sub> | <sub>[df5d371](https://github.com/TENTSLP/rest.bitcoin.com/commit/df5d371063a17814609085da02f728b498bf8aa5) rebranding - ciripel</sub> |
 | <sub>2021-05-28 11:30:48</sub> | <sub>[[rest.bitcoin.com:upstream] 1 new commit](https://github.com/TENTSLP/rest.bitcoin.com/commit/72c701da0af7a57685d667a1fa30f583f26e1980)</sub> | <sub>[72c701d](https://github.com/TENTSLP/rest.bitcoin.com/commit/72c701da0af7a57685d667a1fa30f583f26e1980) Called LegacyAddress instead of CashAddress - ciripel</sub> |
 | <sub>2021-05-28 08:52:25</sub> | <sub>[[rest.bitcoin.com:upstream] 1 new commit](https://github.com/TENTSLP/rest.bitcoin.com/commit/c23becabc7071b1ac34804720e9d510b1816cb74)</sub> | <sub>[c23beca](https://github.com/TENTSLP/rest.bitcoin.com/commit/c23becabc7071b1ac34804720e9d510b1816cb74) updated package.json - ciripel</sub> |
