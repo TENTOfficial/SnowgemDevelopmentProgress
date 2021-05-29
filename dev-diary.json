@@ -46035,5 +46035,15 @@
       "description": "[ca6d4b23](https://gitlab.com/snowgem/bitfrost/-/commit/ca6d4b23f000fbeb637631bf05e9de5b1f8937ee): send tent token - Snowgem\n\n[43bd59b3](https://gitlab.com/snowgem/bitfrost/-/commit/43bd59b399e17ec4899132e1eac31b0f896a2d7f): fix display send coin for tent token - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [bug/285\\-debit\\_cards\\_018](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_018) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c0ebc2a0b9b03158c16d03c04fe91cad6693cc39...8833779b5e95834f08e5320fc8555ffadcff1f2d))",
+    "created_at": "2021-05-29 18:37:55.930000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8833779b](https://gitlab.com/snowgem/bitfrost/-/commit/8833779b5e95834f08e5320fc8555ffadcff1f2d): wip - initial topup ui - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
