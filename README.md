@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4777 commits since 20/01/2020. You can see the complete history in
+There is a total of 4778 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-30 09:26:41</sub> | <sub>qNaN pushed to branch [bug/285\-debit\_cards\_018](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_018) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8833779b5e95834f08e5320fc8555ffadcff1f2d...c05efec40d2a13682ade5a379dfc876deadeead8))</sub> | <sub>[c05efec4](https://gitlab.com/snowgem/bitfrost/-/commit/c05efec40d2a13682ade5a379dfc876deadeead8): saving card after ordering - Filip Storkan</sub> |
 | <sub>2021-05-29 18:37:55</sub> | <sub>qNaN pushed to branch [bug/285\-debit\_cards\_018](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_018) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c0ebc2a0b9b03158c16d03c04fe91cad6693cc39...8833779b5e95834f08e5320fc8555ffadcff1f2d))</sub> | <sub>[8833779b](https://gitlab.com/snowgem/bitfrost/-/commit/8833779b5e95834f08e5320fc8555ffadcff1f2d): wip - initial topup ui - Filip Storkan</sub> |
 | <sub>2021-05-29 04:38:31</sub> | <sub>Txid pushed to branch [feature/tent\-token](https://gitlab.com/snowgem/bitfrost/commits/feature/tent-token) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/05044e89ba6bbaee9a73b14f5c775a95ffd4afe4...43bd59b399e17ec4899132e1eac31b0f896a2d7f))</sub> | <sub>[ca6d4b23](https://gitlab.com/snowgem/bitfrost/-/commit/ca6d4b23f000fbeb637631bf05e9de5b1f8937ee): send tent token - Snowgem<br>[43bd59b3](https://gitlab.com/snowgem/bitfrost/-/commit/43bd59b399e17ec4899132e1eac31b0f896a2d7f): fix display send coin for tent token - Snowgem</sub> |
 | <sub>2021-05-28 19:16:52</sub> | <sub>[[TENTSLP_scripts:master] 1 new commit](https://github.com/ciripel/TENTSLP_scripts/commit/dea32b939080c9334e2f55e548531693a3b61079)</sub> | <sub>[dea32b9](https://github.com/ciripel/TENTSLP_scripts/commit/dea32b939080c9334e2f55e548531693a3b61079) renamed rest repo - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4777 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-28 17:24:10</sub> | <sub>[[rest.bitcoin.com:upstream] 1 new commit](https://github.com/TENTSLP/rest.bitcoin.com/commit/7da3caec28a20b974bf155b0f9ed33e0b9772f22)</sub> | <sub>[7da3cae](https://github.com/TENTSLP/rest.bitcoin.com/commit/7da3caec28a20b974bf155b0f9ed33e0b9772f22) dist - ciripel</sub> |
 | <sub>2021-05-28 17:12:10</sub> | <sub>[[rest.bitcoin.com:upstream] 1 new commit](https://github.com/TENTSLP/rest.bitcoin.com/commit/df5d371063a17814609085da02f728b498bf8aa5)</sub> | <sub>[df5d371](https://github.com/TENTSLP/rest.bitcoin.com/commit/df5d371063a17814609085da02f728b498bf8aa5) rebranding - ciripel</sub> |
 | <sub>2021-05-28 11:30:48</sub> | <sub>[[rest.bitcoin.com:upstream] 1 new commit](https://github.com/TENTSLP/rest.bitcoin.com/commit/72c701da0af7a57685d667a1fa30f583f26e1980)</sub> | <sub>[72c701d](https://github.com/TENTSLP/rest.bitcoin.com/commit/72c701da0af7a57685d667a1fa30f583f26e1980) Called LegacyAddress instead of CashAddress - ciripel</sub> |
-| <sub>2021-05-28 08:52:25</sub> | <sub>[[rest.bitcoin.com:upstream] 1 new commit](https://github.com/TENTSLP/rest.bitcoin.com/commit/c23becabc7071b1ac34804720e9d510b1816cb74)</sub> | <sub>[c23beca](https://github.com/TENTSLP/rest.bitcoin.com/commit/c23becabc7071b1ac34804720e9d510b1816cb74) updated package.json - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

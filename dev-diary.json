@@ -46045,5 +46045,15 @@
       "description": "[8833779b](https://gitlab.com/snowgem/bitfrost/-/commit/8833779b5e95834f08e5320fc8555ffadcff1f2d): wip - initial topup ui - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [bug/285\\-debit\\_cards\\_018](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_018) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8833779b5e95834f08e5320fc8555ffadcff1f2d...c05efec40d2a13682ade5a379dfc876deadeead8))",
+    "created_at": "2021-05-30 09:26:41.657000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c05efec4](https://gitlab.com/snowgem/bitfrost/-/commit/c05efec40d2a13682ade5a379dfc876deadeead8): saving card after ordering - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
