@@ -46257,5 +46257,15 @@
       "description": "[11bc29f2](https://gitlab.com/snowgem/bitfrost/-/commit/11bc29f2534a0ec69e8f51e61cc991030b16e375): adding program modal - Filip Storkan\n\n[c0ebc2a0](https://gitlab.com/snowgem/bitfrost/-/commit/c0ebc2a0b9b03158c16d03c04fe91cad6693cc39): loading actions - Filip Storkan\n\n[8833779b](https://gitlab.com/snowgem/bitfrost/-/commit/8833779b5e95834f08e5320fc8555ffadcff1f2d): wip - initial topup ui - Filip Storkan\n\n[c05efec4](https://gitlab.com/snowgem/bitfrost/-/commit/c05efec40d2a13682ade5a379dfc876deadeead8): saving card after ordering - Filip Storkan\n\n[2be80cd4](https://gitlab.com/snowgem/bitfrost/-/commit/2be80cd4948675217bb0e21fbfec01b68ee717ad): validator in sat value - Filip Storkan\n\n[2dd65f21](https://gitlab.com/snowgem/bitfrost/-/commit/2dd65f219c9ee112ebf102a5e1da0a8bec116d4b): fix - guard wrong redirect link - Filip Storkan\n\n[720150d5](https://gitlab.com/snowgem/bitfrost/-/commit/720150d5877e947842b378e7f3fe27fad69d4585): sat values in sign fn - Filip Storkan\n\n[19b6acbc](https://gitlab.com/snowgem/bitfrost/-/commit/19b6acbcd5ab3547d9484b81fc4220a8126f3698): inital deposit err handeling - Filip Storkan\n\n[4146ecd4](https://gitlab.com/snowgem/bitfrost/-/commit/4146ecd40f920438e50f487b114efc11155470d2): Merge branch 'bug/285-debit_cards_018' into bug/285-debit_cards_019 - Filip Storkan\n\n[f1a71e4a](https://gitlab.com/snowgem/bitfrost/-/commit/f1a71e4a3304d0adf8b9c2c489f881ddaf74f416): wip - topup summary page - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [bug/285\\-debit\\_cards\\_019](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f1a71e4a3304d0adf8b9c2c489f881ddaf74f416...4fb357c770da5cfd16dd44f54848541e09c2362d))",
+    "created_at": "2021-05-31 17:02:49.180000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4fb357c7](https://gitlab.com/snowgem/bitfrost/-/commit/4fb357c770da5cfd16dd44f54848541e09c2362d): redirecting updates - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
