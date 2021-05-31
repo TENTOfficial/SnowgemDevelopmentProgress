@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4791 commits since 20/01/2020. You can see the complete history in
+There is a total of 4792 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-31 09:50:52</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3729c90d36a867bedb86c5eb743fe422a30736e3...6752be4abe98b3a936450e5f97ccf574af4c24cf))</sub> | <sub>[6752be4a](https://gitlab.com/snowgem/bitfrost/-/commit/6752be4abe98b3a936450e5f97ccf574af4c24cf): Fix for bug/515 - Dot icon doesn't move on switch pages by swipe the finger - jan.vrastil</sub> |
 | <sub>2021-05-31 09:39:47</sub> | <sub>Txid (txid) closed merge request [\!277 \*Add tent token support\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/277) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-05-31 09:39:06</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f90ab9963b7abfcd7287380c75a9b6080ae9cea2...6417ac7d773193090868634d40c64674fd2dd982))</sub> | <sub>[6417ac7d](https://gitlab.com/snowgem/bitfrost/-/commit/6417ac7d773193090868634d40c64674fd2dd982): Squashed commit of the following: - Snowgem</sub> |
 | <sub>2021-05-31 09:33:10</sub> | <sub>Txid (txid) opened merge request [\!277 \*Add tent soken support\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/277) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4791 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-31 07:09:53</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/TENTSLP/tentslpjs/compare/45cc8f6f5a44...08064cc6b176)</sub> |
 | <sub>2021-05-31 07:03:26</sub> | <sub>[[tentslpjs:mint] 1 new commit](https://github.com/TENTSLP/tentslpjs/commit/45cc8f6f5a447dc3e9824e5f472a4812791c4cdc)</sub> | <sub>[45cc8f6](https://github.com/TENTSLP/tentslpjs/commit/45cc8f6f5a447dc3e9824e5f472a4812791c4cdc) update slp estimatedFee - TENTOfficial</sub> |
 | <sub>2021-05-31 06:54:22</sub> | <sub>[[tentslpjs:mint] 1 new commit](https://github.com/TENTSLP/tentslpjs/commit/fb8b578ade91bb598dea51c81ec147d71db209bc)</sub> | <sub>[fb8b578](https://github.com/TENTSLP/tentslpjs/commit/fb8b578ade91bb598dea51c81ec147d71db209bc) update simpleTokenEstimatedFee bitboxnetwork - TENTOfficial</sub> |
-| <sub>2021-05-31 06:40:34</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards\_019](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9df9211d304a1c6581bbfa81e6ed7fcbed062dd6...d762ddc5b3a3ac6f39f706ebc6bd7299deaac0db))</sub> | <sub>[82b038fd](https://gitlab.com/snowgem/bitfrost/-/commit/82b038fd271e15d6199f0dc1a8119b71f4508f2f): adding program modal - Filip Storkan<br>[ac4eaedf](https://gitlab.com/snowgem/bitfrost/-/commit/ac4eaedf5260d0f31403a443d4110cd031631b94): loading actions - Filip Storkan<br>[82a4f21a](https://gitlab.com/snowgem/bitfrost/-/commit/82a4f21a540110dc9b1505be525e38b94c050b5d): wip - initial topup ui - Filip Storkan<br>[d762ddc5](https://gitlab.com/snowgem/bitfrost/-/commit/d762ddc5b3a3ac6f39f706ebc6bd7299deaac0db): saving card after ordering - Filip Storkan</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
