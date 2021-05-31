@@ -46229,5 +46229,23 @@
       "description": "[2be80cd4](https://gitlab.com/snowgem/bitfrost/-/commit/2be80cd4948675217bb0e21fbfec01b68ee717ad): validator in sat value - Filip Storkan\n\n[2dd65f21](https://gitlab.com/snowgem/bitfrost/-/commit/2dd65f219c9ee112ebf102a5e1da0a8bec116d4b): fix - guard wrong redirect link - Filip Storkan\n\n[720150d5](https://gitlab.com/snowgem/bitfrost/-/commit/720150d5877e947842b378e7f3fe27fad69d4585): sat values in sign fn - Filip Storkan\n\n[19b6acbc](https://gitlab.com/snowgem/bitfrost/-/commit/19b6acbcd5ab3547d9484b81fc4220a8126f3698): inital deposit err handeling - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-31 14:48:13.762000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`a20ced7`](https://github.com/ciripel/electrum-tent/commit/a20ced7769793c0addf686ee8b0dc2e804606b22) change network constants to TENT - ciripel\n[`516fe2b`](https://github.com/ciripel/electrum-tent/commit/516fe2b84e6bff01a49ab0df62fbe41ae056d212) Adjusted servers - ciripel",
+      "title": "[electrum-tent:feature/tent] 2 new commits",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/compare/cad4e77853b1...516fe2b84e6b"
+    }
   }
 ]
