@@ -46169,5 +46169,15 @@
       "description": "[a102a2c8](https://gitlab.com/snowgem/bitfrost/-/commit/a102a2c8568f47f15da55810f9ca9bddebab538a): fix token unconfirm transaction parsing - Snowgem\n\n[b5b0da56](https://gitlab.com/snowgem/bitfrost/-/commit/b5b0da561dd73edb813cdf77c0055e973423fe95): update estimated fee for tent token - Snowgem\n\n[f74b9ee5](https://gitlab.com/snowgem/bitfrost/-/commit/f74b9ee56a2e101b57285da0d04d81df85cb2da9): disable balance log - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/tent\\-token](https://gitlab.com/snowgem/bitfrost/commits/feature/tent-token) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f74b9ee56a2e101b57285da0d04d81df85cb2da9...b891440373caa21d2a2dffbcdac28ddbe51efd75))",
+    "created_at": "2021-05-31 09:15:30.459000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b8914403](https://gitlab.com/snowgem/bitfrost/-/commit/b891440373caa21d2a2dffbcdac28ddbe51efd75): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]

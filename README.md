@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4786 commits since 20/01/2020. You can see the complete history in
+There is a total of 4787 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-05-31 09:15:30</sub> | <sub>Txid pushed to branch [feature/tent\-token](https://gitlab.com/snowgem/bitfrost/commits/feature/tent-token) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f74b9ee56a2e101b57285da0d04d81df85cb2da9...b891440373caa21d2a2dffbcdac28ddbe51efd75))</sub> | <sub>[b8914403](https://gitlab.com/snowgem/bitfrost/-/commit/b891440373caa21d2a2dffbcdac28ddbe51efd75): fix lint - Snowgem</sub> |
 | <sub>2021-05-31 09:03:38</sub> | <sub>Txid pushed to branch [feature/tent\-token](https://gitlab.com/snowgem/bitfrost/commits/feature/tent-token) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/43bd59b399e17ec4899132e1eac31b0f896a2d7f...f74b9ee56a2e101b57285da0d04d81df85cb2da9))</sub> | <sub>[a102a2c8](https://gitlab.com/snowgem/bitfrost/-/commit/a102a2c8568f47f15da55810f9ca9bddebab538a): fix token unconfirm transaction parsing - Snowgem<br>[b5b0da56](https://gitlab.com/snowgem/bitfrost/-/commit/b5b0da561dd73edb813cdf77c0055e973423fe95): update estimated fee for tent token - Snowgem<br>[f74b9ee5](https://gitlab.com/snowgem/bitfrost/-/commit/f74b9ee56a2e101b57285da0d04d81df85cb2da9): disable balance log - Snowgem</sub> |
 | <sub>2021-05-31 07:09:53</sub> | <sub>_No Description_</sub> | <sub>[Compare changes](https://github.com/TENTSLP/tentslpjs/compare/45cc8f6f5a44...08064cc6b176)</sub> |
 | <sub>2021-05-31 07:03:26</sub> | <sub>[[tentslpjs:mint] 1 new commit](https://github.com/TENTSLP/tentslpjs/commit/45cc8f6f5a447dc3e9824e5f472a4812791c4cdc)</sub> | <sub>[45cc8f6](https://github.com/TENTSLP/tentslpjs/commit/45cc8f6f5a447dc3e9824e5f472a4812791c4cdc) update slp estimatedFee - TENTOfficial</sub> |
@@ -17,6 +18,5 @@ There is a total of 4786 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-05-31 06:08:47</sub> | <sub>[[tentslpjs:mint] 1 new commit](https://github.com/TENTSLP/tentslpjs/commit/920957ad64b6fdf73da0b1da96c71953ea7483ea)</sub> | <sub>[920957a](https://github.com/TENTSLP/tentslpjs/commit/920957ad64b6fdf73da0b1da96c71953ea7483ea) update simpleTokenEstimatedFee - TENTOfficial</sub> |
 | <sub>2021-05-31 05:46:15</sub> | <sub>[[tentslpjs:mint] 1 new commit](https://github.com/TENTSLP/tentslpjs/commit/0f07306788858e282bf70b382a016cd60d5fc4ae)</sub> | <sub>[0f07306](https://github.com/TENTSLP/tentslpjs/commit/0f07306788858e282bf70b382a016cd60d5fc4ae) add estimated fee - TENTOfficial</sub> |
 | <sub>2021-05-30 09:26:41</sub> | <sub>qNaN pushed to branch [bug/285\-debit\_cards\_018](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_018) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8833779b5e95834f08e5320fc8555ffadcff1f2d...c05efec40d2a13682ade5a379dfc876deadeead8))</sub> | <sub>[c05efec4](https://gitlab.com/snowgem/bitfrost/-/commit/c05efec40d2a13682ade5a379dfc876deadeead8): saving card after ordering - Filip Storkan</sub> |
-| <sub>2021-05-29 18:37:55</sub> | <sub>qNaN pushed to branch [bug/285\-debit\_cards\_018](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_018) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c0ebc2a0b9b03158c16d03c04fe91cad6693cc39...8833779b5e95834f08e5320fc8555ffadcff1f2d))</sub> | <sub>[8833779b](https://gitlab.com/snowgem/bitfrost/-/commit/8833779b5e95834f08e5320fc8555ffadcff1f2d): wip - initial topup ui - Filip Storkan</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
