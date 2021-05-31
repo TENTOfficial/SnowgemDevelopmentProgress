@@ -46073,5 +46073,23 @@
       "type": "rich",
       "url": "https://github.com/TENTSLP/tentslpjs/commit/0f07306788858e282bf70b382a016cd60d5fc4ae"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-31 06:08:47.497000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`920957a`](https://github.com/TENTSLP/tentslpjs/commit/920957ad64b6fdf73da0b1da96c71953ea7483ea) update simpleTokenEstimatedFee - TENTOfficial",
+      "title": "[tentslpjs:mint] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTSLP/tentslpjs/commit/920957ad64b6fdf73da0b1da96c71953ea7483ea"
+    }
   }
 ]
