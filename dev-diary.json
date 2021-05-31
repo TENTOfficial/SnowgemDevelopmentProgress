@@ -46189,5 +46189,10 @@
       "description": "[2b4ac937](https://gitlab.com/snowgem/bitfrost/-/commit/2b4ac9374fb84e43038b3b38c7d2f66a4827ecfb): fix lint2 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!277 \\*Add tent soken support\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/277) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-05-31 09:33:10.966000"
   }
 ]
