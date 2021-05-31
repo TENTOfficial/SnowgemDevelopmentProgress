@@ -46096,5 +46096,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [bug/285\\-debit\\_cards\\_019](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-05-31 06:36:04.030000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards\\_019](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9df9211d304a1c6581bbfa81e6ed7fcbed062dd6...d762ddc5b3a3ac6f39f706ebc6bd7299deaac0db))",
+    "created_at": "2021-05-31 06:40:34.258000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[82b038fd](https://gitlab.com/snowgem/bitfrost/-/commit/82b038fd271e15d6199f0dc1a8119b71f4508f2f): adding program modal - Filip Storkan\n\n[ac4eaedf](https://gitlab.com/snowgem/bitfrost/-/commit/ac4eaedf5260d0f31403a443d4110cd031631b94): loading actions - Filip Storkan\n\n[82a4f21a](https://gitlab.com/snowgem/bitfrost/-/commit/82a4f21a540110dc9b1505be525e38b94c050b5d): wip - initial topup ui - Filip Storkan\n\n[d762ddc5](https://gitlab.com/snowgem/bitfrost/-/commit/d762ddc5b3a3ac6f39f706ebc6bd7299deaac0db): saving card after ordering - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
