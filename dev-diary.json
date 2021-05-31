@@ -46267,5 +46267,23 @@
       "description": "[4fb357c7](https://gitlab.com/snowgem/bitfrost/-/commit/4fb357c770da5cfd16dd44f54848541e09c2362d): redirecting updates - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-05-31 18:42:26.725000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`53d9e19`](https://github.com/ciripel/electrum-tent/commit/53d9e197aff0b5f6c296f25d3f8b61b256a9e1e5) Add TENT specifics to (bitcoin|blockchain).py - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/53d9e197aff0b5f6c296f25d3f8b61b256a9e1e5"
+    }
   }
 ]
