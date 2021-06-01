@@ -46442,5 +46442,25 @@
       "description": "[90a99b7d](https://gitlab.com/snowgem/bitfrost/-/commit/90a99b7dd8db9403b727c922fbbb31c63991119f): increase version to 0.1.8 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!278 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/278) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-01 14:05:37.800000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/76941243e94b3184d226461074c706886706d892...ac71be80e111b1228a662ec861172152a296bcc0))",
+    "created_at": "2021-06-01 14:06:36.824000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6752be4a](https://gitlab.com/snowgem/bitfrost/-/commit/6752be4abe98b3a936450e5f97ccf574af4c24cf): Fix for bug/515 - Dot icon doesn't move on switch pages by swipe the finger - jan.vrastil\n\n[90a99b7d](https://gitlab.com/snowgem/bitfrost/-/commit/90a99b7dd8db9403b727c922fbbb31c63991119f): increase version to 0.1.8 - Snowgem\n\n[ac71be80](https://gitlab.com/snowgem/bitfrost/-/commit/ac71be80e111b1228a662ec861172152a296bcc0): Merge branch 'v0.1.8' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!278 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/278) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-01 14:06:36.818000"
   }
 ]
