@@ -46414,5 +46414,23 @@
       "description": "[58f6ddb4](https://gitlab.com/snowgem/bitfrost/-/commit/58f6ddb46740c22e9328cb57bafa7904dff04df6): fix parsing data exception - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-01 13:30:13.399000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2ae8c2d`](https://github.com/ciripel/electrum-tent/commit/2ae8c2dc5dc9b8164a3d3782d7c2faebf4721436) removed checkpoints & fixed e-x ver - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/2ae8c2dc5dc9b8164a3d3782d7c2faebf4721436"
+    }
   }
 ]

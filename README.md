@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4808 commits since 20/01/2020. You can see the complete history in
+There is a total of 4809 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-01 13:30:13</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/2ae8c2dc5dc9b8164a3d3782d7c2faebf4721436)</sub> | <sub>[2ae8c2d](https://github.com/ciripel/electrum-tent/commit/2ae8c2dc5dc9b8164a3d3782d7c2faebf4721436) removed checkpoints & fixed e-x ver - ciripel</sub> |
 | <sub>2021-06-01 10:50:49</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9c9c1e5b90a36625ca8d4f0ded4d4143b1c8e9f2...58f6ddb46740c22e9328cb57bafa7904dff04df6))</sub> | <sub>[58f6ddb4](https://gitlab.com/snowgem/bitfrost/-/commit/58f6ddb46740c22e9328cb57bafa7904dff04df6): fix parsing data exception - Snowgem</sub> |
 | <sub>2021-06-01 10:19:28</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1112e9954ebfc09aeed86be4162b6bb3596952ab...9c9c1e5b90a36625ca8d4f0ded4d4143b1c8e9f2))</sub> | <sub>[9c9c1e5b](https://gitlab.com/snowgem/bitfrost/-/commit/9c9c1e5b90a36625ca8d4f0ded4d4143b1c8e9f2): fix build ionic dashboard - Snowgem</sub> |
 | <sub>2021-06-01 10:16:11</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/015ee50bc7722bea5aa6e4a813d14542bbd0ddfb...1112e9954ebfc09aeed86be4162b6bb3596952ab))</sub> | <sub>[1112e995](https://gitlab.com/snowgem/bitfrost/-/commit/1112e9954ebfc09aeed86be4162b6bb3596952ab): fix build ionic dashboard - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 4808 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-01 09:15:06</sub> | <sub>[[masternode-setup:master] 1 new commit](https://github.com/TENTOfficial/masternode-setup/commit/8d89c15622fd264142f0b29d9eda62a5c8ee1e0f)</sub> | <sub>[8d89c15](https://github.com/TENTOfficial/masternode-setup/commit/8d89c15622fd264142f0b29d9eda62a5c8ee1e0f) Supressed errors - ciripel</sub> |
 | <sub>2021-06-01 09:04:43</sub> | <sub>[[masternode-setup:master] 1 new commit](https://github.com/TENTOfficial/masternode-setup/commit/2c06c080f894be129b8558463d04162dc1acfe3e)</sub> | <sub>[2c06c08](https://github.com/TENTOfficial/masternode-setup/commit/2c06c080f894be129b8558463d04162dc1acfe3e) Refactoring and improvements - ciripel</sub> |
 | <sub>2021-06-01 09:00:54</sub> | <sub>Txid pushed new branch [feature/add\-solana](https://gitlab.com/snowgem/bitfrost/commits/feature/add-solana) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-06-01 03:16:10</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/545b8c35d23adb3a8637167d88a23c18611667d4...a96cb2ec526d38a576eacc0f6231195ac4a2f542))</sub> | <sub>[a96cb2ec](https://gitlab.com/snowgem/bitfrost/-/commit/a96cb2ec526d38a576eacc0f6231195ac4a2f542): update semicolon tslint - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
