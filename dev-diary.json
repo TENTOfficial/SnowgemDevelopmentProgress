@@ -46328,5 +46328,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/masternode-setup/commit/2c06c080f894be129b8558463d04162dc1acfe3e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-01 09:15:06.713000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8d89c15`](https://github.com/TENTOfficial/masternode-setup/commit/8d89c15622fd264142f0b29d9eda62a5c8ee1e0f) Supressed errors - ciripel",
+      "title": "[masternode-setup:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/masternode-setup/commit/8d89c15622fd264142f0b29d9eda62a5c8ee1e0f"
+    }
   }
 ]
