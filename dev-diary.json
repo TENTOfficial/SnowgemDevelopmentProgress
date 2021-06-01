@@ -46374,5 +46374,15 @@
       "description": "[015ee50b](https://gitlab.com/snowgem/bitfrost/-/commit/015ee50bc7722bea5aa6e4a813d14542bbd0ddfb): fix build ionic dashboard - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards\\_019](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4fb357c770da5cfd16dd44f54848541e09c2362d...dea1cd4d25d948a9f8005eb5f37bfc915b81f215))",
+    "created_at": "2021-06-01 10:06:50.445000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[5fcfde30](https://gitlab.com/snowgem/bitfrost/-/commit/5fcfde30c591ad7e9f7f158cded65036eaead9e1): change MZ api URL - jan.vrastil\n\n[dea1cd4d](https://gitlab.com/snowgem/bitfrost/-/commit/dea1cd4d25d948a9f8005eb5f37bfc915b81f215): Topup - WIP - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
