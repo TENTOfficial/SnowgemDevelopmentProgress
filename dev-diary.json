@@ -46404,5 +46404,15 @@
       "description": "[9c9c1e5b](https://gitlab.com/snowgem/bitfrost/-/commit/9c9c1e5b90a36625ca8d4f0ded4d4143b1c8e9f2): fix build ionic dashboard - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9c9c1e5b90a36625ca8d4f0ded4d4143b1c8e9f2...58f6ddb46740c22e9328cb57bafa7904dff04df6))",
+    "created_at": "2021-06-01 10:50:49.317000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[58f6ddb4](https://gitlab.com/snowgem/bitfrost/-/commit/58f6ddb46740c22e9328cb57bafa7904dff04df6): fix parsing data exception - Snowgem",
+      "type": "rich"
+    }
   }
 ]
