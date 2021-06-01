@@ -46432,5 +46432,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/2ae8c2dc5dc9b8164a3d3782d7c2faebf4721436"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6752be4abe98b3a936450e5f97ccf574af4c24cf...90a99b7dd8db9403b727c922fbbb31c63991119f))",
+    "created_at": "2021-06-01 14:01:28.343000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[90a99b7d](https://gitlab.com/snowgem/bitfrost/-/commit/90a99b7dd8db9403b727c922fbbb31c63991119f): increase version to 0.1.8 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
