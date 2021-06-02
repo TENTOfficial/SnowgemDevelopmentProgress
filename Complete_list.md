@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-02 10:00:19</sub> | <sub>Txid pushed to branch [feature/add\-solana](https://gitlab.com/snowgem/bitfrost/commits/feature/add-solana) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1d0d90cca0f80667e864bb31c234692ea7b5f418...b9a5b2f47f71aa55b6f51e9ed8b6831190c98f29))</sub> | <sub>[b9a5b2f4](https://gitlab.com/snowgem/bitfrost/-/commit/b9a5b2f47f71aa55b6f51e9ed8b6831190c98f29): update parse sol txs - Snowgem</sub> |
 | <sub>2021-06-02 09:53:23</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/7dc5d189978663a6d5aaac8b7b80632018b446f2)</sub> | <sub>[7dc5d18](https://github.com/ciripel/electrum-tent/commit/7dc5d189978663a6d5aaac8b7b80632018b446f2) removed segwit - ciripel</sub> |
 | <sub>2021-06-01 19:47:15</sub> | <sub>[[masternode-setup:master] 1 new commit](https://github.com/TENTOfficial/masternode-setup/commit/5eaebe4467991f41931eb4578513403bab52b7f4)</sub> | <sub>[5eaebe4](https://github.com/TENTOfficial/masternode-setup/commit/5eaebe4467991f41931eb4578513403bab52b7f4) updated docs - ciripel</sub> |
 | <sub>2021-06-01 14:06:36</sub> | <sub>Txid (txid) merged merge request [\!278 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/278) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |

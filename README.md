@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4815 commits since 20/01/2020. You can see the complete history in
+There is a total of 4816 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-02 10:00:19</sub> | <sub>Txid pushed to branch [feature/add\-solana](https://gitlab.com/snowgem/bitfrost/commits/feature/add-solana) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1d0d90cca0f80667e864bb31c234692ea7b5f418...b9a5b2f47f71aa55b6f51e9ed8b6831190c98f29))</sub> | <sub>[b9a5b2f4](https://gitlab.com/snowgem/bitfrost/-/commit/b9a5b2f47f71aa55b6f51e9ed8b6831190c98f29): update parse sol txs - Snowgem</sub> |
 | <sub>2021-06-02 09:53:23</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/7dc5d189978663a6d5aaac8b7b80632018b446f2)</sub> | <sub>[7dc5d18](https://github.com/ciripel/electrum-tent/commit/7dc5d189978663a6d5aaac8b7b80632018b446f2) removed segwit - ciripel</sub> |
 | <sub>2021-06-01 19:47:15</sub> | <sub>[[masternode-setup:master] 1 new commit](https://github.com/TENTOfficial/masternode-setup/commit/5eaebe4467991f41931eb4578513403bab52b7f4)</sub> | <sub>[5eaebe4](https://github.com/TENTOfficial/masternode-setup/commit/5eaebe4467991f41931eb4578513403bab52b7f4) updated docs - ciripel</sub> |
 | <sub>2021-06-01 14:06:36</sub> | <sub>Txid (txid) merged merge request [\!278 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/278) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4815 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-01 13:30:13</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/2ae8c2dc5dc9b8164a3d3782d7c2faebf4721436)</sub> | <sub>[2ae8c2d](https://github.com/ciripel/electrum-tent/commit/2ae8c2dc5dc9b8164a3d3782d7c2faebf4721436) removed checkpoints & fixed e-x ver - ciripel</sub> |
 | <sub>2021-06-01 10:50:49</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9c9c1e5b90a36625ca8d4f0ded4d4143b1c8e9f2...58f6ddb46740c22e9328cb57bafa7904dff04df6))</sub> | <sub>[58f6ddb4](https://gitlab.com/snowgem/bitfrost/-/commit/58f6ddb46740c22e9328cb57bafa7904dff04df6): fix parsing data exception - Snowgem</sub> |
 | <sub>2021-06-01 10:19:28</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1112e9954ebfc09aeed86be4162b6bb3596952ab...9c9c1e5b90a36625ca8d4f0ded4d4143b1c8e9f2))</sub> | <sub>[9c9c1e5b](https://gitlab.com/snowgem/bitfrost/-/commit/9c9c1e5b90a36625ca8d4f0ded4d4143b1c8e9f2): fix build ionic dashboard - Snowgem</sub> |
-| <sub>2021-06-01 10:16:11</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/015ee50bc7722bea5aa6e4a813d14542bbd0ddfb...1112e9954ebfc09aeed86be4162b6bb3596952ab))</sub> | <sub>[1112e995](https://gitlab.com/snowgem/bitfrost/-/commit/1112e9954ebfc09aeed86be4162b6bb3596952ab): fix build ionic dashboard - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

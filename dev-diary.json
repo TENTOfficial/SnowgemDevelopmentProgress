@@ -46498,5 +46498,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/7dc5d189978663a6d5aaac8b7b80632018b446f2"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-solana](https://gitlab.com/snowgem/bitfrost/commits/feature/add-solana) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1d0d90cca0f80667e864bb31c234692ea7b5f418...b9a5b2f47f71aa55b6f51e9ed8b6831190c98f29))",
+    "created_at": "2021-06-02 10:00:19.419000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b9a5b2f4](https://gitlab.com/snowgem/bitfrost/-/commit/b9a5b2f47f71aa55b6f51e9ed8b6831190c98f29): update parse sol txs - Snowgem",
+      "type": "rich"
+    }
   }
 ]
