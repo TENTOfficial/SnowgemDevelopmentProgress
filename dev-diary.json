@@ -46508,5 +46508,23 @@
       "description": "[b9a5b2f4](https://gitlab.com/snowgem/bitfrost/-/commit/b9a5b2f47f71aa55b6f51e9ed8b6831190c98f29): update parse sol txs - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-02 16:49:49.910000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`1c10cb8`](https://github.com/ciripel/electrum-tent/commit/1c10cb80c1f2fdc6cb33462b4a0cb8a680ce5294) removed segwit from submarine and ledger - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/1c10cb80c1f2fdc6cb33462b4a0cb8a680ce5294"
+    }
   }
 ]
