@@ -46526,5 +46526,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/1c10cb80c1f2fdc6cb33462b4a0cb8a680ce5294"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-solana](https://gitlab.com/snowgem/bitfrost/commits/feature/add-solana) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b9a5b2f47f71aa55b6f51e9ed8b6831190c98f29...515afd0acada410886a4462d56fbda02dc897bed))",
+    "created_at": "2021-06-03 07:53:29.907000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[173ff8f9](https://gitlab.com/snowgem/bitfrost/-/commit/173ff8f9d9a0a9ab25defe0dc9e5f4e3923d4b86): show only the last 20 txs - Snowgem\n\n[9a193dfb](https://gitlab.com/snowgem/bitfrost/-/commit/9a193dfbc7c8d407f68d74c29d308fada009299c): hide get new address in some coins - Snowgem\n\n[1ef20216](https://gitlab.com/snowgem/bitfrost/-/commit/1ef202166a905a917fa1e7ed25a67aa6bd8611b5): fix get solana address transactions - Snowgem\n\n[515afd0a](https://gitlab.com/snowgem/bitfrost/-/commit/515afd0acada410886a4462d56fbda02dc897bed): broadcast transaction solana - Snowgem",
+      "type": "rich"
+    }
   }
 ]
