@@ -46554,5 +46554,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/804f68561a71337617e052198fd0e0039d9f5be2"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-solana](https://gitlab.com/snowgem/bitfrost/commits/feature/add-solana) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/515afd0acada410886a4462d56fbda02dc897bed...13db8cdc8e39ae28651c44e986023b4f46761d66))",
+    "created_at": "2021-06-04 03:51:49.777000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6eb38bc2](https://gitlab.com/snowgem/bitfrost/-/commit/6eb38bc27282f674789a1470c9100aa80fd283b8): fix address display overview page - Snowgem\n\n[13db8cdc](https://gitlab.com/snowgem/bitfrost/-/commit/13db8cdc8e39ae28651c44e986023b4f46761d66): solana tx overview page - Snowgem",
+      "type": "rich"
+    }
   }
 ]
