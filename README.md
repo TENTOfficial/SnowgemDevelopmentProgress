@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4828 commits since 20/01/2020. You can see the complete history in
+There is a total of 4829 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-04 14:55:59</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/90a99b7dd8db9403b727c922fbbb31c63991119f...a4ab99a2f6951c01eb84105c5cc9ad714cc623ef))</sub> | <sub>[a4ab99a2](https://gitlab.com/snowgem/bitfrost/-/commit/a4ab99a2f6951c01eb84105c5cc9ad714cc623ef): Show correct version & correct date in the About page - jan.vrastil</sub> |
 | <sub>2021-06-04 09:41:10</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/812c1fc93244ccad80798c40d09a375b927714ec)</sub> | <sub>[812c1fc](https://github.com/ciripel/electrum-tent/commit/812c1fc93244ccad80798c40d09a375b927714ec) tent changes to lib - ciripel</sub> |
 | <sub>2021-06-04 09:35:01</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/c1bc6706bf769d936f30f7a6f10219c77d09c2c2)</sub> | <sub>[c1bc670](https://github.com/ciripel/electrum-tent/commit/c1bc6706bf769d936f30f7a6f10219c77d09c2c2) TENT changes to lib - ciripel</sub> |
 | <sub>2021-06-04 09:24:28</sub> | <sub>Txid pushed new branch [feature/add\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4828 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-04 04:04:30</sub> | <sub>Txid pushed to branch [feature/add\-solana](https://gitlab.com/snowgem/bitfrost/commits/feature/add-solana) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b522420f5981f8e559d9e0dc9d62051b7f368b84...fdeff82d804e47c967344c15dc4ce0fbda82adf9))</sub> | <sub>[fdeff82d](https://gitlab.com/snowgem/bitfrost/-/commit/fdeff82d804e47c967344c15dc4ce0fbda82adf9): fix lint #2 - Snowgem</sub> |
 | <sub>2021-06-04 03:55:10</sub> | <sub>Txid pushed to branch [feature/add\-solana](https://gitlab.com/snowgem/bitfrost/commits/feature/add-solana) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/13db8cdc8e39ae28651c44e986023b4f46761d66...b522420f5981f8e559d9e0dc9d62051b7f368b84))</sub> | <sub>[b522420f](https://gitlab.com/snowgem/bitfrost/-/commit/b522420f5981f8e559d9e0dc9d62051b7f368b84): fix lint - Snowgem</sub> |
 | <sub>2021-06-04 03:51:49</sub> | <sub>Txid pushed to branch [feature/add\-solana](https://gitlab.com/snowgem/bitfrost/commits/feature/add-solana) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/515afd0acada410886a4462d56fbda02dc897bed...13db8cdc8e39ae28651c44e986023b4f46761d66))</sub> | <sub>[6eb38bc2](https://gitlab.com/snowgem/bitfrost/-/commit/6eb38bc27282f674789a1470c9100aa80fd283b8): fix address display overview page - Snowgem<br>[13db8cdc](https://gitlab.com/snowgem/bitfrost/-/commit/13db8cdc8e39ae28651c44e986023b4f46761d66): solana tx overview page - Snowgem</sub> |
-| <sub>2021-06-03 08:00:48</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/804f68561a71337617e052198fd0e0039d9f5be2)</sub> | <sub>[804f685](https://github.com/ciripel/electrum-tent/commit/804f68561a71337617e052198fd0e0039d9f5be2) remove segwit from tests and rest of libs - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

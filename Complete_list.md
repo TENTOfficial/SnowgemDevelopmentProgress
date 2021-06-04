@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-04 14:55:59</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/90a99b7dd8db9403b727c922fbbb31c63991119f...a4ab99a2f6951c01eb84105c5cc9ad714cc623ef))</sub> | <sub>[a4ab99a2](https://gitlab.com/snowgem/bitfrost/-/commit/a4ab99a2f6951c01eb84105c5cc9ad714cc623ef): Show correct version & correct date in the About page - jan.vrastil</sub> |
 | <sub>2021-06-04 09:41:10</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/812c1fc93244ccad80798c40d09a375b927714ec)</sub> | <sub>[812c1fc](https://github.com/ciripel/electrum-tent/commit/812c1fc93244ccad80798c40d09a375b927714ec) tent changes to lib - ciripel</sub> |
 | <sub>2021-06-04 09:35:01</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/c1bc6706bf769d936f30f7a6f10219c77d09c2c2)</sub> | <sub>[c1bc670](https://github.com/ciripel/electrum-tent/commit/c1bc6706bf769d936f30f7a6f10219c77d09c2c2) TENT changes to lib - ciripel</sub> |
 | <sub>2021-06-04 09:24:28</sub> | <sub>Txid pushed new branch [feature/add\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
