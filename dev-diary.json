@@ -46703,5 +46703,20 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/9810648e3e329274363fb13dd7bf5a44572c6cf4"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!281 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/281) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-04 15:48:30.562000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ac71be80e111b1228a662ec861172152a296bcc0...23535b626aa406483bcc30b719fe6cb9177c7f2e))",
+    "created_at": "2021-06-04 15:48:30.708000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a4ab99a2](https://gitlab.com/snowgem/bitfrost/-/commit/a4ab99a2f6951c01eb84105c5cc9ad714cc623ef): Show correct version & correct date in the About page - jan.vrastil\n\n[cb3a728f](https://gitlab.com/snowgem/bitfrost/-/commit/cb3a728f9aabc15ba7fa019d17533fa3f1208f0d): update prettier settings - jan.vrastil\n\n[204bc824](https://gitlab.com/snowgem/bitfrost/-/commit/204bc82443eed72298337e4429359b3533b091f5): Update ios version - jan.vrastil\n\n[23535b62](https://gitlab.com/snowgem/bitfrost/-/commit/23535b626aa406483bcc30b719fe6cb9177c7f2e): Merge branch 'v0.1.8' into 'testing' - Jan Vra\u0161til",
+      "type": "rich"
+    }
   }
 ]
