@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4825 commits since 20/01/2020. You can see the complete history in
+There is a total of 4826 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-04 09:24:28</sub> | <sub>Txid pushed new branch [feature/add\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-04 06:12:25</sub> | <sub>Txid (txid) merged merge request [\!279 \*Feature/add solana\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/279) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-04 06:12:25</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/58f6ddb46740c22e9328cb57bafa7904dff04df6...f4a8dc1d811a9814ba25f105cbeb9a3bc8d432c7))</sub> | <sub>[975bbe2a](https://gitlab.com/snowgem/bitfrost/-/commit/975bbe2a17b2faba94d217bc82f8f35b273db909): Feature/add solana - Txid<br>[f4a8dc1d](https://gitlab.com/snowgem/bitfrost/-/commit/f4a8dc1d811a9814ba25f105cbeb9a3bc8d432c7): Merge branch 'feature/add-solana' into 'v0.1.9' - Txid</sub> |
 | <sub>2021-06-04 06:11:46</sub> | <sub>Txid (txid) opened merge request [\!279 \*Feature/add solana\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/279) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4825 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-03 08:00:48</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/804f68561a71337617e052198fd0e0039d9f5be2)</sub> | <sub>[804f685](https://github.com/ciripel/electrum-tent/commit/804f68561a71337617e052198fd0e0039d9f5be2) remove segwit from tests and rest of libs - ciripel</sub> |
 | <sub>2021-06-03 07:53:29</sub> | <sub>Txid pushed to branch [feature/add\-solana](https://gitlab.com/snowgem/bitfrost/commits/feature/add-solana) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b9a5b2f47f71aa55b6f51e9ed8b6831190c98f29...515afd0acada410886a4462d56fbda02dc897bed))</sub> | <sub>[173ff8f9](https://gitlab.com/snowgem/bitfrost/-/commit/173ff8f9d9a0a9ab25defe0dc9e5f4e3923d4b86): show only the last 20 txs - Snowgem<br>[9a193dfb](https://gitlab.com/snowgem/bitfrost/-/commit/9a193dfbc7c8d407f68d74c29d308fada009299c): hide get new address in some coins - Snowgem<br>[1ef20216](https://gitlab.com/snowgem/bitfrost/-/commit/1ef202166a905a917fa1e7ed25a67aa6bd8611b5): fix get solana address transactions - Snowgem<br>[515afd0a](https://gitlab.com/snowgem/bitfrost/-/commit/515afd0acada410886a4462d56fbda02dc897bed): broadcast transaction solana - Snowgem</sub> |
 | <sub>2021-06-02 16:49:49</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/1c10cb80c1f2fdc6cb33462b4a0cb8a680ce5294)</sub> | <sub>[1c10cb8](https://github.com/ciripel/electrum-tent/commit/1c10cb80c1f2fdc6cb33462b4a0cb8a680ce5294) removed segwit from submarine and ledger - ciripel</sub> |
-| <sub>2021-06-02 10:00:19</sub> | <sub>Txid pushed to branch [feature/add\-solana](https://gitlab.com/snowgem/bitfrost/commits/feature/add-solana) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1d0d90cca0f80667e864bb31c234692ea7b5f418...b9a5b2f47f71aa55b6f51e9ed8b6831190c98f29))</sub> | <sub>[b9a5b2f4](https://gitlab.com/snowgem/bitfrost/-/commit/b9a5b2f47f71aa55b6f51e9ed8b6831190c98f29): update parse sol txs - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
