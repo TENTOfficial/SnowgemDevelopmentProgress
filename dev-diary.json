@@ -46718,5 +46718,10 @@
       "description": "[a4ab99a2](https://gitlab.com/snowgem/bitfrost/-/commit/a4ab99a2f6951c01eb84105c5cc9ad714cc623ef): Show correct version & correct date in the About page - jan.vrastil\n\n[cb3a728f](https://gitlab.com/snowgem/bitfrost/-/commit/cb3a728f9aabc15ba7fa019d17533fa3f1208f0d): update prettier settings - jan.vrastil\n\n[204bc824](https://gitlab.com/snowgem/bitfrost/-/commit/204bc82443eed72298337e4429359b3533b091f5): Update ios version - jan.vrastil\n\n[23535b62](https://gitlab.com/snowgem/bitfrost/-/commit/23535b626aa406483bcc30b719fe6cb9177c7f2e): Merge branch 'v0.1.8' into 'testing' - Jan Vra\u0161til",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [bug/285\\-debit\\_cards\\_019\\-AFTER\\_REBASE](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019-AFTER_REBASE) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-05 18:22:38.385000"
   }
 ]
