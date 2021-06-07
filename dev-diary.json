@@ -46748,5 +46748,10 @@
     "author": "GitLab",
     "content": "Daniil Lisovskiy pushed new branch [feature/debit\\_card\\_swap\\_cancelled\\_status](https://gitlab.com/snowgem/bitfrost/commits/feature/debit_card_swap_cancelled_status) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-07 12:43:28.531000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Daniil Lisovskiy (d.lisovskiy) opened merge request [\\!282 \\*Cancelled status added\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/282) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-07 12:57:56.212000"
   }
 ]

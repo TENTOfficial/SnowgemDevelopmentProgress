@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4840 commits since 20/01/2020. You can see the complete history in
+There is a total of 4841 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-07 12:57:56</sub> | <sub>Daniil Lisovskiy (d.lisovskiy) opened merge request [\!282 \*Cancelled status added\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/282) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-07 12:43:28</sub> | <sub>Daniil Lisovskiy pushed new branch [feature/debit\_card\_swap\_cancelled\_status](https://gitlab.com/snowgem/bitfrost/commits/feature/debit_card_swap_cancelled_status) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-07 10:31:08</sub> | <sub>Txid pushed to branch [feature/add\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8ef7d5c2eb5723b9a6de642dda32b47e95e43d04...3ae301f3517a4d0833dda8ba7c6c200728884915))</sub> | <sub>[82785bb3](https://gitlab.com/snowgem/bitfrost/-/commit/82785bb379fec0dcef0b780f896216c342c8cf1e): add polkadot apis - Snowgem<br>[3ae301f3](https://gitlab.com/snowgem/bitfrost/-/commit/3ae301f3517a4d0833dda8ba7c6c200728884915): add polkadot create address - Snowgem</sub> |
 | <sub>2021-06-07 09:02:00</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f4a8dc1d811a9814ba25f105cbeb9a3bc8d432c7...faa230edc9dc8796354f0eb370cb98c7f45e4347))</sub> | <sub>[faa230ed](https://gitlab.com/snowgem/bitfrost/-/commit/faa230edc9dc8796354f0eb370cb98c7f45e4347): correct get main address for coins - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 4840 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-04 15:43:37</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/9810648e3e329274363fb13dd7bf5a44572c6cf4)</sub> | <sub>[9810648](https://github.com/ciripel/electrum-tent/commit/9810648e3e329274363fb13dd7bf5a44572c6cf4) tent changes to exchange_rate.py - ciripel</sub> |
 | <sub>2021-06-04 15:38:24</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!281 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/281) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-04 15:37:54</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a4ab99a2f6951c01eb84105c5cc9ad714cc623ef...204bc82443eed72298337e4429359b3533b091f5))</sub> | <sub>[cb3a728f](https://gitlab.com/snowgem/bitfrost/-/commit/cb3a728f9aabc15ba7fa019d17533fa3f1208f0d): update prettier settings - jan.vrastil<br>[204bc824](https://gitlab.com/snowgem/bitfrost/-/commit/204bc82443eed72298337e4429359b3533b091f5): Update ios version - jan.vrastil</sub> |
-| <sub>2021-06-04 15:17:21</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!280 \*WIP: Bug/285 debit cards\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/280) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
