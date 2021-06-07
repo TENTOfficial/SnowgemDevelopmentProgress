@@ -46733,5 +46733,15 @@
       "description": "[faa230ed](https://gitlab.com/snowgem/bitfrost/-/commit/faa230edc9dc8796354f0eb370cb98c7f45e4347): correct get main address for coins - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8ef7d5c2eb5723b9a6de642dda32b47e95e43d04...3ae301f3517a4d0833dda8ba7c6c200728884915))",
+    "created_at": "2021-06-07 10:31:08.115000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[82785bb3](https://gitlab.com/snowgem/bitfrost/-/commit/82785bb379fec0dcef0b780f896216c342c8cf1e): add polkadot apis - Snowgem\n\n[3ae301f3](https://gitlab.com/snowgem/bitfrost/-/commit/3ae301f3517a4d0833dda8ba7c6c200728884915): add polkadot create address - Snowgem",
+      "type": "rich"
+    }
   }
 ]
