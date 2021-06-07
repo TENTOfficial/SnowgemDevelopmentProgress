@@ -46823,5 +46823,41 @@
       "description": "[1007cdda](https://gitlab.com/snowgem/bitfrost/-/commit/1007cdda9722a8e0b1b4ae8b12049283cb11d0d7): fix loadNews duplicity - Filip Storkan",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-07 19:17:09.562000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`c2a31b5`](https://github.com/TENTSLP/tentslp-explorer/commit/c2a31b545a2777ee367c698b5977e551667492a7) forced close and slp page header fix - ciripel",
+      "title": "[tentslp-explorer:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTSLP/tentslp-explorer/commit/c2a31b545a2777ee367c698b5977e551667492a7"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-07 19:19:55.644000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`6ba3753`](https://github.com/TENTSLP/tentslp-explorer/commit/6ba3753098593209e211bffa3e1023a083a9d82c) fixed thread close and slp page header fixed - ciripel",
+      "title": "[tentslp-explorer:testnet] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTSLP/tentslp-explorer/commit/6ba3753098593209e211bffa3e1023a083a9d82c"
+    }
   }
 ]
