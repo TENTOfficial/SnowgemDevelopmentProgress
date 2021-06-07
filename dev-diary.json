@@ -46798,5 +46798,15 @@
     "author": "GitLab",
     "content": "qNaN pushed new branch [feature/news](https://gitlab.com/snowgem/bitfrost/commits/feature/news) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-07 17:27:47.994000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/news](https://gitlab.com/snowgem/bitfrost/commits/feature/news) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3b6bca97ba81c8ba74eea559804927a822ca3bc3...2a29e2b7f8ae857cedd9e9f24b1aa8791e5bad2c))",
+    "created_at": "2021-06-07 17:34:44.481000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2a29e2b7](https://gitlab.com/snowgem/bitfrost/-/commit/2a29e2b7f8ae857cedd9e9f24b1aa8791e5bad2c): updating colors - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
