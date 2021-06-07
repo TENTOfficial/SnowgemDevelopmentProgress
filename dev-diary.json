@@ -46723,5 +46723,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [bug/285\\-debit\\_cards\\_019\\-AFTER\\_REBASE](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019-AFTER_REBASE) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-05 18:22:38.385000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f4a8dc1d811a9814ba25f105cbeb9a3bc8d432c7...faa230edc9dc8796354f0eb370cb98c7f45e4347))",
+    "created_at": "2021-06-07 09:02:00.144000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[faa230ed](https://gitlab.com/snowgem/bitfrost/-/commit/faa230edc9dc8796354f0eb370cb98c7f45e4347): correct get main address for coins - Snowgem",
+      "type": "rich"
+    }
   }
 ]
