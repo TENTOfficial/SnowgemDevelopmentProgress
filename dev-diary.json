@@ -46813,5 +46813,15 @@
     "author": "GitLab",
     "content": "qNaN (filipstrkn) opened merge request [\\!283 \\*Feature/news\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/283) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-07 17:35:47.659000"
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed to branch [feature/news](https://gitlab.com/snowgem/bitfrost/commits/feature/news) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2a29e2b7f8ae857cedd9e9f24b1aa8791e5bad2c...1007cdda9722a8e0b1b4ae8b12049283cb11d0d7))",
+    "created_at": "2021-06-07 17:50:34.008000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1007cdda](https://gitlab.com/snowgem/bitfrost/-/commit/1007cdda9722a8e0b1b4ae8b12049283cb11d0d7): fix loadNews duplicity - Filip Storkan",
+      "type": "rich"
+    }
   }
 ]
