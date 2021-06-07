@@ -46793,5 +46793,10 @@
       "description": "[69d1a991](https://gitlab.com/snowgem/bitfrost/-/commit/69d1a991b3b3ca3a72e5f094086ed7fc5c4c28be): correct mz api for tent - Snowgem\n\n[c4ee0402](https://gitlab.com/snowgem/bitfrost/-/commit/c4ee0402b1184d69070cae0cab3379f6f6e0dc4f): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "qNaN pushed new branch [feature/news](https://gitlab.com/snowgem/bitfrost/commits/feature/news) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-07 17:27:47.994000"
   }
 ]
