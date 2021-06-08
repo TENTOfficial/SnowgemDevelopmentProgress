@@ -47060,5 +47060,15 @@
       "description": "[75ac8d81](https://gitlab.com/snowgem/bitfrost/-/commit/75ac8d81d657bbeb3fdca9652c9d7c9439b77a56): add properties for each transaction type - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards\\_019\\-AFTER\\_REBASE](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019-AFTER_REBASE) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e6e4d87de17aec66b206b39d85ffb5e4784dd6f0...7a537fbb0d11be91363983178010f1f01cee5ed9))",
+    "created_at": "2021-06-08 10:25:49.499000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7a537fbb](https://gitlab.com/snowgem/bitfrost/-/commit/7a537fbb0d11be91363983178010f1f01cee5ed9): cards wip - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
