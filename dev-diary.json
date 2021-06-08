@@ -47050,5 +47050,15 @@
       "type": "rich",
       "url": "https://github.com/TENTSLP/mint/commit/d11c2a31ee8d8a0a84060e0da469cc6cc8219964"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e8cb3b1f8307627f21eb5aedb7c0c523a041eef1...75ac8d81d657bbeb3fdca9652c9d7c9439b77a56))",
+    "created_at": "2021-06-08 10:24:17.118000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[75ac8d81](https://gitlab.com/snowgem/bitfrost/-/commit/75ac8d81d657bbeb3fdca9652c9d7c9439b77a56): add properties for each transaction type - Snowgem",
+      "type": "rich"
+    }
   }
 ]
