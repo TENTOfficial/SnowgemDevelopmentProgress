@@ -47070,5 +47070,15 @@
       "description": "[7a537fbb](https://gitlab.com/snowgem/bitfrost/-/commit/7a537fbb0d11be91363983178010f1f01cee5ed9): cards wip - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards\\_019\\-AFTER\\_REBASE](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019-AFTER_REBASE) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7a537fbb0d11be91363983178010f1f01cee5ed9...071976d5ffe51de5d26fd5f91e58c35adfa1ebb8))",
+    "created_at": "2021-06-08 11:19:17.831000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[071976d5](https://gitlab.com/snowgem/bitfrost/-/commit/071976d5ffe51de5d26fd5f91e58c35adfa1ebb8): fix - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
