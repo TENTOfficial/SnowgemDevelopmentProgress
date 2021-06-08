@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-08 15:26:21</sub> | <sub>[[mint:master] 1 new commit](https://github.com/TENTSLP/mint/commit/0f39d720e69ec41874c1dbeeff0b1d4e45b7b358)</sub> | <sub>[0f39d72](https://github.com/TENTSLP/mint/commit/0f39d720e69ec41874c1dbeeff0b1d4e45b7b358) Changed TENTSLP to TENT Tokens - ciripel</sub> |
 | <sub>2021-06-08 14:27:49</sub> | <sub>Jan Vraštil (jan.vrastil) closed merge request [\!7 \*Change MZ api url to multic\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/7) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-08 13:37:31</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!285 \*Add cancel button for DECTA purchase page\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/285) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-08 13:29:45</sub> | <sub>Jan Vraštil pushed new branch [cancel\_btn](https://gitlab.com/snowgem/bitfrost/commits/cancel_btn) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
