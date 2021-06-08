@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4854 commits since 20/01/2020. You can see the complete history in
+There is a total of 4855 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-08 06:59:35</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/a091957e3b9a1d867f8c359dea316c8d67773f9d...4975478c01925202c2d5837f86fb8af9fb787f09))</sub> | <sub>[4975478c](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/4975478c01925202c2d5837f86fb8af9fb787f09): updated it lang - ciripel</sub> |
 | <sub>2021-06-07 20:08:14</sub> | <sub>[[tentslp-explorer:testnet] 1 new commit](https://github.com/TENTSLP/tentslp-explorer/commit/268638a4fe1ff52f6da17dedf3c00c93ab493221)</sub> | <sub>[268638a](https://github.com/TENTSLP/tentslp-explorer/commit/268638a4fe1ff52f6da17dedf3c00c93ab493221) fixed oldBrowser.close() - ciripel</sub> |
 | <sub>2021-06-07 20:05:47</sub> | <sub>[[tentslp-explorer:master] 1 new commit](https://github.com/TENTSLP/tentslp-explorer/commit/a860d23dc3adcfac751401f23ee62459855dd9cb)</sub> | <sub>[a860d23](https://github.com/TENTSLP/tentslp-explorer/commit/a860d23dc3adcfac751401f23ee62459855dd9cb) Added IT translation + fixed kr, browser.close bug - ciripel</sub> |
 | <sub>2021-06-07 19:19:55</sub> | <sub>[[tentslp-explorer:testnet] 1 new commit](https://github.com/TENTSLP/tentslp-explorer/commit/6ba3753098593209e211bffa3e1023a083a9d82c)</sub> | <sub>[6ba3753](https://github.com/TENTSLP/tentslp-explorer/commit/6ba3753098593209e211bffa3e1023a083a9d82c) fixed thread close and slp page header fixed - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4854 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-07 17:34:44</sub> | <sub>qNaN pushed to branch [feature/news](https://gitlab.com/snowgem/bitfrost/commits/feature/news) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3b6bca97ba81c8ba74eea559804927a822ca3bc3...2a29e2b7f8ae857cedd9e9f24b1aa8791e5bad2c))</sub> | <sub>[2a29e2b7](https://gitlab.com/snowgem/bitfrost/-/commit/2a29e2b7f8ae857cedd9e9f24b1aa8791e5bad2c): updating colors - Filip Storkan</sub> |
 | <sub>2021-06-07 17:27:47</sub> | <sub>qNaN pushed new branch [feature/news](https://gitlab.com/snowgem/bitfrost/commits/feature/news) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-07 14:23:48</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/77ddd3d0cd9a84a7a4cdbf5d2fb6d6bc5ec700e1...c4ee0402b1184d69070cae0cab3379f6f6e0dc4f))</sub> | <sub>[69d1a991](https://gitlab.com/snowgem/bitfrost/-/commit/69d1a991b3b3ca3a72e5f094086ed7fc5c4c28be): correct mz api for tent - Snowgem<br>[c4ee0402](https://gitlab.com/snowgem/bitfrost/-/commit/c4ee0402b1184d69070cae0cab3379f6f6e0dc4f): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem</sub> |
-| <sub>2021-06-07 14:22:09</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/faa230edc9dc8796354f0eb370cb98c7f45e4347...e5c137eeee979641588b22048f74175cd8b0060b))</sub> | <sub>[e5c137ee](https://gitlab.com/snowgem/bitfrost/-/commit/e5c137eeee979641588b22048f74175cd8b0060b): correct mz api for tent - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
