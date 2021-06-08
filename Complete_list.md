@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-08 09:20:20</sub> | <sub>[[mint:master] 1 new commit](https://github.com/TENTSLP/mint/commit/d11c2a31ee8d8a0a84060e0da469cc6cc8219964)</sub> | <sub>[d11c2a3](https://github.com/TENTSLP/mint/commit/d11c2a31ee8d8a0a84060e0da469cc6cc8219964) Removed audit/icons - ciripel</sub> |
 | <sub>2021-06-08 08:51:12</sub> | <sub>[[tentslp-token-icons:master] 1 new commit](https://github.com/TENTSLP/tentslp-token-icons/commit/faf77d5010cd3404c05636a7a1713dee62766688)</sub> | <sub>[faf77d5](https://github.com/TENTSLP/tentslp-token-icons/commit/faf77d5010cd3404c05636a7a1713dee62766688) Update README.md - ciripel</sub> |
 | <sub>2021-06-08 08:50:55</sub> | <sub>[[tentslp-token-icons:master] 1 new commit](https://github.com/TENTSLP/tentslp-token-icons/commit/3c70cb823ee839108cff2fed2136ef9313de3528)</sub> | <sub>[3c70cb8](https://github.com/TENTSLP/tentslp-token-icons/commit/3c70cb823ee839108cff2fed2136ef9313de3528) Update README.md - ciripel</sub> |
 | <sub>2021-06-08 08:50:37</sub> | <sub>[[tentslp-token-icons:master] 1 new commit](https://github.com/TENTSLP/tentslp-token-icons/commit/96bffdf3b44bbb3ba6e4889a84de4d2f183d5032)</sub> | <sub>[96bffdf](https://github.com/TENTSLP/tentslp-token-icons/commit/96bffdf3b44bbb3ba6e4889a84de4d2f183d5032) Update README.md - ciripel</sub> |
