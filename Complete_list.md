@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-08 14:27:49</sub> | <sub>Jan Vraštil (jan.vrastil) closed merge request [\!7 \*Change MZ api url to multic\*](https://gitlab.com/snowgem/activation-tent-microsite/-/merge_requests/7) in [snowgem / activation\-tent\-microsite](https://gitlab.com/snowgem/activation-tent-microsite)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-08 13:37:31</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!285 \*Add cancel button for DECTA purchase page\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/285) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-08 13:29:45</sub> | <sub>Jan Vraštil pushed new branch [cancel\_btn](https://gitlab.com/snowgem/bitfrost/commits/cancel_btn) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-08 11:19:17</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards\_019\-AFTER\_REBASE](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019-AFTER_REBASE) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7a537fbb0d11be91363983178010f1f01cee5ed9...071976d5ffe51de5d26fd5f91e58c35adfa1ebb8))</sub> | <sub>[071976d5](https://gitlab.com/snowgem/bitfrost/-/commit/071976d5ffe51de5d26fd5f91e58c35adfa1ebb8): fix - jan.vrastil</sub> |
