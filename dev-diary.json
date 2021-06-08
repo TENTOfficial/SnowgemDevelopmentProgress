@@ -46960,5 +46960,23 @@
       "description": "[b0738d31](https://gitlab.com/snowgem/bitfrost/-/commit/b0738d3144ca72b2ade7aef3d4e157390d53b2a8): correct mz api for tent - Snowgem\n\n[e8cb3b1f](https://gitlab.com/snowgem/bitfrost/-/commit/e8cb3b1f8307627f21eb5aedb7c0c523a041eef1): add get polkadot txs - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-08 08:45:51.979000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f103d40`](https://github.com/TENTSLP/tentslp-token-icons/commit/f103d40c2519ab27f23b22d26535c6a07048e2af) Update README.md - ciripel",
+      "title": "[tentslp-token-icons:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTSLP/tentslp-token-icons/commit/f103d40c2519ab27f23b22d26535c6a07048e2af"
+    }
   }
 ]
