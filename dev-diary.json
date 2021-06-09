@@ -47131,5 +47131,15 @@
       "type": "rich",
       "url": "https://github.com/TENTSLP/mint/commit/7ab64856c71b9cee69cf326419a624c5bc49c93e"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/75ac8d81d657bbeb3fdca9652c9d7c9439b77a56...9f69bfdb4ca38936e59166abd6fdacfde830e890))",
+    "created_at": "2021-06-09 02:32:01.344000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9f69bfdb](https://gitlab.com/snowgem/bitfrost/-/commit/9f69bfdb4ca38936e59166abd6fdacfde830e890): get polkadot transactions and balance - Snowgem",
+      "type": "rich"
+    }
   }
 ]
