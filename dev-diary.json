@@ -47351,5 +47351,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/080882e0df373b75efc7d58638e3548f97fb00a1"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-09 15:52:01.128000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4324118`](https://github.com/ciripel/electrum-tent/commit/4324118741cd4878c6463c8167e334e3ca64445e) remove lightning & submarine swaps - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/4324118741cd4878c6463c8167e334e3ca64445e"
+    }
   }
 ]

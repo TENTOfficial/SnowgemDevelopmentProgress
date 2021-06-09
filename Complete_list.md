@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-09 15:52:01</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/4324118741cd4878c6463c8167e334e3ca64445e)</sub> | <sub>[4324118](https://github.com/ciripel/electrum-tent/commit/4324118741cd4878c6463c8167e334e3ca64445e) remove lightning & submarine swaps - ciripel</sub> |
 | <sub>2021-06-09 12:07:14</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/080882e0df373b75efc7d58638e3548f97fb00a1)</sub> | <sub>[080882e](https://github.com/ciripel/electrum-tent/commit/080882e0df373b75efc7d58638e3548f97fb00a1) added tent changes to TREZOR - ciripel</sub> |
 | <sub>2021-06-09 11:54:29</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/b682e2b71f33ee2e06255b28e602fdbf2ec1e17d)</sub> | <sub>[b682e2b](https://github.com/ciripel/electrum-tent/commit/b682e2b71f33ee2e06255b28e602fdbf2ec1e17d) added tent changes including HW Path - ciripel</sub> |
 | <sub>2021-06-09 11:35:13</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/dcd29e0c00796f398a013254f7ba13535b36baf9)</sub> | <sub>[dcd29e0](https://github.com/ciripel/electrum-tent/commit/dcd29e0c00796f398a013254f7ba13535b36baf9) removed RBF/CPFP support, trustedcoin pluggin - ciripel</sub> |
