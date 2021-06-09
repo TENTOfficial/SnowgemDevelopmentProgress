@@ -47141,5 +47141,15 @@
       "description": "[9f69bfdb](https://gitlab.com/snowgem/bitfrost/-/commit/9f69bfdb4ca38936e59166abd6fdacfde830e890): get polkadot transactions and balance - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [cancel\\_btn](https://gitlab.com/snowgem/bitfrost/commits/cancel_btn) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ca3d9fd9c1b903186e4466d38c6b206106637e09...a97ca5843b7227ab17e1d0c86f0bc5c7d292511e))",
+    "created_at": "2021-06-09 06:44:23.340000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a97ca584](https://gitlab.com/snowgem/bitfrost/-/commit/a97ca5843b7227ab17e1d0c86f0bc5c7d292511e): Add cancelling spinner - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
