@@ -47379,5 +47379,15 @@
       "description": "[0dcc2321](https://gitlab.com/snowgem/bitfrost/-/commit/0dcc2321ff0615cc13b1224ffe8f0b1535243428): bugfix #520 - Refresh purchase page after message from backend - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0dcc2321ff0615cc13b1224ffe8f0b1535243428...b330f26dcbfa47b37ec1badbd5d56385303599bd))",
+    "created_at": "2021-06-09 20:31:29.580000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[b330f26d](https://gitlab.com/snowgem/bitfrost/-/commit/b330f26dcbfa47b37ec1badbd5d56385303599bd): bugfix #519 - Display Expired items in the purchase list - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
