@@ -47241,5 +47241,41 @@
       "description": "[2030811e](https://gitlab.com/snowgem/bitfrost/-/commit/2030811e0f6dfd52b44804407f49b568aa051880): Add cancel button for DECTA purchase page - Jan Vra\u0161til\n\n[0fdcb1f5](https://gitlab.com/snowgem/bitfrost/-/commit/0fdcb1f51d32153951831f83e65dc2c69b43d3c0): Merge branch 'cancel_btn' into 'v0.1.8' - Jan Vra\u0161til\n\n[de160f8d](https://gitlab.com/snowgem/bitfrost/-/commit/de160f8d95006d9b3ef9c60ea18fdf3f5ddb4dce): increase ios build version - Snowgem\n\n[033f7c04](https://gitlab.com/snowgem/bitfrost/-/commit/033f7c045b94de1f8727292181c2b4e4cdc36c6a): Merge branch 'v0.1.8' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-09 07:31:45.597000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2e59bfa`](https://github.com/TENTSLP/tentslp-token-icons/commit/2e59bfa266dea6a38c4857c616ea41bb192f1370) uploaded AMI token - ciripel",
+      "title": "[tentslp-token-icons:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTSLP/tentslp-token-icons/commit/2e59bfa266dea6a38c4857c616ea41bb192f1370"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-09 07:34:42.880000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`ad63320`](https://github.com/TENTSLP/tentslp-explorer/commit/ad63320cdbe98bc4e054d79bd73b04d81733ae7e) Added verified token AMI - ciripel",
+      "title": "[tentslp-explorer:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTSLP/tentslp-explorer/commit/ad63320cdbe98bc4e054d79bd73b04d81733ae7e"
+    }
   }
 ]
