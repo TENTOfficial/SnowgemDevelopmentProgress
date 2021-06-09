@@ -47297,5 +47297,23 @@
       "description": "[ef64fe7f](https://gitlab.com/snowgem/bitfrost/-/commit/ef64fe7f2629195334f20f1d253b1d0a595592d1): fix parsing polkadot transactions - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-09 11:35:13.653000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`dcd29e0`](https://github.com/ciripel/electrum-tent/commit/dcd29e0c00796f398a013254f7ba13535b36baf9) removed RBF/CPFP support, trustedcoin pluggin - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/dcd29e0c00796f398a013254f7ba13535b36baf9"
+    }
   }
 ]
