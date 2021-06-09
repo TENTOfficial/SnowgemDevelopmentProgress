@@ -47226,5 +47226,20 @@
       "description": "[de160f8d](https://gitlab.com/snowgem/bitfrost/-/commit/de160f8d95006d9b3ef9c60ea18fdf3f5ddb4dce): increase ios build version - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!286 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/286) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-09 07:13:26.047000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c45a8cb5cb05c7df9752077cbb853107e559a34d...033f7c045b94de1f8727292181c2b4e4cdc36c6a))",
+    "created_at": "2021-06-09 07:13:26.092000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2030811e](https://gitlab.com/snowgem/bitfrost/-/commit/2030811e0f6dfd52b44804407f49b568aa051880): Add cancel button for DECTA purchase page - Jan Vra\u0161til\n\n[0fdcb1f5](https://gitlab.com/snowgem/bitfrost/-/commit/0fdcb1f51d32153951831f83e65dc2c69b43d3c0): Merge branch 'cancel_btn' into 'v0.1.8' - Jan Vra\u0161til\n\n[de160f8d](https://gitlab.com/snowgem/bitfrost/-/commit/de160f8d95006d9b3ef9c60ea18fdf3f5ddb4dce): increase ios build version - Snowgem\n\n[033f7c04](https://gitlab.com/snowgem/bitfrost/-/commit/033f7c045b94de1f8727292181c2b4e4cdc36c6a): Merge branch 'v0.1.8' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
