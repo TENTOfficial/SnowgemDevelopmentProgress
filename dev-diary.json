@@ -47333,5 +47333,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/b682e2b71f33ee2e06255b28e602fdbf2ec1e17d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-09 12:07:14.215000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`080882e`](https://github.com/ciripel/electrum-tent/commit/080882e0df373b75efc7d58638e3548f97fb00a1) added tent changes to TREZOR - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/080882e0df373b75efc7d58638e3548f97fb00a1"
+    }
   }
 ]
