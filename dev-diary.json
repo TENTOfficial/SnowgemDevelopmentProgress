@@ -47287,5 +47287,15 @@
       "description": "[6a82ec6a](https://gitlab.com/snowgem/bitfrost/-/commit/6a82ec6aa136a8e5c6a8f210c006efe4f41fc723): do not push checking status multiple time - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6a82ec6aa136a8e5c6a8f210c006efe4f41fc723...ef64fe7f2629195334f20f1d253b1d0a595592d1))",
+    "created_at": "2021-06-09 10:27:30.926000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ef64fe7f](https://gitlab.com/snowgem/bitfrost/-/commit/ef64fe7f2629195334f20f1d253b1d0a595592d1): fix parsing polkadot transactions - Snowgem",
+      "type": "rich"
+    }
   }
 ]

@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4891 commits since 20/01/2020. You can see the complete history in
+There is a total of 4892 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-09 10:27:30</sub> | <sub>Txid pushed to branch [feature/add\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6a82ec6aa136a8e5c6a8f210c006efe4f41fc723...ef64fe7f2629195334f20f1d253b1d0a595592d1))</sub> | <sub>[ef64fe7f](https://gitlab.com/snowgem/bitfrost/-/commit/ef64fe7f2629195334f20f1d253b1d0a595592d1): fix parsing polkadot transactions - Snowgem</sub> |
 | <sub>2021-06-09 09:43:05</sub> | <sub>Txid pushed to branch [feature/add\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/55192b978cb64eb9875e318872dcdac854b168ba...6a82ec6aa136a8e5c6a8f210c006efe4f41fc723))</sub> | <sub>[6a82ec6a](https://gitlab.com/snowgem/bitfrost/-/commit/6a82ec6aa136a8e5c6a8f210c006efe4f41fc723): do not push checking status multiple time - Snowgem</sub> |
 | <sub>2021-06-09 07:34:42</sub> | <sub>[[tentslp-explorer:master] 1 new commit](https://github.com/TENTSLP/tentslp-explorer/commit/ad63320cdbe98bc4e054d79bd73b04d81733ae7e)</sub> | <sub>[ad63320](https://github.com/TENTSLP/tentslp-explorer/commit/ad63320cdbe98bc4e054d79bd73b04d81733ae7e) Added verified token AMI - ciripel</sub> |
 | <sub>2021-06-09 07:31:45</sub> | <sub>[[tentslp-token-icons:master] 1 new commit](https://github.com/TENTSLP/tentslp-token-icons/commit/2e59bfa266dea6a38c4857c616ea41bb192f1370)</sub> | <sub>[2e59bfa](https://github.com/TENTSLP/tentslp-token-icons/commit/2e59bfa266dea6a38c4857c616ea41bb192f1370) uploaded AMI token - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 4891 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-09 07:07:00</sub> | <sub>Txid (txid) opened merge request [\!286 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/286) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-09 07:04:01</sub> | <sub>Jan Vraštil removed branch cancel_btn from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-09 07:04:01</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!285 \*Add cancel button for DECTA purchase page\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/285) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-06-09 07:04:00</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/9641e7f26fb1040932a20405f98f93552d963bd7...0fdcb1f51d32153951831f83e65dc2c69b43d3c0))</sub> | <sub>[2030811e](https://gitlab.com/snowgem/bitfrost/-/commit/2030811e0f6dfd52b44804407f49b568aa051880): Add cancel button for DECTA purchase page - Jan Vraštil<br>[0fdcb1f5](https://gitlab.com/snowgem/bitfrost/-/commit/0fdcb1f51d32153951831f83e65dc2c69b43d3c0): Merge branch 'cancel_btn' into 'v0.1.8' - Jan Vraštil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
