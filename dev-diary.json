@@ -47277,5 +47277,15 @@
       "type": "rich",
       "url": "https://github.com/TENTSLP/tentslp-explorer/commit/ad63320cdbe98bc4e054d79bd73b04d81733ae7e"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/55192b978cb64eb9875e318872dcdac854b168ba...6a82ec6aa136a8e5c6a8f210c006efe4f41fc723))",
+    "created_at": "2021-06-09 09:43:05.414000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6a82ec6a](https://gitlab.com/snowgem/bitfrost/-/commit/6a82ec6aa136a8e5c6a8f210c006efe4f41fc723): do not push checking status multiple time - Snowgem",
+      "type": "rich"
+    }
   }
 ]
