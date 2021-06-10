@@ -47449,5 +47449,15 @@
       "description": "[ad3ef0b7](https://gitlab.com/snowgem/bitfrost/-/commit/ad3ef0b76e6ccdd2331b315232d81af9b822a4b9): V0.1.8 - Jan Vra\u0161til\n\n[62170116](https://gitlab.com/snowgem/bitfrost/-/commit/62170116cea71d54bc1f7ef68dd7937a719eb4d1): Merge branch 'v0.1.8' into 'testing' - Jan Vra\u0161til",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ef64fe7f2629195334f20f1d253b1d0a595592d1...0ef07ee99917467e80a7bdec5ac8b86a8603c0d7))",
+    "created_at": "2021-06-10 07:24:25.231000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cd35d4a6](https://gitlab.com/snowgem/bitfrost/-/commit/cd35d4a64d86cfc046ddc43ed25c03e9ee208a24): fix polkadot transactions and get balance - Snowgem\n\n[0ef07ee9](https://gitlab.com/snowgem/bitfrost/-/commit/0ef07ee99917467e80a7bdec5ac8b86a8603c0d7): only get balance when having new txs - Snowgem",
+      "type": "rich"
+    }
   }
 ]
