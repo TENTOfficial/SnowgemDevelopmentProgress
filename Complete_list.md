@@ -5,6 +5,10 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-10 19:59:12</sub> | <sub>Jan Vraštil (jan.vrastil) closed merge request [\!290 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/290) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-06-10 19:58:39</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!291 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/291) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-06-10 19:58:08</sub> | <sub>Jan Vraštil removed branch v0.1.8_@ from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-06-10 19:57:42</sub> | <sub>Jan Vraštil pushed new branch [v0\.1\.8\_@](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8_@) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-10 19:52:04</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!290 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/290) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-10 19:51:36</sub> | <sub>Jan Vraštil (jan.vrastil) closed merge request [\!289 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/289) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-10 19:41:15</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!289 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/289) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
