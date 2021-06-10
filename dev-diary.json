@@ -47409,5 +47409,15 @@
       "description": "[0dcc2321](https://gitlab.com/snowgem/bitfrost/-/commit/0dcc2321ff0615cc13b1224ffe8f0b1535243428): bugfix #520 - Refresh purchase page after message from backend - jan.vrastil\n\n[b330f26d](https://gitlab.com/snowgem/bitfrost/-/commit/b330f26dcbfa47b37ec1badbd5d56385303599bd): bugfix #519 - Display Expired items in the purchase list - jan.vrastil\n\n[de8d6a0b](https://gitlab.com/snowgem/bitfrost/-/commit/de8d6a0b5a18dca382d660adec4730b5a045a655): Merge branch 'v0.1.8' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b330f26dcbfa47b37ec1badbd5d56385303599bd...419aed262cd085fa09ccce0a92a6f768b221aa1f))",
+    "created_at": "2021-06-10 05:11:04.370000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[419aed26](https://gitlab.com/snowgem/bitfrost/-/commit/419aed262cd085fa09ccce0a92a6f768b221aa1f): bugfix #520 - Refresh swap list after message from backend - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
