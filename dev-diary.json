@@ -47479,5 +47479,15 @@
       "description": "[7ab315e7](https://gitlab.com/snowgem/bitfrost/-/commit/7ab315e790af65229a771ffca188d2fad7ef4926): create polkadot transaction successfully - Snowgem\n\n[dc843134](https://gitlab.com/snowgem/bitfrost/-/commit/dc84313482092a3772c39eeee03ec9b3f48f8ea0): use extrinsics instead of transfer polkadot - Snowgem\n\n[db8eaf91](https://gitlab.com/snowgem/bitfrost/-/commit/db8eaf91c944f7e607ca66e1d3af5c79829eb110): fix polkadot transaction list - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/db8eaf91c944f7e607ca66e1d3af5c79829eb110...fec60f3ebcc8079d6640c125aff197576fb31c7b))",
+    "created_at": "2021-06-10 10:43:01.248000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fec60f3e](https://gitlab.com/snowgem/bitfrost/-/commit/fec60f3ebcc8079d6640c125aff197576fb31c7b): show tx hash for dot - Snowgem",
+      "type": "rich"
+    }
   }
 ]
