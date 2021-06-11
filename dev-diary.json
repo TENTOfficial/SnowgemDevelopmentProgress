@@ -47669,5 +47669,15 @@
       "description": "[2ef6d9c8](https://gitlab.com/snowgem/bitfrost/-/commit/2ef6d9c882120d964c16071e8a9a6a0099257ab4): fix lint - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2ef6d9c882120d964c16071e8a9a6a0099257ab4...4d71e1f523dac97b1b503dae64e39c69fa5cd355))",
+    "created_at": "2021-06-11 10:52:12.848000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4d71e1f5](https://gitlab.com/snowgem/bitfrost/-/commit/4d71e1f523dac97b1b503dae64e39c69fa5cd355): fix lint #2 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
