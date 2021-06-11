@@ -47589,5 +47589,15 @@
       "description": "[45c5e128](https://gitlab.com/snowgem/bitfrost/-/commit/45c5e12888799ebbbd7d07b8db546f8f88a714cc): estimated fee for polkadot - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/aca808b3ad22fa35905420fc82738d50cb00b054...4e384d57f0bd90d383da0a2736aa9f4cf30c02c3))",
+    "created_at": "2021-06-11 07:11:16.500000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4e384d57](https://gitlab.com/snowgem/bitfrost/-/commit/4e384d57f0bd90d383da0a2736aa9f4cf30c02c3): fix payment header - Snowgem",
+      "type": "rich"
+    }
   }
 ]
