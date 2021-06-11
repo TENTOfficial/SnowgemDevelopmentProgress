@@ -47579,5 +47579,15 @@
       "description": "[82f26cbf](https://gitlab.com/snowgem/bitfrost/-/commit/82f26cbf7e8ec4db980c4e87bd065665749bf7da): add keep alive option for dot txs - Snowgem\n\n[fca55dc7](https://gitlab.com/snowgem/bitfrost/-/commit/fca55dc7b744bbd6a3f90ef5c5da4dd94af2893d): add keep alive option for polkadot - Snowgem\n\n[06793578](https://gitlab.com/snowgem/bitfrost/-/commit/0679357863a1aff1b793d3927a8d1a42d3ee6f12): fix send-overview page total fiat forDOT - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [feature/add\\-dot](https://gitlab.com/snowgem/bitfrost/commits/feature/add-dot) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0679357863a1aff1b793d3927a8d1a42d3ee6f12...45c5e12888799ebbbd7d07b8db546f8f88a714cc))",
+    "created_at": "2021-06-11 06:46:58.980000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[45c5e128](https://gitlab.com/snowgem/bitfrost/-/commit/45c5e12888799ebbbd7d07b8db546f8f88a714cc): estimated fee for polkadot - Snowgem",
+      "type": "rich"
+    }
   }
 ]
