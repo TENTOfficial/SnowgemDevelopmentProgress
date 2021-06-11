@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-11 01:05:33</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7719c9bc05c02ecf4887b273c68e28958eb95ff3...aca808b3ad22fa35905420fc82738d50cb00b054))</sub> | <sub>[1337a3f5](https://gitlab.com/snowgem/bitfrost/-/commit/1337a3f5db7f14a5e6c61e87b5c66b2550a0c02c): fix cors issue for decta - Snowgem<br>[aca808b3](https://gitlab.com/snowgem/bitfrost/-/commit/aca808b3ad22fa35905420fc82738d50cb00b054): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem</sub> |
 | <sub>2021-06-10 19:59:12</sub> | <sub>Jan Vraštil (jan.vrastil) closed merge request [\!290 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/290) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-10 19:58:39</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!291 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/291) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-10 19:58:08</sub> | <sub>Jan Vraštil removed branch v0.1.8_@ from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |

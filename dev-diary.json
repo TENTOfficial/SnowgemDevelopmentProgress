@@ -47534,5 +47534,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) closed merge request [\\!290 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/290) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-10 19:59:12.483000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7719c9bc05c02ecf4887b273c68e28958eb95ff3...aca808b3ad22fa35905420fc82738d50cb00b054))",
+    "created_at": "2021-06-11 01:05:33.448000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1337a3f5](https://gitlab.com/snowgem/bitfrost/-/commit/1337a3f5db7f14a5e6c61e87b5c66b2550a0c02c): fix cors issue for decta - Snowgem\n\n[aca808b3](https://gitlab.com/snowgem/bitfrost/-/commit/aca808b3ad22fa35905420fc82738d50cb00b054): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
