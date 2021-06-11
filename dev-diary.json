@@ -47599,5 +47599,15 @@
       "description": "[4e384d57](https://gitlab.com/snowgem/bitfrost/-/commit/4e384d57f0bd90d383da0a2736aa9f4cf30c02c3): fix payment header - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4e384d57f0bd90d383da0a2736aa9f4cf30c02c3...f2bb922ef280c53751acfcdc6a336d006ddd2d8c))",
+    "created_at": "2021-06-11 07:21:25.333000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f2bb922e](https://gitlab.com/snowgem/bitfrost/-/commit/f2bb922ef280c53751acfcdc6a336d006ddd2d8c): fix payment header - Snowgem",
+      "type": "rich"
+    }
   }
 ]
