@@ -47689,5 +47689,25 @@
       "description": "[1dae211e](https://gitlab.com/snowgem/bitfrost/-/commit/1dae211e9d98b532b2eb15385e60d524d40adf7c): Fix #522 - Refresh userInfo if it's not loaded - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!294 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/294) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-12 01:11:43.145000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!294 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/294) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-12 01:12:01.927000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/53c2686245b228a60fe347724f2fb62d0cfb567b...fe663b64553dca9ddc00d428fe61a3b6597d7a6e))",
+    "created_at": "2021-06-12 01:12:02.189000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[34613111](https://gitlab.com/snowgem/bitfrost/-/commit/34613111eca1f25662745064b579b9cee8774caa): fix payment header - Snowgem\n\n[1dae211e](https://gitlab.com/snowgem/bitfrost/-/commit/1dae211e9d98b532b2eb15385e60d524d40adf7c): Fix #522 - Refresh userInfo if it's not loaded - jan.vrastil\n\n[fe663b64](https://gitlab.com/snowgem/bitfrost/-/commit/fe663b64553dca9ddc00d428fe61a3b6597d7a6e): Merge branch 'v0.1.8' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
