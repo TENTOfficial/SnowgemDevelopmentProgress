@@ -47781,5 +47781,41 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/8da65f5b77993265e3e791aac2fb8f7292cfc55d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-13 19:10:03.225000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`a990d01`](https://github.com/ciripel/electrum-tent/commit/a990d0182b89b56c6170eb6d711ae0e91ccffdd3) removed is_lightning and fixed address decoding - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/a990d0182b89b56c6170eb6d711ae0e91ccffdd3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-13 19:11:40.488000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`238c1f2`](https://github.com/ciripel/electrum-tent/commit/238c1f22aeb00b108f6a81de595e64aa51a5afd7) removed is_lightning - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/238c1f22aeb00b108f6a81de595e64aa51a5afd7"
+    }
   }
 ]
