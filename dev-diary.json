@@ -47763,5 +47763,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/compare/cad4e77853b1...fbd8c5f7b039"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-13 17:06:40.883000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`8da65f5`](https://github.com/ciripel/electrum-tent/commit/8da65f5b77993265e3e791aac2fb8f7292cfc55d) fixed block header - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/8da65f5b77993265e3e791aac2fb8f7292cfc55d"
+    }
   }
 ]
