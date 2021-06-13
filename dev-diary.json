@@ -47709,5 +47709,23 @@
       "description": "[34613111](https://gitlab.com/snowgem/bitfrost/-/commit/34613111eca1f25662745064b579b9cee8774caa): fix payment header - Snowgem\n\n[1dae211e](https://gitlab.com/snowgem/bitfrost/-/commit/1dae211e9d98b532b2eb15385e60d524d40adf7c): Fix #522 - Refresh userInfo if it's not loaded - jan.vrastil\n\n[fe663b64](https://gitlab.com/snowgem/bitfrost/-/commit/fe663b64553dca9ddc00d428fe61a3b6597d7a6e): Merge branch 'v0.1.8' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-13 08:36:08.972000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`108d90c`](https://github.com/ciripel/Heimdall/commit/108d90ca198fead98f8cf6aeee00a7e680029308) updated translators list - ciripel",
+      "title": "[Heimdall:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/Heimdall/commit/108d90ca198fead98f8cf6aeee00a7e680029308"
+    }
   }
 ]
