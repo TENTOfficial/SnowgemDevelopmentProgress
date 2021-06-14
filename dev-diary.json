@@ -47857,5 +47857,30 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!295 \\*Swap changes\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/295) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-14 13:46:16.645000"
+  },
+  {
+    "author": "GitLab",
+    "content": "demzet (aphex5) approved merge request [\\!295 \\*Swap changes\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/295) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-14 13:53:05.999000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1900ba8ff1cc354069c01a2b23c75afe86ac4952...10dbd909e07095ec5681bdea9b7c2cbc7e890521))",
+    "created_at": "2021-06-14 13:54:49.717000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ca303651](https://gitlab.com/snowgem/bitfrost/-/commit/ca30365108c4073a48ec1cbc1346d9e2d375971d): Fix 'TargetExchangeEndpoint' api calls - Jan Vra\u0161til\n\n[10dbd909](https://gitlab.com/snowgem/bitfrost/-/commit/10dbd909e07095ec5681bdea9b7c2cbc7e890521): Merge branch 'swap_changes' into 'v0.1.8' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!295 \\*Swap changes\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/295) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-14 13:54:49.869000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch swap_changes from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-14 13:54:50.361000"
   }
 ]
