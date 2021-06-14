@@ -47817,5 +47817,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/238c1f22aeb00b108f6a81de595e64aa51a5afd7"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1dae211e9d98b532b2eb15385e60d524d40adf7c...eba6e5f4f573555ffaedd0449ad4723078078156))",
+    "created_at": "2021-06-14 08:43:56.154000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[eba6e5f4](https://gitlab.com/snowgem/bitfrost/-/commit/eba6e5f4f573555ffaedd0449ad4723078078156): #526 - Revert close button in iframe page - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
