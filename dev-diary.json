@@ -47912,5 +47912,10 @@
       "description": "[eba6e5f4](https://gitlab.com/snowgem/bitfrost/-/commit/eba6e5f4f573555ffaedd0449ad4723078078156): #526 - Revert close button in iframe page - jan.vrastil\n\n[b356dc13](https://gitlab.com/snowgem/bitfrost/-/commit/b356dc13c4336675473c4f6151a167e101e201a8): fix #524, Swaproutes are showing duplicates - Snowgem\n\n[1900ba8f](https://gitlab.com/snowgem/bitfrost/-/commit/1900ba8ff1cc354069c01a2b23c75afe86ac4952): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem\n\n[ca303651](https://gitlab.com/snowgem/bitfrost/-/commit/ca30365108c4073a48ec1cbc1346d9e2d375971d): Fix 'TargetExchangeEndpoint' api calls - Jan Vra\u0161til\n\n[10dbd909](https://gitlab.com/snowgem/bitfrost/-/commit/10dbd909e07095ec5681bdea9b7c2cbc7e890521): Merge branch 'swap_changes' into 'v0.1.8' - Jan Vra\u0161til\n\n[938007ea](https://gitlab.com/snowgem/bitfrost/-/commit/938007ea81456498b7749a518a43207d1f334d23): increase ios build version - Snowgem\n\n[d2708c17](https://gitlab.com/snowgem/bitfrost/-/commit/d2708c17f1d6128898f02674bced77304f503cfa): Merge branch 'v0.1.8' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [refresh\\_token\\_wip](https://gitlab.com/snowgem/bitfrost/commits/refresh_token_wip) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-15 12:54:17.323000"
   }
 ]
