@@ -47882,5 +47882,20 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til removed branch swap_changes from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-14 13:54:50.361000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/10dbd909e07095ec5681bdea9b7c2cbc7e890521...938007ea81456498b7749a518a43207d1f334d23))",
+    "created_at": "2021-06-15 01:36:58.085000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[938007ea](https://gitlab.com/snowgem/bitfrost/-/commit/938007ea81456498b7749a518a43207d1f334d23): increase ios build version - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!296 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/296) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-15 01:38:07.910000"
   }
 ]
