@@ -47947,5 +47947,15 @@
       "description": "[cea38830](https://gitlab.com/snowgem/bitfrost/-/commit/cea388305b78ed56ca63540163b5c250acd00571): show check transactions event - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/938007ea81456498b7749a518a43207d1f334d23...159c837c3bf1d7ecc8cc59f6395329716a50d2cc))",
+    "created_at": "2021-06-16 06:38:39.097000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[159c837c](https://gitlab.com/snowgem/bitfrost/-/commit/159c837c3bf1d7ecc8cc59f6395329716a50d2cc): Fix cancel issue for iframe page - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
