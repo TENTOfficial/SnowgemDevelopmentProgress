@@ -47982,5 +47982,15 @@
       "description": "[c248b7ed](https://gitlab.com/snowgem/bitfrost/-/commit/c248b7edd91b88f624ad181fdf6d37e86eb4bdb5): sort wallet by priority first - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c248b7edd91b88f624ad181fdf6d37e86eb4bdb5...d856d2a51578f4860be0fafb6a827bd6b97bbf44))",
+    "created_at": "2021-06-16 12:07:28.671000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d856d2a5](https://gitlab.com/snowgem/bitfrost/-/commit/d856d2a51578f4860be0fafb6a827bd6b97bbf44): fix transaction broadcast error display - Snowgem",
+      "type": "rich"
+    }
   }
 ]
