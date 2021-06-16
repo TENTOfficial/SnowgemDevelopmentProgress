@@ -47937,5 +47937,15 @@
       "description": "[d83ea3d9](https://gitlab.com/snowgem/bitfrost/-/commit/d83ea3d9c0ad2a8328d2182c6042df88a0d4e765): add Goldax token - Snowgem\n\n[b8c088fa](https://gitlab.com/snowgem/bitfrost/-/commit/b8c088fa1162469f3411307a5c2595c248b3c9df): fix network fallback - Snowgem\n\n[7bf6f380](https://gitlab.com/snowgem/bitfrost/-/commit/7bf6f3800f16115fd502916d7895ce42328b5ca7): fix rates at the first time load wallet - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7bf6f3800f16115fd502916d7895ce42328b5ca7...cea388305b78ed56ca63540163b5c250acd00571))",
+    "created_at": "2021-06-16 05:52:39.498000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[cea38830](https://gitlab.com/snowgem/bitfrost/-/commit/cea388305b78ed56ca63540163b5c250acd00571): show check transactions event - Snowgem",
+      "type": "rich"
+    }
   }
 ]
