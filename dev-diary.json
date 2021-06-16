@@ -47972,5 +47972,15 @@
       "description": "[d72a0deb](https://gitlab.com/snowgem/bitfrost/-/commit/d72a0deb8c29828fdf4fd28557f58a3a78f80b8d): add await for overlay spinner - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cea388305b78ed56ca63540163b5c250acd00571...c248b7edd91b88f624ad181fdf6d37e86eb4bdb5))",
+    "created_at": "2021-06-16 08:59:46.253000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c248b7ed](https://gitlab.com/snowgem/bitfrost/-/commit/c248b7edd91b88f624ad181fdf6d37e86eb4bdb5): sort wallet by priority first - Snowgem",
+      "type": "rich"
+    }
   }
 ]
