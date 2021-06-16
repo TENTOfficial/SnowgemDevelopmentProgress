@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4963 commits since 20/01/2020. You can see the complete history in
+There is a total of 4964 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-16 07:11:29</sub> | <sub>Jan Vraštil pushed new branch [WS\_HACK](https://gitlab.com/snowgem/bitfrost/commits/WS_HACK) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-16 06:38:39</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/938007ea81456498b7749a518a43207d1f334d23...159c837c3bf1d7ecc8cc59f6395329716a50d2cc))</sub> | <sub>[159c837c](https://gitlab.com/snowgem/bitfrost/-/commit/159c837c3bf1d7ecc8cc59f6395329716a50d2cc): Fix cancel issue for iframe page - jan.vrastil</sub> |
 | <sub>2021-06-16 05:52:39</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7bf6f3800f16115fd502916d7895ce42328b5ca7...cea388305b78ed56ca63540163b5c250acd00571))</sub> | <sub>[cea38830](https://gitlab.com/snowgem/bitfrost/-/commit/cea388305b78ed56ca63540163b5c250acd00571): show check transactions event - Snowgem</sub> |
 | <sub>2021-06-16 05:44:19</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/42bacbad1fee80e870c0a42f3cb1917f3dee9b10...7bf6f3800f16115fd502916d7895ce42328b5ca7))</sub> | <sub>[d83ea3d9](https://gitlab.com/snowgem/bitfrost/-/commit/d83ea3d9c0ad2a8328d2182c6042df88a0d4e765): add Goldax token - Snowgem<br>[b8c088fa](https://gitlab.com/snowgem/bitfrost/-/commit/b8c088fa1162469f3411307a5c2595c248b3c9df): fix network fallback - Snowgem<br>[7bf6f380](https://gitlab.com/snowgem/bitfrost/-/commit/7bf6f3800f16115fd502916d7895ce42328b5ca7): fix rates at the first time load wallet - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 4963 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-15 01:47:55</sub> | <sub>Txid (txid) merged merge request [\!296 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/296) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-15 01:38:07</sub> | <sub>Txid (txid) opened merge request [\!296 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/296) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-15 01:36:58</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/10dbd909e07095ec5681bdea9b7c2cbc7e890521...938007ea81456498b7749a518a43207d1f334d23))</sub> | <sub>[938007ea](https://gitlab.com/snowgem/bitfrost/-/commit/938007ea81456498b7749a518a43207d1f334d23): increase ios build version - Snowgem</sub> |
-| <sub>2021-06-14 13:54:50</sub> | <sub>Jan Vraštil removed branch swap_changes from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

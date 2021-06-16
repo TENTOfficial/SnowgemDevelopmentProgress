@@ -47957,5 +47957,10 @@
       "description": "[159c837c](https://gitlab.com/snowgem/bitfrost/-/commit/159c837c3bf1d7ecc8cc59f6395329716a50d2cc): Fix cancel issue for iframe page - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [WS\\_HACK](https://gitlab.com/snowgem/bitfrost/commits/WS_HACK) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-16 07:11:29.654000"
   }
 ]
