@@ -47992,5 +47992,15 @@
       "description": "[d856d2a5](https://gitlab.com/snowgem/bitfrost/-/commit/d856d2a51578f4860be0fafb6a827bd6b97bbf44): fix transaction broadcast error display - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d856d2a51578f4860be0fafb6a827bd6b97bbf44...ec1a98f4ae5bceb5a848b0a5719e0659f13f2b87))",
+    "created_at": "2021-06-16 13:03:21.726000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ec1a98f4](https://gitlab.com/snowgem/bitfrost/-/commit/ec1a98f4ae5bceb5a848b0a5719e0659f13f2b87): fix crete transaction for bitcore - Snowgem",
+      "type": "rich"
+    }
   }
 ]
