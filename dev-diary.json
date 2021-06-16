@@ -47917,5 +47917,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [refresh\\_token\\_wip](https://gitlab.com/snowgem/bitfrost/commits/refresh_token_wip) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-15 12:54:17.323000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/7475d0e778c5e3d2a3689b767b813f426dbfd95b...42bacbad1fee80e870c0a42f3cb1917f3dee9b10))",
+    "created_at": "2021-06-16 03:31:17.517000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8b5770b0](https://gitlab.com/snowgem/bitfrost/-/commit/8b5770b0e2790b0f5b165f10dd72d888b9fe8610): remove header in wallets-overview page - Snowgem\n\n[42bacbad](https://gitlab.com/snowgem/bitfrost/-/commit/42bacbad1fee80e870c0a42f3cb1917f3dee9b10): fix get web3 lib error - Snowgem",
+      "type": "rich"
+    }
   }
 ]
