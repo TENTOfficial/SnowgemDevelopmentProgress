@@ -48062,5 +48062,30 @@
       "description": "[d610e0af](https://gitlab.com/snowgem/bitfrost/-/commit/d610e0afdb3a8b5c58b4cfc666ff95fd0e940a74): move RefreshTokenService to payment-gateway-iframe, unsubscribe - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [bugs/fix\\-timeout\\-payment](https://gitlab.com/snowgem/bitfrost/commits/bugs/fix-timeout-payment) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d610e0afdb3a8b5c58b4cfc666ff95fd0e940a74...95bef5e16d4d4cc251a48d5f78b542fed3f7fa99))",
+    "created_at": "2021-06-17 14:26:57.221000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[89525cb4](https://gitlab.com/snowgem/bitfrost/-/commit/89525cb43fc88ff296e5f472f9fef8545d4fc8a0): get token again if connection is closed - Snowgem\n\n[4e4fe1be](https://gitlab.com/snowgem/bitfrost/-/commit/4e4fe1be42b6017003c26c2cd6b7c292760402de): fix registerinexplorer eth - Snowgem\n\n[95bef5e1](https://gitlab.com/snowgem/bitfrost/-/commit/95bef5e16d4d4cc251a48d5f78b542fed3f7fa99): spawm connection again when connection is expired - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!298 \\*Bugs/fix timeout payment\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/298) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-17 14:27:44.769000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [bugs/fix\\-timeout\\-payment](https://gitlab.com/snowgem/bitfrost/commits/bugs/fix-timeout-payment) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/95bef5e16d4d4cc251a48d5f78b542fed3f7fa99...c920ca5246e06bf08f015f4e1982922ca3ce73d9))",
+    "created_at": "2021-06-17 14:29:10.843000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[c920ca52](https://gitlab.com/snowgem/bitfrost/-/commit/c920ca5246e06bf08f015f4e1982922ca3ce73d9): clen code - Snowgem",
+      "type": "rich"
+    }
   }
 ]
