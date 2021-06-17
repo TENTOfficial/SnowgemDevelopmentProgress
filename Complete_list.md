@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-17 11:06:06</sub> | <sub>Txid pushed to branch [bugs/fix\-timeout\-payment](https://gitlab.com/snowgem/bitfrost/commits/bugs/fix-timeout-payment) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3882a8c4e8acef25a75fc10c1f22bf3cdc13d5fd...d610e0afdb3a8b5c58b4cfc666ff95fd0e940a74))</sub> | <sub>[d610e0af](https://gitlab.com/snowgem/bitfrost/-/commit/d610e0afdb3a8b5c58b4cfc666ff95fd0e940a74): move RefreshTokenService to payment-gateway-iframe, unsubscribe - Snowgem</sub> |
 | <sub>2021-06-17 09:59:33</sub> | <sub>Txid pushed new branch [bugs/fix\-timeout\-payment](https://gitlab.com/snowgem/bitfrost/commits/bugs/fix-timeout-payment) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-17 08:59:14</sub> | <sub>Txid removed branch WS_HACK from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-17 08:59:03</sub> | <sub>Txid (txid) merged merge request [\!297 \*Ws hack\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/297) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |

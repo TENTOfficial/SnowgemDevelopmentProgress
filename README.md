@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4975 commits since 20/01/2020. You can see the complete history in
+There is a total of 4976 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-17 11:06:06</sub> | <sub>Txid pushed to branch [bugs/fix\-timeout\-payment](https://gitlab.com/snowgem/bitfrost/commits/bugs/fix-timeout-payment) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3882a8c4e8acef25a75fc10c1f22bf3cdc13d5fd...d610e0afdb3a8b5c58b4cfc666ff95fd0e940a74))</sub> | <sub>[d610e0af](https://gitlab.com/snowgem/bitfrost/-/commit/d610e0afdb3a8b5c58b4cfc666ff95fd0e940a74): move RefreshTokenService to payment-gateway-iframe, unsubscribe - Snowgem</sub> |
 | <sub>2021-06-17 09:59:33</sub> | <sub>Txid pushed new branch [bugs/fix\-timeout\-payment](https://gitlab.com/snowgem/bitfrost/commits/bugs/fix-timeout-payment) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-17 08:59:14</sub> | <sub>Txid removed branch WS_HACK from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-17 08:59:03</sub> | <sub>Txid (txid) merged merge request [\!297 \*Ws hack\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/297) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4975 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-17 08:33:56</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/159c837c3bf1d7ecc8cc59f6395329716a50d2cc...86dd3442f231fe854ec6d00ed2170520a8d686ec))</sub> | <sub>[c4e07a0d](https://gitlab.com/snowgem/bitfrost/-/commit/c4e07a0dbab269bcd66f73d623d8869c55bcac3d): fix eth swap issue - Snowgem<br>[86dd3442](https://gitlab.com/snowgem/bitfrost/-/commit/86dd3442f231fe854ec6d00ed2170520a8d686ec): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem</sub> |
 | <sub>2021-06-16 13:03:21</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d856d2a51578f4860be0fafb6a827bd6b97bbf44...ec1a98f4ae5bceb5a848b0a5719e0659f13f2b87))</sub> | <sub>[ec1a98f4](https://gitlab.com/snowgem/bitfrost/-/commit/ec1a98f4ae5bceb5a848b0a5719e0659f13f2b87): fix crete transaction for bitcore - Snowgem</sub> |
 | <sub>2021-06-16 12:07:28</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c248b7edd91b88f624ad181fdf6d37e86eb4bdb5...d856d2a51578f4860be0fafb6a827bd6b97bbf44))</sub> | <sub>[d856d2a5](https://gitlab.com/snowgem/bitfrost/-/commit/d856d2a51578f4860be0fafb6a827bd6b97bbf44): fix transaction broadcast error display - Snowgem</sub> |
-| <sub>2021-06-16 08:59:46</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cea388305b78ed56ca63540163b5c250acd00571...c248b7edd91b88f624ad181fdf6d37e86eb4bdb5))</sub> | <sub>[c248b7ed](https://gitlab.com/snowgem/bitfrost/-/commit/c248b7edd91b88f624ad181fdf6d37e86eb4bdb5): sort wallet by priority first - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
