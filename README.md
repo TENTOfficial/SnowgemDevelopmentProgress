@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4990 commits since 20/01/2020. You can see the complete history in
+There is a total of 4991 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-17 18:47:21</sub> | <sub>[[mint:show\-wif] 1 new commit](https://github.com/TENTSLP/mint/commit/b601ec94e1ac129cb2fe505374c7696f2fbe8577)</sub> | <sub>[b601ec9](https://github.com/TENTSLP/mint/commit/b601ec94e1ac129cb2fe505374c7696f2fbe8577) show wif - ciripel</sub> |
 | <sub>2021-06-17 15:08:23</sub> | <sub>Txid (txid) merged merge request [\!300 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/300) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-17 15:08:22</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/108689fa0a9d9cbba59074e4f63648cd76a3d7e3...4b9ce90e97124c0fdd95c2bf8fb70e5c9a48f56f))</sub> | <sub>[573e642d](https://gitlab.com/snowgem/bitfrost/-/commit/573e642d43c3b4664327b300396171ba88aac07e): V0.1.8 - Txid<br>[4b9ce90e](https://gitlab.com/snowgem/bitfrost/-/commit/4b9ce90e97124c0fdd95c2bf8fb70e5c9a48f56f): Merge branch 'v0.1.8' into 'testing' - Txid</sub> |
 | <sub>2021-06-17 15:04:35</sub> | <sub>Txid (txid) opened merge request [\!300 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/300) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 4990 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-17 14:43:42</sub> | <sub>Txid (txid) opened merge request [\!299 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/299) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-17 14:38:45</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cc28c9bf3fbcd7a8bbf3f3f49302d725fce8ee9b...4fadf6f481086eb8924ccc7664ebec108d868343))</sub> | <sub>[4fadf6f4](https://gitlab.com/snowgem/bitfrost/-/commit/4fadf6f481086eb8924ccc7664ebec108d868343): increase ios build version - Snowgem</sub> |
 | <sub>2021-06-17 14:34:24</sub> | <sub>Txid removed branch bugs/fix-timeout-payment from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-06-17 14:34:24</sub> | <sub>Txid (txid) merged merge request [\!298 \*Bugs/fix timeout payment\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/298) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
