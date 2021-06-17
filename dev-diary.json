@@ -48087,5 +48087,25 @@
       "description": "[c920ca52](https://gitlab.com/snowgem/bitfrost/-/commit/c920ca5246e06bf08f015f4e1982922ca3ce73d9): clen code - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/36efba58864c1e17170ff29d02835a8c48e2d1f4...cc28c9bf3fbcd7a8bbf3f3f49302d725fce8ee9b))",
+    "created_at": "2021-06-17 14:34:24.071000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[574d19fb](https://gitlab.com/snowgem/bitfrost/-/commit/574d19fb4e53382ad41a684c4de971626d7e6129): Bugs/fix timeout payment - Txid\n\n[cc28c9bf](https://gitlab.com/snowgem/bitfrost/-/commit/cc28c9bf3fbcd7a8bbf3f3f49302d725fce8ee9b): Merge branch 'bugs/fix-timeout-payment' into 'v0.1.8' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!298 \\*Bugs/fix timeout payment\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/298) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-17 14:34:24.087000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid removed branch bugs/fix-timeout-payment from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-17 14:34:24.418000"
   }
 ]
