@@ -48012,5 +48012,15 @@
       "description": "[c4e07a0d](https://gitlab.com/snowgem/bitfrost/-/commit/c4e07a0dbab269bcd66f73d623d8869c55bcac3d): fix eth swap issue - Snowgem\n\n[86dd3442](https://gitlab.com/snowgem/bitfrost/-/commit/86dd3442f231fe854ec6d00ed2170520a8d686ec): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/86dd3442f231fe854ec6d00ed2170520a8d686ec...6fe6e02ad30e46da7f8395f2a3db6506f60aaba6))",
+    "created_at": "2021-06-17 08:37:26.304000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6fe6e02a](https://gitlab.com/snowgem/bitfrost/-/commit/6fe6e02ad30e46da7f8395f2a3db6506f60aaba6): correct adding address fail message - Snowgem",
+      "type": "rich"
+    }
   }
 ]
