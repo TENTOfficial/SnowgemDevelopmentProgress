@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4974 commits since 20/01/2020. You can see the complete history in
+There is a total of 4975 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-17 09:59:33</sub> | <sub>Txid pushed new branch [bugs/fix\-timeout\-payment](https://gitlab.com/snowgem/bitfrost/commits/bugs/fix-timeout-payment) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-17 08:59:14</sub> | <sub>Txid removed branch WS_HACK from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-17 08:59:03</sub> | <sub>Txid (txid) merged merge request [\!297 \*Ws hack\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/297) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-17 08:59:03</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6fe6e02ad30e46da7f8395f2a3db6506f60aaba6...36efba58864c1e17170ff29d02835a8c48e2d1f4))</sub> | <sub>[0ade1228](https://gitlab.com/snowgem/bitfrost/-/commit/0ade1228685c22a9739aae1b6b327683d123b814): WS issue hack fix - jan.vrastil<br>[d72a0deb](https://gitlab.com/snowgem/bitfrost/-/commit/d72a0deb8c29828fdf4fd28557f58a3a78f80b8d): add await for overlay spinner - jan.vrastil<br>[36efba58](https://gitlab.com/snowgem/bitfrost/-/commit/36efba58864c1e17170ff29d02835a8c48e2d1f4): Merge branch 'WS_HACK' into 'v0.1.8' - Txid</sub> |
@@ -17,6 +18,5 @@ There is a total of 4974 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-16 13:03:21</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d856d2a51578f4860be0fafb6a827bd6b97bbf44...ec1a98f4ae5bceb5a848b0a5719e0659f13f2b87))</sub> | <sub>[ec1a98f4](https://gitlab.com/snowgem/bitfrost/-/commit/ec1a98f4ae5bceb5a848b0a5719e0659f13f2b87): fix crete transaction for bitcore - Snowgem</sub> |
 | <sub>2021-06-16 12:07:28</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c248b7edd91b88f624ad181fdf6d37e86eb4bdb5...d856d2a51578f4860be0fafb6a827bd6b97bbf44))</sub> | <sub>[d856d2a5](https://gitlab.com/snowgem/bitfrost/-/commit/d856d2a51578f4860be0fafb6a827bd6b97bbf44): fix transaction broadcast error display - Snowgem</sub> |
 | <sub>2021-06-16 08:59:46</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/cea388305b78ed56ca63540163b5c250acd00571...c248b7edd91b88f624ad181fdf6d37e86eb4bdb5))</sub> | <sub>[c248b7ed](https://gitlab.com/snowgem/bitfrost/-/commit/c248b7edd91b88f624ad181fdf6d37e86eb4bdb5): sort wallet by priority first - Snowgem</sub> |
-| <sub>2021-06-16 07:31:03</sub> | <sub>Jan Vraštil pushed to branch [WS\_HACK](https://gitlab.com/snowgem/bitfrost/commits/WS_HACK) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0ade1228685c22a9739aae1b6b327683d123b814...d72a0deb8c29828fdf4fd28557f58a3a78f80b8d))</sub> | <sub>[d72a0deb](https://gitlab.com/snowgem/bitfrost/-/commit/d72a0deb8c29828fdf4fd28557f58a3a78f80b8d): add await for overlay spinner - jan.vrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
