@@ -48117,5 +48117,25 @@
       "description": "[4fadf6f4](https://gitlab.com/snowgem/bitfrost/-/commit/4fadf6f481086eb8924ccc7664ebec108d868343): increase ios build version - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!299 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/299) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-17 14:43:42.468000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d2708c17f1d6128898f02674bced77304f503cfa...108689fa0a9d9cbba59074e4f63648cd76a3d7e3))",
+    "created_at": "2021-06-17 14:43:51.863000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8645da01](https://gitlab.com/snowgem/bitfrost/-/commit/8645da0133041c672f2b0d65d01b746f8ab4f041): V0.1.8 - Txid\n\n[108689fa](https://gitlab.com/snowgem/bitfrost/-/commit/108689fa0a9d9cbba59074e4f63648cd76a3d7e3): Merge branch 'v0.1.8' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!299 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/299) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-17 14:43:51.884000"
   }
 ]
