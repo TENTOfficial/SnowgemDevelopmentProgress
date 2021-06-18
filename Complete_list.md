@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-18 00:07:14</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/7b3686975655fa74a50f3a59ba01406cb623485d)</sub> | <sub>[7b36869](https://github.com/ciripel/electrum-tent/commit/7b3686975655fa74a50f3a59ba01406cb623485d) fixed solution after fork and forkblock passing - ciripel</sub> |
 | <sub>2021-06-17 22:25:40</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/a161481c70ce9c7b5ee7237ace97dd6560e11499)</sub> | <sub>[a161481](https://github.com/ciripel/electrum-tent/commit/a161481c70ce9c7b5ee7237ace97dd6560e11499) fixed can_connect, added second electrumx server - ciripel</sub> |
 | <sub>2021-06-17 18:47:21</sub> | <sub>[[mint:show\-wif] 1 new commit](https://github.com/TENTSLP/mint/commit/b601ec94e1ac129cb2fe505374c7696f2fbe8577)</sub> | <sub>[b601ec9](https://github.com/TENTSLP/mint/commit/b601ec94e1ac129cb2fe505374c7696f2fbe8577) show wif - ciripel</sub> |
 | <sub>2021-06-17 15:08:23</sub> | <sub>Txid (txid) merged merge request [\!300 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/300) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |

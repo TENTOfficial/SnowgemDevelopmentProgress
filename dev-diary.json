@@ -48203,5 +48203,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/a161481c70ce9c7b5ee7237ace97dd6560e11499"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-18 00:07:14.748000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`7b36869`](https://github.com/ciripel/electrum-tent/commit/7b3686975655fa74a50f3a59ba01406cb623485d) fixed solution after fork and forkblock passing - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/7b3686975655fa74a50f3a59ba01406cb623485d"
+    }
   }
 ]
