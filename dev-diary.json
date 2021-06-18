@@ -48306,5 +48306,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!304 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/304) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-18 07:22:37.984000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4444f30d15d21ea612ce44b9aaa8cb75e869a70c...afb9a7f2b6a932dae0520bc2f9b28b0f12f3c6a5))",
+    "created_at": "2021-06-18 07:26:56.829000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[72761ee9](https://gitlab.com/snowgem/bitfrost/-/commit/72761ee998a6ee0393868cb86a2dd172a6129814): remove header on wallets-overview page - Snowgem\n\n[8b9e8c5c](https://gitlab.com/snowgem/bitfrost/-/commit/8b9e8c5c07fe56c1f479cf97247170a0c3719111): increase ios build version - Snowgem\n\n[afb9a7f2](https://gitlab.com/snowgem/bitfrost/-/commit/afb9a7f2b6a932dae0520bc2f9b28b0f12f3c6a5): Merge branch 'v0.1.8' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!304 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/304) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-18 07:26:57.430000"
   }
 ]
