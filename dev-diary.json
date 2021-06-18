@@ -48431,5 +48431,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!307 \\*Add note to iframe page\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/307) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-18 15:19:41.767000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0c26fe0cbcbab6de4e5982bfd3301cb5a63da056...fdae012e00c7269653cb34a1a14d6beea774e410))",
+    "created_at": "2021-06-18 18:49:32.499000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fdae012e](https://gitlab.com/snowgem/bitfrost/-/commit/fdae012e00c7269653cb34a1a14d6beea774e410): Fix tutorial pages for smaller screens - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
