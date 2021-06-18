@@ -48331,5 +48331,15 @@
       "description": "[d1d58525](https://gitlab.com/snowgem/bitfrost/-/commit/d1d58525a6c39ee0ea8a93e0aac0a313807b862f): terminate ws when pausing app - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d1d58525a6c39ee0ea8a93e0aac0a313807b862f...265bae2d8ac923379c78b30c17185cad43b96bc3))",
+    "created_at": "2021-06-18 08:36:32.202000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[265bae2d](https://gitlab.com/snowgem/bitfrost/-/commit/265bae2d8ac923379c78b30c17185cad43b96bc3): fix build - Snowgem",
+      "type": "rich"
+    }
   }
 ]
