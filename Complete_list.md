@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-18 06:57:57</sub> | <sub>Txid (txid) opened merge request [\!303 \*increase ios build version\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/303) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-06-18 06:57:33</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c60471f9a23f8da29c38bdaa457551cefc153686...aa1057b1ff4cb690d0bd2b1d7c831133f2875f4e))</sub> | <sub>[aa1057b1](https://gitlab.com/snowgem/bitfrost/-/commit/aa1057b1ff4cb690d0bd2b1d7c831133f2875f4e): increase ios build version - Snowgem</sub> |
 | <sub>2021-06-18 06:49:30</sub> | <sub>Txid (txid) closed merge request [\!302 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/302) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-18 06:44:16</sub> | <sub>Txid (txid) opened merge request [\!302 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/302) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-18 06:42:13</sub> | <sub>Txid (txid) closed merge request [\!301 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/301) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |

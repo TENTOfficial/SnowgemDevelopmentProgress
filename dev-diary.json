@@ -48261,5 +48261,20 @@
     "author": "GitLab",
     "content": "Txid (txid) closed merge request [\\!302 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/302) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-18 06:49:30.770000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c60471f9a23f8da29c38bdaa457551cefc153686...aa1057b1ff4cb690d0bd2b1d7c831133f2875f4e))",
+    "created_at": "2021-06-18 06:57:33.610000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[aa1057b1](https://gitlab.com/snowgem/bitfrost/-/commit/aa1057b1ff4cb690d0bd2b1d7c831133f2875f4e): increase ios build version - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!303 \\*increase ios build version\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/303) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-18 06:57:57.975000"
   }
 ]

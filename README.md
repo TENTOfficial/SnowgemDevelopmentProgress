@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 4999 commits since 20/01/2020. You can see the complete history in
+There is a total of 5001 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-18 06:57:57</sub> | <sub>Txid (txid) opened merge request [\!303 \*increase ios build version\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/303) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-06-18 06:57:33</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c60471f9a23f8da29c38bdaa457551cefc153686...aa1057b1ff4cb690d0bd2b1d7c831133f2875f4e))</sub> | <sub>[aa1057b1](https://gitlab.com/snowgem/bitfrost/-/commit/aa1057b1ff4cb690d0bd2b1d7c831133f2875f4e): increase ios build version - Snowgem</sub> |
 | <sub>2021-06-18 06:49:30</sub> | <sub>Txid (txid) closed merge request [\!302 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/302) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-18 06:44:16</sub> | <sub>Txid (txid) opened merge request [\!302 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/302) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-18 06:42:13</sub> | <sub>Txid (txid) closed merge request [\!301 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/301) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -16,7 +18,5 @@ There is a total of 4999 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-18 06:22:47</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2e79a96f0168322b36c2b53344a76ef208cff6f6...bacc39737cd0bf449f5e6b8b7f6e931c70ec7b28))</sub> | <sub>[f79a4e6e](https://gitlab.com/snowgem/bitfrost/-/commit/f79a4e6e525797e9686c7bb823e071c0cfbbbe69): update build android on local pc - Snowgem<br>[d0c1f421](https://gitlab.com/snowgem/bitfrost/-/commit/d0c1f42135436f836b524a97180741e7508fbce1): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem<br>[bacc3973](https://gitlab.com/snowgem/bitfrost/-/commit/bacc39737cd0bf449f5e6b8b7f6e931c70ec7b28): fix buy crypto issue for mobile - Snowgem</sub> |
 | <sub>2021-06-18 00:07:14</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/7b3686975655fa74a50f3a59ba01406cb623485d)</sub> | <sub>[7b36869](https://github.com/ciripel/electrum-tent/commit/7b3686975655fa74a50f3a59ba01406cb623485d) fixed solution after fork and forkblock passing - ciripel</sub> |
 | <sub>2021-06-17 22:25:40</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/a161481c70ce9c7b5ee7237ace97dd6560e11499)</sub> | <sub>[a161481](https://github.com/ciripel/electrum-tent/commit/a161481c70ce9c7b5ee7237ace97dd6560e11499) fixed can_connect, added second electrumx server - ciripel</sub> |
-| <sub>2021-06-17 18:47:21</sub> | <sub>[[mint:show\-wif] 1 new commit](https://github.com/TENTSLP/mint/commit/b601ec94e1ac129cb2fe505374c7696f2fbe8577)</sub> | <sub>[b601ec9](https://github.com/TENTSLP/mint/commit/b601ec94e1ac129cb2fe505374c7696f2fbe8577) show wif - ciripel</sub> |
-| <sub>2021-06-17 15:08:23</sub> | <sub>Txid (txid) merged merge request [\!300 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/300) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
