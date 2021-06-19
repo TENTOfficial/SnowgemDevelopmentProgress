@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5023 commits since 20/01/2020. You can see the complete history in
+There is a total of 5024 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-19 02:51:31</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ba7978ffafd6afe6421769a8b1d010183ef134fb...12ef5bfef70d40d764301fbbeefc511ef398e693))</sub> | <sub>[12ef5bfe](https://gitlab.com/snowgem/bitfrost/-/commit/12ef5bfef70d40d764301fbbeefc511ef398e693): fix estimate gas - Snowgem</sub> |
 | <sub>2021-06-19 02:36:23</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fdae012e00c7269653cb34a1a14d6beea774e410...ba7978ffafd6afe6421769a8b1d010183ef134fb))</sub> | <sub>[ba7978ff](https://gitlab.com/snowgem/bitfrost/-/commit/ba7978ffafd6afe6421769a8b1d010183ef134fb): increase ios build version - Snowgem</sub> |
 | <sub>2021-06-18 18:49:32</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0c26fe0cbcbab6de4e5982bfd3301cb5a63da056...fdae012e00c7269653cb34a1a14d6beea774e410))</sub> | <sub>[fdae012e](https://gitlab.com/snowgem/bitfrost/-/commit/fdae012e00c7269653cb34a1a14d6beea774e410): Fix tutorial pages for smaller screens - jan.vrastil</sub> |
 | <sub>2021-06-18 15:19:41</sub> | <sub>Txid (txid) merged merge request [\!307 \*Add note to iframe page\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/307) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 5023 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-18 14:23:43</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/09d76ddc975e8578f634ad564ae1cfa48ae10e65...4d1da904ebe05060dca7daaa40820fd12503ed1d))</sub> | <sub>[0ede39eb](https://gitlab.com/snowgem/bitfrost/-/commit/0ede39eb651ead9381bf1896a4c17d5ec9f66af4): set timeout for purchasing - Snowgem<br>[4d1da904](https://gitlab.com/snowgem/bitfrost/-/commit/4d1da904ebe05060dca7daaa40820fd12503ed1d): Merge branch 'v0.1.8' into 'testing' - Txid</sub> |
 | <sub>2021-06-18 14:23:43</sub> | <sub>Txid (txid) merged merge request [\!306 \*set timeout for purchasing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/306) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-18 14:21:14</sub> | <sub>Txid (txid) opened merge request [\!306 \*set timeout for purchasing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/306) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-06-18 14:17:17</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0a2a337d3f8661c77642762725f80fa9cceca86b...0ede39eb651ead9381bf1896a4c17d5ec9f66af4))</sub> | <sub>[0ede39eb](https://gitlab.com/snowgem/bitfrost/-/commit/0ede39eb651ead9381bf1896a4c17d5ec9f66af4): set timeout for purchasing - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

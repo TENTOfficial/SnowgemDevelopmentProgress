@@ -48451,5 +48451,15 @@
       "description": "[ba7978ff](https://gitlab.com/snowgem/bitfrost/-/commit/ba7978ffafd6afe6421769a8b1d010183ef134fb): increase ios build version - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ba7978ffafd6afe6421769a8b1d010183ef134fb...12ef5bfef70d40d764301fbbeefc511ef398e693))",
+    "created_at": "2021-06-19 02:51:31.193000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[12ef5bfe](https://gitlab.com/snowgem/bitfrost/-/commit/12ef5bfef70d40d764301fbbeefc511ef398e693): fix estimate gas - Snowgem",
+      "type": "rich"
+    }
   }
 ]
