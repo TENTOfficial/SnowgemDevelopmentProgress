@@ -48441,5 +48441,15 @@
       "description": "[fdae012e](https://gitlab.com/snowgem/bitfrost/-/commit/fdae012e00c7269653cb34a1a14d6beea774e410): Fix tutorial pages for smaller screens - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fdae012e00c7269653cb34a1a14d6beea774e410...ba7978ffafd6afe6421769a8b1d010183ef134fb))",
+    "created_at": "2021-06-19 02:36:23.873000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ba7978ff](https://gitlab.com/snowgem/bitfrost/-/commit/ba7978ffafd6afe6421769a8b1d010183ef134fb): increase ios build version - Snowgem",
+      "type": "rich"
+    }
   }
 ]
