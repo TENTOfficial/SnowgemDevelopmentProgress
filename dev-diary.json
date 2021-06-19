@@ -48461,5 +48461,25 @@
       "description": "[12ef5bfe](https://gitlab.com/snowgem/bitfrost/-/commit/12ef5bfef70d40d764301fbbeefc511ef398e693): fix estimate gas - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!308 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/308) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-19 02:55:57.609000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!308 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/308) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-19 02:57:03.629000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/41ed6b1cc48c4f983d87d9268bf54a5728e407f8...5f6406ef5754ce1bd546abd2a0c47b41b18bc521))",
+    "created_at": "2021-06-19 02:57:03.732000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fdae012e](https://gitlab.com/snowgem/bitfrost/-/commit/fdae012e00c7269653cb34a1a14d6beea774e410): Fix tutorial pages for smaller screens - jan.vrastil\n\n[ba7978ff](https://gitlab.com/snowgem/bitfrost/-/commit/ba7978ffafd6afe6421769a8b1d010183ef134fb): increase ios build version - Snowgem\n\n[12ef5bfe](https://gitlab.com/snowgem/bitfrost/-/commit/12ef5bfef70d40d764301fbbeefc511ef398e693): fix estimate gas - Snowgem\n\n[5f6406ef](https://gitlab.com/snowgem/bitfrost/-/commit/5f6406ef5754ce1bd546abd2a0c47b41b18bc521): Merge branch 'v0.1.8' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
