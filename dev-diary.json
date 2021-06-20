@@ -48499,5 +48499,23 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/635b319a2a652921190162d49b473e7858ffb51a"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-20 05:28:36.556000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`d02057f`](https://github.com/ciripel/electrum-tent/commit/d02057fd5bf5bf5b02f54be318e65f4ff0fc094e) refactor constants - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/d02057fd5bf5bf5b02f54be318e65f4ff0fc094e"
+    }
   }
 ]
