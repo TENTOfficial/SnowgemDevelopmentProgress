@@ -48615,5 +48615,23 @@
       "description": "[ca7e417c](https://gitlab.com/snowgem/bitfrost/-/commit/ca7e417ca6dd657d9ab737c29483eaa31f48acf3): filter swap for purchasing - Snowgem\n\n[412f93ff](https://gitlab.com/snowgem/bitfrost/-/commit/412f93ff8df3d11151efee870b1b0f8321772505): fix default tx fee value - Snowgem\n\n[9c8114f1](https://gitlab.com/snowgem/bitfrost/-/commit/9c8114f16ff6832565bef73ac9cee00689e46654): Merge branch 'v0.1.8' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-21 12:25:21.804000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4c5bdc7`](https://github.com/TENTOfficial/TENT/commit/4c5bdc790d083914c7b4b861b5b0e4c81fdce50b) Added 3 new seed nodes - ciripel",
+      "title": "[TENT:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/commit/4c5bdc790d083914c7b4b861b5b0e4c81fdce50b"
+    }
   }
 ]
