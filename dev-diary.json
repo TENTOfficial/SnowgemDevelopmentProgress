@@ -48595,5 +48595,25 @@
       "description": "[412f93ff](https://gitlab.com/snowgem/bitfrost/-/commit/412f93ff8df3d11151efee870b1b0f8321772505): fix default tx fee value - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!310 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/310) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-21 10:02:07.813000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!310 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/310) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-21 10:04:07.441000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/257f23681e7813fed9ca0fc460829a981ede30af...9c8114f16ff6832565bef73ac9cee00689e46654))",
+    "created_at": "2021-06-21 10:04:08.165000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ca7e417c](https://gitlab.com/snowgem/bitfrost/-/commit/ca7e417ca6dd657d9ab737c29483eaa31f48acf3): filter swap for purchasing - Snowgem\n\n[412f93ff](https://gitlab.com/snowgem/bitfrost/-/commit/412f93ff8df3d11151efee870b1b0f8321772505): fix default tx fee value - Snowgem\n\n[9c8114f1](https://gitlab.com/snowgem/bitfrost/-/commit/9c8114f16ff6832565bef73ac9cee00689e46654): Merge branch 'v0.1.8' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
