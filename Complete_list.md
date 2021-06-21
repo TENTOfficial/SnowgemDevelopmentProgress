@@ -5,6 +5,8 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-21 16:15:52</sub> | <sub>Jan Vraštil (jan.vrastil) opened merge request [\!311 \*wip: Bug/285 debit cards 019 after rebase\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/311) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
+| <sub>2021-06-21 16:15:10</sub> | <sub>Jan Vraštil (jan.vrastil) closed merge request [\!280 \*WIP: Bug/285 debit cards\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/280) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-21 16:14:56</sub> | <sub>Jan Vraštil (jan.vrastil) closed merge request [\!144 \*Feature/debit cards\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/144) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-21 16:14:46</sub> | <sub>Jan Vraštil (jan.vrastil) closed merge request [\!247 \*WIP: bug/285 \- CREDIT Cards \- IN PROGRESS\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/247) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-21 15:10:02</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/98073bd9993880816be56a1bb5e1624fc180752e)</sub> | <sub>[98073bd](https://github.com/ciripel/electrum-tent/commit/98073bd9993880816be56a1bb5e1624fc180752e) fixed receiving txes - ciripel</sub> |
