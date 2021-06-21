@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5031 commits since 20/01/2020. You can see the complete history in
+There is a total of 5032 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-21 09:01:49</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/259d7784ab2cce46d628fed6072b2b5ee4e2d271...4869eaede3bc5d0518c1af883da8cf120d4a1030))</sub> | <sub>[4869eaed](https://gitlab.com/snowgem/bitfrost/-/commit/4869eaede3bc5d0518c1af883da8cf120d4a1030): increase ios build version - Snowgem</sub> |
 | <sub>2021-06-21 06:54:28</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/12ef5bfef70d40d764301fbbeefc511ef398e693...259d7784ab2cce46d628fed6072b2b5ee4e2d271))</sub> | <sub>[259d7784](https://gitlab.com/snowgem/bitfrost/-/commit/259d7784ab2cce46d628fed6072b2b5ee4e2d271): fix swap eth token issue - Snowgem</sub> |
 | <sub>2021-06-20 17:57:11</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/595ff79844f9c47e7f3410db74e281fb58b5e6e1)</sub> | <sub>[595ff79](https://github.com/ciripel/electrum-tent/commit/595ff79844f9c47e7f3410db74e281fb58b5e6e1) started tx fixing - ciripel</sub> |
 | <sub>2021-06-20 05:28:36</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/d02057fd5bf5bf5b02f54be318e65f4ff0fc094e)</sub> | <sub>[d02057f](https://github.com/ciripel/electrum-tent/commit/d02057fd5bf5bf5b02f54be318e65f4ff0fc094e) refactor constants - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5031 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-19 02:55:57</sub> | <sub>Txid (txid) opened merge request [\!308 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/308) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-19 02:51:31</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ba7978ffafd6afe6421769a8b1d010183ef134fb...12ef5bfef70d40d764301fbbeefc511ef398e693))</sub> | <sub>[12ef5bfe](https://gitlab.com/snowgem/bitfrost/-/commit/12ef5bfef70d40d764301fbbeefc511ef398e693): fix estimate gas - Snowgem</sub> |
 | <sub>2021-06-19 02:36:23</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/fdae012e00c7269653cb34a1a14d6beea774e410...ba7978ffafd6afe6421769a8b1d010183ef134fb))</sub> | <sub>[ba7978ff](https://gitlab.com/snowgem/bitfrost/-/commit/ba7978ffafd6afe6421769a8b1d010183ef134fb): increase ios build version - Snowgem</sub> |
-| <sub>2021-06-18 18:49:32</sub> | <sub>Jan Vraštil pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0c26fe0cbcbab6de4e5982bfd3301cb5a63da056...fdae012e00c7269653cb34a1a14d6beea774e410))</sub> | <sub>[fdae012e](https://gitlab.com/snowgem/bitfrost/-/commit/fdae012e00c7269653cb34a1a14d6beea774e410): Fix tutorial pages for smaller screens - jan.vrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._

@@ -48545,5 +48545,15 @@
       "description": "[259d7784](https://gitlab.com/snowgem/bitfrost/-/commit/259d7784ab2cce46d628fed6072b2b5ee4e2d271): fix swap eth token issue - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/259d7784ab2cce46d628fed6072b2b5ee4e2d271...4869eaede3bc5d0518c1af883da8cf120d4a1030))",
+    "created_at": "2021-06-21 09:01:49.301000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4869eaed](https://gitlab.com/snowgem/bitfrost/-/commit/4869eaede3bc5d0518c1af883da8cf120d4a1030): increase ios build version - Snowgem",
+      "type": "rich"
+    }
   }
 ]
