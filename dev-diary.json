@@ -48721,5 +48721,25 @@
       "description": "[a42a4042](https://gitlab.com/snowgem/bitfrost/-/commit/a42a4042d7035d908c92459a488d87b68ee63a50): correct add address fail message - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!313 \\*correct add address fail message\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/313) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-22 06:47:28.159000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a28056504a518044a24486a2e6ccdcc8fa2ccc90...3b5b6b0bc7af8349d8a4e566d899dd58ff4cdaba))",
+    "created_at": "2021-06-22 06:47:34.198000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a42a4042](https://gitlab.com/snowgem/bitfrost/-/commit/a42a4042d7035d908c92459a488d87b68ee63a50): correct add address fail message - Snowgem\n\n[3b5b6b0b](https://gitlab.com/snowgem/bitfrost/-/commit/3b5b6b0bc7af8349d8a4e566d899dd58ff4cdaba): Merge branch 'v0.1.8' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!313 \\*correct add address fail message\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/313) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-22 06:47:34.187000"
   }
 ]
