@@ -48871,5 +48871,25 @@
       "description": "[47fe9c66](https://gitlab.com/snowgem/bitfrost/-/commit/47fe9c668f34279297927956209277a28e189597): Fix close button functionality on iframe page - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!316 \\*Fix close button functionality on iframe page\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/316) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-22 16:37:40.996000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!316 \\*Fix close button functionality on iframe page\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/316) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-22 16:39:48.599000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e223f9a874325dcc387ce9edf147003788c02cd4...62ea3ce5a15b2836af41943ca710dcf629fd57a8))",
+    "created_at": "2021-06-22 16:39:49.111000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[47fe9c66](https://gitlab.com/snowgem/bitfrost/-/commit/47fe9c668f34279297927956209277a28e189597): Fix close button functionality on iframe page - jan.vrastil\n\n[62ea3ce5](https://gitlab.com/snowgem/bitfrost/-/commit/62ea3ce5a15b2836af41943ca710dcf629fd57a8): Merge branch 'v0.1.8' into 'testing' - Jan Vra\u0161til",
+      "type": "rich"
+    }
   }
 ]
