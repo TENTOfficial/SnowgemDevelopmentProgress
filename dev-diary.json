@@ -48806,5 +48806,15 @@
       "description": "[f9d75190](https://gitlab.com/snowgem/bitfrost/-/commit/f9d75190125f2d9f45851b313d8baa60c5ac2dec): remove console.logs - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards\\_019\\-AFTER\\_REBASE](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019-AFTER_REBASE) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f9d75190125f2d9f45851b313d8baa60c5ac2dec...be721f99abb134b786de18afe88f6857f851d75e))",
+    "created_at": "2021-06-22 12:17:39.110000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[be721f99](https://gitlab.com/snowgem/bitfrost/-/commit/be721f99abb134b786de18afe88f6857f851d75e): build fix - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
