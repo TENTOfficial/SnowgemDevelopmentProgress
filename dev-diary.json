@@ -48741,5 +48741,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!313 \\*correct add address fail message\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/313) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-22 06:47:34.187000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a42a4042d7035d908c92459a488d87b68ee63a50...18ad4e89af7c28a57cab861fb0a1efe8bddd30ee))",
+    "created_at": "2021-06-22 07:14:35.551000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[18ad4e89](https://gitlab.com/snowgem/bitfrost/-/commit/18ad4e89af7c28a57cab861fb0a1efe8bddd30ee): fix price per coin for swap summary - Snowgem",
+      "type": "rich"
+    }
   }
 ]
