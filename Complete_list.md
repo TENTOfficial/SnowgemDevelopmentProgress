@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-22 08:16:51</sub> | <sub>Txid pushed new branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-22 07:19:21</sub> | <sub>Txid (txid) merged merge request [\!314 \*fix price per coin for swap summary\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/314) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-22 07:19:20</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3b5b6b0bc7af8349d8a4e566d899dd58ff4cdaba...e223f9a874325dcc387ce9edf147003788c02cd4))</sub> | <sub>[18ad4e89](https://gitlab.com/snowgem/bitfrost/-/commit/18ad4e89af7c28a57cab861fb0a1efe8bddd30ee): fix price per coin for swap summary - Snowgem<br>[e223f9a8](https://gitlab.com/snowgem/bitfrost/-/commit/e223f9a874325dcc387ce9edf147003788c02cd4): Merge branch 'v0.1.8' into 'testing' - Txid</sub> |
 | <sub>2021-06-22 07:16:26</sub> | <sub>Txid (txid) opened merge request [\!314 \*fix price per coin for swap summary\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/314) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
