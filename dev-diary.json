@@ -48751,5 +48751,25 @@
       "description": "[18ad4e89](https://gitlab.com/snowgem/bitfrost/-/commit/18ad4e89af7c28a57cab861fb0a1efe8bddd30ee): fix price per coin for swap summary - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!314 \\*fix price per coin for swap summary\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/314) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-22 07:16:26.410000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3b5b6b0bc7af8349d8a4e566d899dd58ff4cdaba...e223f9a874325dcc387ce9edf147003788c02cd4))",
+    "created_at": "2021-06-22 07:19:20.855000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[18ad4e89](https://gitlab.com/snowgem/bitfrost/-/commit/18ad4e89af7c28a57cab861fb0a1efe8bddd30ee): fix price per coin for swap summary - Snowgem\n\n[e223f9a8](https://gitlab.com/snowgem/bitfrost/-/commit/e223f9a874325dcc387ce9edf147003788c02cd4): Merge branch 'v0.1.8' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!314 \\*fix price per coin for swap summary\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/314) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-22 07:19:21.026000"
   }
 ]
