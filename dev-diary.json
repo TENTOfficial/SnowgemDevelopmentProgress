@@ -48776,5 +48776,15 @@
     "author": "GitLab",
     "content": "Txid pushed new branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-22 08:16:51.747000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/31eab25e598f9d08751b375a26f5f16c21c5e24b...6d1119b3b94de8847db7770065b5feecc8beeaa7))",
+    "created_at": "2021-06-22 09:17:14.910000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6d1119b3](https://gitlab.com/snowgem/bitfrost/-/commit/6d1119b3b94de8847db7770065b5feecc8beeaa7): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
