@@ -48891,5 +48891,23 @@
       "description": "[47fe9c66](https://gitlab.com/snowgem/bitfrost/-/commit/47fe9c668f34279297927956209277a28e189597): Fix close button functionality on iframe page - jan.vrastil\n\n[62ea3ce5](https://gitlab.com/snowgem/bitfrost/-/commit/62ea3ce5a15b2836af41943ca710dcf629fd57a8): Merge branch 'v0.1.8' into 'testing' - Jan Vra\u0161til",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-22 18:33:16.971000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`5fd26c8`](https://github.com/TENTSLP/tentslp-explorer/commit/5fd26c84eb24f16155640217c51622d8adc0fcf1) fixed plotly and dividend helper hints - ciripel",
+      "title": "[tentslp-explorer:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTSLP/tentslp-explorer/commit/5fd26c84eb24f16155640217c51622d8adc0fcf1"
+    }
   }
 ]
