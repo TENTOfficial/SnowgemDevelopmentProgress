@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-22 13:55:33</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards\_020](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_020) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c880bf8d708346846b70a4438140679a69cbe399...cea949654b18f0da288e4ae9cbe47c5ca1bb681f))</sub> | <sub>[cea94965](https://gitlab.com/snowgem/bitfrost/-/commit/cea949654b18f0da288e4ae9cbe47c5ca1bb681f): bug/285 - Finish Debit cards - jan.vrastil</sub> |
 | <sub>2021-06-22 13:53:20</sub> | <sub>Jan Vraštil removed branch bug/285-debit_cards from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-22 13:53:12</sub> | <sub>Jan Vraštil removed branch bug/285-debit_cards_018 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-22 13:53:05</sub> | <sub>Jan Vraštil removed branch bug/285-debit_cards_019 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
