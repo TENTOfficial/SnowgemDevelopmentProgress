@@ -48796,5 +48796,15 @@
       "description": "[2058c9a5](https://gitlab.com/snowgem/bitfrost/-/commit/2058c9a53c343af7355e544b87dd31cd0461c469): fix unconfirmed transaction notification on homepage - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards\\_019\\-AFTER\\_REBASE](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_019-AFTER_REBASE) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6570742c9cedde4f92c837aa31309916bf822959...f9d75190125f2d9f45851b313d8baa60c5ac2dec))",
+    "created_at": "2021-06-22 11:22:37.987000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f9d75190](https://gitlab.com/snowgem/bitfrost/-/commit/f9d75190125f2d9f45851b313d8baa60c5ac2dec): remove console.logs - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
