@@ -48861,5 +48861,15 @@
       "description": "[cea94965](https://gitlab.com/snowgem/bitfrost/-/commit/cea949654b18f0da288e4ae9cbe47c5ca1bb681f): bug/285 - Finish Debit cards - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/18ad4e89af7c28a57cab861fb0a1efe8bddd30ee...47fe9c668f34279297927956209277a28e189597))",
+    "created_at": "2021-06-22 16:34:37.032000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[47fe9c66](https://gitlab.com/snowgem/bitfrost/-/commit/47fe9c668f34279297927956209277a28e189597): Fix close button functionality on iframe page - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
