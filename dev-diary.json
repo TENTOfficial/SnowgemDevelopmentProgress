@@ -48681,5 +48681,15 @@
       "description": "[e32a6b89](https://gitlab.com/snowgem/bitfrost/-/commit/e32a6b89da04d5bc55d2bda6de40ee9b415ed7bf): Fix swap / purchase redirects - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e32a6b89da04d5bc55d2bda6de40ee9b415ed7bf...775db9c6bb26304e6228f0f052bab989650fa91e))",
+    "created_at": "2021-06-22 03:27:34.131000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[de9b2f43](https://gitlab.com/snowgem/bitfrost/-/commit/de9b2f432e6d79d5389d56479b88533a526aee00): fix estimated fee bitgo - Snowgem\n\n[2161bd4f](https://gitlab.com/snowgem/bitfrost/-/commit/2161bd4f02302874b8c6c01b6ce51fce2179ab79): fix estimated fee bitcore - Snowgem\n\n[89af5cc7](https://gitlab.com/snowgem/bitfrost/-/commit/89af5cc7ae3c41e5a150f531ac3f1ae6c9f6ec1e): increase ios build version - Snowgem\n\n[775db9c6](https://gitlab.com/snowgem/bitfrost/-/commit/775db9c6bb26304e6228f0f052bab989650fa91e): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
