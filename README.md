@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5061 commits since 20/01/2020. You can see the complete history in
+There is a total of 5062 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-22 11:12:49</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6d1119b3b94de8847db7770065b5feecc8beeaa7...2058c9a53c343af7355e544b87dd31cd0461c469))</sub> | <sub>[2058c9a5](https://gitlab.com/snowgem/bitfrost/-/commit/2058c9a53c343af7355e544b87dd31cd0461c469): fix unconfirmed transaction notification on homepage - Snowgem</sub> |
 | <sub>2021-06-22 09:17:14</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/31eab25e598f9d08751b375a26f5f16c21c5e24b...6d1119b3b94de8847db7770065b5feecc8beeaa7))</sub> | <sub>[6d1119b3](https://gitlab.com/snowgem/bitfrost/-/commit/6d1119b3b94de8847db7770065b5feecc8beeaa7): fix lint - Snowgem</sub> |
 | <sub>2021-06-22 08:16:51</sub> | <sub>Txid pushed new branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-22 07:19:21</sub> | <sub>Txid (txid) merged merge request [\!314 \*fix price per coin for swap summary\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/314) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 5061 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-22 06:47:34</sub> | <sub>Txid (txid) merged merge request [\!313 \*correct add address fail message\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/313) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-22 06:47:34</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a28056504a518044a24486a2e6ccdcc8fa2ccc90...3b5b6b0bc7af8349d8a4e566d899dd58ff4cdaba))</sub> | <sub>[a42a4042](https://gitlab.com/snowgem/bitfrost/-/commit/a42a4042d7035d908c92459a488d87b68ee63a50): correct add address fail message - Snowgem<br>[3b5b6b0b](https://gitlab.com/snowgem/bitfrost/-/commit/3b5b6b0bc7af8349d8a4e566d899dd58ff4cdaba): Merge branch 'v0.1.8' into 'testing' - Txid</sub> |
 | <sub>2021-06-22 06:47:28</sub> | <sub>Txid (txid) opened merge request [\!313 \*correct add address fail message\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/313) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-06-22 06:41:16</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/775db9c6bb26304e6228f0f052bab989650fa91e...a42a4042d7035d908c92459a488d87b68ee63a50))</sub> | <sub>[a42a4042](https://gitlab.com/snowgem/bitfrost/-/commit/a42a4042d7035d908c92459a488d87b68ee63a50): correct add address fail message - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
