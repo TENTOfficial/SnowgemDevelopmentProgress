@@ -49094,5 +49094,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!321 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/321) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-23 14:19:44.874000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!321 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/321) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-23 14:21:58.009000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/32caf8bad4182572bb3fd82a04246a33011ef9ab...e6b40959c342c27f8b2ecef4dfe5001232537f12))",
+    "created_at": "2021-06-23 14:21:58.766000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[0c4c305a](https://gitlab.com/snowgem/bitfrost/-/commit/0c4c305a6cba58491820dc4bc2eb048cd3ed01a1): Switch crypto and fiat values in wallet dashboard - jan.vrastil\n\n[8776741f](https://gitlab.com/snowgem/bitfrost/-/commit/8776741f86ec24890cdb0f5d98c9a17e623b9519): get gas price dynamically from web3 - Snowgem\n\n[8e99cd2e](https://gitlab.com/snowgem/bitfrost/-/commit/8e99cd2e4ece943f7cc56864a1c3c2102c81c4db): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem\n\n[8436dbbc](https://gitlab.com/snowgem/bitfrost/-/commit/8436dbbcfa2a0d3ab52b68286afbe0f118ad9c60): increase gas amount - Snowgem\n\n[e6b40959](https://gitlab.com/snowgem/bitfrost/-/commit/e6b40959c342c27f8b2ecef4dfe5001232537f12): Merge branch 'v0.1.8' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
