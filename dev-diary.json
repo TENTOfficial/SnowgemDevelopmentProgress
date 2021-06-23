@@ -49029,5 +49029,20 @@
       "description": "[1f94190e](https://gitlab.com/snowgem/bitfrost/-/commit/1f94190ee409f5f13ad55880c4894bd4e1604a5f): fix fee fiat number in send-overview page - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1f94190ee409f5f13ad55880c4894bd4e1604a5f...1b848392670d942d88f23f716afde291a24ca25d))",
+    "created_at": "2021-06-23 09:46:41.034000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1b848392](https://gitlab.com/snowgem/bitfrost/-/commit/1b848392670d942d88f23f716afde291a24ca25d): improve estimated btc fee - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!320 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/320) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-23 09:47:47.505000"
   }
 ]
