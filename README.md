@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5112 commits since 20/01/2020. You can see the complete history in
+There is a total of 5113 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-23 19:06:14</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/3c51c526dbf57457eefd10d8fe236b88dc799308)</sub> | <sub>[3c51c52](https://github.com/TENTOfficial/TENT/commit/3c51c526dbf57457eefd10d8fe236b88dc799308) fix - ciripel</sub> |
 | <sub>2021-06-23 19:03:54</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/4f6064d9d12907b9187071259e1dc54d6abe8e03)</sub> | <sub>[4f6064d](https://github.com/TENTOfficial/TENT/commit/4f6064d9d12907b9187071259e1dc54d6abe8e03) make-release fix - ciripel</sub> |
 | <sub>2021-06-23 19:00:36</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/f06e4384f57a637da324a007e1a35876753796f8)</sub> | <sub>[f06e438](https://github.com/TENTOfficial/TENT/commit/f06e4384f57a637da324a007e1a35876753796f8) make-release fix - ciripel</sub> |
 | <sub>2021-06-23 18:57:37</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/b3a2acbd4ddc8e50e0e1d22f477c3fbc17c830fc)</sub> | <sub>[b3a2acb](https://github.com/TENTOfficial/TENT/commit/b3a2acbd4ddc8e50e0e1d22f477c3fbc17c830fc) make-release fix - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5112 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-23 18:13:09</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/f7c750ee79d8a8357c885220f0c5ebfbe3c1c7ff)</sub> | <sub>[f7c750e](https://github.com/TENTOfficial/TENT/commit/f7c750ee79d8a8357c885220f0c5ebfbe3c1c7ff) fix - ciripel</sub> |
 | <sub>2021-06-23 18:11:33</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/fecb5c888aa4366c29b1a82463ee6ce7c0af98c4)</sub> | <sub>[fecb5c8](https://github.com/TENTOfficial/TENT/commit/fecb5c888aa4366c29b1a82463ee6ce7c0af98c4) make script fix - ciripel</sub> |
 | <sub>2021-06-23 18:05:36</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/0c2d60c79d20176ff3569083215e88e519e99d88)</sub> | <sub>[0c2d60c](https://github.com/TENTOfficial/TENT/commit/0c2d60c79d20176ff3569083215e88e519e99d88) make-release fix - ciripel</sub> |
-| <sub>2021-06-23 17:58:42</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/f37419b66e817a393cb4fb6f2ec82842d03a8a2e)</sub> | <sub>[f37419b](https://github.com/TENTOfficial/TENT/commit/f37419b66e817a393cb4fb6f2ec82842d03a8a2e) make-release fix - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
