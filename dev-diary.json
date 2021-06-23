@@ -48964,5 +48964,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!318 \\*fix rates at the first time load wallet\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/318) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-23 07:41:58.233000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!318 \\*fix rates at the first time load wallet\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/318) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-23 07:50:11.464000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8bcd0120f67d5cdf30b5573cb566a0fbdbb2f8f6...27d1fc9eb94a058441695330dd442f399affb9b9))",
+    "created_at": "2021-06-23 07:50:11.542000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3b2b5f0a](https://gitlab.com/snowgem/bitfrost/-/commit/3b2b5f0adc8f3cdebb4cd6455b60be300b856ce2): fix rates at the first time load wallet - Snowgem\n\n[27d1fc9e](https://gitlab.com/snowgem/bitfrost/-/commit/27d1fc9eb94a058441695330dd442f399affb9b9): Merge branch 'v0.1.8' into 'testing' - Txid",
+      "type": "rich"
+    }
   }
 ]
