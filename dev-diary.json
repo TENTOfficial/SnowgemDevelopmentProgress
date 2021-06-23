@@ -48979,5 +48979,15 @@
       "description": "[3b2b5f0a](https://gitlab.com/snowgem/bitfrost/-/commit/3b2b5f0adc8f3cdebb4cd6455b60be300b856ce2): fix rates at the first time load wallet - Snowgem\n\n[27d1fc9e](https://gitlab.com/snowgem/bitfrost/-/commit/27d1fc9eb94a058441695330dd442f399affb9b9): Merge branch 'v0.1.8' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3b2b5f0adc8f3cdebb4cd6455b60be300b856ce2...6b88101e5b6c757421516cbdcf0aaeb1cd7a6b1f))",
+    "created_at": "2021-06-23 08:27:26.945000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[6b88101e](https://gitlab.com/snowgem/bitfrost/-/commit/6b88101e5b6c757421516cbdcf0aaeb1cd7a6b1f): fix eth token transaction - Snowgem",
+      "type": "rich"
+    }
   }
 ]
