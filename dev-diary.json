@@ -49109,5 +49109,23 @@
       "description": "[0c4c305a](https://gitlab.com/snowgem/bitfrost/-/commit/0c4c305a6cba58491820dc4bc2eb048cd3ed01a1): Switch crypto and fiat values in wallet dashboard - jan.vrastil\n\n[8776741f](https://gitlab.com/snowgem/bitfrost/-/commit/8776741f86ec24890cdb0f5d98c9a17e623b9519): get gas price dynamically from web3 - Snowgem\n\n[8e99cd2e](https://gitlab.com/snowgem/bitfrost/-/commit/8e99cd2e4ece943f7cc56864a1c3c2102c81c4db): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem\n\n[8436dbbc](https://gitlab.com/snowgem/bitfrost/-/commit/8436dbbcfa2a0d3ab52b68286afbe0f118ad9c60): increase gas amount - Snowgem\n\n[e6b40959](https://gitlab.com/snowgem/bitfrost/-/commit/e6b40959c342c27f8b2ecef4dfe5001232537f12): Merge branch 'v0.1.8' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-23 17:58:42.545000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`f37419b`](https://github.com/TENTOfficial/TENT/commit/f37419b66e817a393cb4fb6f2ec82842d03a8a2e) make-release fix - ciripel",
+      "title": "[TENT:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/commit/f37419b66e817a393cb4fb6f2ec82842d03a8a2e"
+    }
   }
 ]
