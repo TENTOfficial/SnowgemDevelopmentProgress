@@ -49069,5 +49069,15 @@
       "description": "[0c4c305a](https://gitlab.com/snowgem/bitfrost/-/commit/0c4c305a6cba58491820dc4bc2eb048cd3ed01a1): Switch crypto and fiat values in wallet dashboard - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0c4c305a6cba58491820dc4bc2eb048cd3ed01a1...8e99cd2e4ece943f7cc56864a1c3c2102c81c4db))",
+    "created_at": "2021-06-23 14:14:34.569000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8776741f](https://gitlab.com/snowgem/bitfrost/-/commit/8776741f86ec24890cdb0f5d98c9a17e623b9519): get gas price dynamically from web3 - Snowgem\n\n[8e99cd2e](https://gitlab.com/snowgem/bitfrost/-/commit/8e99cd2e4ece943f7cc56864a1c3c2102c81c4db): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
