@@ -49019,5 +49019,15 @@
       "description": "[e27dda87](https://gitlab.com/snowgem/bitfrost/-/commit/e27dda878ef9df9d1d9a19f58a17773e749079d6): update package-lock.json - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6b88101e5b6c757421516cbdcf0aaeb1cd7a6b1f...1f94190ee409f5f13ad55880c4894bd4e1604a5f))",
+    "created_at": "2021-06-23 09:41:28.489000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1f94190e](https://gitlab.com/snowgem/bitfrost/-/commit/1f94190ee409f5f13ad55880c4894bd4e1604a5f): fix fee fiat number in send-overview page - Snowgem",
+      "type": "rich"
+    }
   }
 ]
