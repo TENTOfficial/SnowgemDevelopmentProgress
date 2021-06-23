@@ -49127,5 +49127,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT/commit/f37419b66e817a393cb4fb6f2ec82842d03a8a2e"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-23 18:05:36.259000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`0c2d60c`](https://github.com/TENTOfficial/TENT/commit/0c2d60c79d20176ff3569083215e88e519e99d88) make-release fix - ciripel",
+      "title": "[TENT:master] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/commit/0c2d60c79d20176ff3569083215e88e519e99d88"
+    }
   }
 ]
