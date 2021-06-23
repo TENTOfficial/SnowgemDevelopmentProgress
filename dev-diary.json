@@ -48949,5 +48949,20 @@
       "description": "[804bb625](https://gitlab.com/snowgem/bitfrost/-/commit/804bb6259b6641e770eb90a2e4ec0bcb23a2080c): fix purchase wallet balance incorrect - Snowgem\n\n[394463ea](https://gitlab.com/snowgem/bitfrost/-/commit/394463ea47a4c91486339b16b328dfed85964b10): add min tx size - Snowgem\n\n[8540df97](https://gitlab.com/snowgem/bitfrost/-/commit/8540df9727987b3cae37f42868066ad44f7064f7): fix wallet cache issue - Snowgem\n\n[abd24261](https://gitlab.com/snowgem/bitfrost/-/commit/abd24261b6fd122f2e6a257cd1b18f50b37767d7): fix max button for tether in swap - Snowgem\n\n[8f6af6dc](https://gitlab.com/snowgem/bitfrost/-/commit/8f6af6dcaf9c47e1ff335be3f2e8ea8b8692841c): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem\n\n[bf18ed44](https://gitlab.com/snowgem/bitfrost/-/commit/bf18ed4414d93271a218ffc3145c63cb07c8ae6c): reload app if logging out - Snowgem\n\n[8bcd0120](https://gitlab.com/snowgem/bitfrost/-/commit/8bcd0120f67d5cdf30b5573cb566a0fbdbb2f8f6): Merge branch 'v0.1.8' into 'testing' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/bf18ed4414d93271a218ffc3145c63cb07c8ae6c...3b2b5f0adc8f3cdebb4cd6455b60be300b856ce2))",
+    "created_at": "2021-06-23 07:41:33.221000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3b2b5f0a](https://gitlab.com/snowgem/bitfrost/-/commit/3b2b5f0adc8f3cdebb4cd6455b60be300b856ce2): fix rates at the first time load wallet - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!318 \\*fix rates at the first time load wallet\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/318) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-23 07:41:58.233000"
   }
 ]
