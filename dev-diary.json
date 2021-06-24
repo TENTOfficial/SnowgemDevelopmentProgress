@@ -49469,5 +49469,20 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!322 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/322) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-24 06:17:54.655000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/799a53343ac30b86036516ca1a47bc18a1c5cabb...47dc166911fef4eedc74fc22dca9c908e99a1316))",
+    "created_at": "2021-06-24 06:33:19.763000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[47dc1669](https://gitlab.com/snowgem/bitfrost/-/commit/47dc166911fef4eedc74fc22dca9c908e99a1316): correct transaction time in purchases/swap page - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!323 \\*correct transaction time in purchases/swap page\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/323) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-24 06:34:15.719000"
   }
 ]
