@@ -49424,5 +49424,15 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!322 \\*V0\\.1\\.8\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/322) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-24 04:17:29.950000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2826303ca9b06ed6e2abbfdabb3b828cf63a4035...8702398ea4db3d4d9f46ecf02150402325f71821))",
+    "created_at": "2021-06-24 05:36:52.473000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8702398e](https://gitlab.com/snowgem/bitfrost/-/commit/8702398ea4db3d4d9f46ecf02150402325f71821): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]

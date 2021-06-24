@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5122 commits since 20/01/2020. You can see the complete history in
+There is a total of 5123 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-24 05:36:52</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2826303ca9b06ed6e2abbfdabb3b828cf63a4035...8702398ea4db3d4d9f46ecf02150402325f71821))</sub> | <sub>[8702398e](https://gitlab.com/snowgem/bitfrost/-/commit/8702398ea4db3d4d9f46ecf02150402325f71821): fix lint - Snowgem</sub> |
 | <sub>2021-06-24 04:17:29</sub> | <sub>Txid (txid) opened merge request [\!322 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/322) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-24 04:17:27</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/e8ec8c66e2b88d4c3758734950da66ed2bcd4f4a...2826303ca9b06ed6e2abbfdabb3b828cf63a4035))</sub> | <sub>[2826303c](https://gitlab.com/snowgem/bitfrost/-/commit/2826303ca9b06ed6e2abbfdabb3b828cf63a4035): increase ios build version - Snowgem</sub> |
 | <sub>2021-06-24 04:16:06</sub> | <sub>Txid pushed to branch [v0\.1\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3cbd5cb417865d414d0d9c33d5d153aab6622d2c...e8ec8c66e2b88d4c3758734950da66ed2bcd4f4a))</sub> | <sub>[e8ec8c66](https://gitlab.com/snowgem/bitfrost/-/commit/e8ec8c66e2b88d4c3758734950da66ed2bcd4f4a): fix duplicate in swap page, display swap/purchase time - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 5122 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-23 19:59:12</sub> | <sub>[[TENT:release\-v3\.1\.3] 3 new commits](https://github.com/TENTOfficial/TENT/compare/a71d55d1588d^...0ddb7c54170b)</sub> | <sub>[a71d55d](https://github.com/TENTOfficial/TENT/commit/a71d55d1588d81d5c7b8ed1a526b205aa7e7e9af) make-release.py: Versioning changes for 3.1.3. - ciripel<br>[ac8e73d](https://github.com/TENTOfficial/TENT/commit/ac8e73d3b711a8c100941201d0889cfc61325788) make-release.py: Updated manpages for 3.1.3. - ciripel<br>[0ddb7c5](https://github.com/TENTOfficial/TENT/commit/0ddb7c54170b440a33f644b3dda869f8538cc26d) make-release.py: Updated release notes and chan... - ciripel</sub> |
 | <sub>2021-06-23 19:42:10</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/b91d73f069990f1c2c95d5a7494810f981d691fa)</sub> | <sub>[b91d73f](https://github.com/TENTOfficial/TENT/commit/b91d73f069990f1c2c95d5a7494810f981d691fa) make-release fixes - ciripel</sub> |
 | <sub>2021-06-23 19:29:23</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/aa8a7518920467ce6f274c2ffa32b464c56301c1)</sub> | <sub>[aa8a751](https://github.com/TENTOfficial/TENT/commit/aa8a7518920467ce6f274c2ffa32b464c56301c1) make-release fixes - ciripel</sub> |
-| <sub>2021-06-23 19:06:14</sub> | <sub>[[TENT:master] 1 new commit](https://github.com/TENTOfficial/TENT/commit/3c51c526dbf57457eefd10d8fe236b88dc799308)</sub> | <sub>[3c51c52](https://github.com/TENTOfficial/TENT/commit/3c51c526dbf57457eefd10d8fe236b88dc799308) fix - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
