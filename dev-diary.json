@@ -49389,5 +49389,15 @@
       "description": "[284de7f0](https://gitlab.com/snowgem/bitfrost/-/commit/284de7f08066ae97ef120eca4f03c71e641c36a7): update pending swap worker - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/284de7f08066ae97ef120eca4f03c71e641c36a7...3cbd5cb417865d414d0d9c33d5d153aab6622d2c))",
+    "created_at": "2021-06-24 03:25:19.460000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3cbd5cb4](https://gitlab.com/snowgem/bitfrost/-/commit/3cbd5cb417865d414d0d9c33d5d153aab6622d2c): fix estimation fee - Snowgem",
+      "type": "rich"
+    }
   }
 ]
