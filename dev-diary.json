@@ -49444,5 +49444,15 @@
       "description": "[ba484abc](https://gitlab.com/snowgem/bitfrost/-/commit/ba484abc00a3ac445ec7691478989524fc455a51): get new token if start connection failed - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.8](https://gitlab.com/snowgem/bitfrost/commits/v0.1.8) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ba484abc00a3ac445ec7691478989524fc455a51...799a53343ac30b86036516ca1a47bc18a1c5cabb))",
+    "created_at": "2021-06-24 06:05:55.509000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[799a5334](https://gitlab.com/snowgem/bitfrost/-/commit/799a53343ac30b86036516ca1a47bc18a1c5cabb): get jwt again in exception is occured - Snowgem",
+      "type": "rich"
+    }
   }
 ]
