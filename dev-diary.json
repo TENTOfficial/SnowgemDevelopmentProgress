@@ -49594,5 +49594,15 @@
       "description": "[003d03c5](https://gitlab.com/snowgem/bitfrost/-/commit/003d03c5e2958e290fbec4d581ca0029f4086628): fix new tx notification - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/003d03c5e2958e290fbec4d581ca0029f4086628...0d2b894f547d68b4c654c5ae519880e62dba2cdc))",
+    "created_at": "2021-06-25 05:09:59.329000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[84e2c7d3](https://gitlab.com/snowgem/bitfrost/-/commit/84e2c7d385a1dec9e39ef5ac2f10ef86a2750aa4): Squashed commit of the following: - Snowgem\n\n[0d2b894f](https://gitlab.com/snowgem/bitfrost/-/commit/0d2b894f547d68b4c654c5ae519880e62dba2cdc): fix run issue - Snowgem",
+      "type": "rich"
+    }
   }
 ]
