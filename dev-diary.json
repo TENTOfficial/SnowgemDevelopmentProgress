@@ -49634,5 +49634,15 @@
       "description": "[df7a16df](https://gitlab.com/snowgem/bitfrost/-/commit/df7a16df4b02437ad355f8e9ebf3db6c2b0f034d): increase version - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/4975478c01925202c2d5837f86fb8af9fb787f09...7ad552e0aebb59afebf5fa49fbfad9f8c54f9dc0))",
+    "created_at": "2021-06-25 13:13:21.608000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7ad552e0](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/7ad552e0aebb59afebf5fa49fbfad9f8c54f9dc0): added Ubuntu-20.04 as Linux OS option - ciripel",
+      "type": "rich"
+    }
   }
 ]
