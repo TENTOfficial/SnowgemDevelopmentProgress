@@ -49667,5 +49667,23 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til pushed new branch [usd\\_purchases](https://gitlab.com/snowgem/bitfrost/commits/usd_purchases) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-25 14:05:05.586000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-25 14:24:21.945000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`2b65b72`](https://github.com/TENTOfficial/ServerConfig/commit/2b65b72b59d1b0c31057a52684ee1bf47066ac82) enabled encryption for dev - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/2b65b72b59d1b0c31057a52684ee1bf47066ac82"
+    }
   }
 ]
