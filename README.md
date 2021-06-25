@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5151 commits since 20/01/2020. You can see the complete history in
+There is a total of 5152 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-25 14:03:57</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/111c8145609c974bf03d1cf4c36124aca9df07df)</sub> | <sub>[111c814](https://github.com/TENTOfficial/ServerConfig/commit/111c8145609c974bf03d1cf4c36124aca9df07df) updated Ubuntu-20.04 links and checksums - ciripel</sub> |
 | <sub>2021-06-25 13:13:21</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/4975478c01925202c2d5837f86fb8af9fb787f09...7ad552e0aebb59afebf5fa49fbfad9f8c54f9dc0))</sub> | <sub>[7ad552e0](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/7ad552e0aebb59afebf5fa49fbfad9f8c54f9dc0): added Ubuntu-20.04 as Linux OS option - ciripel</sub> |
 | <sub>2021-06-25 13:01:29</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/956a776a0a4c7b1d2b17b1dd115d40252043f5d9...df7a16df4b02437ad355f8e9ebf3db6c2b0f034d))</sub> | <sub>[df7a16df](https://gitlab.com/snowgem/bitfrost/-/commit/df7a16df4b02437ad355f8e9ebf3db6c2b0f034d): increase version - Snowgem</sub> |
 | <sub>2021-06-25 12:58:28</sub> | <sub>Txid pushed new branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 5151 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-25 03:09:18</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/87352c26f4e7df7cf9d5e26bef9a8ca73d95c6d5...003d03c5e2958e290fbec4d581ca0029f4086628))</sub> | <sub>[003d03c5](https://gitlab.com/snowgem/bitfrost/-/commit/003d03c5e2958e290fbec4d581ca0029f4086628): fix new tx notification - Snowgem</sub> |
 | <sub>2021-06-25 02:33:52</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2058c9a53c343af7355e544b87dd31cd0461c469...87352c26f4e7df7cf9d5e26bef9a8ca73d95c6d5))</sub> | <sub>[87352c26](https://gitlab.com/snowgem/bitfrost/-/commit/87352c26f4e7df7cf9d5e26bef9a8ca73d95c6d5): update validate address for bitgo - Snowgem</sub> |
 | <sub>2021-06-24 15:30:53</sub> | <sub>Txid (txid) closed merge request [\!326 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/326) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-06-24 15:30:44</sub> | <sub>Txid (txid) closed merge request [\!327 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/327) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
