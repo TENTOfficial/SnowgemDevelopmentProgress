@@ -49723,5 +49723,41 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/TENT-Core/commit/345008fb553b7ba002bb663a3a886e1d0d51fb6f"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-25 18:21:18.915000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`a09b5ea`](https://github.com/TENTOfficial/ServerConfig/commit/a09b5eab25dbfb6c871c38ce16034e0d222c4bea) updated to 1.1.6, dropped banner, updated langs - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/a09b5eab25dbfb6c871c38ce16034e0d222c4bea"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-25 18:23:09.550000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`4d688b9`](https://github.com/TENTOfficial/ServerConfig/commit/4d688b9d07c1ddb7f75aa3d33d87e902a138d0b9) enabled encryption in production - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/4d688b9d07c1ddb7f75aa3d33d87e902a138d0b9"
+    }
   }
 ]
