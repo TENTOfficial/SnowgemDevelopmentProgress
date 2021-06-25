@@ -49695,5 +49695,15 @@
       "description": "[72902d35](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/72902d35d07d87cbdf7ad4f11c3bb4081df30a96): release 1.1.6 - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/7ad552e0aebb59afebf5fa49fbfad9f8c54f9dc0...f10e2c3f2614d4ca4f28fe683e8ac08967888c29))",
+    "created_at": "2021-06-25 16:28:16.860000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f10e2c3f](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/f10e2c3f2614d4ca4f28fe683e8ac08967888c29): release 1.1.6 - ciripel",
+      "type": "rich"
+    }
   }
 ]
