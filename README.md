@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5149 commits since 20/01/2020. You can see the complete history in
+There is a total of 5150 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-25 13:01:29</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/956a776a0a4c7b1d2b17b1dd115d40252043f5d9...df7a16df4b02437ad355f8e9ebf3db6c2b0f034d))</sub> | <sub>[df7a16df](https://gitlab.com/snowgem/bitfrost/-/commit/df7a16df4b02437ad355f8e9ebf3db6c2b0f034d): increase version - Snowgem</sub> |
 | <sub>2021-06-25 12:58:28</sub> | <sub>Txid pushed new branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-25 12:55:48</sub> | <sub>Txid removed branch v0.1.9 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-25 08:34:24</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0d2b894f547d68b4c654c5ae519880e62dba2cdc...4b96ff8b89591572c04b923f420d2526784a6e80))</sub> | <sub>[4b96ff8b](https://gitlab.com/snowgem/bitfrost/-/commit/4b96ff8b89591572c04b923f420d2526784a6e80): update derive number for bnb/etc - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 5149 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-24 15:30:53</sub> | <sub>Txid (txid) closed merge request [\!326 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/326) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-24 15:30:44</sub> | <sub>Txid (txid) closed merge request [\!327 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/327) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-24 15:30:25</sub> | <sub>Txid (txid) opened merge request [\!327 \*V0\.1\.8\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/327) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-06-24 15:29:24</sub> | <sub>Txid (txid) opened merge request [\!326 \*Testing\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/326) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
