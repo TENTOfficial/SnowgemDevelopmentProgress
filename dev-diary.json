@@ -49685,5 +49685,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/2b65b72b59d1b0c31057a52684ee1bf47066ac82"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\\_desktop\\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/7ad552e0aebb59afebf5fa49fbfad9f8c54f9dc0...72902d35d07d87cbdf7ad4f11c3bb4081df30a96))",
+    "created_at": "2021-06-25 15:44:24.192000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[72902d35](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/72902d35d07d87cbdf7ad4f11c3bb4081df30a96): release 1.1.6 - ciripel",
+      "type": "rich"
+    }
   }
 ]
