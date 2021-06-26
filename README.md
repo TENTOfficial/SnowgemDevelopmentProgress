@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5159 commits since 20/01/2020. You can see the complete history in
+There is a total of 5160 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-26 03:13:59</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4b96ff8b89591572c04b923f420d2526784a6e80...32e6ba5c1b360e5d482af394de71b7141c3a6da3))</sub> | <sub>[32e6ba5c](https://gitlab.com/snowgem/bitfrost/-/commit/32e6ba5c1b360e5d482af394de71b7141c3a6da3): 4 words per line for seeds - Snowgem</sub> |
 | <sub>2021-06-25 18:23:09</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/4d688b9d07c1ddb7f75aa3d33d87e902a138d0b9)</sub> | <sub>[4d688b9](https://github.com/TENTOfficial/ServerConfig/commit/4d688b9d07c1ddb7f75aa3d33d87e902a138d0b9) enabled encryption in production - ciripel</sub> |
 | <sub>2021-06-25 18:21:18</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/a09b5eab25dbfb6c871c38ce16034e0d222c4bea)</sub> | <sub>[a09b5ea](https://github.com/TENTOfficial/ServerConfig/commit/a09b5eab25dbfb6c871c38ce16034e0d222c4bea) updated to 1.1.6, dropped banner, updated langs - ciripel</sub> |
 | <sub>2021-06-25 16:58:27</sub> | <sub>[[TENT-Core:master] 1 new commit](https://github.com/TENTOfficial/TENT-Core/commit/345008fb553b7ba002bb663a3a886e1d0d51fb6f)</sub> | <sub>[345008f](https://github.com/TENTOfficial/TENT-Core/commit/345008fb553b7ba002bb663a3a886e1d0d51fb6f) Update README.md - ciripel</sub> |
@@ -17,6 +18,5 @@ There is a total of 5159 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-25 14:05:05</sub> | <sub>Jan Vraštil pushed new branch [usd\_purchases](https://gitlab.com/snowgem/bitfrost/commits/usd_purchases) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-25 14:03:57</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/111c8145609c974bf03d1cf4c36124aca9df07df)</sub> | <sub>[111c814](https://github.com/TENTOfficial/ServerConfig/commit/111c8145609c974bf03d1cf4c36124aca9df07df) updated Ubuntu-20.04 links and checksums - ciripel</sub> |
 | <sub>2021-06-25 13:13:21</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/4975478c01925202c2d5837f86fb8af9fb787f09...7ad552e0aebb59afebf5fa49fbfad9f8c54f9dc0))</sub> | <sub>[7ad552e0](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/7ad552e0aebb59afebf5fa49fbfad9f8c54f9dc0): added Ubuntu-20.04 as Linux OS option - ciripel</sub> |
-| <sub>2021-06-25 13:01:29</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/956a776a0a4c7b1d2b17b1dd115d40252043f5d9...df7a16df4b02437ad355f8e9ebf3db6c2b0f034d))</sub> | <sub>[df7a16df](https://gitlab.com/snowgem/bitfrost/-/commit/df7a16df4b02437ad355f8e9ebf3db6c2b0f034d): increase version - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
