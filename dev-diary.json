@@ -49769,5 +49769,15 @@
       "description": "[32e6ba5c](https://gitlab.com/snowgem/bitfrost/-/commit/32e6ba5c1b360e5d482af394de71b7141c3a6da3): 4 words per line for seeds - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/32e6ba5c1b360e5d482af394de71b7141c3a6da3...81578a9690318ddf4e106c4a68ace8db8bc78497))",
+    "created_at": "2021-06-26 04:16:22.715000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[81578a96](https://gitlab.com/snowgem/bitfrost/-/commit/81578a9690318ddf4e106c4a68ace8db8bc78497): display chain for multiple chains coin/token - Snowgem",
+      "type": "rich"
+    }
   }
 ]
