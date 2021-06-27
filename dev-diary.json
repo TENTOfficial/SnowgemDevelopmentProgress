@@ -49789,5 +49789,23 @@
       "description": "[f1902071](https://gitlab.com/snowgem/bitfrost/-/commit/f19020717f7787d378454e27a5834de9de2893b5): add multichain field - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-27 22:00:00.447000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b07da5e`](https://github.com/TENTOfficial/ServerConfig/commit/b07da5ee1129ce7162241277e9c915e7dd23e298) updated hash for new linux version - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/b07da5ee1129ce7162241277e9c915e7dd23e298"
+    }
   }
 ]

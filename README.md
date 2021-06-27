@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5162 commits since 20/01/2020. You can see the complete history in
+There is a total of 5163 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-27 22:00:00</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/b07da5ee1129ce7162241277e9c915e7dd23e298)</sub> | <sub>[b07da5e](https://github.com/TENTOfficial/ServerConfig/commit/b07da5ee1129ce7162241277e9c915e7dd23e298) updated hash for new linux version - ciripel</sub> |
 | <sub>2021-06-26 04:27:54</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/81578a9690318ddf4e106c4a68ace8db8bc78497...f19020717f7787d378454e27a5834de9de2893b5))</sub> | <sub>[f1902071](https://gitlab.com/snowgem/bitfrost/-/commit/f19020717f7787d378454e27a5834de9de2893b5): add multichain field - Snowgem</sub> |
 | <sub>2021-06-26 04:16:22</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/32e6ba5c1b360e5d482af394de71b7141c3a6da3...81578a9690318ddf4e106c4a68ace8db8bc78497))</sub> | <sub>[81578a96](https://gitlab.com/snowgem/bitfrost/-/commit/81578a9690318ddf4e106c4a68ace8db8bc78497): display chain for multiple chains coin/token - Snowgem</sub> |
 | <sub>2021-06-26 03:13:59</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/4b96ff8b89591572c04b923f420d2526784a6e80...32e6ba5c1b360e5d482af394de71b7141c3a6da3))</sub> | <sub>[32e6ba5c](https://gitlab.com/snowgem/bitfrost/-/commit/32e6ba5c1b360e5d482af394de71b7141c3a6da3): 4 words per line for seeds - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 5162 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-25 16:28:16</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/7ad552e0aebb59afebf5fa49fbfad9f8c54f9dc0...f10e2c3f2614d4ca4f28fe683e8ac08967888c29))</sub> | <sub>[f10e2c3f](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/f10e2c3f2614d4ca4f28fe683e8ac08967888c29): release 1.1.6 - ciripel</sub> |
 | <sub>2021-06-25 15:44:24</sub> | <sub>ciripel pushed to branch [master](https://gitlab.com/snowgem/tentcore_desktop_angular/commits/master) of [snowgem / tentcore\_desktop\_angular](https://gitlab.com/snowgem/tentcore_desktop_angular) ([Compare changes](https://gitlab.com/snowgem/tentcore_desktop_angular/compare/7ad552e0aebb59afebf5fa49fbfad9f8c54f9dc0...72902d35d07d87cbdf7ad4f11c3bb4081df30a96))</sub> | <sub>[72902d35](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/72902d35d07d87cbdf7ad4f11c3bb4081df30a96): release 1.1.6 - ciripel</sub> |
 | <sub>2021-06-25 14:24:21</sub> | <sub>[[ServerConfig:main] 1 new commit](https://github.com/TENTOfficial/ServerConfig/commit/2b65b72b59d1b0c31057a52684ee1bf47066ac82)</sub> | <sub>[2b65b72](https://github.com/TENTOfficial/ServerConfig/commit/2b65b72b59d1b0c31057a52684ee1bf47066ac82) enabled encryption for dev - ciripel</sub> |
-| <sub>2021-06-25 14:05:05</sub> | <sub>Jan Vraštil pushed new branch [usd\_purchases](https://gitlab.com/snowgem/bitfrost/commits/usd_purchases) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
