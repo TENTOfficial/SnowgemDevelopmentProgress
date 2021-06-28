@@ -49857,5 +49857,23 @@
       "description": "[edcbda00](https://gitlab.com/snowgem/tentcore_desktop_angular/-/commit/edcbda00da11e64c3dc5de1fc13b27d218d9a9fe): increased fee fir maxButton - ciripel",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-28 08:29:31.195000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`51a1b86`](https://github.com/TENTOfficial/ServerConfig/commit/51a1b86477e453668ea5e9de2681e76ead687af8) updated Zero daemons - ciripel",
+      "title": "[ServerConfig:main] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/ServerConfig/commit/51a1b86477e453668ea5e9de2681e76ead687af8"
+    }
   }
 ]
