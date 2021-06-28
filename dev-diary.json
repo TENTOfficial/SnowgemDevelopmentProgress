@@ -49918,5 +49918,33 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!328 \\*Squashed commit of the following:\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/328) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-28 10:24:17.069000"
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-28 10:30:26.097000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`00670b8`](https://github.com/ciripel/electrum-tent/commit/00670b868d6919eed945e63ed667c1b600e035b9) removed is_segwit() - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/00670b868d6919eed945e63ed667c1b600e035b9"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/789aad053d4750591c09a33a5f15f4d036532167...cd6625f48de55b1ff7449407fa583a599515544e))",
+    "created_at": "2021-06-28 10:33:51.398000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[1b848392](https://gitlab.com/snowgem/bitfrost/-/commit/1b848392670d942d88f23f716afde291a24ca25d): improve estimated btc fee - Snowgem\n\n[32caf8ba](https://gitlab.com/snowgem/bitfrost/-/commit/32caf8bad4182572bb3fd82a04246a33011ef9ab): Merge branch 'v0.1.8' into 'testing' - Txid\n\n[0c4c305a](https://gitlab.com/snowgem/bitfrost/-/commit/0c4c305a6cba58491820dc4bc2eb048cd3ed01a1): Switch crypto and fiat values in wallet dashboard - jan.vrastil\n\n[8776741f](https://gitlab.com/snowgem/bitfrost/-/commit/8776741f86ec24890cdb0f5d98c9a17e623b9519): get gas price dynamically from web3 - Snowgem\n\n[8e99cd2e](https://gitlab.com/snowgem/bitfrost/-/commit/8e99cd2e4ece943f7cc56864a1c3c2102c81c4db): Merge branch 'v0.1.8' of https://gitlab.com/snowgem/bitfrost into v0.1.8 - Snowgem\n\n[8436dbbc](https://gitlab.com/snowgem/bitfrost/-/commit/8436dbbcfa2a0d3ab52b68286afbe0f118ad9c60): increase gas amount - Snowgem\n\n[e6b40959](https://gitlab.com/snowgem/bitfrost/-/commit/e6b40959c342c27f8b2ecef4dfe5001232537f12): Merge branch 'v0.1.8' into 'testing' - Txid\n\n[284de7f0](https://gitlab.com/snowgem/bitfrost/-/commit/284de7f08066ae97ef120eca4f03c71e641c36a7): update pending swap worker - Snowgem\n\n[3cbd5cb4](https://gitlab.com/snowgem/bitfrost/-/commit/3cbd5cb417865d414d0d9c33d5d153aab6622d2c): fix estimation fee - Snowgem\n\n[e8ec8c66](https://gitlab.com/snowgem/bitfrost/-/commit/e8ec8c66e2b88d4c3758734950da66ed2bcd4f4a): fix duplicate in swap page, display swap/purchase time - Snowgem\n\n[2826303c](https://gitlab.com/snowgem/bitfrost/-/commit/2826303ca9b06ed6e2abbfdabb3b828cf63a4035): increase ios build version - Snowgem\n\n[8702398e](https://gitlab.com/snowgem/bitfrost/-/commit/8702398ea4db3d4d9f46ecf02150402325f71821): fix lint - Snowgem\n\n[ba484abc](https://gitlab.com/snowgem/bitfrost/-/commit/ba484abc00a3ac445ec7691478989524fc455a51): get new token if start connection failed - Snowgem\n\n[799a5334](https://gitlab.com/snowgem/bitfrost/-/commit/799a53343ac30b86036516ca1a47bc18a1c5cabb): get jwt again in exception is occured - Snowgem\n\n[cf3fbcae](https://gitlab.com/snowgem/bitfrost/-/commit/cf3fbcae1650d557e5f7c58d338ab4ad3737bbc7): Merge branch 'v0.1.8' into 'testing' - Txid\n\n[47dc1669](https://gitlab.com/snowgem/bitfrost/-/commit/47dc166911fef4eedc74fc22dca9c908e99a1316): correct transaction time in purchases/swap page - Snowgem\n\n[54226364](https://gitlab.com/snowgem/bitfrost/-/commit/542263640d191d65149062ae7cf8fc72f44cd098): Merge branch 'v0.1.8' into 'testing' - Txid\n\n[956a776a](https://gitlab.com/snowgem/bitfrost/-/commit/956a776a0a4c7b1d2b17b1dd115d40252043f5d9): fix not get rate at the first time - Snowgem\n\n[bf154326](https://gitlab.com/snowgem/bitfrost/-/commit/bf154326c8fca3417032831666cdd1caa12b0191): Merge branch 'v0.1.8' into 'testing' - Txid\n\n[cd6625f4](https://gitlab.com/snowgem/bitfrost/-/commit/cd6625f48de55b1ff7449407fa583a599515544e): Merge branch 'testing' into v0.2.0 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
