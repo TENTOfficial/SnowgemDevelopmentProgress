@@ -49989,5 +49989,15 @@
     "author": "GitLab",
     "content": "Txid (txid) merged merge request [\\!328 \\*Squashed commit of the following:\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/328) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-28 10:47:34.025000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [usd\\_purchases](https://gitlab.com/snowgem/bitfrost/commits/usd_purchases) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c4fbb24beb5bbcccbce0fa7d0735d807ddcf7120...7a0bc7b333382abdcab44438dd4d92f0ccab9678))",
+    "created_at": "2021-06-28 14:30:39.575000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[7a0bc7b3](https://gitlab.com/snowgem/bitfrost/-/commit/7a0bc7b333382abdcab44438dd4d92f0ccab9678): iteration 2 - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
