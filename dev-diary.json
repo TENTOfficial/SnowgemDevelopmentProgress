@@ -49903,5 +49903,20 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/commit/39ac67bf624eb610bec446c0ae357ec858a61320"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1c4df16e92b2135ab860ef817fa778ac819ceef9...789aad053d4750591c09a33a5f15f4d036532167))",
+    "created_at": "2021-06-28 10:23:06.343000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[fd8813d8](https://gitlab.com/snowgem/bitfrost/-/commit/fd8813d899f015d960430f916f0c7ef1bb143c16): get abi from contract address - Snowgem\n\n[fe4f733b](https://gitlab.com/snowgem/bitfrost/-/commit/fe4f733b11ed4e8ae79835546603e75a48160cdf): update some util services - Snowgem\n\n[789aad05](https://gitlab.com/snowgem/bitfrost/-/commit/789aad053d4750591c09a33a5f15f4d036532167): update wallet type for opening tx - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!328 \\*Squashed commit of the following:\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/328) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-28 10:24:17.069000"
   }
 ]
