@@ -50019,5 +50019,23 @@
       "description": "[87352c26](https://gitlab.com/snowgem/bitfrost/-/commit/87352c26f4e7df7cf9d5e26bef9a8ca73d95c6d5): update validate address for bitgo - Snowgem\n\n[003d03c5](https://gitlab.com/snowgem/bitfrost/-/commit/003d03c5e2958e290fbec4d581ca0029f4086628): fix new tx notification - Snowgem\n\n[84e2c7d3](https://gitlab.com/snowgem/bitfrost/-/commit/84e2c7d385a1dec9e39ef5ac2f10ef86a2750aa4): Squashed commit of the following: - Snowgem\n\n[0d2b894f](https://gitlab.com/snowgem/bitfrost/-/commit/0d2b894f547d68b4c654c5ae519880e62dba2cdc): fix run issue - Snowgem\n\n[4b96ff8b](https://gitlab.com/snowgem/bitfrost/-/commit/4b96ff8b89591572c04b923f420d2526784a6e80): update derive number for bnb/etc - Snowgem\n\n[32e6ba5c](https://gitlab.com/snowgem/bitfrost/-/commit/32e6ba5c1b360e5d482af394de71b7141c3a6da3): 4 words per line for seeds - Snowgem\n\n[81578a96](https://gitlab.com/snowgem/bitfrost/-/commit/81578a9690318ddf4e106c4a68ace8db8bc78497): display chain for multiple chains coin/token - Snowgem\n\n[f1902071](https://gitlab.com/snowgem/bitfrost/-/commit/f19020717f7787d378454e27a5834de9de2893b5): add multichain field - Snowgem\n\n[169fad57](https://gitlab.com/snowgem/bitfrost/-/commit/169fad578b53b29cb5f913ae7c7306fc7defdd32): add abi to database - Snowgem\n\n[491cc2e9](https://gitlab.com/snowgem/bitfrost/-/commit/491cc2e981e35e6c4178b5b85e00717f4d00c400): fix lint - Snowgem\n\n[25605c09](https://gitlab.com/snowgem/bitfrost/-/commit/25605c0946e61b5ae456340dcd6148ce49d7ab86): fix abi undefine - Snowgem\n\n[4f578fce](https://gitlab.com/snowgem/bitfrost/-/commit/4f578fce06a75bf65e04cd57c4fba2ee4a78f8a4): update fees/rates request - Snowgem\n\n[1c4df16e](https://gitlab.com/snowgem/bitfrost/-/commit/1c4df16e92b2135ab860ef817fa778ac819ceef9): update explorer request - Snowgem\n\n[fd8813d8](https://gitlab.com/snowgem/bitfrost/-/commit/fd8813d899f015d960430f916f0c7ef1bb143c16): get abi from contract address - Snowgem\n\n[fe4f733b](https://gitlab.com/snowgem/bitfrost/-/commit/fe4f733b11ed4e8ae79835546603e75a48160cdf): update some util services - Snowgem\n\n[789aad05](https://gitlab.com/snowgem/bitfrost/-/commit/789aad053d4750591c09a33a5f15f4d036532167): update wallet type for opening tx - Snowgem\n\n[cd6625f4](https://gitlab.com/snowgem/bitfrost/-/commit/cd6625f48de55b1ff7449407fa583a599515544e): Merge branch 'testing' into v0.2.0 - Snowgem\n\n[8ff9fd47](https://gitlab.com/snowgem/bitfrost/-/commit/8ff9fd47a0596cece5adddd194415934c572bd0a): fix lint - Snowgem\n\n[9e701b20](https://gitlab.com/snowgem/bitfrost/-/commit/9e701b2097f515386966908125fd8b9df92b0a97): bug/285 - Finish Debit cards - jan.vrastil\n\n[6319c1d9](https://gitlab.com/snowgem/bitfrost/-/commit/6319c1d9f0d5cb937407b50e8dcdc9b80a164cdd): update package-lock.json - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-28 16:12:01.767000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`be7a332`](https://github.com/ciripel/electrum-tent/commit/be7a33262424bc63ac4b08af1507b4ae942ee985) Add SLIP-0039 wordlist. - andrewkozlik\n[`19d0454`](https://github.com/ciripel/electrum-tent/commit/19d04546df1380a8bfd7e302f4e55fc7062dc486) Replace from_bip39_seed() with from_bip43_roots... - andrewkozlik\n[`0dce13a`](https://github.com/ciripel/electrum-tent/commit/0dce13a1ddc1b26ccfa6b05063722e969076acc6) Implement SLIP-0039 wallet recovery. - andrewkozlik\n[`2de82a2`](https://github.com/ciripel/electrum-tent/commit/2de82a2fd621f68779250e31488858a62744ff6b) Add SLIP-0039 unit tests. - andrewkozlik\n[`639cd94`](https://github.com/ciripel/electrum-tent/commit/639cd94dcb418f1668aaa4e25dedbdce108d21ca) add signet support - wakiyamap",
+      "title": "[electrum-tent:master] 50 new commits",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/compare/fbd8c5f7b039...3bc8ef6651ed"
+    }
   }
 ]
