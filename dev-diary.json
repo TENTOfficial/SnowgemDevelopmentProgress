@@ -49837,5 +49837,15 @@
       "description": "[07f9da34](https://gitlab.com/snowgem/bitfrost/-/commit/07f9da342c0262fe00cbe630f031b1cae9fa8b6b): add hotfix to build with prod - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f19020717f7787d378454e27a5834de9de2893b5...491cc2e981e35e6c4178b5b85e00717f4d00c400))",
+    "created_at": "2021-06-28 07:32:20.246000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[169fad57](https://gitlab.com/snowgem/bitfrost/-/commit/169fad578b53b29cb5f913ae7c7306fc7defdd32): add abi to database - Snowgem\n\n[491cc2e9](https://gitlab.com/snowgem/bitfrost/-/commit/491cc2e981e35e6c4178b5b85e00717f4d00c400): fix lint - Snowgem",
+      "type": "rich"
+    }
   }
 ]
