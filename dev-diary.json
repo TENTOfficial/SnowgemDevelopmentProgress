@@ -49807,5 +49807,35 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/b07da5ee1129ce7162241277e9c915e7dd23e298"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid removed branch hotfix/v0.1.2.1 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-28 07:27:19.552000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid removed branch hotfix/0.0.8_ios from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-28 07:27:20.725000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid removed branch hotfix/0.1.0 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-28 07:27:20.865000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed new branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-28 07:27:29.699000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/363db57d90f46db0b49cce015088e97b169e51e5...07f9da342c0262fe00cbe630f031b1cae9fa8b6b))",
+    "created_at": "2021-06-28 07:28:22.168000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[07f9da34](https://gitlab.com/snowgem/bitfrost/-/commit/07f9da342c0262fe00cbe630f031b1cae9fa8b6b): add hotfix to build with prod - Snowgem",
+      "type": "rich"
+    }
   }
 ]
