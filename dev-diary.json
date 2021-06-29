@@ -50067,5 +50067,15 @@
       "description": "[9985fef3](https://gitlab.com/snowgem/bitfrost/-/commit/9985fef33c447428e43588265fa53e163f73b696): Add minimum width for swap wallet icons - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/8ff9fd47a0596cece5adddd194415934c572bd0a...63f63a48a274ff6b1bb58169133ef6ad899b112c))",
+    "created_at": "2021-06-29 10:05:34.453000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[63f63a48](https://gitlab.com/snowgem/bitfrost/-/commit/63f63a48a274ff6b1bb58169133ef6ad899b112c): fix build - Snowgem",
+      "type": "rich"
+    }
   }
 ]
