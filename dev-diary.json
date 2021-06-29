@@ -50057,5 +50057,15 @@
       "description": "[66a6cf58](https://gitlab.com/snowgem/bitfrost/-/commit/66a6cf584f1eec607281cd7c393033f1b98cfa7b): bug/285 - Finish Debit cards - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0f5861ec0a2a946539dd5d7f4729ab0ff33f0836...9985fef33c447428e43588265fa53e163f73b696))",
+    "created_at": "2021-06-29 07:45:23.814000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9985fef3](https://gitlab.com/snowgem/bitfrost/-/commit/9985fef33c447428e43588265fa53e163f73b696): Add minimum width for swap wallet icons - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
