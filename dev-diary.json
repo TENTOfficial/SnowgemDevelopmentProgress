@@ -50037,5 +50037,15 @@
       "type": "rich",
       "url": "https://github.com/ciripel/electrum-tent/compare/fbd8c5f7b039...3bc8ef6651ed"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/df7a16df4b02437ad355f8e9ebf3db6c2b0f034d...0f5861ec0a2a946539dd5d7f4729ab0ff33f0836))",
+    "created_at": "2021-06-29 06:17:41.499000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[3b69a919](https://gitlab.com/snowgem/bitfrost/-/commit/3b69a91960c20b50d12fc94830c92ff4fbfc6d2f): add firebase - Snowgem\n\n[0f5861ec](https://gitlab.com/snowgem/bitfrost/-/commit/0f5861ec0a2a946539dd5d7f4729ab0ff33f0836): Merge branch 'v0.1.9' of https://gitlab.com/snowgem/bitfrost into v0.1.9 - Snowgem",
+      "type": "rich"
+    }
   }
 ]
