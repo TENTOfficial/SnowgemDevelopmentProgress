@@ -50087,5 +50087,23 @@
       "description": "[63f63a48](https://gitlab.com/snowgem/bitfrost/-/commit/63f63a48a274ff6b1bb58169133ef6ad899b112c): fix build - Snowgem\n\n[97732494](https://gitlab.com/snowgem/bitfrost/-/commit/97732494d3e9038aecee75b2313d0dd719afbfe8): bug/285 - Finish Debit cards - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-29 10:22:28.790000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`504d004`](https://github.com/ciripel/electrum-tent/commit/504d0041b591e132d9403a9da84a11057b7b00c4) advanced in Tx sending needs tx decoding now - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/504d0041b591e132d9403a9da84a11057b7b00c4"
+    }
   }
 ]
