@@ -50183,5 +50183,23 @@
       "description": "[b64a1e7c](https://gitlab.com/snowgem/bitfrost/-/commit/b64a1e7c1f0e2c5a75a4842eefadd4d92697e179): update SourceCurrencyDisplay - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-06-29 20:06:40.051000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`b63d07a`](https://github.com/ciripel/electrum-tent/commit/b63d07a58321f0fc3c809641e6be4ca08766cde6) got signature of 2 bytes instead of 32 - ciripel",
+      "title": "[electrum-tent:feature/tent] 1 new commit",
+      "type": "rich",
+      "url": "https://github.com/ciripel/electrum-tent/commit/b63d07a58321f0fc3c809641e6be4ca08766cde6"
+    }
   }
 ]
