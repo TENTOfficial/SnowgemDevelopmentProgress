@@ -50163,5 +50163,15 @@
       "description": "[2aebfdba](https://gitlab.com/snowgem/bitfrost/-/commit/2aebfdba99ef6e1289d5b2200462c2714025f828): add google analytic for android - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [usd\\_purchases](https://gitlab.com/snowgem/bitfrost/commits/usd_purchases) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2211798bfc86921a73ebe95b471bcac669b7bda7...f1f84977b8fbfd3bdc3e1dd801106f2828a76363))",
+    "created_at": "2021-06-29 14:51:27.063000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[f1f84977](https://gitlab.com/snowgem/bitfrost/-/commit/f1f84977b8fbfd3bdc3e1dd801106f2828a76363): add SourceCurrencyDisplay property - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
