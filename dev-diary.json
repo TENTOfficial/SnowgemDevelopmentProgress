@@ -50221,5 +50221,15 @@
       "description": "[faadb541](https://gitlab.com/snowgem/bitfrost/-/commit/faadb541dd7f96ecb63a9c54a7b33563fe81b092): increase max old space size - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/faadb541dd7f96ecb63a9c54a7b33563fe81b092...21c50a2e121a36d01b36a546e7e81d38283cd211))",
+    "created_at": "2021-06-30 03:16:41.047000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[21c50a2e](https://gitlab.com/snowgem/bitfrost/-/commit/21c50a2e121a36d01b36a546e7e81d38283cd211): disable source map - Snowgem",
+      "type": "rich"
+    }
   }
 ]
