@@ -50316,5 +50316,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!331 \\*V0\\.1\\.9\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/331) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-30 07:44:37.007000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/793db301ef521c5505aaa662103d7d33a87e2697...6e1adbd7524d261afcaefe7038de616e9c5243c3))",
+    "created_at": "2021-06-30 07:47:43.868000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[df7a16df](https://gitlab.com/snowgem/bitfrost/-/commit/df7a16df4b02437ad355f8e9ebf3db6c2b0f034d): increase version - Snowgem\n\n[3b69a919](https://gitlab.com/snowgem/bitfrost/-/commit/3b69a91960c20b50d12fc94830c92ff4fbfc6d2f): add firebase - Snowgem\n\n[0f5861ec](https://gitlab.com/snowgem/bitfrost/-/commit/0f5861ec0a2a946539dd5d7f4729ab0ff33f0836): Merge branch 'v0.1.9' of https://gitlab.com/snowgem/bitfrost into v0.1.9 - Snowgem\n\n[9985fef3](https://gitlab.com/snowgem/bitfrost/-/commit/9985fef33c447428e43588265fa53e163f73b696): Add minimum width for swap wallet icons - jan.vrastil\n\n[387cf43a](https://gitlab.com/snowgem/bitfrost/-/commit/387cf43a1d195493c8387ce80ce721fce043bad2): update SourceCurrencyDisplay - Snowgem\n\n[d6dd5fee](https://gitlab.com/snowgem/bitfrost/-/commit/d6dd5fee77fda507d664ec4faeff0205953e4618): Add USD purchases - Jan Vra\u0161til\n\n[53204a39](https://gitlab.com/snowgem/bitfrost/-/commit/53204a39c5cac6ed51783d5c3bba6290fba9b185): Merge branch 'usd_purchases' into 'v0.1.9' - Jan Vra\u0161til\n\n[dfcb0c62](https://gitlab.com/snowgem/bitfrost/-/commit/dfcb0c62da0590e8868b4f26c91eb2a6f9d5611d): remove cancel swap - Snowgem\n\n[1e74f2c4](https://gitlab.com/snowgem/bitfrost/-/commit/1e74f2c429f4da4f0ecd00bb777820760a11e1f2): Merge branch 'v0.1.9' of https://gitlab.com/snowgem/bitfrost into v0.1.9 - Snowgem\n\n[6e1adbd7](https://gitlab.com/snowgem/bitfrost/-/commit/6e1adbd7524d261afcaefe7038de616e9c5243c3): Merge branch 'v0.1.9' into 'hotfix' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!331 \\*V0\\.1\\.9\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/331) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-30 07:47:44.678000"
   }
 ]
