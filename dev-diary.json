@@ -50246,5 +50246,25 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!329 \\*Add USD purchases\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/329) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-06-30 07:12:25.027000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/387cf43a1d195493c8387ce80ce721fce043bad2...53204a39c5cac6ed51783d5c3bba6290fba9b185))",
+    "created_at": "2021-06-30 07:15:16.078000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d6dd5fee](https://gitlab.com/snowgem/bitfrost/-/commit/d6dd5fee77fda507d664ec4faeff0205953e4618): Add USD purchases - Jan Vra\u0161til\n\n[53204a39](https://gitlab.com/snowgem/bitfrost/-/commit/53204a39c5cac6ed51783d5c3bba6290fba9b185): Merge branch 'usd_purchases' into 'v0.1.9' - Jan Vra\u0161til",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til removed branch usd_purchases from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-30 07:15:16.624000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) merged merge request [\\!329 \\*Add USD purchases\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/329) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-06-30 07:15:16.754000"
   }
 ]
