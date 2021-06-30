@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5208 commits since 20/01/2020. You can see the complete history in
+There is a total of 5209 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-06-30 07:33:45</sub> | <sub>Txid (txid) opened merge request [\!330 \*Add note to iframe page\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/330) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-30 07:28:59</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/53204a39c5cac6ed51783d5c3bba6290fba9b185...1e74f2c429f4da4f0ecd00bb777820760a11e1f2))</sub> | <sub>[dfcb0c62](https://gitlab.com/snowgem/bitfrost/-/commit/dfcb0c62da0590e8868b4f26c91eb2a6f9d5611d): remove cancel swap - Snowgem<br>[1e74f2c4](https://gitlab.com/snowgem/bitfrost/-/commit/1e74f2c429f4da4f0ecd00bb777820760a11e1f2): Merge branch 'v0.1.9' of https://gitlab.com/snowgem/bitfrost into v0.1.9 - Snowgem</sub> |
 | <sub>2021-06-30 07:15:16</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!329 \*Add USD purchases\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/329) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-30 07:15:16</sub> | <sub>Jan Vraštil removed branch usd_purchases from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -17,6 +18,5 @@ There is a total of 5208 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-30 03:16:41</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/faadb541dd7f96ecb63a9c54a7b33563fe81b092...21c50a2e121a36d01b36a546e7e81d38283cd211))</sub> | <sub>[21c50a2e](https://gitlab.com/snowgem/bitfrost/-/commit/21c50a2e121a36d01b36a546e7e81d38283cd211): disable source map - Snowgem</sub> |
 | <sub>2021-06-30 02:59:21</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/094b855c5f00002fe4e9a8a6b6c530d7c0344da8...faadb541dd7f96ecb63a9c54a7b33563fe81b092))</sub> | <sub>[faadb541](https://gitlab.com/snowgem/bitfrost/-/commit/faadb541dd7f96ecb63a9c54a7b33563fe81b092): increase max old space size - Snowgem</sub> |
 | <sub>2021-06-30 02:48:26</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2aebfdba99ef6e1289d5b2200462c2714025f828...094b855c5f00002fe4e9a8a6b6c530d7c0344da8))</sub> | <sub>[c573d09e](https://gitlab.com/snowgem/bitfrost/-/commit/c573d09ec520e40dc32e762f489fbcc63ab77776): update build process - Snowgem<br>[094b855c](https://gitlab.com/snowgem/bitfrost/-/commit/094b855c5f00002fe4e9a8a6b6c530d7c0344da8): Merge branch 'v0.2.0' of https://gitlab.com/snowgem/bitfrost into v0.2.0 - Snowgem</sub> |
-| <sub>2021-06-29 20:06:40</sub> | <sub>[[electrum-tent:feature/tent] 1 new commit](https://github.com/ciripel/electrum-tent/commit/b63d07a58321f0fc3c809641e6be4ca08766cde6)</sub> | <sub>[b63d07a](https://github.com/ciripel/electrum-tent/commit/b63d07a58321f0fc3c809641e6be4ca08766cde6) got signature of 2 bytes instead of 32 - ciripel</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
