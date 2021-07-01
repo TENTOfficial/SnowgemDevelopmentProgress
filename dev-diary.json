@@ -50346,5 +50346,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!332 \\*V0\\.1\\.9\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/332) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-07-01 03:51:44.280000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!332 \\*V0\\.1\\.9\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/332) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-07-01 03:56:03.385000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6e1adbd7524d261afcaefe7038de616e9c5243c3...2df41efc4f4840945c831edf69794eddc5d5264a))",
+    "created_at": "2021-07-01 03:56:03.427000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[70f8138a](https://gitlab.com/snowgem/bitfrost/-/commit/70f8138aac203c84f786bbf0219d1f30486fee61): show only available wallet in purchase - Snowgem\n\n[71315eed](https://gitlab.com/snowgem/bitfrost/-/commit/71315eed9af6d51088e9b9ff66f850494937edc2): show current balance in purchase selection - Snowgem\n\n[2df41efc](https://gitlab.com/snowgem/bitfrost/-/commit/2df41efc4f4840945c831edf69794eddc5d5264a): Merge branch 'v0.1.9' into 'hotfix' - Txid",
+      "type": "rich"
+    }
   }
 ]

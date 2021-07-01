@@ -3,11 +3,13 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5219 commits since 20/01/2020. You can see the complete history in
+There is a total of 5221 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-07-01 03:56:03</sub> | <sub>Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/6e1adbd7524d261afcaefe7038de616e9c5243c3...2df41efc4f4840945c831edf69794eddc5d5264a))</sub> | <sub>[70f8138a](https://gitlab.com/snowgem/bitfrost/-/commit/70f8138aac203c84f786bbf0219d1f30486fee61): show only available wallet in purchase - Snowgem<br>[71315eed](https://gitlab.com/snowgem/bitfrost/-/commit/71315eed9af6d51088e9b9ff66f850494937edc2): show current balance in purchase selection - Snowgem<br>[2df41efc](https://gitlab.com/snowgem/bitfrost/-/commit/2df41efc4f4840945c831edf69794eddc5d5264a): Merge branch 'v0.1.9' into 'hotfix' - Txid</sub> |
+| <sub>2021-07-01 03:56:03</sub> | <sub>Txid (txid) merged merge request [\!332 \*V0\.1\.9\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/332) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-07-01 03:51:44</sub> | <sub>Txid (txid) opened merge request [\!332 \*V0\.1\.9\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/332) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-07-01 03:51:06</sub> | <sub>Txid pushed to branch [v0\.1\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/1e74f2c429f4da4f0ecd00bb777820760a11e1f2...71315eed9af6d51088e9b9ff66f850494937edc2))</sub> | <sub>[70f8138a](https://gitlab.com/snowgem/bitfrost/-/commit/70f8138aac203c84f786bbf0219d1f30486fee61): show only available wallet in purchase - Snowgem<br>[71315eed](https://gitlab.com/snowgem/bitfrost/-/commit/71315eed9af6d51088e9b9ff66f850494937edc2): show current balance in purchase selection - Snowgem</sub> |
 | <sub>2021-06-30 07:47:44</sub> | <sub>Txid (txid) merged merge request [\!331 \*V0\.1\.9\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/331) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
@@ -16,7 +18,5 @@ There is a total of 5219 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-06-30 07:43:36</sub> | <sub>Txid (txid) closed merge request [\!330 \*Add note to iframe page\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/330) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-06-30 07:43:31</sub> | <sub>Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/956a776a0a4c7b1d2b17b1dd115d40252043f5d9...793db301ef521c5505aaa662103d7d33a87e2697))</sub> | <sub>[793db301](https://gitlab.com/snowgem/bitfrost/-/commit/793db301ef521c5505aaa662103d7d33a87e2697): add hotfix to build with prod - Snowgem</sub> |
 | <sub>2021-06-30 07:42:10</sub> | <sub>Txid pushed new branch [hotfix2](https://gitlab.com/snowgem/bitfrost/commits/hotfix2) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-06-30 07:41:06</sub> | <sub>Txid pushed new branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-06-30 07:39:58</sub> | <sub>Txid removed branch hotfix from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
