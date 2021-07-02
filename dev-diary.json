@@ -50411,5 +50411,15 @@
       "description": "[8ef5f079](https://gitlab.com/snowgem/bitfrost/-/commit/8ef5f0791ae63f205440aa59ecc4546e3520f21f): change TENT to Tentcoin - Snowgem\n\n[be617807](https://gitlab.com/snowgem/bitfrost/-/commit/be6178072e477eb87790579d288f2abbb96de734): Merge branch 'v0.1.9' into 'hotfix' - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/be6178072e477eb87790579d288f2abbb96de734...1ea8ca8f72c1f1fd5024a7e2128a0e4921b9c13d))",
+    "created_at": "2021-07-02 09:59:15.822000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[2898b816](https://gitlab.com/snowgem/bitfrost/-/commit/2898b816d574f2022d90e401fa109094e77f09e7): update capacitor config - Snowgem\n\n[1ea8ca8f](https://gitlab.com/snowgem/bitfrost/-/commit/1ea8ca8f72c1f1fd5024a7e2128a0e4921b9c13d): Merge branch 'hotfix' of https://gitlab.com/snowgem/bitfrost into hotfix - Snowgem",
+      "type": "rich"
+    }
   }
 ]
