@@ -50481,5 +50481,15 @@
       "description": "[4a829fec](https://gitlab.com/snowgem/bitfrost/-/commit/4a829fec3bac4a05ba12a8538b5a4a068329f660): add google analytic info for ios - Snowgem\n\n[828ad1b6](https://gitlab.com/snowgem/bitfrost/-/commit/828ad1b6e41b81ab2531a7df6c6b5d975129c821): Merge branch 'v0.1.9' of https://gitlab.com/snowgem/bitfrost into v0.1.9 - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/f6ed97963c5d862d29c6ebce96cc0f7663a40cce...d9e9df4eb3c223511c54879798bce70cee944f1c))",
+    "created_at": "2021-07-05 07:19:46.656000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d9af8b00](https://gitlab.com/snowgem/bitfrost/-/commit/d9af8b00a04573ca18010e87f04c4810c633b964): update capacitor config - Snowgem\n\n[33d9fc40](https://gitlab.com/snowgem/bitfrost/-/commit/33d9fc4091d0316a6062693ca9db0c277a742bed): Merge branch 'v0.2.0' of https://gitlab.com/snowgem/bitfrost into v0.2.0 - Snowgem\n\n[d9e9df4e](https://gitlab.com/snowgem/bitfrost/-/commit/d9e9df4eb3c223511c54879798bce70cee944f1c): update android build - Snowgem",
+      "type": "rich"
+    }
   }
 ]
