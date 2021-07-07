@@ -50491,5 +50491,15 @@
       "description": "[d9af8b00](https://gitlab.com/snowgem/bitfrost/-/commit/d9af8b00a04573ca18010e87f04c4810c633b964): update capacitor config - Snowgem\n\n[33d9fc40](https://gitlab.com/snowgem/bitfrost/-/commit/33d9fc4091d0316a6062693ca9db0c277a742bed): Merge branch 'v0.2.0' of https://gitlab.com/snowgem/bitfrost into v0.2.0 - Snowgem\n\n[d9e9df4e](https://gitlab.com/snowgem/bitfrost/-/commit/d9e9df4eb3c223511c54879798bce70cee944f1c): update android build - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed new branch [google\\_analytics](https://gitlab.com/snowgem/bitfrost/commits/google_analytics) to [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-07-07 06:18:47.335000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!335 \\*WIP: Implement google analytics\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/335) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-07-07 06:19:23.877000"
   }
 ]
