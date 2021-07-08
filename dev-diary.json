@@ -50501,5 +50501,15 @@
     "author": "GitLab",
     "content": "Jan Vra\u0161til (jan.vrastil) opened merge request [\\!335 \\*WIP: Implement google analytics\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/335) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-07-07 06:19:23.877000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/828ad1b6e41b81ab2531a7df6c6b5d975129c821...61d3b4249a27862466b0ba5e60f5344146bf52c0))",
+    "created_at": "2021-07-08 00:58:42.701000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[61d3b424](https://gitlab.com/snowgem/bitfrost/-/commit/61d3b4249a27862466b0ba5e60f5344146bf52c0): decrease sdk version - Snowgem",
+      "type": "rich"
+    }
   }
 ]
