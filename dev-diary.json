@@ -50531,5 +50531,25 @@
       "description": "[5d3e1d8a](https://gitlab.com/snowgem/bitfrost/-/commit/5d3e1d8aec187d69240baeeab35f4e6cab407a84): update build tool - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) opened merge request [\\!336 \\*V0\\.1\\.9\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/336) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-07-08 02:05:52.852000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/ad890eab75d4a65d08e7351ee719ff931b39c79f...a4aac6dfbc3b64be8757a449003a1738bc55d8f2))",
+    "created_at": "2021-07-08 02:08:26.527000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4a829fec](https://gitlab.com/snowgem/bitfrost/-/commit/4a829fec3bac4a05ba12a8538b5a4a068329f660): add google analytic info for ios - Snowgem\n\n[828ad1b6](https://gitlab.com/snowgem/bitfrost/-/commit/828ad1b6e41b81ab2531a7df6c6b5d975129c821): Merge branch 'v0.1.9' of https://gitlab.com/snowgem/bitfrost into v0.1.9 - Snowgem\n\n[61d3b424](https://gitlab.com/snowgem/bitfrost/-/commit/61d3b4249a27862466b0ba5e60f5344146bf52c0): decrease sdk version - Snowgem\n\n[83bd6e6f](https://gitlab.com/snowgem/bitfrost/-/commit/83bd6e6f6e47be9991591d33cc6e48547554b13c): update build.gradle - Snowgem\n\n[5d3e1d8a](https://gitlab.com/snowgem/bitfrost/-/commit/5d3e1d8aec187d69240baeeab35f4e6cab407a84): update build tool - Snowgem\n\n[a4aac6df](https://gitlab.com/snowgem/bitfrost/-/commit/a4aac6dfbc3b64be8757a449003a1738bc55d8f2): Merge branch 'v0.1.9' into 'hotfix' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!336 \\*V0\\.1\\.9\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/336) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-07-08 02:08:27.187000"
   }
 ]
