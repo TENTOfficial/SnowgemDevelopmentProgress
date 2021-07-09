@@ -50571,5 +50571,15 @@
       "description": "[3cbaf965](https://gitlab.com/snowgem/bitfrost/-/commit/3cbaf9659f467678af5c1ccea708216b5091d471): build fix - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards\\_020](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_020) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3cbaf9659f467678af5c1ccea708216b5091d471...a798adc00c02d9919f069eb15c9af5fe341e57c4))",
+    "created_at": "2021-07-09 14:23:01.613000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[a798adc0](https://gitlab.com/snowgem/bitfrost/-/commit/a798adc00c02d9919f069eb15c9af5fe341e57c4): cards UI improvements - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
