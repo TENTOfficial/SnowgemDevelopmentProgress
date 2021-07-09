@@ -50591,5 +50591,15 @@
       "description": "[54abd1af](https://gitlab.com/snowgem/bitfrost/-/commit/54abd1afc0a874cfecd7e82c06588c97b007b35e): bug/285 - Finish Debit cards - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards\\_020](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_020) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/54abd1afc0a874cfecd7e82c06588c97b007b35e...ba55529bab0266208a0cd2493147f91bac951c38))",
+    "created_at": "2021-07-09 15:12:00.540000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[ba55529b](https://gitlab.com/snowgem/bitfrost/-/commit/ba55529bab0266208a0cd2493147f91bac951c38): Add Google analytics - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
