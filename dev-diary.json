@@ -50621,5 +50621,15 @@
       "description": "[64dfa5b1](https://gitlab.com/snowgem/bitfrost/-/commit/64dfa5b15257f3802d8bb0d248d8508a416462b0): Add Google analytics - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [bug/285\\-debit\\_cards\\_020](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_020) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/64dfa5b15257f3802d8bb0d248d8508a416462b0...9669513604b20e0fa83142fa2ef172079232d3de))",
+    "created_at": "2021-07-12 10:16:05.117000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[96695136](https://gitlab.com/snowgem/bitfrost/-/commit/9669513604b20e0fa83142fa2ef172079232d3de): fix before merge - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
