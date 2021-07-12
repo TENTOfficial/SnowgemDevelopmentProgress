@@ -50716,5 +50716,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!339 \\*fix server for prod\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/339) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-07-12 13:52:37.859000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/843d25a85f9b3ed020e6185abf2269d498a69ca0...32cb33d04e0624c2e9b5cb36571358bd307abc42))",
+    "created_at": "2021-07-12 13:57:23.975000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[4dd1d72e](https://gitlab.com/snowgem/bitfrost/-/commit/4dd1d72ecad1f79821d53515bc964630bfe72b9c): fix server for prod - Snowgem\n\n[32cb33d0](https://gitlab.com/snowgem/bitfrost/-/commit/32cb33d04e0624c2e9b5cb36571358bd307abc42): Merge branch 'v0.2.0' into 'testing' - Txid",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!339 \\*fix server for prod\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/339) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-07-12 13:57:24.253000"
   }
 ]
