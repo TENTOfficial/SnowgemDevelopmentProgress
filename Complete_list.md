@@ -5,6 +5,7 @@ Here is the complete list of all the commits to the projects we are currently wo
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-07-12 10:34:32</sub> | <sub>Txid (txid) opened merge request [\!337 \*V0\.2\.0\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/337) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-07-12 10:21:15</sub> | <sub>Jan Vraštil removed branch bug/285-debit_cards_020 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-07-12 10:21:15</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!315 \*Bug/285 debit cards\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/315) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-07-12 10:21:14</sub> | <sub>Jan Vraštil pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d9e9df4eb3c223511c54879798bce70cee944f1c...3c1daec5e5032a16d93009a7b027c3c07ed09256))</sub> | <sub>[483f5e05](https://gitlab.com/snowgem/bitfrost/-/commit/483f5e0585a938169203e9c2534dd304940eb10b): Implement debit card section - Jan Vraštil<br>[3c1daec5](https://gitlab.com/snowgem/bitfrost/-/commit/3c1daec5e5032a16d93009a7b027c3c07ed09256): Merge branch 'bug/285-debit_cards_020' into 'v0.2.0' - Jan Vraštil</sub> |

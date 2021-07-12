@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5255 commits since 20/01/2020. You can see the complete history in
+There is a total of 5256 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-07-12 10:34:32</sub> | <sub>Txid (txid) opened merge request [\!337 \*V0\.2\.0\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/337) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-07-12 10:21:15</sub> | <sub>Jan Vraštil removed branch bug/285-debit_cards_020 from [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-07-12 10:21:15</sub> | <sub>Jan Vraštil (jan.vrastil) merged merge request [\!315 \*Bug/285 debit cards\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/315) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-07-12 10:21:14</sub> | <sub>Jan Vraštil pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d9e9df4eb3c223511c54879798bce70cee944f1c...3c1daec5e5032a16d93009a7b027c3c07ed09256))</sub> | <sub>[483f5e05](https://gitlab.com/snowgem/bitfrost/-/commit/483f5e0585a938169203e9c2534dd304940eb10b): Implement debit card section - Jan Vraštil<br>[3c1daec5](https://gitlab.com/snowgem/bitfrost/-/commit/3c1daec5e5032a16d93009a7b027c3c07ed09256): Merge branch 'bug/285-debit_cards_020' into 'v0.2.0' - Jan Vraštil</sub> |
@@ -17,6 +18,5 @@ There is a total of 5255 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-07-09 15:12:00</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards\_020](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_020) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/54abd1afc0a874cfecd7e82c06588c97b007b35e...ba55529bab0266208a0cd2493147f91bac951c38))</sub> | <sub>[ba55529b](https://gitlab.com/snowgem/bitfrost/-/commit/ba55529bab0266208a0cd2493147f91bac951c38): Add Google analytics - jan.vrastil</sub> |
 | <sub>2021-07-09 15:03:44</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards\_020](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_020) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/a798adc00c02d9919f069eb15c9af5fe341e57c4...54abd1afc0a874cfecd7e82c06588c97b007b35e))</sub> | <sub>[54abd1af](https://gitlab.com/snowgem/bitfrost/-/commit/54abd1afc0a874cfecd7e82c06588c97b007b35e): bug/285 - Finish Debit cards - jan.vrastil</sub> |
 | <sub>2021-07-09 14:23:01</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards\_020](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_020) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/3cbaf9659f467678af5c1ccea708216b5091d471...a798adc00c02d9919f069eb15c9af5fe341e57c4))</sub> | <sub>[a798adc0](https://gitlab.com/snowgem/bitfrost/-/commit/a798adc00c02d9919f069eb15c9af5fe341e57c4): cards UI improvements - jan.vrastil</sub> |
-| <sub>2021-07-09 12:24:48</sub> | <sub>Jan Vraštil pushed to branch [bug/285\-debit\_cards\_020](https://gitlab.com/snowgem/bitfrost/commits/bug/285-debit_cards_020) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/2f9dd7e707b61862c5c29046959b863442831cca...3cbaf9659f467678af5c1ccea708216b5091d471))</sub> | <sub>[3cbaf965](https://gitlab.com/snowgem/bitfrost/-/commit/3cbaf9659f467678af5c1ccea708216b5091d471): build fix - jan.vrastil</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
