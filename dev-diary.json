@@ -50656,5 +50656,20 @@
     "author": "GitLab",
     "content": "Txid (txid) opened merge request [\\!337 \\*V0\\.2\\.0\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/337) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
     "created_at": "2021-07-12 10:34:32.032000"
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/689894b66ff90fc74cbf54ff6212cdab001d6ed5...074b898e45793ce5f2fc22e90d29db74f7ae43ba))",
+    "created_at": "2021-07-12 10:38:39.148000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[63f63a48](https://gitlab.com/snowgem/bitfrost/-/commit/63f63a48a274ff6b1bb58169133ef6ad899b112c): fix build - Snowgem\n\n[2aebfdba](https://gitlab.com/snowgem/bitfrost/-/commit/2aebfdba99ef6e1289d5b2200462c2714025f828): add google analytic for android - Snowgem\n\n[c573d09e](https://gitlab.com/snowgem/bitfrost/-/commit/c573d09ec520e40dc32e762f489fbcc63ab77776): update build process - Snowgem\n\n[094b855c](https://gitlab.com/snowgem/bitfrost/-/commit/094b855c5f00002fe4e9a8a6b6c530d7c0344da8): Merge branch 'v0.2.0' of https://gitlab.com/snowgem/bitfrost into v0.2.0 - Snowgem\n\n[faadb541](https://gitlab.com/snowgem/bitfrost/-/commit/faadb541dd7f96ecb63a9c54a7b33563fe81b092): increase max old space size - Snowgem\n\n[21c50a2e](https://gitlab.com/snowgem/bitfrost/-/commit/21c50a2e121a36d01b36a546e7e81d38283cd211): disable source map - Snowgem\n\n[26a7314e](https://gitlab.com/snowgem/bitfrost/-/commit/26a7314e8330905546627849d15ba8491c146d28): add browserslist - Snowgem\n\n[6417d187](https://gitlab.com/snowgem/bitfrost/-/commit/6417d1872f5915014f609f6032cc2e3dbf520c85): update build process - Snowgem\n\n[f6ed9796](https://gitlab.com/snowgem/bitfrost/-/commit/f6ed97963c5d862d29c6ebce96cc0f7663a40cce): update build process #2 - Snowgem\n\n[d9af8b00](https://gitlab.com/snowgem/bitfrost/-/commit/d9af8b00a04573ca18010e87f04c4810c633b964): update capacitor config - Snowgem\n\n[33d9fc40](https://gitlab.com/snowgem/bitfrost/-/commit/33d9fc4091d0316a6062693ca9db0c277a742bed): Merge branch 'v0.2.0' of https://gitlab.com/snowgem/bitfrost into v0.2.0 - Snowgem\n\n[d9e9df4e](https://gitlab.com/snowgem/bitfrost/-/commit/d9e9df4eb3c223511c54879798bce70cee944f1c): update android build - Snowgem\n\n[483f5e05](https://gitlab.com/snowgem/bitfrost/-/commit/483f5e0585a938169203e9c2534dd304940eb10b): Implement debit card section - Jan Vra\u0161til\n\n[3c1daec5](https://gitlab.com/snowgem/bitfrost/-/commit/3c1daec5e5032a16d93009a7b027c3c07ed09256): Merge branch 'bug/285-debit_cards_020' into 'v0.2.0' - Jan Vra\u0161til\n\n[074b898e](https://gitlab.com/snowgem/bitfrost/-/commit/074b898e45793ce5f2fc22e90d29db74f7ae43ba): Merge branch 'v0.2.0' into testing - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid (txid) merged merge request [\\!337 \\*V0\\.2\\.0\\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/337) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)",
+    "created_at": "2021-07-12 10:38:39.661000"
   }
 ]
