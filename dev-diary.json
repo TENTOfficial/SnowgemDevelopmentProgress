@@ -50741,5 +50741,15 @@
       "description": "[84828b3a](https://gitlab.com/snowgem/bitfrost/-/commit/84828b3a031d8ca843e147f42112f51491c0bb7e): back to target v29 - Snowgem\n\n[b34968a0](https://gitlab.com/snowgem/bitfrost/-/commit/b34968a0a5ff6beaae1beb56bb4ae35e614a5afe): merge with hotfix - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5d3e1d8aec187d69240baeeab35f4e6cab407a84...260669374e541056b6c302b97d7393cafabd4e12))",
+    "created_at": "2021-07-13 01:27:57.820000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[26066937](https://gitlab.com/snowgem/bitfrost/-/commit/260669374e541056b6c302b97d7393cafabd4e12): update version name - Snowgem",
+      "type": "rich"
+    }
   }
 ]
