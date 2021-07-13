@@ -50891,5 +50891,15 @@
       "description": "[1a822d28](https://gitlab.com/snowgem/bitfrost/-/commit/1a822d2830ffe6f66d95cf2415d6fd7afcf21889): increase version - jan.vrastil\n\n[5ef993a8](https://gitlab.com/snowgem/bitfrost/-/commit/5ef993a822f6c9115983607ddd003cb3bcbc14ac): Use test env in build - jan.vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Jan Vra\u0161til pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/5ef993a822f6c9115983607ddd003cb3bcbc14ac...883642ac07ab6a34688653790b7f8dce6efcde9a))",
+    "created_at": "2021-07-13 18:38:58.496000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[883642ac](https://gitlab.com/snowgem/bitfrost/-/commit/883642ac07ab6a34688653790b7f8dce6efcde9a): Revert \"Use test env in build\" - jan.vrastil",
+      "type": "rich"
+    }
   }
 ]
