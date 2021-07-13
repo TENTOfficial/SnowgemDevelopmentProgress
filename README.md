@@ -3,11 +3,12 @@
 
 Here are the last 10 pushes to the projects we are currently working.
 
-There is a total of 5272 commits since 20/01/2020. You can see the complete history in
+There is a total of 5273 commits since 20/01/2020. You can see the complete history in
  [Complete_list.md](Complete_list.md) file.
 
 | Push Time | Description | Commits |
 | --- | --- | --- |
+| <sub>2021-07-13 07:49:04</sub> | <sub>Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c467f8cb7a9efc126d3fa7060f2cda0414357ba7...37b69f0a527ff437c438ab4775d5efd92d56ccaa))</sub> | <sub>[37b69f0a](https://gitlab.com/snowgem/bitfrost/-/commit/37b69f0a527ff437c438ab4775d5efd92d56ccaa): update build.gradle patch for capacitor - Snowgem</sub> |
 | <sub>2021-07-13 07:17:01</sub> | <sub>Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0e53597b4cc281dc79fe5aa649178619ce09cdc4...c467f8cb7a9efc126d3fa7060f2cda0414357ba7))</sub> | <sub>[c467f8cb](https://gitlab.com/snowgem/bitfrost/-/commit/c467f8cb7a9efc126d3fa7060f2cda0414357ba7): update build android - Snowgem</sub> |
 | <sub>2021-07-13 02:56:33</sub> | <sub>Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/d2e3b620e901d93065c306023f2458ab73ab9925...0e53597b4cc281dc79fe5aa649178619ce09cdc4))</sub> | <sub>[0e53597b](https://gitlab.com/snowgem/bitfrost/-/commit/0e53597b4cc281dc79fe5aa649178619ce09cdc4): increase capacitor android version - Snowgem</sub> |
 | <sub>2021-07-13 02:22:08</sub> | <sub>Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b34968a0a5ff6beaae1beb56bb4ae35e614a5afe...d2e3b620e901d93065c306023f2458ab73ab9925))</sub> | <sub>[d2e3b620](https://gitlab.com/snowgem/bitfrost/-/commit/d2e3b620e901d93065c306023f2458ab73ab9925): add multidex - Snowgem</sub> |
@@ -17,6 +18,5 @@ There is a total of 5272 commits since 20/01/2020. You can see the complete hist
 | <sub>2021-07-12 13:57:24</sub> | <sub>Txid (txid) merged merge request [\!339 \*fix server for prod\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/339) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
 | <sub>2021-07-12 13:57:23</sub> | <sub>Txid pushed to branch [testing](https://gitlab.com/snowgem/bitfrost/commits/testing) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/843d25a85f9b3ed020e6185abf2269d498a69ca0...32cb33d04e0624c2e9b5cb36571358bd307abc42))</sub> | <sub>[4dd1d72e](https://gitlab.com/snowgem/bitfrost/-/commit/4dd1d72ecad1f79821d53515bc964630bfe72b9c): fix server for prod - Snowgem<br>[32cb33d0](https://gitlab.com/snowgem/bitfrost/-/commit/32cb33d04e0624c2e9b5cb36571358bd307abc42): Merge branch 'v0.2.0' into 'testing' - Txid</sub> |
 | <sub>2021-07-12 13:52:37</sub> | <sub>Txid (txid) opened merge request [\!339 \*fix server for prod\*](https://gitlab.com/snowgem/bitfrost/-/merge_requests/339) in [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost)</sub> | <sub>_No Commits_</sub> |
-| <sub>2021-07-12 13:52:10</sub> | <sub>Txid pushed to branch [v0\.2\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/0851d8dfce45d91126bf80cf0295b4524cfe22a5...4dd1d72ecad1f79821d53515bc964630bfe72b9c))</sub> | <sub>[4dd1d72e](https://gitlab.com/snowgem/bitfrost/-/commit/4dd1d72ecad1f79821d53515bc964630bfe72b9c): fix server for prod - Snowgem</sub> |
 
 _You can see more details and commits in our [Discord](https://discord.gg/zumGnbg) in **#dev-diary** channel._
