@@ -50751,5 +50751,25 @@
       "description": "[26066937](https://gitlab.com/snowgem/bitfrost/-/commit/260669374e541056b6c302b97d7393cafabd4e12): update version name - Snowgem",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.1\\.9](https://gitlab.com/snowgem/bitfrost/commits/v0.1.9) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/260669374e541056b6c302b97d7393cafabd4e12...50c1e7473d6a6670ff16e6f5bb46a09aca551ef9))",
+    "created_at": "2021-07-13 02:21:27.393000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[50c1e747](https://gitlab.com/snowgem/bitfrost/-/commit/50c1e7473d6a6670ff16e6f5bb46a09aca551ef9): add multidex - Snowgem",
+      "type": "rich"
+    }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/b34968a0a5ff6beaae1beb56bb4ae35e614a5afe...d2e3b620e901d93065c306023f2458ab73ab9925))",
+    "created_at": "2021-07-13 02:22:08.812000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[d2e3b620](https://gitlab.com/snowgem/bitfrost/-/commit/d2e3b620e901d93065c306023f2458ab73ab9925): add multidex - Snowgem",
+      "type": "rich"
+    }
   }
 ]
