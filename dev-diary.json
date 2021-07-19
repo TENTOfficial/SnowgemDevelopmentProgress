@@ -50911,5 +50911,15 @@
       "description": "[515fdbde](https://gitlab.com/snowgem/activation-tent-microsite/-/commit/515fdbde5bf1b62d961f4e0e7e1b91e6b2034393): Use correct api URLs - Jan Vrastil",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/883642ac07ab6a34688653790b7f8dce6efcde9a...92977f56fa3df67420736021812d7d5b648682ca))",
+    "created_at": "2021-07-19 11:01:27.382000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[969450cd](https://gitlab.com/snowgem/bitfrost/-/commit/969450cd57b6b91dadbe002e94b236deb2cbfe17): update coins - Txid\n\n[3bba5ff0](https://gitlab.com/snowgem/bitfrost/-/commit/3bba5ff018e2179bd3f06a5d7a567cb4ca71c349): remove sum - Txid\n\n[92977f56](https://gitlab.com/snowgem/bitfrost/-/commit/92977f56fa3df67420736021812d7d5b648682ca): Merge branch 'v0.2.0' of https://gitlab.com/snowgem/bitfrost into v0.2.0 - Txid",
+      "type": "rich"
+    }
   }
 ]
