@@ -50949,5 +50949,15 @@
       "description": "[66d3c18f](https://gitlab.com/snowgem/bitfrost/-/commit/66d3c18f83aa9915b9c553e233fa4f50711dcdcf): update broadcast transactions - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [v0\\.2\\.0](https://gitlab.com/snowgem/bitfrost/commits/v0.2.0) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/66d3c18f83aa9915b9c553e233fa4f50711dcdcf...045c27bf6d43f3f40a51a92176a6185f2284ae43))",
+    "created_at": "2021-07-20 07:55:12.437000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[56b064c3](https://gitlab.com/snowgem/bitfrost/-/commit/56b064c367842e37c1b95b010a8e3fb00e701871): remove unnecessary files - Txid\n\n[045c27bf](https://gitlab.com/snowgem/bitfrost/-/commit/045c27bf6d43f3f40a51a92176a6185f2284ae43): fix #542, Swap the FIAT and real coin value in the wallet listing - Txid",
+      "type": "rich"
+    }
   }
 ]
