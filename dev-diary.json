@@ -50959,5 +50959,41 @@
       "description": "[56b064c3](https://gitlab.com/snowgem/bitfrost/-/commit/56b064c367842e37c1b95b010a8e3fb00e701871): remove unnecessary files - Txid\n\n[045c27bf](https://gitlab.com/snowgem/bitfrost/-/commit/045c27bf6d43f3f40a51a92176a6185f2284ae43): fix #542, Swap the FIAT and real coin value in the wallet listing - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-07-20 08:23:23.819000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`daa2683`](https://github.com/TENTOfficial/TENT/commit/daa268369eabdde1c3b7e3fa4083d9bf24383ba5) make-release.py: Versioning changes for 3.1.4. - ciripel\n[`86564f9`](https://github.com/TENTOfficial/TENT/commit/86564f9148d7d2fa0ffecd5d48892f40c7b07f7f) make-release.py: Updated manpages for 3.1.4. - ciripel\n[`44668eb`](https://github.com/TENTOfficial/TENT/commit/44668eb578e325ab6e5a1e651dbe43433380c5e4) make-release.py: Updated release notes and chan... - ciripel",
+      "title": "[TENT:release\\-v3\\.1\\.4] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/compare/daa268369eab^...44668eb578e3"
+    }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-07-20 08:23:53.636000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/37701673?v=4",
+        "name": "ciripel",
+        "proxy_icon_url": "https://images-ext-1.discordapp.net/external/3iXTu-_PMJameWi6Y8vNnJOC-6Gt3f2AQ2NJ88r1XWw/%3Fv%3D4/https/avatars.githubusercontent.com/u/37701673",
+        "url": "https://github.com/ciripel"
+      },
+      "color": 7506394,
+      "description": "[`daa2683`](https://github.com/TENTOfficial/TENT/commit/daa268369eabdde1c3b7e3fa4083d9bf24383ba5) make-release.py: Versioning changes for 3.1.4. - ciripel\n[`86564f9`](https://github.com/TENTOfficial/TENT/commit/86564f9148d7d2fa0ffecd5d48892f40c7b07f7f) make-release.py: Updated manpages for 3.1.4. - ciripel\n[`44668eb`](https://github.com/TENTOfficial/TENT/commit/44668eb578e325ab6e5a1e651dbe43433380c5e4) make-release.py: Updated release notes and chan... - ciripel\n[`9219afd`](https://github.com/TENTOfficial/TENT/commit/9219afdb84ba928073f8fd75fa717043ce4aa632) Merge pull request #43 from TENTOfficial/releas... - ciripel",
+      "title": "[TENT:master] 4 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/compare/00c34dc8515c...9219afdb84ba"
+    }
   }
 ]
