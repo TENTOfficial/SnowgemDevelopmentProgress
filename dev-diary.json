@@ -51013,5 +51013,23 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/3dd1cc29b90badcbdcb51e7e6bcff0dc9c7bf42d"
     }
+  },
+  {
+    "author": "GitHub",
+    "content": "",
+    "created_at": "2021-07-21 00:51:03.296000",
+    "embed_0": {
+      "author": {
+        "icon_url": "https://avatars.githubusercontent.com/u/34765060?v=4",
+        "name": "TENTOfficial",
+        "proxy_icon_url": "https://images-ext-2.discordapp.net/external/ApzaKr88L1T1PmMyUf2zJ9JJqPaXpjiGP4ZcluIQfEo/%3Fv%3D4/https/avatars.githubusercontent.com/u/34765060",
+        "url": "https://github.com/TENTOfficial"
+      },
+      "color": 7506394,
+      "description": "[`e6050b4`](https://github.com/TENTOfficial/TENT/commit/e6050b41eac962061ef2b993b0bb522af1abbcc5) increase version - PitTxid\n[`d655dc7`](https://github.com/TENTOfficial/TENT/commit/d655dc7c4652c99414af6cb5ab16b899fc821200) Merge branch 'master' of https://github.com/Sno... - PitTxid\n[`6f64bb7`](https://github.com/TENTOfficial/TENT/commit/6f64bb7dbea5fdc1982d4d8ea47b674cf15bc512) remove reorg code in ActivateBestChainStep - PitTxid",
+      "title": "[TENT:master] 3 new commits",
+      "type": "rich",
+      "url": "https://github.com/TENTOfficial/TENT/compare/9219afdb84ba...6f64bb7dbea5"
+    }
   }
 ]
