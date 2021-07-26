@@ -51049,5 +51049,15 @@
       "type": "rich",
       "url": "https://github.com/TENTOfficial/ServerConfig/commit/13d48d4b6c9804c5373a1dbd50bc884e59cb47e8"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/c53e1dc447041cf646de88c7c65795a8db3dab81...9fef13032fc028e80680527909ff99bdbdcb6b93))",
+    "created_at": "2021-07-26 14:08:53.992000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[8cc97c41](https://gitlab.com/snowgem/bitfrost/-/commit/8cc97c413e08c43d4cdd79dbb40269a527d8069a): fix android 11 white screen issue - Txid\n\n[9fef1303](https://gitlab.com/snowgem/bitfrost/-/commit/9fef13032fc028e80680527909ff99bdbdcb6b93): increase android version - Txid",
+      "type": "rich"
+    }
   }
 ]
