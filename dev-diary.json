@@ -51069,5 +51069,15 @@
       "description": "[283192e0](https://gitlab.com/snowgem/bitfrost/-/commit/283192e0feb5fcc2bcde2ca264256e41324dbf95): update version for hotfix - Txid",
       "type": "rich"
     }
+  },
+  {
+    "author": "GitLab",
+    "content": "Txid pushed to branch [hotfix](https://gitlab.com/snowgem/bitfrost/commits/hotfix) of [snowgem / bitfrost](https://gitlab.com/snowgem/bitfrost) ([Compare changes](https://gitlab.com/snowgem/bitfrost/compare/283192e0feb5fcc2bcde2ca264256e41324dbf95...9bf18a8e213322778f03cec65dfaac394a475949))",
+    "created_at": "2021-07-29 09:34:41.853000",
+    "embed_0": {
+      "color": 3359829,
+      "description": "[9bf18a8e](https://gitlab.com/snowgem/bitfrost/-/commit/9bf18a8e213322778f03cec65dfaac394a475949): increase android version - Txid",
+      "type": "rich"
+    }
   }
 ]
